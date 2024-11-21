@@ -541,8 +541,8 @@
         var r = e.src;
         e.width, e.quality;
         return r.replace(
-          'https://usprosperity.vercel.app/_s3/',
-          'https://usprosperity.vercel.app/_s3/'
+          '/_s3/',
+          '/_s3/'
         );
       }
       r.Z = function (e) {
