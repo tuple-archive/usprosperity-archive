@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Murder": 793731,
+        "Rape": 0,
+        "Aggravated assaults": 53778,
+        "Robbery": 245007
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Murder": 929802,
+        "Rape": 673015,
+        "Aggravated assaults": 279209,
+        "Robbery": 292306
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Murder": 881482,
+        "Rape": 350190,
+        "Aggravated assaults": 198836,
+        "Robbery": 352989
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Murder": 1126152,
+        "Rape": 587567,
+        "Aggravated assaults": 386696,
+        "Robbery": 281920
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Murder": 1191591,
+        "Rape": 732049,
+        "Aggravated assaults": 452481,
+        "Robbery": 222676
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Murder": 1254546,
+        "Rape": 426825,
+        "Aggravated assaults": 498873,
+        "Robbery": 325000
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Murder": 1366955,
+        "Rape": 1021039,
+        "Aggravated assaults": 917334,
+        "Robbery": 345621
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Murder": 298840,
+        "Rape": 597857,
+        "Aggravated assaults": 62260,
+        "Robbery": 77169
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Murder": 1131527,
+        "Rape": 826846,
+        "Aggravated assaults": 395339,
+        "Robbery": 292341
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Murder": 1102443,
+        "Rape": 713816,
+        "Aggravated assaults": 476916,
+        "Robbery": 301986
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Murder": 1018945,
+        "Rape": 900947,
+        "Aggravated assaults": 528791,
+        "Robbery": 302512
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Murder": 1298311,
+        "Rape": 535841,
+        "Aggravated assaults": 744312,
+        "Robbery": 291781
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Murder": 1544802,
+        "Rape": 743396,
+        "Aggravated assaults": 598671,
+        "Robbery": 438592
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Murder": 1540931,
+        "Rape": 645153,
+        "Aggravated assaults": 696221,
+        "Robbery": 590328
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Murder": 978852,
+        "Rape": 599109,
+        "Aggravated assaults": 476035,
+        "Robbery": 263144
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Murder": 1063945,
+        "Rape": 745618,
+        "Aggravated assaults": 490361,
+        "Robbery": 294302
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Murder": 1273344,
+        "Rape": 595698,
+        "Aggravated assaults": 373460,
+        "Robbery": 372922
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Murder": 1124386,
+        "Rape": 768156,
+        "Aggravated assaults": 818700,
+        "Robbery": 361494
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Murder": 678254,
+        "Rape": 592042,
+        "Aggravated assaults": 249975,
+        "Robbery": 281484
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Murder": 1485529,
+        "Rape": 817580,
+        "Aggravated assaults": 505666,
+        "Robbery": 350275
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Murder": 821729,
+        "Rape": 823917,
+        "Aggravated assaults": 466068,
+        "Robbery": 204133
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Murder": 1635472,
+        "Rape": 723292,
+        "Aggravated assaults": 1186185,
+        "Robbery": 527360
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Murder": 1064161,
+        "Rape": 381224,
+        "Aggravated assaults": 385803,
+        "Robbery": 347015
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Murder": 1511096,
+        "Rape": 657426,
+        "Aggravated assaults": 794935,
+        "Robbery": 342068
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Murder": 805276,
+        "Rape": 608754,
+        "Aggravated assaults": 310302,
+        "Robbery": 291389
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Murder": 702737,
+        "Rape": 942962,
+        "Aggravated assaults": 636723,
+        "Robbery": 338108
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Murder": 1434151,
+        "Rape": 503674,
+        "Aggravated assaults": 362243,
+        "Robbery": 486902
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Murder": 1030993,
+        "Rape": 840164,
+        "Aggravated assaults": 468556,
+        "Robbery": 307484
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Murder": 1336097,
+        "Rape": 509682,
+        "Aggravated assaults": 598873,
+        "Robbery": 459146
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Murder": 1464420,
+        "Rape": 443135,
+        "Aggravated assaults": 617199,
+        "Robbery": 384066
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Murder": 1448277,
+        "Rape": 658509,
+        "Aggravated assaults": 1032855,
+        "Robbery": 461909
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Murder": 1363107,
+        "Rape": 1139446,
+        "Aggravated assaults": 843198,
+        "Robbery": 321916
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Murder": 843132,
+        "Rape": 473076,
+        "Aggravated assaults": 12611,
+        "Robbery": 247255
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Murder": 1163086,
+        "Rape": 409515,
+        "Aggravated assaults": 385698,
+        "Robbery": 255461
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Murder": 1372674,
+        "Rape": 784455,
+        "Aggravated assaults": 527891,
+        "Robbery": 271118
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Murder": 1158434,
+        "Rape": 591168,
+        "Aggravated assaults": 697620,
+        "Robbery": 300102
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Murder": 973304,
+        "Rape": 510875,
+        "Aggravated assaults": 386502,
+        "Robbery": 332941
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Murder": 1395870,
+        "Rape": 674284,
+        "Aggravated assaults": 638509,
+        "Robbery": 347064
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Murder": 1095747,
+        "Rape": 784567,
+        "Aggravated assaults": 620255,
+        "Robbery": 299080
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Murder": 1456992,
+        "Rape": 619778,
+        "Aggravated assaults": 800366,
+        "Robbery": 388566
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Murder": 825146,
+        "Rape": 611848,
+        "Aggravated assaults": 271695,
+        "Robbery": 324879
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Murder": 1543246,
+        "Rape": 386250,
+        "Aggravated assaults": 396845,
+        "Robbery": 468241
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Murder": 932853,
+        "Rape": 688044,
+        "Aggravated assaults": 191133,
+        "Robbery": 277340
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Murder": 1138082,
+        "Rape": 575341,
+        "Aggravated assaults": 468294,
+        "Robbery": 263545
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Murder": 1483609,
+        "Rape": 519474,
+        "Aggravated assaults": 777350,
+        "Robbery": 406553
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Murder": 1122134,
+        "Rape": 804416,
+        "Aggravated assaults": 820496,
+        "Robbery": 383585
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Murder": 1572117,
+        "Rape": 641378,
+        "Aggravated assaults": 759215,
+        "Robbery": 553208
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Murder": 1421740,
+        "Rape": 656967,
+        "Aggravated assaults": 656112,
+        "Robbery": 316940
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Murder": 1355635,
+        "Rape": 715774,
+        "Aggravated assaults": 599299,
+        "Robbery": 353247
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Murder": 1183079,
+        "Rape": 670161,
+        "Aggravated assaults": 487046,
+        "Robbery": 472340
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Murder": 1480528,
+        "Rape": 523536,
+        "Aggravated assaults": 752568,
+        "Robbery": 551920
+      }
+    }
+  ],
+  "derivatives": {
+    "Violent Crime": [
+      "Murder",
+      "Rape",
+      "Aggravated assaults",
+      "Robbery"
+    ]
+  },
+  "weightingOptions": {
+    "Murder": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Rape": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Aggravated assaults": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Robbery": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Urban access to broadband": 279000,
+        "Rural access to broadband": 331999,
+        "Households with a smartphone": 600000
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Urban access to broadband": 284250,
+        "Rural access to broadband": 414666,
+        "Households with a smartphone": 439199
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Urban access to broadband": 258000,
+        "Rural access to broadband": 327333,
+        "Households with a smartphone": 429599
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Urban access to broadband": 259499,
+        "Rural access to broadband": 246000,
+        "Households with a smartphone": 564000
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Urban access to broadband": 294750,
+        "Rural access to broadband": 463333,
+        "Households with a smartphone": 600000
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Urban access to broadband": 288000,
+        "Rural access to broadband": 442000,
+        "Households with a smartphone": 600000
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Urban access to broadband": 293250,
+        "Rural access to broadband": 596666,
+        "Households with a smartphone": 492000
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Urban access to broadband": 285750,
+        "Rural access to broadband": 407333,
+        "Households with a smartphone": 592800
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Urban access to broadband": 286500,
+        "Rural access to broadband": 571333,
+        "Households with a smartphone": 547200
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Urban access to broadband": 287250,
+        "Rural access to broadband": 468666,
+        "Households with a smartphone": 559200
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Urban access to broadband": 284250,
+        "Rural access to broadband": 468666,
+        "Households with a smartphone": 537600
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Urban access to broadband": 289500,
+        "Rural access to broadband": 443999,
+        "Households with a smartphone": 537600
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Urban access to broadband": 287250,
+        "Rural access to broadband": 494666,
+        "Households with a smartphone": 439199
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Urban access to broadband": 278250,
+        "Rural access to broadband": 320666,
+        "Households with a smartphone": 547200
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Urban access to broadband": 291750,
+        "Rural access to broadband": 384000,
+        "Households with a smartphone": 511200
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Urban access to broadband": 295500,
+        "Rural access to broadband": 468666,
+        "Households with a smartphone": 463199
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Urban access to broadband": 283500,
+        "Rural access to broadband": 446666,
+        "Households with a smartphone": 494400
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Urban access to broadband": 294000,
+        "Rural access to broadband": 499333,
+        "Households with a smartphone": 429599
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Urban access to broadband": 270750,
+        "Rural access to broadband": 347333,
+        "Households with a smartphone": 465600
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Urban access to broadband": 288000,
+        "Rural access to broadband": 550000,
+        "Households with a smartphone": 506400
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Urban access to broadband": 285750,
+        "Rural access to broadband": 552666,
+        "Households with a smartphone": 552000
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Urban access to broadband": 296250,
+        "Rural access to broadband": 552000,
+        "Households with a smartphone": 376800
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Urban access to broadband": 292500,
+        "Rural access to broadband": 481333,
+        "Households with a smartphone": 472800
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Urban access to broadband": 293250,
+        "Rural access to broadband": 520666,
+        "Households with a smartphone": 516000
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Urban access to broadband": 292500,
+        "Rural access to broadband": 398666,
+        "Households with a smartphone": 477600
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Urban access to broadband": 277500,
+        "Rural access to broadband": 340666,
+        "Households with a smartphone": 422400
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Urban access to broadband": 285750,
+        "Rural access to broadband": 427333,
+        "Households with a smartphone": 436800
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Urban access to broadband": 298500,
+        "Rural access to broadband": 511999,
+        "Households with a smartphone": 494400
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Urban access to broadband": 282750,
+        "Rural access to broadband": 529999,
+        "Households with a smartphone": 489600
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Urban access to broadband": 288000,
+        "Rural access to broadband": 367999,
+        "Households with a smartphone": 492000
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Urban access to broadband": 289500,
+        "Rural access to broadband": 547333,
+        "Households with a smartphone": 475200
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Urban access to broadband": 294750,
+        "Rural access to broadband": 588000,
+        "Households with a smartphone": 537600
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Urban access to broadband": 269250,
+        "Rural access to broadband": 267333,
+        "Households with a smartphone": 424799
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Urban access to broadband": 280500,
+        "Rural access to broadband": 262666,
+        "Households with a smartphone": 549600
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Urban access to broadband": 300000,
+        "Rural access to broadband": 538000,
+        "Households with a smartphone": 475200
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Urban access to broadband": 295500,
+        "Rural access to broadband": 474666,
+        "Households with a smartphone": 456000
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Urban access to broadband": 268500,
+        "Rural access to broadband": 340000,
+        "Households with a smartphone": 523200
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Urban access to broadband": 290250,
+        "Rural access to broadband": 429333,
+        "Households with a smartphone": 554400
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Urban access to broadband": 286500,
+        "Rural access to broadband": 498666,
+        "Households with a smartphone": 417600
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Urban access to broadband": 289500,
+        "Rural access to broadband": 583999,
+        "Households with a smartphone": 443999
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Urban access to broadband": 279000,
+        "Rural access to broadband": 433333,
+        "Households with a smartphone": 506400
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Urban access to broadband": 294750,
+        "Rural access to broadband": 481999,
+        "Households with a smartphone": 443999
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Urban access to broadband": 289500,
+        "Rural access to broadband": 464666,
+        "Households with a smartphone": 463199
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Urban access to broadband": 284250,
+        "Rural access to broadband": 435333,
+        "Households with a smartphone": 588000
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Urban access to broadband": 290250,
+        "Rural access to broadband": 385999,
+        "Households with a smartphone": 600000
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Urban access to broadband": 284250,
+        "Rural access to broadband": 439333,
+        "Households with a smartphone": 528000
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Urban access to broadband": 290250,
+        "Rural access to broadband": 520666,
+        "Households with a smartphone": 345599
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Urban access to broadband": 291000,
+        "Rural access to broadband": 462000,
+        "Households with a smartphone": 588000
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Urban access to broadband": 297750,
+        "Rural access to broadband": 448666,
+        "Households with a smartphone": 439199
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Urban access to broadband": 263250,
+        "Rural access to broadband": 402000,
+        "Households with a smartphone": 290400
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Urban access to broadband": 296250,
+        "Rural access to broadband": 372666,
+        "Households with a smartphone": 544800
+      }
+    }
+  ],
+  "derivatives": {
+    "Connectedness": [
+      "Urban access to broadband",
+      "Rural access to broadband",
+      "Households with a smartphone"
+    ]
+  },
+  "weightingOptions": {
+    "Urban access to broadband": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Rural access to broadband": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Households with a smartphone": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

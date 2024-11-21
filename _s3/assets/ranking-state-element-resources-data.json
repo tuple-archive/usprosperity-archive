@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 192692,
+        "Water usage": 209193,
+        "Electricity outage duration": 316389,
+        "Electricity outage frequency": 378817
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 555555,
+        "Water usage": 338293,
+        "Electricity outage duration": 357694,
+        "Electricity outage frequency": 419664
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 451737,
+        "Water usage": 555555,
+        "Electricity outage duration": 133316,
+        "Electricity outage frequency": 206621
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Customers affected by electricity outages": 276508,
+        "Net electricity generation": 339223,
+        "Water usage": 162720,
+        "Electricity outage duration": 457465,
+        "Electricity outage frequency": 555555
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Customers affected by electricity outages": 277398,
+        "Net electricity generation": 115735,
+        "Water usage": 147481,
+        "Electricity outage duration": 359154,
+        "Electricity outage frequency": 484127
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 215005,
+        "Water usage": 359282,
+        "Electricity outage duration": 405659,
+        "Electricity outage frequency": 499368
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 250572,
+        "Water usage": 176569,
+        "Electricity outage duration": 102478,
+        "Electricity outage frequency": 433666
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 2961,
+        "Water usage": 14,
+        "Electricity outage duration": 453703,
+        "Electricity outage frequency": 555555
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 115839,
+        "Water usage": 159372,
+        "Electricity outage duration": 418064,
+        "Electricity outage frequency": 485412
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 250710,
+        "Water usage": 140960,
+        "Electricity outage duration": 418973,
+        "Electricity outage frequency": 470633
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 265097,
+        "Water usage": 62038,
+        "Electricity outage duration": 322505,
+        "Electricity outage frequency": 336974
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 155902,
+        "Water usage": 151661,
+        "Electricity outage duration": 345607,
+        "Electricity outage frequency": 345501
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 444421,
+        "Water usage": 170258,
+        "Electricity outage duration": 400489,
+        "Electricity outage frequency": 454504
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 199924,
+        "Water usage": 555555,
+        "Electricity outage duration": 310553,
+        "Electricity outage frequency": 365957
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 320387,
+        "Water usage": 167562,
+        "Electricity outage duration": 420530,
+        "Electricity outage frequency": 533470
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 338497,
+        "Water usage": 211612,
+        "Electricity outage duration": 283420,
+        "Electricity outage frequency": 358637
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 395626,
+        "Water usage": 278454,
+        "Electricity outage duration": 339558,
+        "Electricity outage frequency": 442039
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 353034,
+        "Water usage": 127288,
+        "Electricity outage duration": 279891,
+        "Electricity outage frequency": 260922
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Customers affected by electricity outages": 171499,
+        "Net electricity generation": 485219,
+        "Water usage": 380064,
+        "Electricity outage duration": 144206,
+        "Electricity outage frequency": 169949
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Customers affected by electricity outages": 252341,
+        "Net electricity generation": 71718,
+        "Water usage": 40363,
+        "Electricity outage duration": 432479,
+        "Electricity outage frequency": 531467
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 145583,
+        "Water usage": 214725,
+        "Electricity outage duration": 390724,
+        "Electricity outage frequency": 485284
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 166517,
+        "Water usage": 71663,
+        "Electricity outage duration": 159876,
+        "Electricity outage frequency": 137202
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Customers affected by electricity outages": 171098,
+        "Net electricity generation": 260107,
+        "Water usage": 200728,
+        "Electricity outage duration": 160071,
+        "Electricity outage frequency": 358889
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 227334,
+        "Water usage": 112840,
+        "Electricity outage duration": 410214,
+        "Electricity outage frequency": 522438
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 276255,
+        "Water usage": 275895,
+        "Electricity outage duration": 358035,
+        "Electricity outage frequency": 463473
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 500594,
+        "Water usage": 180304,
+        "Electricity outage duration": 176552,
+        "Electricity outage frequency": 330116
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 555555,
+        "Water usage": 555555,
+        "Electricity outage duration": 330253,
+        "Electricity outage frequency": 326066
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Customers affected by electricity outages": 211173,
+        "Net electricity generation": 276165,
+        "Water usage": 193256,
+        "Electricity outage duration": 284470,
+        "Electricity outage frequency": 384719
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 555555,
+        "Water usage": 368747,
+        "Electricity outage duration": 412842,
+        "Electricity outage frequency": 499186
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 426827,
+        "Water usage": 555555,
+        "Electricity outage duration": 446015,
+        "Electricity outage frequency": 555555
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 291969,
+        "Water usage": 134420,
+        "Electricity outage duration": 177255,
+        "Electricity outage frequency": 369077
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Customers affected by electricity outages": 257880,
+        "Net electricity generation": 178205,
+        "Water usage": 119145,
+        "Electricity outage duration": 395554,
+        "Electricity outage frequency": 452021
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 370841,
+        "Water usage": 276708,
+        "Electricity outage duration": 331977,
+        "Electricity outage frequency": 431945
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Customers affected by electricity outages": 156071,
+        "Net electricity generation": 281755,
+        "Water usage": 189221,
+        "Electricity outage duration": 412042,
+        "Electricity outage frequency": 524519
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Customers affected by electricity outages": 267606,
+        "Net electricity generation": 152479,
+        "Water usage": 111269,
+        "Electricity outage duration": 302139,
+        "Electricity outage frequency": 410335
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 227311,
+        "Water usage": 110730,
+        "Electricity outage duration": 288120,
+        "Electricity outage frequency": 376990
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Customers affected by electricity outages": 193199,
+        "Net electricity generation": 466027,
+        "Water usage": 98418,
+        "Electricity outage duration": 301073,
+        "Electricity outage frequency": 290745
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 326341,
+        "Water usage": 310843,
+        "Electricity outage duration": 371622,
+        "Electricity outage frequency": 543179
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 401992,
+        "Water usage": 92439,
+        "Electricity outage duration": 313947,
+        "Electricity outage frequency": 415465
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 163230,
+        "Water usage": 64580,
+        "Electricity outage duration": 429259,
+        "Electricity outage frequency": 417094
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 427946,
+        "Water usage": 235253,
+        "Electricity outage duration": 359273,
+        "Electricity outage frequency": 458379
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 313972,
+        "Water usage": 89593,
+        "Electricity outage duration": 355100,
+        "Electricity outage frequency": 383986
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 263736,
+        "Water usage": 187820,
+        "Electricity outage duration": 271761,
+        "Electricity outage frequency": 142654
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Customers affected by electricity outages": 179743,
+        "Net electricity generation": 365079,
+        "Water usage": 145939,
+        "Electricity outage duration": 294931,
+        "Electricity outage frequency": 329761
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Customers affected by electricity outages": 186771,
+        "Net electricity generation": 267968,
+        "Water usage": 262992,
+        "Electricity outage duration": 353310,
+        "Electricity outage frequency": 477346
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 252000,
+        "Water usage": 155909,
+        "Electricity outage duration": 26966,
+        "Electricity outage frequency": 141222
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 77859,
+        "Water usage": 26017,
+        "Electricity outage duration": 239962,
+        "Electricity outage frequency": 217948
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Customers affected by electricity outages": 252504,
+        "Net electricity generation": 305358,
+        "Water usage": 109274,
+        "Electricity outage duration": 359591,
+        "Electricity outage frequency": 519983
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 239079,
+        "Water usage": 197446,
+        "Electricity outage duration": 390240,
+        "Electricity outage frequency": 551280
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 555555,
+        "Water usage": 260059,
+        "Electricity outage duration": 0,
+        "Electricity outage frequency": 0
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Customers affected by electricity outages": 277777,
+        "Net electricity generation": 555555,
+        "Water usage": 555555,
+        "Electricity outage duration": 312114,
+        "Electricity outage frequency": 285936
+      }
+    }
+  ],
+  "derivatives": {
+    "Resources": [
+      "Customers affected by electricity outages",
+      "Net electricity generation",
+      "Water usage",
+      "Electricity outage duration",
+      "Electricity outage frequency"
+    ]
+  },
+  "weightingOptions": {
+    "Customers affected by electricity outages": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Net electricity generation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Water usage": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Electricity outage duration": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Electricity outage frequency": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

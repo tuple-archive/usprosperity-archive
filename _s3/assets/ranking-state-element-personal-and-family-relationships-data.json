@@ -1,0 +1,855 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Divorce": 245950,
+        "Children in unmarried households": 294058,
+        "Teen births": 361559,
+        "Parent's attendance of children's activities": 145833,
+        "Shared meals with household members": 135676,
+        "Frequently hear from family and friends": 412786,
+        "Close friends": 330425
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Divorce": 252814,
+        "Children in unmarried households": 184416,
+        "Teen births": 307472,
+        "Parent's attendance of children's activities": 165064,
+        "Shared meals with household members": 49687,
+        "Frequently hear from family and friends": 347372,
+        "Close friends": 143148
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Divorce": 206545,
+        "Children in unmarried households": 196313,
+        "Teen births": 285874,
+        "Parent's attendance of children's activities": 182692,
+        "Shared meals with household members": 0,
+        "Frequently hear from family and friends": 317993,
+        "Close friends": 155369
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Divorce": 321260,
+        "Children in unmarried households": 216302,
+        "Teen births": 368948,
+        "Parent's attendance of children's activities": 200320,
+        "Shared meals with household members": 136063,
+        "Frequently hear from family and friends": 248967,
+        "Close friends": 160689
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Divorce": 272518,
+        "Children in unmarried households": 287122,
+        "Teen births": 401293,
+        "Parent's attendance of children's activities": 169871,
+        "Shared meals with household members": 39098,
+        "Frequently hear from family and friends": 313037,
+        "Close friends": 107480
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Divorce": 282187,
+        "Children in unmarried households": 350507,
+        "Teen births": 383740,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 113025,
+        "Frequently hear from family and friends": 376450,
+        "Close friends": 210405
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Divorce": 344751,
+        "Children in unmarried households": 252604,
+        "Teen births": 416666,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 88556,
+        "Frequently hear from family and friends": 343024,
+        "Close friends": 145116
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Divorce": 372608,
+        "Children in unmarried households": 0,
+        "Teen births": 353425,
+        "Parent's attendance of children's activities": 163461,
+        "Shared meals with household members": 0,
+        "Frequently hear from family and friends": 323401,
+        "Close friends": 278573
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Divorce": 321303,
+        "Children in unmarried households": 186051,
+        "Teen births": 375999,
+        "Parent's attendance of children's activities": 193910,
+        "Shared meals with household members": 111125,
+        "Frequently hear from family and friends": 234607,
+        "Close friends": 27432
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Divorce": 261551,
+        "Children in unmarried households": 172107,
+        "Teen births": 379853,
+        "Parent's attendance of children's activities": 187499,
+        "Shared meals with household members": 90486,
+        "Frequently hear from family and friends": 283484,
+        "Close friends": 70889
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Divorce": 386741,
+        "Children in unmarried households": 186367,
+        "Teen births": 352041,
+        "Parent's attendance of children's activities": 165064,
+        "Shared meals with household members": 30457,
+        "Frequently hear from family and friends": 249702,
+        "Close friends": 136334
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Divorce": 239583,
+        "Children in unmarried households": 345269,
+        "Teen births": 383034,
+        "Parent's attendance of children's activities": 198717,
+        "Shared meals with household members": 109595,
+        "Frequently hear from family and friends": 285466,
+        "Close friends": 259987
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Divorce": 389697,
+        "Children in unmarried households": 289290,
+        "Teen births": 380483,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 127325,
+        "Frequently hear from family and friends": 349963,
+        "Close friends": 267425
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Divorce": 223153,
+        "Children in unmarried households": 388561,
+        "Teen births": 365704,
+        "Parent's attendance of children's activities": 169871,
+        "Shared meals with household members": 108092,
+        "Frequently hear from family and friends": 283440,
+        "Close friends": 245214
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Divorce": 416666,
+        "Children in unmarried households": 255700,
+        "Teen births": 387174,
+        "Parent's attendance of children's activities": 169871,
+        "Shared meals with household members": 85354,
+        "Frequently hear from family and friends": 348709,
+        "Close friends": 174299
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Divorce": 352460,
+        "Children in unmarried households": 231610,
+        "Teen births": 344657,
+        "Parent's attendance of children's activities": 192307,
+        "Shared meals with household members": 167739,
+        "Frequently hear from family and friends": 371685,
+        "Close friends": 279141
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Divorce": 382435,
+        "Children in unmarried households": 305844,
+        "Teen births": 345897,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 37654,
+        "Frequently hear from family and friends": 317625,
+        "Close friends": 173252
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Divorce": 267384,
+        "Children in unmarried households": 227074,
+        "Teen births": 315315,
+        "Parent's attendance of children's activities": 177884,
+        "Shared meals with household members": 76770,
+        "Frequently hear from family and friends": 323994,
+        "Close friends": 194523
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Divorce": 375091,
+        "Children in unmarried households": 78340,
+        "Teen births": 314371,
+        "Parent's attendance of children's activities": 201923,
+        "Shared meals with household members": 107682,
+        "Frequently hear from family and friends": 281129,
+        "Close friends": 43027
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Divorce": 416666,
+        "Children in unmarried households": 276988,
+        "Teen births": 416666,
+        "Parent's attendance of children's activities": 179487,
+        "Shared meals with household members": 102043,
+        "Frequently hear from family and friends": 397469,
+        "Close friends": 189128
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Divorce": 347718,
+        "Children in unmarried households": 256391,
+        "Teen births": 391352,
+        "Parent's attendance of children's activities": 182692,
+        "Shared meals with household members": 51503,
+        "Frequently hear from family and friends": 351716,
+        "Close friends": 201842
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Divorce": 309062,
+        "Children in unmarried households": 259168,
+        "Teen births": 414278,
+        "Parent's attendance of children's activities": 198717,
+        "Shared meals with household members": 149726,
+        "Frequently hear from family and friends": 415731,
+        "Close friends": 228737
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Divorce": 382431,
+        "Children in unmarried households": 230010,
+        "Teen births": 384003,
+        "Parent's attendance of children's activities": 181089,
+        "Shared meals with household members": 125064,
+        "Frequently hear from family and friends": 316022,
+        "Close friends": 216231
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Divorce": 333333,
+        "Children in unmarried households": 317491,
+        "Teen births": 414660,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 50223,
+        "Frequently hear from family and friends": 387599,
+        "Close friends": 364765
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Divorce": 323910,
+        "Children in unmarried households": 238883,
+        "Teen births": 349617,
+        "Parent's attendance of children's activities": 195512,
+        "Shared meals with household members": 111497,
+        "Frequently hear from family and friends": 334731,
+        "Close friends": 251926
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Divorce": 351506,
+        "Children in unmarried households": 80239,
+        "Teen births": 290309,
+        "Parent's attendance of children's activities": 177884,
+        "Shared meals with household members": 18759,
+        "Frequently hear from family and friends": 266142,
+        "Close friends": 247358
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Divorce": 312727,
+        "Children in unmarried households": 340669,
+        "Teen births": 349459,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 103042,
+        "Frequently hear from family and friends": 367839,
+        "Close friends": 191236
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Divorce": 298617,
+        "Children in unmarried households": 205450,
+        "Teen births": 367437,
+        "Parent's attendance of children's activities": 187499,
+        "Shared meals with household members": 36727,
+        "Frequently hear from family and friends": 345432,
+        "Close friends": 166740
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Divorce": 366518,
+        "Children in unmarried households": 331239,
+        "Teen births": 357984,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 118955,
+        "Frequently hear from family and friends": 377792,
+        "Close friends": 199618
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Divorce": 347514,
+        "Children in unmarried households": 326998,
+        "Teen births": 369426,
+        "Parent's attendance of children's activities": 187499,
+        "Shared meals with household members": 161644,
+        "Frequently hear from family and friends": 373791,
+        "Close friends": 225836
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Divorce": 304925,
+        "Children in unmarried households": 325461,
+        "Teen births": 416666,
+        "Parent's attendance of children's activities": 166666,
+        "Shared meals with household members": 90235,
+        "Frequently hear from family and friends": 398093,
+        "Close friends": 282849
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Divorce": 362595,
+        "Children in unmarried households": 316727,
+        "Teen births": 413655,
+        "Parent's attendance of children's activities": 181089,
+        "Shared meals with household members": 63571,
+        "Frequently hear from family and friends": 356578,
+        "Close friends": 105025
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Divorce": 282491,
+        "Children in unmarried households": 128761,
+        "Teen births": 289955,
+        "Parent's attendance of children's activities": 177884,
+        "Shared meals with household members": 0,
+        "Frequently hear from family and friends": 297570,
+        "Close friends": 275978
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Divorce": 190599,
+        "Children in unmarried households": 180804,
+        "Teen births": 373451,
+        "Parent's attendance of children's activities": 136217,
+        "Shared meals with household members": 0,
+        "Frequently hear from family and friends": 259755,
+        "Close friends": 0
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Divorce": 323694,
+        "Children in unmarried households": 243366,
+        "Teen births": 408019,
+        "Parent's attendance of children's activities": 166666,
+        "Shared meals with household members": 1864,
+        "Frequently hear from family and friends": 271794,
+        "Close friends": 151693
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Divorce": 336590,
+        "Children in unmarried households": 188591,
+        "Teen births": 352201,
+        "Parent's attendance of children's activities": 201923,
+        "Shared meals with household members": 100089,
+        "Frequently hear from family and friends": 364371,
+        "Close friends": 253271
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Divorce": 217622,
+        "Children in unmarried households": 223532,
+        "Teen births": 292898,
+        "Parent's attendance of children's activities": 187499,
+        "Shared meals with household members": 29513,
+        "Frequently hear from family and friends": 363670,
+        "Close friends": 88920
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Divorce": 292574,
+        "Children in unmarried households": 298646,
+        "Teen births": 401800,
+        "Parent's attendance of children's activities": 165064,
+        "Shared meals with household members": 90568,
+        "Frequently hear from family and friends": 412905,
+        "Close friends": 319472
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Divorce": 356609,
+        "Children in unmarried households": 233115,
+        "Teen births": 389307,
+        "Parent's attendance of children's activities": 161858,
+        "Shared meals with household members": 66881,
+        "Frequently hear from family and friends": 295166,
+        "Close friends": 146647
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Divorce": 339548,
+        "Children in unmarried households": 184136,
+        "Teen births": 416666,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 47207,
+        "Frequently hear from family and friends": 342704,
+        "Close friends": 17283
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Divorce": 355495,
+        "Children in unmarried households": 171015,
+        "Teen births": 332517,
+        "Parent's attendance of children's activities": 201923,
+        "Shared meals with household members": 76460,
+        "Frequently hear from family and friends": 356825,
+        "Close friends": 85819
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Divorce": 351825,
+        "Children in unmarried households": 283688,
+        "Teen births": 331617,
+        "Parent's attendance of children's activities": 206730,
+        "Shared meals with household members": 169900,
+        "Frequently hear from family and friends": 395827,
+        "Close friends": 322992
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Divorce": 261638,
+        "Children in unmarried households": 207162,
+        "Teen births": 333947,
+        "Parent's attendance of children's activities": 177884,
+        "Shared meals with household members": 93,
+        "Frequently hear from family and friends": 336571,
+        "Close friends": 244115
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Divorce": 404602,
+        "Children in unmarried households": 251697,
+        "Teen births": 314596,
+        "Parent's attendance of children's activities": 166666,
+        "Shared meals with household members": 24166,
+        "Frequently hear from family and friends": 317983,
+        "Close friends": 167818
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Divorce": 260314,
+        "Children in unmarried households": 416666,
+        "Teen births": 408742,
+        "Parent's attendance of children's activities": 193910,
+        "Shared meals with household members": 100321,
+        "Frequently hear from family and friends": 345576,
+        "Close friends": 416666
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Divorce": 322758,
+        "Children in unmarried households": 299185,
+        "Teen births": 398436,
+        "Parent's attendance of children's activities": 205128,
+        "Shared meals with household members": 0,
+        "Frequently hear from family and friends": 333203,
+        "Close friends": 236142
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Divorce": 330857,
+        "Children in unmarried households": 272671,
+        "Teen births": 416666,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 133232,
+        "Frequently hear from family and friends": 311122,
+        "Close friends": 341411
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Divorce": 328691,
+        "Children in unmarried households": 325440,
+        "Teen births": 393168,
+        "Parent's attendance of children's activities": 160256,
+        "Shared meals with household members": 73914,
+        "Frequently hear from family and friends": 358490,
+        "Close friends": 220179
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Divorce": 382224,
+        "Children in unmarried households": 263218,
+        "Teen births": 394588,
+        "Parent's attendance of children's activities": 190705,
+        "Shared meals with household members": 104251,
+        "Frequently hear from family and friends": 385794,
+        "Close friends": 311303
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Divorce": 252192,
+        "Children in unmarried households": 228584,
+        "Teen births": 314209,
+        "Parent's attendance of children's activities": 181089,
+        "Shared meals with household members": 119619,
+        "Frequently hear from family and friends": 308661,
+        "Close friends": 205976
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Divorce": 229217,
+        "Children in unmarried households": 348613,
+        "Teen births": 312628,
+        "Parent's attendance of children's activities": 208333,
+        "Shared meals with household members": 145519,
+        "Frequently hear from family and friends": 338871,
+        "Close friends": 226739
+      }
+    }
+  ],
+  "derivatives": {
+    "Personal and Family Relationships": [
+      "Divorce",
+      "Children in unmarried households",
+      "Teen births",
+      "Parent's attendance of children's activities",
+      "Shared meals with household members",
+      "Frequently hear from family and friends",
+      "Close friends"
+    ]
+  },
+  "weightingOptions": {
+    "Divorce": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Children in unmarried households": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Teen births": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Parent's attendance of children's activities": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Shared meals with household members": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Frequently hear from family and friends": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Close friends": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

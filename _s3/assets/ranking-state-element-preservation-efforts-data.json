@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "GAP 1 Protected areas": 444444,
+        "GAP 2 Protected areas": 105333,
+        "GAP 3 Protected areas": 67887
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "GAP 1 Protected areas": 9161,
+        "GAP 2 Protected areas": 36825,
+        "GAP 3 Protected areas": 8789
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "GAP 1 Protected areas": 13975,
+        "GAP 2 Protected areas": 203389,
+        "GAP 3 Protected areas": 10290
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "GAP 1 Protected areas": 181933,
+        "GAP 2 Protected areas": 88529,
+        "GAP 3 Protected areas": 95698
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "GAP 1 Protected areas": 440836,
+        "GAP 2 Protected areas": 166191,
+        "GAP 3 Protected areas": 95576
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "GAP 1 Protected areas": 163223,
+        "GAP 2 Protected areas": 97501,
+        "GAP 3 Protected areas": 106883
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "GAP 1 Protected areas": 1782,
+        "GAP 2 Protected areas": 46888,
+        "GAP 3 Protected areas": 19475
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "GAP 1 Protected areas": 2515,
+        "GAP 2 Protected areas": 2322,
+        "GAP 3 Protected areas": 304
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "GAP 1 Protected areas": 133,
+        "GAP 2 Protected areas": 80047,
+        "GAP 3 Protected areas": 24361
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "GAP 1 Protected areas": 157189,
+        "GAP 2 Protected areas": 131597,
+        "GAP 3 Protected areas": 48206
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "GAP 1 Protected areas": 51857,
+        "GAP 2 Protected areas": 61990,
+        "GAP 3 Protected areas": 7102
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "GAP 1 Protected areas": 71418,
+        "GAP 2 Protected areas": 255752,
+        "GAP 3 Protected areas": 63205
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "GAP 1 Protected areas": 409,
+        "GAP 2 Protected areas": 33577,
+        "GAP 3 Protected areas": 1216
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "GAP 1 Protected areas": 238522,
+        "GAP 2 Protected areas": 134727,
+        "GAP 3 Protected areas": 180118
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "GAP 1 Protected areas": 38879,
+        "GAP 2 Protected areas": 30893,
+        "GAP 3 Protected areas": 1967
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "GAP 1 Protected areas": 5712,
+        "GAP 2 Protected areas": 65466,
+        "GAP 3 Protected areas": 1682
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "GAP 1 Protected areas": 8760,
+        "GAP 2 Protected areas": 8086,
+        "GAP 3 Protected areas": 1061
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "GAP 1 Protected areas": 19444,
+        "GAP 2 Protected areas": 17692,
+        "GAP 3 Protected areas": 12682
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "GAP 1 Protected areas": 10885,
+        "GAP 2 Protected areas": 124413,
+        "GAP 3 Protected areas": 12733
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "GAP 1 Protected areas": 41521,
+        "GAP 2 Protected areas": 73479,
+        "GAP 3 Protected areas": 36278
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "GAP 1 Protected areas": 1994,
+        "GAP 2 Protected areas": 87576,
+        "GAP 3 Protected areas": 17649
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "GAP 1 Protected areas": 25792,
+        "GAP 2 Protected areas": 97703,
+        "GAP 3 Protected areas": 21583
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "GAP 1 Protected areas": 15964,
+        "GAP 2 Protected areas": 177877,
+        "GAP 3 Protected areas": 21982
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "GAP 1 Protected areas": 63890,
+        "GAP 2 Protected areas": 111358,
+        "GAP 3 Protected areas": 53741
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "GAP 1 Protected areas": 7499,
+        "GAP 2 Protected areas": 76841,
+        "GAP 3 Protected areas": 10815
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "GAP 1 Protected areas": 4586,
+        "GAP 2 Protected areas": 101799,
+        "GAP 3 Protected areas": 9498
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "GAP 1 Protected areas": 138867,
+        "GAP 2 Protected areas": 87769,
+        "GAP 3 Protected areas": 94571
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "GAP 1 Protected areas": 41394,
+        "GAP 2 Protected areas": 58204,
+        "GAP 3 Protected areas": 18709
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "GAP 1 Protected areas": 4897,
+        "GAP 2 Protected areas": 48852,
+        "GAP 3 Protected areas": 14771
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "GAP 1 Protected areas": 13888,
+        "GAP 2 Protected areas": 13589,
+        "GAP 3 Protected areas": 3937
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "GAP 1 Protected areas": 72540,
+        "GAP 2 Protected areas": 67851,
+        "GAP 3 Protected areas": 65070
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "GAP 1 Protected areas": 36801,
+        "GAP 2 Protected areas": 329573,
+        "GAP 3 Protected areas": 25072
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "GAP 1 Protected areas": 66953,
+        "GAP 2 Protected areas": 79735,
+        "GAP 3 Protected areas": 87683
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "GAP 1 Protected areas": 158780,
+        "GAP 2 Protected areas": 244372,
+        "GAP 3 Protected areas": 219500
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "GAP 1 Protected areas": 99229,
+        "GAP 2 Protected areas": 143793,
+        "GAP 3 Protected areas": 14100
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "GAP 1 Protected areas": 6944,
+        "GAP 2 Protected areas": 6410,
+        "GAP 3 Protected areas": 10003
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "GAP 1 Protected areas": 7485,
+        "GAP 2 Protected areas": 54778,
+        "GAP 3 Protected areas": 3764
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "GAP 1 Protected areas": 153124,
+        "GAP 2 Protected areas": 183017,
+        "GAP 3 Protected areas": 146029
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "GAP 1 Protected areas": 26500,
+        "GAP 2 Protected areas": 39664,
+        "GAP 3 Protected areas": 44363
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "GAP 1 Protected areas": 4444,
+        "GAP 2 Protected areas": 158540,
+        "GAP 3 Protected areas": 9688
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "GAP 1 Protected areas": 11951,
+        "GAP 2 Protected areas": 95997,
+        "GAP 3 Protected areas": 11738
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "GAP 1 Protected areas": 6268,
+        "GAP 2 Protected areas": 35829,
+        "GAP 3 Protected areas": 22933
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "GAP 1 Protected areas": 31327,
+        "GAP 2 Protected areas": 63627,
+        "GAP 3 Protected areas": 12478
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "GAP 1 Protected areas": 20833,
+        "GAP 2 Protected areas": 19999,
+        "GAP 3 Protected areas": 5763
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "GAP 1 Protected areas": 87178,
+        "GAP 2 Protected areas": 217913,
+        "GAP 3 Protected areas": 191445
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "GAP 1 Protected areas": 25546,
+        "GAP 2 Protected areas": 69046,
+        "GAP 3 Protected areas": 21791
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "GAP 1 Protected areas": 58241,
+        "GAP 2 Protected areas": 51888,
+        "GAP 3 Protected areas": 35436
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "GAP 1 Protected areas": 293087,
+        "GAP 2 Protected areas": 98013,
+        "GAP 3 Protected areas": 77857
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "GAP 1 Protected areas": 5326,
+        "GAP 2 Protected areas": 182662,
+        "GAP 3 Protected areas": 21797
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "GAP 1 Protected areas": 21372,
+        "GAP 2 Protected areas": 86012,
+        "GAP 3 Protected areas": 23003
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "GAP 1 Protected areas": 240897,
+        "GAP 2 Protected areas": 66358,
+        "GAP 3 Protected areas": 146695
+      }
+    }
+  ],
+  "derivatives": {
+    "Preservation Efforts": [
+      "GAP 1 Protected areas",
+      "GAP 2 Protected areas",
+      "GAP 3 Protected areas"
+    ]
+  },
+  "weightingOptions": {
+    "GAP 1 Protected areas": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "GAP 2 Protected areas": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "GAP 3 Protected areas": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

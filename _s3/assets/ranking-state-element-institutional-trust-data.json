@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Confidence in corporations": 631323,
+        "Confidence in the media": 188383,
+        "Trust in federal government": 166666
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Confidence in corporations": 712523,
+        "Confidence in the media": 135786,
+        "Trust in federal government": 148148
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Confidence in corporations": 536102,
+        "Confidence in the media": 265629,
+        "Trust in federal government": 66666
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Confidence in corporations": 425430,
+        "Confidence in the media": 23413,
+        "Trust in federal government": 150568
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Confidence in corporations": 294851,
+        "Confidence in the media": 166611,
+        "Trust in federal government": 274213
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Confidence in corporations": 638464,
+        "Confidence in the media": 231776,
+        "Trust in federal government": 207584
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Confidence in corporations": 444453,
+        "Confidence in the media": 299049,
+        "Trust in federal government": 173835
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Confidence in corporations": 273919,
+        "Confidence in the media": 508075,
+        "Trust in federal government": 400000
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Confidence in corporations": 526992,
+        "Confidence in the media": 314722,
+        "Trust in federal government": 266666
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Confidence in corporations": 509515,
+        "Confidence in the media": 97968,
+        "Trust in federal government": 260253
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Confidence in corporations": 501575,
+        "Confidence in the media": 118439,
+        "Trust in federal government": 209546
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Confidence in corporations": 714464,
+        "Confidence in the media": 565005,
+        "Trust in federal government": 233333
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Confidence in corporations": 581771,
+        "Confidence in the media": 258047,
+        "Trust in federal government": 111111
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Confidence in corporations": 601733,
+        "Confidence in the media": 106644,
+        "Trust in federal government": 166666
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Confidence in corporations": 438406,
+        "Confidence in the media": 90573,
+        "Trust in federal government": 212365
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Confidence in corporations": 630712,
+        "Confidence in the media": 227085,
+        "Trust in federal government": 269574
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Confidence in corporations": 711866,
+        "Confidence in the media": 377766,
+        "Trust in federal government": 127873
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Confidence in corporations": 438633,
+        "Confidence in the media": 0,
+        "Trust in federal government": 197916
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Confidence in corporations": 393170,
+        "Confidence in the media": 72432,
+        "Trust in federal government": 139322
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Confidence in corporations": 472818,
+        "Confidence in the media": 338510,
+        "Trust in federal government": 240842
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Confidence in corporations": 493827,
+        "Confidence in the media": 146939,
+        "Trust in federal government": 199324
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Confidence in corporations": 547515,
+        "Confidence in the media": 206993,
+        "Trust in federal government": 166666
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Confidence in corporations": 546327,
+        "Confidence in the media": 231976,
+        "Trust in federal government": 203703
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Confidence in corporations": 773919,
+        "Confidence in the media": 378257,
+        "Trust in federal government": 317567
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Confidence in corporations": 620838,
+        "Confidence in the media": 214936,
+        "Trust in federal government": 70402
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Confidence in corporations": 582819,
+        "Confidence in the media": 208823,
+        "Trust in federal government": 170634
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Confidence in corporations": 332500,
+        "Confidence in the media": 0,
+        "Trust in federal government": 200000
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Confidence in corporations": 376921,
+        "Confidence in the media": 0,
+        "Trust in federal government": 238662
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Confidence in corporations": 743045,
+        "Confidence in the media": 239200,
+        "Trust in federal government": 200000
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Confidence in corporations": 629752,
+        "Confidence in the media": 401038,
+        "Trust in federal government": 200000
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Confidence in corporations": 636418,
+        "Confidence in the media": 302044,
+        "Trust in federal government": 166666
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Confidence in corporations": 375304,
+        "Confidence in the media": 319382,
+        "Trust in federal government": 278089
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Confidence in corporations": 0,
+        "Confidence in the media": 0,
+        "Trust in federal government": 378968
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Confidence in corporations": 263754,
+        "Confidence in the media": 0,
+        "Trust in federal government": 166666
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Confidence in corporations": 229839,
+        "Confidence in the media": 229364,
+        "Trust in federal government": 278571
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Confidence in corporations": 464780,
+        "Confidence in the media": 82817,
+        "Trust in federal government": 236462
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Confidence in corporations": 456864,
+        "Confidence in the media": 27969,
+        "Trust in federal government": 101190
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Confidence in corporations": 278617,
+        "Confidence in the media": 0,
+        "Trust in federal government": 125000
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Confidence in corporations": 510035,
+        "Confidence in the media": 207772,
+        "Trust in federal government": 172936
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Confidence in corporations": 509578,
+        "Confidence in the media": 422925,
+        "Trust in federal government": 233333
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Confidence in corporations": 606675,
+        "Confidence in the media": 266568,
+        "Trust in federal government": 334635
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Confidence in corporations": 583894,
+        "Confidence in the media": 279930,
+        "Trust in federal government": 100000
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Confidence in corporations": 366192,
+        "Confidence in the media": 0,
+        "Trust in federal government": 119791
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Confidence in corporations": 454121,
+        "Confidence in the media": 183279,
+        "Trust in federal government": 308457
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Confidence in corporations": 745352,
+        "Confidence in the media": 0,
+        "Trust in federal government": 266666
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Confidence in corporations": 592652,
+        "Confidence in the media": 163999,
+        "Trust in federal government": 242038
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Confidence in corporations": 431893,
+        "Confidence in the media": 383734,
+        "Trust in federal government": 200000
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Confidence in corporations": 474022,
+        "Confidence in the media": 242868,
+        "Trust in federal government": 234567
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Confidence in corporations": 764706,
+        "Confidence in the media": 263391,
+        "Trust in federal government": 170886
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Confidence in corporations": 510715,
+        "Confidence in the media": 152482,
+        "Trust in federal government": 133333
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Confidence in corporations": 615383,
+        "Confidence in the media": 75448,
+        "Trust in federal government": 200000
+      }
+    }
+  ],
+  "derivatives": {
+    "Institutional Trust": [
+      "Confidence in corporations",
+      "Confidence in the media",
+      "Trust in federal government"
+    ]
+  },
+  "weightingOptions": {
+    "Confidence in corporations": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Confidence in the media": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Trust in federal government": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

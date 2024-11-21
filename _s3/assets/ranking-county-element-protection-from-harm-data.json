@@ -1,0 +1,6694 @@
+{
+  "regions": [
+    {
+      "id": "13001",
+      "title": "Appling, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.656029411764706,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13003",
+      "title": "Atkinson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13005",
+      "title": "Bacon, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13007",
+      "title": "Baker, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13009",
+      "title": "Baldwin, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.5078676470588235,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13011",
+      "title": "Banks, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13013",
+      "title": "Barrow, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.250661764705883,
+        "Traffic deaths": 2.9437499999999996
+      }
+    },
+    {
+      "id": "13015",
+      "title": "Bartow, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.9107352941176465,
+        "Traffic deaths": 3.6166666666666667
+      }
+    },
+    {
+      "id": "13017",
+      "title": "Ben Hill, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.948529411764705,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13019",
+      "title": "Berrien, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.6390441176470585,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13021",
+      "title": "Bibb, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.387279411764706,
+        "Traffic deaths": 4.596041666666667
+      }
+    },
+    {
+      "id": "13023",
+      "title": "Bleckley, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13025",
+      "title": "Brantley, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.53375,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13027",
+      "title": "Brooks, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.960882352941176,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13029",
+      "title": "Bryan, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.574044117647059,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13031",
+      "title": "Bulloch, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.591985294117647,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13033",
+      "title": "Burke, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.1036029411764705,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13035",
+      "title": "Butts, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.769926470588235,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13037",
+      "title": "Calhoun, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13039",
+      "title": "Camden, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.532794117647059,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13043",
+      "title": "Candler, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13045",
+      "title": "Carroll, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.373161764705882,
+        "Traffic deaths": 4.696250000000001
+      }
+    },
+    {
+      "id": "13047",
+      "title": "Catoosa, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.240514705882354,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13049",
+      "title": "Charlton, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13051",
+      "title": "Chatham, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.141029411764706,
+        "Traffic deaths": 5.794166666666666
+      }
+    },
+    {
+      "id": "13053",
+      "title": "Chattahoochee, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13055",
+      "title": "Chattooga, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.7680882352941176,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13057",
+      "title": "Cherokee, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.672867647058823,
+        "Traffic deaths": 6.2091666666666665
+      }
+    },
+    {
+      "id": "13059",
+      "title": "Clarke, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.3293382352941165,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13061",
+      "title": "Clay, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13063",
+      "title": "Clayton, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.7584558823529415,
+        "Traffic deaths": 4.501666666666667
+      }
+    },
+    {
+      "id": "13065",
+      "title": "Clinch, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13067",
+      "title": "Cobb, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.964264705882353,
+        "Traffic deaths": 6.143541666666667
+      }
+    },
+    {
+      "id": "13069",
+      "title": "Coffee, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.165220588235294,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "13071",
+      "title": "Colquitt, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.967573529411765,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "13073",
+      "title": "Columbia, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.195220588235294,
+        "Traffic deaths": 5.13875
+      }
+    },
+    {
+      "id": "13075",
+      "title": "Cook, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.293235294117647,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13077",
+      "title": "Coweta, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.57514705882353,
+        "Traffic deaths": 5.442916666666666
+      }
+    },
+    {
+      "id": "13079",
+      "title": "Crawford, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13081",
+      "title": "Crisp, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.3161764705882355,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13083",
+      "title": "Dade, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.221176470588236,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13085",
+      "title": "Dawson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.325073529411764,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13087",
+      "title": "Decatur, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.734632352941176,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13089",
+      "title": "De Kalb, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.283897058823531,
+        "Traffic deaths": 5.706458333333333
+      }
+    },
+    {
+      "id": "13091",
+      "title": "Dodge, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.139705882352941,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13093",
+      "title": "Dooly, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13095",
+      "title": "Dougherty, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.531764705882353,
+        "Traffic deaths": 3.3687500000000004
+      }
+    },
+    {
+      "id": "13097",
+      "title": "Douglas, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.801029411764706,
+        "Traffic deaths": 4.8289583333333335
+      }
+    },
+    {
+      "id": "13099",
+      "title": "Early, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13101",
+      "title": "Echols, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13103",
+      "title": "Effingham, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.99375,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13105",
+      "title": "Elbert, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.347573529411764,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13107",
+      "title": "Emanuel, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.783455882352941,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13109",
+      "title": "Evans, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13111",
+      "title": "Fannin, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.2683823529411775,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13113",
+      "title": "Fayette, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.241323529411765,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13115",
+      "title": "Floyd, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.194264705882353,
+        "Traffic deaths": 3.717083333333333
+      }
+    },
+    {
+      "id": "13117",
+      "title": "Forsyth, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.73345588235294,
+        "Traffic deaths": 6.093541666666667
+      }
+    },
+    {
+      "id": "13119",
+      "title": "Franklin, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.147426470588236,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13121",
+      "title": "Fulton, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.5222058823529405,
+        "Traffic deaths": 6.354374999999999
+      }
+    },
+    {
+      "id": "13123",
+      "title": "Gilmer, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.5078676470588235,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13125",
+      "title": "Glascock, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13127",
+      "title": "Glynn, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.812132352941177,
+        "Traffic deaths": 2.299375
+      }
+    },
+    {
+      "id": "13129",
+      "title": "Gordon, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.263676470588234,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13131",
+      "title": "Grady, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.675367647058824,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13133",
+      "title": "Greene, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2867647058823524,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13135",
+      "title": "Gwinnett, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.223235294117647,
+        "Traffic deaths": 6.312083333333334
+      }
+    },
+    {
+      "id": "13137",
+      "title": "Habersham, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.748823529411764,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13139",
+      "title": "Hall, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.333823529411765,
+        "Traffic deaths": 5.471041666666666
+      }
+    },
+    {
+      "id": "13141",
+      "title": "Hancock, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13143",
+      "title": "Haralson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5936029411764707,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13145",
+      "title": "Harris, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.771764705882354,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13147",
+      "title": "Hart, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.160367647058823,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13149",
+      "title": "Heard, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.2794117647058818,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13151",
+      "title": "Henry, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.8586029411764695,
+        "Traffic deaths": 5.580416666666667
+      }
+    },
+    {
+      "id": "13153",
+      "title": "Houston, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.719191176470588,
+        "Traffic deaths": 5.460624999999999
+      }
+    },
+    {
+      "id": "13155",
+      "title": "Irwin, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13157",
+      "title": "Jackson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.332720588235294,
+        "Traffic deaths": 1.6577083333333336
+      }
+    },
+    {
+      "id": "13159",
+      "title": "Jasper, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.5502205882352937,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13161",
+      "title": "Jeff Davis, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13163",
+      "title": "Jefferson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.370955882352942,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13165",
+      "title": "Jenkins, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13167",
+      "title": "Johnson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13169",
+      "title": "Jones, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.355882352941176,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13171",
+      "title": "Lamar, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.235294117647059,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13173",
+      "title": "Lanier, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13175",
+      "title": "Laurens, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.148161764705883,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13177",
+      "title": "Lee, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.8311029411764705,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13179",
+      "title": "Liberty, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.8705147058823535,
+        "Traffic deaths": 2.3639583333333336
+      }
+    },
+    {
+      "id": "13181",
+      "title": "Lincoln, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13183",
+      "title": "Long, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13185",
+      "title": "Lowndes, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.7961029411764704,
+        "Traffic deaths": 4.089791666666667
+      }
+    },
+    {
+      "id": "13187",
+      "title": "Lumpkin, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.282867647058824,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13189",
+      "title": "McDuffie, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.873235294117647,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13191",
+      "title": "McIntosh, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13193",
+      "title": "Macon, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13195",
+      "title": "Madison, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.892647058823529,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13197",
+      "title": "Marion, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13199",
+      "title": "Meriwether, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.7740441176470596,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13201",
+      "title": "Miller, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13205",
+      "title": "Mitchell, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8854411764705885,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13207",
+      "title": "Monroe, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.062132352941177,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13209",
+      "title": "Montgomery, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13211",
+      "title": "Morgan, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.092720588235294,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13213",
+      "title": "Murray, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.4302205882352945,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13215",
+      "title": "Muscogee, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8258823529411767,
+        "Traffic deaths": 5.424791666666668
+      }
+    },
+    {
+      "id": "13217",
+      "title": "Newton, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.922426470588236,
+        "Traffic deaths": 2.9356250000000004
+      }
+    },
+    {
+      "id": "13219",
+      "title": "Oconee, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.450147058823529,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13221",
+      "title": "Oglethorpe, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13223",
+      "title": "Paulding, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.01235294117647,
+        "Traffic deaths": 5.404375
+      }
+    },
+    {
+      "id": "13225",
+      "title": "Peach, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.947794117647058,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13227",
+      "title": "Pickens, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.432867647058822,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13229",
+      "title": "Pierce, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.566176470588235,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13231",
+      "title": "Pike, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13233",
+      "title": "Polk, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.04735294117647,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13235",
+      "title": "Pulaski, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.0,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13237",
+      "title": "Putnam, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.40889705882353,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13239",
+      "title": "Quitman, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13241",
+      "title": "Rabun, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.536764705882353,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13243",
+      "title": "Randolph, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13245",
+      "title": "Richmond, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.644705882352942,
+        "Traffic deaths": 5.360833333333333
+      }
+    },
+    {
+      "id": "13247",
+      "title": "Rockdale, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.007720588235294,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13249",
+      "title": "Schley, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13251",
+      "title": "Screven, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.4191176470588234,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13253",
+      "title": "Seminole, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.0,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13255",
+      "title": "Spalding, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.42014705882353,
+        "Traffic deaths": 0.33166666666666644
+      }
+    },
+    {
+      "id": "13257",
+      "title": "Stephens, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.8255147058823535,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13259",
+      "title": "Stewart, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13261",
+      "title": "Sumter, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.283382352941176,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13263",
+      "title": "Talbot, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13265",
+      "title": "Taliaferro, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13267",
+      "title": "Tattnall, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.953970588235293,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13269",
+      "title": "Taylor, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13271",
+      "title": "Telfair, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.867647058823529,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13273",
+      "title": "Terrell, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13275",
+      "title": "Thomas, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.2970588235294125,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13277",
+      "title": "Tift, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.918014705882353,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13279",
+      "title": "Toombs, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.840147058823529,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13281",
+      "title": "Towns, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.7180147058823527,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13283",
+      "title": "Treutlen, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13285",
+      "title": "Troup, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.417867647058824,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13287",
+      "title": "Turner, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13289",
+      "title": "Twiggs, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13291",
+      "title": "Union, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.416691176470588,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13293",
+      "title": "Upson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.185588235294117,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13295",
+      "title": "Walker, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.615808823529412,
+        "Traffic deaths": 1.3191666666666668
+      }
+    },
+    {
+      "id": "13297",
+      "title": "Walton, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.770147058823529,
+        "Traffic deaths": 3.6675
+      }
+    },
+    {
+      "id": "13299",
+      "title": "Ware, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8300735294117647,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13301",
+      "title": "Warren, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13303",
+      "title": "Washington, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.852941176470589,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13305",
+      "title": "Wayne, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.6706617647058826,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13307",
+      "title": "Webster, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13309",
+      "title": "Wheeler, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13311",
+      "title": "White, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.016985294117648,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13313",
+      "title": "Whitfield, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.480073529411764,
+        "Traffic deaths": 3.561458333333333
+      }
+    },
+    {
+      "id": "13315",
+      "title": "Wilcox, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13317",
+      "title": "Wilkes, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13319",
+      "title": "Wilkinson, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "13321",
+      "title": "Worth, GA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.0818001255325616,
+        "Traffic deaths": 4.640137466556997
+      }
+    },
+    {
+      "id": "19001",
+      "title": "Adair, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19003",
+      "title": "Adams, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19005",
+      "title": "Allamakee, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.6547794117647063,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19007",
+      "title": "Appanoose, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0441176470588234,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19009",
+      "title": "Audubon, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.0,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19011",
+      "title": "Benton, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.739852941176471,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19013",
+      "title": "Black Hawk, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.314485294117648,
+        "Traffic deaths": 4.606875
+      }
+    },
+    {
+      "id": "19015",
+      "title": "Boone, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.7321323529411767,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19017",
+      "title": "Bremer, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.994705882352942,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19019",
+      "title": "Buchanan, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.6165441176470585,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19021",
+      "title": "Buena Vista, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.360955882352941,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19023",
+      "title": "Butler, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.610735294117648,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19025",
+      "title": "Calhoun, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0086029411764708,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19027",
+      "title": "Carroll, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.154411764705882,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19029",
+      "title": "Cass, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.7839705882352943,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19031",
+      "title": "Cedar, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.1613235294117645,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19033",
+      "title": "Cerro Gordo, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.7814705882352944,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19035",
+      "title": "Cherokee, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.141176470588235,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19037",
+      "title": "Chickasaw, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.325073529411764,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19039",
+      "title": "Clarke, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19041",
+      "title": "Clay, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.479632352941177,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19043",
+      "title": "Clayton, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.839264705882353,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19045",
+      "title": "Clinton, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.470735294117647,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19047",
+      "title": "Crawford, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2986764705882354,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19049",
+      "title": "Dallas, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.034044117647059,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19051",
+      "title": "Davis, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19053",
+      "title": "Decatur, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19055",
+      "title": "Delaware, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2084558823529417,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19057",
+      "title": "Des Moines, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8711029411764706,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19059",
+      "title": "Dickinson, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.092058823529412,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19061",
+      "title": "Dubuque, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.833749999999999,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19063",
+      "title": "Emmet, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2867647058823524,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19065",
+      "title": "Fayette, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.7173529411764712,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19067",
+      "title": "Floyd, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.954705882352941,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19069",
+      "title": "Franklin, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19071",
+      "title": "Fremont, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19073",
+      "title": "Greene, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.139705882352941,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19075",
+      "title": "Grundy, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.235294117647059,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19077",
+      "title": "Guthrie, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.374191176470589,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19079",
+      "title": "Hamilton, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.003161764705882,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19081",
+      "title": "Hancock, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9926470588235294,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19083",
+      "title": "Hardin, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.989264705882353,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19085",
+      "title": "Harrison, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.588235294117648,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19087",
+      "title": "Henry, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.562426470588235,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19089",
+      "title": "Howard, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19091",
+      "title": "Humboldt, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19093",
+      "title": "Ida, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19095",
+      "title": "Iowa, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.98,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19097",
+      "title": "Jackson, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.11764705882353,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19099",
+      "title": "Jasper, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.392279411764706,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19101",
+      "title": "Jefferson, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.970808823529412,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19103",
+      "title": "Johnson, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8580882352941175,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19105",
+      "title": "Jones, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.317647058823529,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19107",
+      "title": "Keokuk, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.9852941176470589,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19109",
+      "title": "Kossuth, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.635955882352941,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19111",
+      "title": "Lee, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.533455882352941,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19113",
+      "title": "Linn, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.340073529411765,
+        "Traffic deaths": 6.314166666666667
+      }
+    },
+    {
+      "id": "19115",
+      "title": "Louisa, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19117",
+      "title": "Lucas, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19119",
+      "title": "Lyon, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.977941176470588,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19121",
+      "title": "Madison, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.75,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19123",
+      "title": "Mahaska, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.420955882352941,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19125",
+      "title": "Marion, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.076176470588235,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19127",
+      "title": "Marshall, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.8213235294117647,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19129",
+      "title": "Mills, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.3308823529411766,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19131",
+      "title": "Mitchell, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.948529411764705,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19133",
+      "title": "Monona, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5514705882352944,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19135",
+      "title": "Monroe, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19137",
+      "title": "Montgomery, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19139",
+      "title": "Muscatine, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.534632352941176,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19141",
+      "title": "O Brien, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.042205882352941,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19143",
+      "title": "Osceola, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19145",
+      "title": "Page, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.627573529411765,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19147",
+      "title": "Palo Alto, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.612426470588235,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19149",
+      "title": "Plymouth, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.733750000000001,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19151",
+      "title": "Pocahontas, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19153",
+      "title": "Polk, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.4292647058823524,
+        "Traffic deaths": 6.840625
+      }
+    },
+    {
+      "id": "19155",
+      "title": "Pottawattamie, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.882058823529412,
+        "Traffic deaths": 4.373333333333333
+      }
+    },
+    {
+      "id": "19157",
+      "title": "Poweshiek, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.976470588235293,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19159",
+      "title": "Ringgold, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19161",
+      "title": "Sac, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19163",
+      "title": "Scott, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.304117647058824,
+        "Traffic deaths": 5.599375
+      }
+    },
+    {
+      "id": "19165",
+      "title": "Shelby, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.227941176470588,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19167",
+      "title": "Sioux, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.116102941176471,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19169",
+      "title": "Story, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.054779411764706,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19171",
+      "title": "Tama, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.6288970588235294,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19173",
+      "title": "Taylor, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19175",
+      "title": "Union, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.4039705882352944,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19177",
+      "title": "Van Buren, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19179",
+      "title": "Wapello, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.896617647058823,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19181",
+      "title": "Warren, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.416544117647058,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19183",
+      "title": "Washington, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2660294117647064,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19185",
+      "title": "Wayne, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19187",
+      "title": "Webster, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.8986029411764704,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19189",
+      "title": "Winnebago, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.5054411764705886,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19191",
+      "title": "Winneshiek, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.926397058823529,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19193",
+      "title": "Woodbury, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.818529411764706,
+        "Traffic deaths": 4.117916666666666
+      }
+    },
+    {
+      "id": "19195",
+      "title": "Worth, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.029162164835284,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "19197",
+      "title": "Wright, IA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.078676470588236,
+        "Traffic deaths": 5.743555215888776
+      }
+    },
+    {
+      "id": "30001",
+      "title": "Beaverhead, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.7499999999999998,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30003",
+      "title": "Big Horn, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.28676470588235237,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30005",
+      "title": "Blaine, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30007",
+      "title": "Broadwater, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30009",
+      "title": "Carbon, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.610294117647058,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30011",
+      "title": "Carter, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30013",
+      "title": "Cascade, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0130147058823527,
+        "Traffic deaths": 3.559375
+      }
+    },
+    {
+      "id": "30015",
+      "title": "Chouteau, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30017",
+      "title": "Custer, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.613897058823529,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30019",
+      "title": "Daniels, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30021",
+      "title": "Dawson, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30023",
+      "title": "Deer Lodge, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.5588235294117654,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30025",
+      "title": "Fallon, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30027",
+      "title": "Fergus, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.7216176470588236,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30029",
+      "title": "Flathead, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.647794117647059,
+        "Traffic deaths": 3.8312500000000003
+      }
+    },
+    {
+      "id": "30031",
+      "title": "Gallatin, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.55110294117647,
+        "Traffic deaths": 2.8495833333333334
+      }
+    },
+    {
+      "id": "30033",
+      "title": "Garfield, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30035",
+      "title": "Glacier, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.35294117647058854,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30037",
+      "title": "Golden Valley, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30039",
+      "title": "Granite, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30041",
+      "title": "Hill, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.2672058823529406,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30043",
+      "title": "Jefferson, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30045",
+      "title": "Judith Basin, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30047",
+      "title": "Lake, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.952058823529412,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30049",
+      "title": "Lewis and Clark, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.3953676470588237,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30051",
+      "title": "Liberty, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30053",
+      "title": "Lincoln, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.699411764705881,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30055",
+      "title": "McCone, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30057",
+      "title": "Madison, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30059",
+      "title": "Meagher, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30061",
+      "title": "Mineral, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30063",
+      "title": "Missoula, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.459852941176471,
+        "Traffic deaths": 4.328333333333333
+      }
+    },
+    {
+      "id": "30065",
+      "title": "Musselshell, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30067",
+      "title": "Park, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.7346323529411762,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30069",
+      "title": "Petroleum, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30071",
+      "title": "Phillips, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30073",
+      "title": "Pondera, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30075",
+      "title": "Powder River, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30077",
+      "title": "Powell, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30079",
+      "title": "Prairie, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30081",
+      "title": "Ravalli, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.445294117647059,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30083",
+      "title": "Richland, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.15441176470588297,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30085",
+      "title": "Roosevelt, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.0,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30087",
+      "title": "Rosebud, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30089",
+      "title": "Sanders, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.9411764705882355,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30091",
+      "title": "Sheridan, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30093",
+      "title": "Silver Bow, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.712205882352941,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30095",
+      "title": "Stillwater, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30097",
+      "title": "Sweet Grass, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30099",
+      "title": "Teton, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30101",
+      "title": "Toole, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30103",
+      "title": "Treasure, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30105",
+      "title": "Valley, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30107",
+      "title": "Wheatland, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30109",
+      "title": "Wibaux, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.006569902605917,
+        "Traffic deaths": 4.569252193281444
+      }
+    },
+    {
+      "id": "30111",
+      "title": "Yellowstone, MT",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.101176470588236,
+        "Traffic deaths": 4.261875
+      }
+    },
+    {
+      "id": "36001",
+      "title": "Albany, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.626250000000001,
+        "Traffic deaths": 6.9314583333333335
+      }
+    },
+    {
+      "id": "36003",
+      "title": "Allegany, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.388529411764706,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36005",
+      "title": "Bronx, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.120588235294118,
+        "Traffic deaths": 7.5
+      }
+    },
+    {
+      "id": "36007",
+      "title": "Broome, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.05985294117647,
+        "Traffic deaths": 6.350833333333334
+      }
+    },
+    {
+      "id": "36009",
+      "title": "Cattaraugus, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.101544117647058,
+        "Traffic deaths": 2.9091666666666662
+      }
+    },
+    {
+      "id": "36011",
+      "title": "Cayuga, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.552867647058823,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36013",
+      "title": "Chautauqua, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.251985294117648,
+        "Traffic deaths": 5.011041666666667
+      }
+    },
+    {
+      "id": "36015",
+      "title": "Chemung, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.094338235294117,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36017",
+      "title": "Chenango, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.302205882352942,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36019",
+      "title": "Clinton, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.048823529411766,
+        "Traffic deaths": 3.8672916666666666
+      }
+    },
+    {
+      "id": "36021",
+      "title": "Columbia, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.945735294117647,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36023",
+      "title": "Cortland, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.682132352941176,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36025",
+      "title": "Delaware, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.47125,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36027",
+      "title": "Dutchess, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.218823529411765,
+        "Traffic deaths": 6.0687500000000005
+      }
+    },
+    {
+      "id": "36029",
+      "title": "Erie, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.679705882352941,
+        "Traffic deaths": 7.2475
+      }
+    },
+    {
+      "id": "36031",
+      "title": "Essex, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.245808823529412,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36033",
+      "title": "Franklin, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8770588235294117,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36035",
+      "title": "Fulton, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.074779411764705,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36037",
+      "title": "Genesee, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.851102941176471,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36039",
+      "title": "Greene, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.339558823529411,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36041",
+      "title": "Hamilton, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.39264705882353,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36043",
+      "title": "Herkimer, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.843602941176471,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36045",
+      "title": "Jefferson, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.808161764705882,
+        "Traffic deaths": 4.405208333333333
+      }
+    },
+    {
+      "id": "36047",
+      "title": "Kings, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.265955882352941,
+        "Traffic deaths": 7.5
+      }
+    },
+    {
+      "id": "36049",
+      "title": "Lewis, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.264117647058824,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36051",
+      "title": "Livingston, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.87985294117647,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36053",
+      "title": "Madison, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.614632352941176,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36055",
+      "title": "Monroe, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.530661764705883,
+        "Traffic deaths": 6.864583333333334
+      }
+    },
+    {
+      "id": "36057",
+      "title": "Montgomery, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.614852941176471,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36059",
+      "title": "Nassau, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.935073529411765,
+        "Traffic deaths": 7.17625
+      }
+    },
+    {
+      "id": "36061",
+      "title": "New York, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.319338235294117,
+        "Traffic deaths": 7.5
+      }
+    },
+    {
+      "id": "36063",
+      "title": "Niagara, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.931176470588236,
+        "Traffic deaths": 6.055416666666667
+      }
+    },
+    {
+      "id": "36065",
+      "title": "Oneida, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.244044117647058,
+        "Traffic deaths": 6.143958333333333
+      }
+    },
+    {
+      "id": "36067",
+      "title": "Onondaga, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.873455882352942,
+        "Traffic deaths": 6.748125
+      }
+    },
+    {
+      "id": "36069",
+      "title": "Ontario, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.745,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36071",
+      "title": "Orange, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.228088235294118,
+        "Traffic deaths": 6.869999999999999
+      }
+    },
+    {
+      "id": "36073",
+      "title": "Orleans, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.891470588235293,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36075",
+      "title": "Oswego, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.211617647058824,
+        "Traffic deaths": 4.78625
+      }
+    },
+    {
+      "id": "36077",
+      "title": "Otsego, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.064044117647059,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36079",
+      "title": "Putnam, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.517941176470588,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36081",
+      "title": "Queens, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.158088235294118,
+        "Traffic deaths": 7.444999999999999
+      }
+    },
+    {
+      "id": "36083",
+      "title": "Rensselaer, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.203235294117647,
+        "Traffic deaths": 5.74625
+      }
+    },
+    {
+      "id": "36085",
+      "title": "Richmond, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.194926470588234,
+        "Traffic deaths": 7.5
+      }
+    },
+    {
+      "id": "36087",
+      "title": "Rockland, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.74139705882353,
+        "Traffic deaths": 7.203333333333333
+      }
+    },
+    {
+      "id": "36089",
+      "title": "St Lawrence, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.792941176470588,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36091",
+      "title": "Saratoga, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.89014705882353,
+        "Traffic deaths": 6.694375000000001
+      }
+    },
+    {
+      "id": "36093",
+      "title": "Schenectady, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.287867647058825,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36095",
+      "title": "Schoharie, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.4577205882352935,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36097",
+      "title": "Schuyler, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.029411764705883,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36099",
+      "title": "Seneca, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.5852941176470585,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36101",
+      "title": "Steuben, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.244264705882353,
+        "Traffic deaths": 2.8341666666666665
+      }
+    },
+    {
+      "id": "36103",
+      "title": "Suffolk, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.867867647058823,
+        "Traffic deaths": 6.300208333333334
+      }
+    },
+    {
+      "id": "36105",
+      "title": "Sullivan, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.832132352941176,
+        "Traffic deaths": 2.6760416666666664
+      }
+    },
+    {
+      "id": "36107",
+      "title": "Tioga, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.595882352941176,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36109",
+      "title": "Tompkins, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.796911764705881,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36111",
+      "title": "Ulster, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.270441176470589,
+        "Traffic deaths": 5.817291666666668
+      }
+    },
+    {
+      "id": "36113",
+      "title": "Warren, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.930073529411765,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36115",
+      "title": "Washington, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.014852941176471,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36117",
+      "title": "Wayne, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.807941176470589,
+        "Traffic deaths": 3.2808333333333337
+      }
+    },
+    {
+      "id": "36119",
+      "title": "Westchester, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.5962499999999995,
+        "Traffic deaths": 7.5
+      }
+    },
+    {
+      "id": "36121",
+      "title": "Wyoming, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.104926470588236,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "36123",
+      "title": "Yates, NY",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.681176470588235,
+        "Traffic deaths": 6.803391394583117
+      }
+    },
+    {
+      "id": "40001",
+      "title": "Adair, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.3460294117647065,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40003",
+      "title": "Alfalfa, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40005",
+      "title": "Atoka, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5955882352941178,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40007",
+      "title": "Beaver, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40009",
+      "title": "Beckham, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.1403676470588238,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40011",
+      "title": "Blaine, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.1763970588235289,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40013",
+      "title": "Bryan, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9370588235294117,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40015",
+      "title": "Caddo, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.5563970588235287,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "40017",
+      "title": "Canadian, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9818382352941173,
+        "Traffic deaths": 4.960416666666666
+      }
+    },
+    {
+      "id": "40019",
+      "title": "Carter, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.4246323529411757,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40021",
+      "title": "Cherokee, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0030882352941175,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40023",
+      "title": "Choctaw, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.000220588235294,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40025",
+      "title": "Cimarron, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40027",
+      "title": "Cleveland, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8342647058823536,
+        "Traffic deaths": 6.0893749999999995
+      }
+    },
+    {
+      "id": "40029",
+      "title": "Coal, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40031",
+      "title": "Comanche, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.951029411764706,
+        "Traffic deaths": 4.960208333333334
+      }
+    },
+    {
+      "id": "40033",
+      "title": "Cotton, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40035",
+      "title": "Craig, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0661764705882346,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40037",
+      "title": "Creek, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.872352941176471,
+        "Traffic deaths": 1.5127083333333338
+      }
+    },
+    {
+      "id": "40039",
+      "title": "Custer, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.782279411764706,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40041",
+      "title": "Delaware, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.342058823529412,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "40043",
+      "title": "Dewey, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40045",
+      "title": "Ellis, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40047",
+      "title": "Garfield, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.3424264705882356,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40049",
+      "title": "Garvin, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.905,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "40051",
+      "title": "Grady, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.894338235294117,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40053",
+      "title": "Grant, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40055",
+      "title": "Greer, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40057",
+      "title": "Harmon, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40059",
+      "title": "Harper, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40061",
+      "title": "Haskell, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.735294117647059,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40063",
+      "title": "Hughes, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2805882352941174,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40065",
+      "title": "Jackson, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.333970588235294,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40067",
+      "title": "Jefferson, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40069",
+      "title": "Johnston, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.0808823529411762,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40071",
+      "title": "Kay, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.3874999999999997,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40073",
+      "title": "Kingfisher, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.233308823529412,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40075",
+      "title": "Kiowa, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.0,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40077",
+      "title": "Latimer, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.3455882352941178,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40079",
+      "title": "Le Flore, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.86375,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "40081",
+      "title": "Lincoln, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.673529411764706,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40083",
+      "title": "Logan, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.030808823529411,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40085",
+      "title": "Love, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40087",
+      "title": "McClain, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.8806617647058825,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40089",
+      "title": "McCurtain, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.363088235294117,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "40091",
+      "title": "McIntosh, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.423455882352941,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40093",
+      "title": "Major, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40095",
+      "title": "Marshall, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.9380147058823525,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40097",
+      "title": "Mayes, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.5078676470588235,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40099",
+      "title": "Murray, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.9055882352941174,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40101",
+      "title": "Muskogee, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5025000000000004,
+        "Traffic deaths": 2.6764583333333336
+      }
+    },
+    {
+      "id": "40103",
+      "title": "Noble, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.6691176470588243,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40105",
+      "title": "Nowata, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.2941176470588234,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40107",
+      "title": "Okfuskee, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.2125000000000004,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40109",
+      "title": "Oklahoma, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.4615441176470583,
+        "Traffic deaths": 5.212916666666667
+      }
+    },
+    {
+      "id": "40111",
+      "title": "Okmulgee, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.280514705882354,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40113",
+      "title": "Osage, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.4732352941176465,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40115",
+      "title": "Ottawa, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5938235294117646,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "40117",
+      "title": "Pawnee, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.390735294117647,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40119",
+      "title": "Payne, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.009558823529412,
+        "Traffic deaths": 1.7995833333333338
+      }
+    },
+    {
+      "id": "40121",
+      "title": "Pittsburg, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.650441176470588,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "40123",
+      "title": "Pontotoc, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.021838235294118,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40125",
+      "title": "Pottawatomie, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.0263235294117647,
+        "Traffic deaths": 2.7039583333333335
+      }
+    },
+    {
+      "id": "40127",
+      "title": "Pushmataha, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.169117647058823,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40129",
+      "title": "Roger Mills, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40131",
+      "title": "Rogers, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.84279411764706,
+        "Traffic deaths": 3.848333333333334
+      }
+    },
+    {
+      "id": "40133",
+      "title": "Seminole, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0478676470588235,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40135",
+      "title": "Sequoyah, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9101470588235294,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40137",
+      "title": "Stephens, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.6941176470588233,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40139",
+      "title": "Texas, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5166176470588235,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40141",
+      "title": "Tillman, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4258604219810316,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40143",
+      "title": "Tulsa, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.66014705882353,
+        "Traffic deaths": 5.494999999999999
+      }
+    },
+    {
+      "id": "40145",
+      "title": "Wagoner, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.288382352941176,
+        "Traffic deaths": 2.6985416666666664
+      }
+    },
+    {
+      "id": "40147",
+      "title": "Washington, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.923529411764706,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40149",
+      "title": "Washita, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.0,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40151",
+      "title": "Woods, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.3088235294117644,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "40153",
+      "title": "Woodward, OK",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.14610294117647,
+        "Traffic deaths": 4.053431765743275
+      }
+    },
+    {
+      "id": "48001",
+      "title": "Anderson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.885588235294118,
+        "Traffic deaths": 0.5779166666666669
+      }
+    },
+    {
+      "id": "48003",
+      "title": "Andrews, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.4338235294117645,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48005",
+      "title": "Angelina, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.586617647058823,
+        "Traffic deaths": 2.7956250000000002
+      }
+    },
+    {
+      "id": "48007",
+      "title": "Aransas, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.872794117647058,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48009",
+      "title": "Archer, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48011",
+      "title": "Armstrong, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48013",
+      "title": "Atascosa, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.187941176470588,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48015",
+      "title": "Austin, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.166764705882353,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48017",
+      "title": "Bailey, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48019",
+      "title": "Bandera, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.613970588235294,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48021",
+      "title": "Bastrop, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.088602941176471,
+        "Traffic deaths": 0.5550000000000003
+      }
+    },
+    {
+      "id": "48023",
+      "title": "Baylor, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48025",
+      "title": "Bee, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.86985294117647,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48027",
+      "title": "Bell, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.384117647058824,
+        "Traffic deaths": 5.130833333333333
+      }
+    },
+    {
+      "id": "48029",
+      "title": "Bexar, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.142132352941177,
+        "Traffic deaths": 6.082291666666666
+      }
+    },
+    {
+      "id": "48031",
+      "title": "Blanco, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48033",
+      "title": "Borden, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48035",
+      "title": "Bosque, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.492647058823529,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48037",
+      "title": "Bowie, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.597352941176471,
+        "Traffic deaths": 3.22125
+      }
+    },
+    {
+      "id": "48039",
+      "title": "Brazoria, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.228308823529412,
+        "Traffic deaths": 6.023333333333333
+      }
+    },
+    {
+      "id": "48041",
+      "title": "Brazos, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.969485294117646,
+        "Traffic deaths": 6.159791666666666
+      }
+    },
+    {
+      "id": "48043",
+      "title": "Brewster, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48045",
+      "title": "Briscoe, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48047",
+      "title": "Brooks, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48049",
+      "title": "Brown, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.701911764705882,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48051",
+      "title": "Burleson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48053",
+      "title": "Burnet, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.786102941176471,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48055",
+      "title": "Caldwell, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.135514705882352,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48057",
+      "title": "Calhoun, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.147058823529412,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48059",
+      "title": "Callahan, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48061",
+      "title": "Cameron, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.868676470588236,
+        "Traffic deaths": 5.9852083333333335
+      }
+    },
+    {
+      "id": "48063",
+      "title": "Camp, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.360294117647059,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48065",
+      "title": "Carson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48067",
+      "title": "Cass, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.664044117647059,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48069",
+      "title": "Castro, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48071",
+      "title": "Chambers, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.4183088235294115,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48073",
+      "title": "Cherokee, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.799705882352942,
+        "Traffic deaths": 0.09791666666666643
+      }
+    },
+    {
+      "id": "48075",
+      "title": "Childress, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48077",
+      "title": "Clay, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48079",
+      "title": "Cochran, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48081",
+      "title": "Coke, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48083",
+      "title": "Coleman, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.9191176470588234,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48085",
+      "title": "Collin, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.536764705882353,
+        "Traffic deaths": 7.08
+      }
+    },
+    {
+      "id": "48087",
+      "title": "Collingsworth, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48089",
+      "title": "Colorado, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.914191176470588,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48091",
+      "title": "Comal, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.216617647058824,
+        "Traffic deaths": 3.727291666666666
+      }
+    },
+    {
+      "id": "48093",
+      "title": "Comanche, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8382352941176467,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48095",
+      "title": "Concho, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48097",
+      "title": "Cooke, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.639411764705883,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48099",
+      "title": "Coryell, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.806764705882353,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48101",
+      "title": "Cottle, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48103",
+      "title": "Crane, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48105",
+      "title": "Crockett, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48107",
+      "title": "Crosby, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48109",
+      "title": "Culberson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48111",
+      "title": "Dallam, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48113",
+      "title": "Dallas, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.7564705882352944,
+        "Traffic deaths": 5.896458333333333
+      }
+    },
+    {
+      "id": "48115",
+      "title": "Dawson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.6029411764705888,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48117",
+      "title": "Deaf Smith, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.8602941176470584,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48119",
+      "title": "Delta, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48121",
+      "title": "Denton, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.3390441176470596,
+        "Traffic deaths": 6.911666666666667
+      }
+    },
+    {
+      "id": "48123",
+      "title": "De Witt, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.139705882352941,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48125",
+      "title": "Dickens, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48127",
+      "title": "Dimmit, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48129",
+      "title": "Donley, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48131",
+      "title": "Duval, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48133",
+      "title": "Eastland, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.879705882352942,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48135",
+      "title": "Ector, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.161029411764705,
+        "Traffic deaths": 1.6602083333333335
+      }
+    },
+    {
+      "id": "48137",
+      "title": "Edwards, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48139",
+      "title": "Ellis, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.107647058823529,
+        "Traffic deaths": 5.5720833333333335
+      }
+    },
+    {
+      "id": "48141",
+      "title": "El Paso, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.165661764705883,
+        "Traffic deaths": 5.501874999999999
+      }
+    },
+    {
+      "id": "48143",
+      "title": "Erath, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.8705147058823535,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48145",
+      "title": "Falls, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.3014705882352935,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48147",
+      "title": "Fannin, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.1764705882352935,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48149",
+      "title": "Fayette, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.471470588235295,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48151",
+      "title": "Fisher, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48153",
+      "title": "Floyd, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48155",
+      "title": "Foard, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48157",
+      "title": "Fort Bend, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.617867647058823,
+        "Traffic deaths": 6.9487499999999995
+      }
+    },
+    {
+      "id": "48159",
+      "title": "Franklin, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48161",
+      "title": "Freestone, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.147058823529412,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48163",
+      "title": "Frio, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48165",
+      "title": "Gaines, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.277058823529412,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48167",
+      "title": "Galveston, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.236911764705882,
+        "Traffic deaths": 5.235208333333333
+      }
+    },
+    {
+      "id": "48169",
+      "title": "Garza, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48171",
+      "title": "Gillespie, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.330882352941177,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48173",
+      "title": "Glasscock, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48175",
+      "title": "Goliad, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48177",
+      "title": "Gonzales, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.919117647058823,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48179",
+      "title": "Gray, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.311838235294117,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48181",
+      "title": "Grayson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.4941176470588236,
+        "Traffic deaths": 4.665
+      }
+    },
+    {
+      "id": "48183",
+      "title": "Gregg, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.011249999999999,
+        "Traffic deaths": 1.8333333333333335
+      }
+    },
+    {
+      "id": "48185",
+      "title": "Grimes, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.821544117647058,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48187",
+      "title": "Guadalupe, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.686544117647059,
+        "Traffic deaths": 5.084583333333334
+      }
+    },
+    {
+      "id": "48189",
+      "title": "Hale, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.211176470588235,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48191",
+      "title": "Hall, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48193",
+      "title": "Hamilton, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48195",
+      "title": "Hansford, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48197",
+      "title": "Hardeman, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48199",
+      "title": "Hardin, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.936102941176471,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48201",
+      "title": "Harris, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.38875,
+        "Traffic deaths": 6.097708333333332
+      }
+    },
+    {
+      "id": "48203",
+      "title": "Harrison, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.5773529411764695,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48205",
+      "title": "Hartley, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48207",
+      "title": "Haskell, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48209",
+      "title": "Hays, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.242279411764706,
+        "Traffic deaths": 5.680833333333333
+      }
+    },
+    {
+      "id": "48211",
+      "title": "Hemphill, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48213",
+      "title": "Henderson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.2491176470588226,
+        "Traffic deaths": 1.763958333333333
+      }
+    },
+    {
+      "id": "48215",
+      "title": "Hidalgo, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.297499999999999,
+        "Traffic deaths": 6.142708333333333
+      }
+    },
+    {
+      "id": "48217",
+      "title": "Hill, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.189779411764706,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48219",
+      "title": "Hockley, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.250367647058823,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48221",
+      "title": "Hood, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.405294117647058,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48223",
+      "title": "Hopkins, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.86375,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48225",
+      "title": "Houston, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.955882352941176,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48227",
+      "title": "Howard, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.907794117647058,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48229",
+      "title": "Hudspeth, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48231",
+      "title": "Hunt, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.8482352941176465,
+        "Traffic deaths": 3.9887500000000005
+      }
+    },
+    {
+      "id": "48233",
+      "title": "Hutchinson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.612720588235295,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48235",
+      "title": "Irion, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48237",
+      "title": "Jack, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48239",
+      "title": "Jackson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48241",
+      "title": "Jasper, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.3076470588235285,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48243",
+      "title": "Jeff Davis, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48245",
+      "title": "Jefferson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.197205882352941,
+        "Traffic deaths": 3.715833333333333
+      }
+    },
+    {
+      "id": "48247",
+      "title": "Jim Hogg, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48249",
+      "title": "Jim Wells, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.919705882352941,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48251",
+      "title": "Johnson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.838308823529411,
+        "Traffic deaths": 4.023541666666667
+      }
+    },
+    {
+      "id": "48253",
+      "title": "Jones, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.4338235294117645,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48255",
+      "title": "Karnes, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48257",
+      "title": "Kaufman, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.183529411764706,
+        "Traffic deaths": 3.567291666666667
+      }
+    },
+    {
+      "id": "48259",
+      "title": "Kendall, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.330220588235294,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48261",
+      "title": "Kenedy, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48263",
+      "title": "Kent, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48265",
+      "title": "Kerr, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.9583088235294115,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48267",
+      "title": "Kimble, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48269",
+      "title": "King, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48271",
+      "title": "Kinney, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48273",
+      "title": "Kleberg, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.448529411764706,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48275",
+      "title": "Knox, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48277",
+      "title": "Lamar, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.523088235294117,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48279",
+      "title": "Lamb, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.1985294117647056,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48281",
+      "title": "Lampasas, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.080882352941176,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48283",
+      "title": "La Salle, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48285",
+      "title": "Lavaca, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.470588235294118,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48287",
+      "title": "Lee, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5514705882352944,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48289",
+      "title": "Leon, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.875,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48291",
+      "title": "Liberty, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.13375,
+        "Traffic deaths": 2.511875
+      }
+    },
+    {
+      "id": "48293",
+      "title": "Limestone, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.676470588235294,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48295",
+      "title": "Lipscomb, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48297",
+      "title": "Live Oak, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48299",
+      "title": "Llano, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.335441176470588,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48301",
+      "title": "Loving, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48303",
+      "title": "Lubbock, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.4683088235294113,
+        "Traffic deaths": 5.172083333333334
+      }
+    },
+    {
+      "id": "48305",
+      "title": "Lynn, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48307",
+      "title": "McCulloch, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48309",
+      "title": "McLennan, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.340882352941176,
+        "Traffic deaths": 5.054583333333333
+      }
+    },
+    {
+      "id": "48311",
+      "title": "McMullen, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48313",
+      "title": "Madison, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48315",
+      "title": "Marion, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48317",
+      "title": "Martin, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48319",
+      "title": "Mason, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48321",
+      "title": "Matagorda, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.664779411764705,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48323",
+      "title": "Maverick, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.291617647058823,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48325",
+      "title": "Medina, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.224338235294118,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48327",
+      "title": "Menard, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48329",
+      "title": "Midland, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.471838235294117,
+        "Traffic deaths": 2.8479166666666673
+      }
+    },
+    {
+      "id": "48331",
+      "title": "Milam, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.895073529411765,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48333",
+      "title": "Mills, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48335",
+      "title": "Mitchell, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48337",
+      "title": "Montague, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.623823529411765,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48339",
+      "title": "Montgomery, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.520147058823529,
+        "Traffic deaths": 5.546250000000001
+      }
+    },
+    {
+      "id": "48341",
+      "title": "Moore, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0882352941176467,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48343",
+      "title": "Morris, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2867647058823524,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48345",
+      "title": "Motley, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48347",
+      "title": "Nacogdoches, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.623014705882353,
+        "Traffic deaths": 1.4904166666666674
+      }
+    },
+    {
+      "id": "48349",
+      "title": "Navarro, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.092794117647059,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48351",
+      "title": "Newton, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.7794117647058822,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48353",
+      "title": "Nolan, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.13235294117647,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48355",
+      "title": "Nueces, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.018308823529413,
+        "Traffic deaths": 5.493541666666666
+      }
+    },
+    {
+      "id": "48357",
+      "title": "Ochiltree, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48359",
+      "title": "Oldham, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48361",
+      "title": "Orange, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.565661764705883,
+        "Traffic deaths": 2.4054166666666665
+      }
+    },
+    {
+      "id": "48363",
+      "title": "Palo Pinto, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.038676470588236,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48365",
+      "title": "Panola, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.88889705882353,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48367",
+      "title": "Parker, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.681470588235294,
+        "Traffic deaths": 3.991458333333333
+      }
+    },
+    {
+      "id": "48369",
+      "title": "Parmer, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48371",
+      "title": "Pecos, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48373",
+      "title": "Polk, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.5722058823529412,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48375",
+      "title": "Potter, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.416397058823529,
+        "Traffic deaths": 2.5960416666666664
+      }
+    },
+    {
+      "id": "48377",
+      "title": "Presidio, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48379",
+      "title": "Rains, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48381",
+      "title": "Randall, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.884411764705883,
+        "Traffic deaths": 5.390833333333333
+      }
+    },
+    {
+      "id": "48383",
+      "title": "Reagan, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48385",
+      "title": "Real, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48387",
+      "title": "Red River, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.3382352941176476,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48389",
+      "title": "Reeves, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48391",
+      "title": "Refugio, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48393",
+      "title": "Roberts, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48395",
+      "title": "Robertson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48397",
+      "title": "Rockwall, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.159191176470587,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48399",
+      "title": "Runnels, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48401",
+      "title": "Rusk, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.0008823529411774,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48403",
+      "title": "Sabine, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.0108823529411763,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48405",
+      "title": "San Augustine, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.0,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48407",
+      "title": "San Jacinto, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.221323529411766,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48409",
+      "title": "San Patricio, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.203161764705882,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48411",
+      "title": "San Saba, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48413",
+      "title": "Schleicher, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48415",
+      "title": "Scurry, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.9558823529411757,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48417",
+      "title": "Shackelford, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48419",
+      "title": "Shelby, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.733308823529411,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48421",
+      "title": "Sherman, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48423",
+      "title": "Smith, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.814044117647059,
+        "Traffic deaths": 3.2643750000000002
+      }
+    },
+    {
+      "id": "48425",
+      "title": "Somervell, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48427",
+      "title": "Starr, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.322205882352941,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48429",
+      "title": "Stephens, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48431",
+      "title": "Sterling, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48433",
+      "title": "Stonewall, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48435",
+      "title": "Sutton, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48437",
+      "title": "Swisher, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48439",
+      "title": "Tarrant, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.31610294117647,
+        "Traffic deaths": 6.159375
+      }
+    },
+    {
+      "id": "48441",
+      "title": "Taylor, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.012426470588235,
+        "Traffic deaths": 4.228333333333333
+      }
+    },
+    {
+      "id": "48443",
+      "title": "Terrell, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48445",
+      "title": "Terry, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.323529411764706,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48447",
+      "title": "Throckmorton, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48449",
+      "title": "Titus, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.36720588235294,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48451",
+      "title": "Tom Green, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.465514705882352,
+        "Traffic deaths": 4.579166666666667
+      }
+    },
+    {
+      "id": "48453",
+      "title": "Travis, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.4861764705882345,
+        "Traffic deaths": 6.3097916666666665
+      }
+    },
+    {
+      "id": "48455",
+      "title": "Trinity, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.566176470588235,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48457",
+      "title": "Tyler, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.6651470588235293,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48459",
+      "title": "Upshur, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.533455882352941,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48461",
+      "title": "Upton, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48463",
+      "title": "Uvalde, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.977941176470589,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48465",
+      "title": "Val Verde, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.04235294117647,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48467",
+      "title": "Van Zandt, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.889485294117646,
+        "Traffic deaths": 0.07624999999999993
+      }
+    },
+    {
+      "id": "48469",
+      "title": "Victoria, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.175588235294118,
+        "Traffic deaths": 0.5799999999999998
+      }
+    },
+    {
+      "id": "48471",
+      "title": "Walker, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.500955882352941,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48473",
+      "title": "Waller, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.0475,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48475",
+      "title": "Ward, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.5220588235294112,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48477",
+      "title": "Washington, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.34860294117647,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48479",
+      "title": "Webb, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.979044117647059,
+        "Traffic deaths": 5.269583333333333
+      }
+    },
+    {
+      "id": "48481",
+      "title": "Wharton, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.258235294117647,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48483",
+      "title": "Wheeler, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48485",
+      "title": "Wichita, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.019705882352941,
+        "Traffic deaths": 4.678541666666667
+      }
+    },
+    {
+      "id": "48487",
+      "title": "Wilbarger, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.977941176470588,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48489",
+      "title": "Willacy, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48491",
+      "title": "Williamson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.2536764705882355,
+        "Traffic deaths": 6.778333333333333
+      }
+    },
+    {
+      "id": "48493",
+      "title": "Wilson, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.761691176470588,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48495",
+      "title": "Winkler, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48497",
+      "title": "Wise, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.619264705882354,
+        "Traffic deaths": 1.049166666666667
+      }
+    },
+    {
+      "id": "48499",
+      "title": "Wood, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.3265441176470585,
+        "Traffic deaths": 0.0
+      }
+    },
+    {
+      "id": "48501",
+      "title": "Yoakum, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48503",
+      "title": "Young, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9926470588235294,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48505",
+      "title": "Zapata, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "48507",
+      "title": "Zavala, TX",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.109027529234978,
+        "Traffic deaths": 3.83458388899785
+      }
+    },
+    {
+      "id": "6001",
+      "title": "Alameda, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.055514705882352,
+        "Traffic deaths": 6.826249999999999
+      }
+    },
+    {
+      "id": "6003",
+      "title": "Alpine, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.571323529411764,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6005",
+      "title": "Amador, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.8131617647058835,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6007",
+      "title": "Butte, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9659558823529406,
+        "Traffic deaths": 4.627083333333334
+      }
+    },
+    {
+      "id": "6009",
+      "title": "Calaveras, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.662941176470588,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6011",
+      "title": "Colusa, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.665882352941177,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6013",
+      "title": "Contra Costa, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.030588235294118,
+        "Traffic deaths": 6.2231250000000005
+      }
+    },
+    {
+      "id": "6015",
+      "title": "Del Norte, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.4592647058823527,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6017",
+      "title": "El Dorado, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.884411764705883,
+        "Traffic deaths": 4.835833333333333
+      }
+    },
+    {
+      "id": "6019",
+      "title": "Fresno, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.161691176470589,
+        "Traffic deaths": 4.92
+      }
+    },
+    {
+      "id": "6021",
+      "title": "Glenn, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.89014705882353,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6023",
+      "title": "Humboldt, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.9107352941176465,
+        "Traffic deaths": 4.393958333333334
+      }
+    },
+    {
+      "id": "6025",
+      "title": "Imperial, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.354926470588234,
+        "Traffic deaths": 4.695625
+      }
+    },
+    {
+      "id": "6027",
+      "title": "Inyo, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.109264705882353,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6029",
+      "title": "Kern, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.057132352941177,
+        "Traffic deaths": 4.7179166666666665
+      }
+    },
+    {
+      "id": "6031",
+      "title": "Kings, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.50139705882353,
+        "Traffic deaths": 4.813125
+      }
+    },
+    {
+      "id": "6033",
+      "title": "Lake, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.8892647058823524,
+        "Traffic deaths": 2.1981249999999997
+      }
+    },
+    {
+      "id": "6035",
+      "title": "Lassen, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.114632352941177,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6037",
+      "title": "Los Angeles, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.340514705882352,
+        "Traffic deaths": 6.4939583333333335
+      }
+    },
+    {
+      "id": "6039",
+      "title": "Madera, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.7379411764705885,
+        "Traffic deaths": 4.359166666666667
+      }
+    },
+    {
+      "id": "6041",
+      "title": "Marin, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.948602941176471,
+        "Traffic deaths": 6.723541666666666
+      }
+    },
+    {
+      "id": "6043",
+      "title": "Mariposa, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.390294117647059,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6045",
+      "title": "Mendocino, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.351323529411765,
+        "Traffic deaths": 1.0387499999999994
+      }
+    },
+    {
+      "id": "6047",
+      "title": "Merced, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.601838235294118,
+        "Traffic deaths": 4.026666666666666
+      }
+    },
+    {
+      "id": "6049",
+      "title": "Modoc, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.571323529411764,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6051",
+      "title": "Mono, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.571323529411764,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6053",
+      "title": "Monterey, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.302426470588236,
+        "Traffic deaths": 5.634375
+      }
+    },
+    {
+      "id": "6055",
+      "title": "Napa, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.379044117647059,
+        "Traffic deaths": 5.257291666666666
+      }
+    },
+    {
+      "id": "6057",
+      "title": "Nevada, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.666691176470588,
+        "Traffic deaths": 3.946041666666666
+      }
+    },
+    {
+      "id": "6059",
+      "title": "Orange, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.106911764705883,
+        "Traffic deaths": 6.707916666666667
+      }
+    },
+    {
+      "id": "6061",
+      "title": "Placer, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.074999999999999,
+        "Traffic deaths": 6.476458333333333
+      }
+    },
+    {
+      "id": "6063",
+      "title": "Plumas, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.831985294117647,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6065",
+      "title": "Riverside, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.737426470588234,
+        "Traffic deaths": 5.325208333333333
+      }
+    },
+    {
+      "id": "6067",
+      "title": "Sacramento, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.941323529411765,
+        "Traffic deaths": 5.802708333333333
+      }
+    },
+    {
+      "id": "6069",
+      "title": "San Benito, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.242279411764706,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6071",
+      "title": "San Bernardino, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.620514705882352,
+        "Traffic deaths": 5.081666666666667
+      }
+    },
+    {
+      "id": "6073",
+      "title": "San Diego, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.076764705882354,
+        "Traffic deaths": 6.5235416666666675
+      }
+    },
+    {
+      "id": "6075",
+      "title": "San Francisco, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.519264705882353,
+        "Traffic deaths": 7.5
+      }
+    },
+    {
+      "id": "6077",
+      "title": "San Joaquin, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.323823529411765,
+        "Traffic deaths": 5.0077083333333325
+      }
+    },
+    {
+      "id": "6079",
+      "title": "San Luis Obispo, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.24860294117647,
+        "Traffic deaths": 6.618125
+      }
+    },
+    {
+      "id": "6081",
+      "title": "San Mateo, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 7.001911764705883,
+        "Traffic deaths": 7.289166666666667
+      }
+    },
+    {
+      "id": "6083",
+      "title": "Santa Barbara, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.13985294117647,
+        "Traffic deaths": 6.554375
+      }
+    },
+    {
+      "id": "6085",
+      "title": "Santa Clara, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.537573529411764,
+        "Traffic deaths": 6.951874999999999
+      }
+    },
+    {
+      "id": "6087",
+      "title": "Santa Cruz, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.275588235294118,
+        "Traffic deaths": 6.324166666666668
+      }
+    },
+    {
+      "id": "6089",
+      "title": "Shasta, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.546544117647058,
+        "Traffic deaths": 3.5358333333333336
+      }
+    },
+    {
+      "id": "6091",
+      "title": "Sierra, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.571323529411764,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6093",
+      "title": "Siskiyou, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.403235294117647,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6095",
+      "title": "Solano, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.125073529411765,
+        "Traffic deaths": 5.5
+      }
+    },
+    {
+      "id": "6097",
+      "title": "Sonoma, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.4943382352941175,
+        "Traffic deaths": 6.1137500000000005
+      }
+    },
+    {
+      "id": "6099",
+      "title": "Stanislaus, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.332205882352941,
+        "Traffic deaths": 4.5285416666666665
+      }
+    },
+    {
+      "id": "6101",
+      "title": "Sutter, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.4658823529411755,
+        "Traffic deaths": 4.24125
+      }
+    },
+    {
+      "id": "6103",
+      "title": "Tehama, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9474264705882356,
+        "Traffic deaths": 0.9860416666666659
+      }
+    },
+    {
+      "id": "6105",
+      "title": "Trinity, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.169117647058823,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6107",
+      "title": "Tulare, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.150220588235294,
+        "Traffic deaths": 4.858333333333333
+      }
+    },
+    {
+      "id": "6109",
+      "title": "Tuolumne, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.2483088235294115,
+        "Traffic deaths": 6.196049600835548
+      }
+    },
+    {
+      "id": "6111",
+      "title": "Ventura, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.7308088235294115,
+        "Traffic deaths": 6.497291666666666
+      }
+    },
+    {
+      "id": "6113",
+      "title": "Yolo, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.441176470588235,
+        "Traffic deaths": 6.049166666666667
+      }
+    },
+    {
+      "id": "6115",
+      "title": "Yuba, CA",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.6109558823529415,
+        "Traffic deaths": 2.767291666666667
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Adams, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.037058823529412,
+        "Traffic deaths": 5.849374999999999
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Alamosa, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Arapahoe, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.132941176470589,
+        "Traffic deaths": 6.401041666666667
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Archuleta, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Baca, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Bent, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Boulder, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.784264705882353,
+        "Traffic deaths": 6.901041666666666
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Broomfield, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.165367647058823,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Chaffee, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.846985294117648,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Cheyenne, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Clear Creek, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Conejos, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Costilla, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Crowley, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Custer, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Delta, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.952573529411765,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Denver, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.7687500000000003,
+        "Traffic deaths": 6.6502083333333335
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Dolores, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Douglas, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.973308823529411,
+        "Traffic deaths": 7.132291666666666
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Eagle, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 6.3882352941176475,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Elbert, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.4485294117647065,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8041",
+      "title": "El Paso, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.9063970588235297,
+        "Traffic deaths": 4.455
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Fremont, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.01735294117647,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Garfield, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.582058823529412,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Gilpin, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Grand, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.105735294117647,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Gunnison, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Hinsdale, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Huerfano, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Jackson, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Jefferson, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.0127941176470587,
+        "Traffic deaths": 6.703958333333334
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Kiowa, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Kit Carson, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Lake, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8067",
+      "title": "La Plata, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.853676470588235,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Larimer, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.469558823529411,
+        "Traffic deaths": 5.541666666666667
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Las Animas, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.600882352941177,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Lincoln, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Logan, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.221617647058824,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Mesa, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.666029411764706,
+        "Traffic deaths": 4.8225
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Mineral, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Moffat, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.5661764705882355,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Montezuma, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.8175735294117645,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Montrose, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 0.30970588235294194,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Morgan, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.19125,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Otero, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.338235294117648,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Ouray, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Park, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 1.7430882352941177,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Phillips, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Pitkin, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.6523529411764706,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Prowers, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.0955882352941178,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Pueblo, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.127205882352941,
+        "Traffic deaths": 2.7347916666666663
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Rio Blanco, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Rio Grande, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 3.2940441176470587,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Routt, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.830882352941176,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Saguache, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8111",
+      "title": "San Juan, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8113",
+      "title": "San Miguel, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Sedgwick, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Summit, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Teller, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 5.855955882352942,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Washington, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Weld, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 4.188970588235294,
+        "Traffic deaths": 4.3516666666666675
+      }
+    },
+    {
+      "id": "8125",
+      "title": "Yuma, CO",
+      "scores": {
+        "Fatalities from unintentional injuries": 2.78817276436519,
+        "Traffic deaths": 5.545687249732083
+      }
+    }
+  ],
+  "derivatives": {
+    "Protection from Harm": [
+      "Fatalities from unintentional injuries",
+      "Traffic deaths"
+    ]
+  },
+  "weightingOptions": {
+    "Fatalities from unintentional injuries": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Traffic deaths": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

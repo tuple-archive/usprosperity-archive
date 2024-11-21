@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Emissions": 67691605,
+        "Exposure to Air Pollution": 215108119,
+        "Forest, Land and Soil": 135409172,
+        "Freshwater": 141876792,
+        "Preservation Efforts": 61766447
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Emissions": 141345862,
+        "Exposure to Air Pollution": 136997405,
+        "Forest, Land and Soil": 73945423,
+        "Freshwater": 93371397,
+        "Preservation Efforts": 5477575
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Emissions": 124899695,
+        "Exposure to Air Pollution": 132511851,
+        "Forest, Land and Soil": 74589398,
+        "Freshwater": 70445234,
+        "Preservation Efforts": 22765551
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Emissions": 180236978,
+        "Exposure to Air Pollution": 189651773,
+        "Forest, Land and Soil": 62078066,
+        "Freshwater": 133487811,
+        "Preservation Efforts": 36616186
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Emissions": 203665682,
+        "Exposure to Air Pollution": 154836768,
+        "Forest, Land and Soil": 90091792,
+        "Freshwater": 92535128,
+        "Preservation Efforts": 70260468
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Emissions": 178115671,
+        "Exposure to Air Pollution": 200551970,
+        "Forest, Land and Soil": 93940251,
+        "Freshwater": 129110390,
+        "Preservation Efforts": 36760847
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Emissions": 211420157,
+        "Exposure to Air Pollution": 156130609,
+        "Forest, Land and Soil": 144399157,
+        "Freshwater": 154965474,
+        "Preservation Efforts": 6814649
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Emissions": 244956174,
+        "Exposure to Air Pollution": 145017603,
+        "Forest, Land and Soil": 78100705,
+        "Freshwater": 98514484,
+        "Preservation Efforts": 514300
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Emissions": 197056728,
+        "Exposure to Air Pollution": 125333558,
+        "Forest, Land and Soil": 131865757,
+        "Freshwater": 54395770,
+        "Preservation Efforts": 10454244
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Emissions": 190578155,
+        "Exposure to Air Pollution": 146705387,
+        "Forest, Land and Soil": 104212276,
+        "Freshwater": 105535511,
+        "Preservation Efforts": 33699271
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Emissions": 185526140,
+        "Exposure to Air Pollution": 139732102,
+        "Forest, Land and Soil": 90722430,
+        "Freshwater": 113132528,
+        "Preservation Efforts": 12095047
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Emissions": 185204109,
+        "Exposure to Air Pollution": 168538989,
+        "Forest, Land and Soil": 102173214,
+        "Freshwater": 79400903,
+        "Preservation Efforts": 39037606
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Emissions": 148188225,
+        "Exposure to Air Pollution": 167102708,
+        "Forest, Land and Soil": 57388666,
+        "Freshwater": 83468421,
+        "Preservation Efforts": 3520365
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Emissions": 140260889,
+        "Exposure to Air Pollution": 179418608,
+        "Forest, Land and Soil": 65267502,
+        "Freshwater": 52003139,
+        "Preservation Efforts": 55336852
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Emissions": 181753300,
+        "Exposure to Air Pollution": 133508824,
+        "Forest, Land and Soil": 48315598,
+        "Freshwater": 81807402,
+        "Preservation Efforts": 7174020
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Emissions": 146652400,
+        "Exposure to Air Pollution": 117133756,
+        "Forest, Land and Soil": 64607762,
+        "Freshwater": 65444668,
+        "Preservation Efforts": 7286110
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Emissions": 130757087,
+        "Exposure to Air Pollution": 165981136,
+        "Forest, Land and Soil": 51403388,
+        "Freshwater": 86882249,
+        "Preservation Efforts": 1790872
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Emissions": 138013037,
+        "Exposure to Air Pollution": 143790292,
+        "Forest, Land and Soil": 55906099,
+        "Freshwater": 101356394,
+        "Preservation Efforts": 4981933
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Emissions": 106709872,
+        "Exposure to Air Pollution": 141370069,
+        "Forest, Land and Soil": 99916483,
+        "Freshwater": 56015145,
+        "Preservation Efforts": 14803183
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Emissions": 214580683,
+        "Exposure to Air Pollution": 145730600,
+        "Forest, Land and Soil": 119170781,
+        "Freshwater": 135974219,
+        "Preservation Efforts": 15127876
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Emissions": 207504031,
+        "Exposure to Air Pollution": 136986600,
+        "Forest, Land and Soil": 111318315,
+        "Freshwater": 120557352,
+        "Preservation Efforts": 10722094
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Emissions": 179521957,
+        "Exposure to Air Pollution": 199890448,
+        "Forest, Land and Soil": 104997137,
+        "Freshwater": 139160436,
+        "Preservation Efforts": 14507917
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Emissions": 176372676,
+        "Exposure to Air Pollution": 160952229,
+        "Forest, Land and Soil": 89383378,
+        "Freshwater": 102560098,
+        "Preservation Efforts": 21582473
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Emissions": 170883283,
+        "Exposure to Air Pollution": 181994152,
+        "Forest, Land and Soil": 103156440,
+        "Freshwater": 95762693,
+        "Preservation Efforts": 22899063
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Emissions": 143883071,
+        "Exposure to Air Pollution": 144982046,
+        "Forest, Land and Soil": 65560486,
+        "Freshwater": 112405139,
+        "Preservation Efforts": 9515619
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Emissions": 137230490,
+        "Exposure to Air Pollution": 148776783,
+        "Forest, Land and Soil": 85879448,
+        "Freshwater": 93856297,
+        "Preservation Efforts": 11588495
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Emissions": 85650220,
+        "Exposure to Air Pollution": 198179418,
+        "Forest, Land and Soil": 80229274,
+        "Freshwater": 72483946,
+        "Preservation Efforts": 32120867
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Emissions": 190898029,
+        "Exposure to Air Pollution": 154199347,
+        "Forest, Land and Soil": 88856328,
+        "Freshwater": 112292922,
+        "Preservation Efforts": 11830903
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Emissions": 51657183,
+        "Exposure to Air Pollution": 185567920,
+        "Forest, Land and Soil": 68777296,
+        "Freshwater": 126204418,
+        "Preservation Efforts": 6852193
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Emissions": 139794945,
+        "Exposure to Air Pollution": 185777322,
+        "Forest, Land and Soil": 54933092,
+        "Freshwater": 58842607,
+        "Preservation Efforts": 3141580
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Emissions": 195617604,
+        "Exposure to Air Pollution": 191706391,
+        "Forest, Land and Soil": 113149543,
+        "Freshwater": 127360173,
+        "Preservation Efforts": 20546260
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Emissions": 205586529,
+        "Exposure to Air Pollution": 129192104,
+        "Forest, Land and Soil": 144193614,
+        "Freshwater": 72458558,
+        "Preservation Efforts": 39144680
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Emissions": 134685064,
+        "Exposure to Air Pollution": 218064460,
+        "Forest, Land and Soil": 66429442,
+        "Freshwater": 121724329,
+        "Preservation Efforts": 23437295
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Emissions": 184849572,
+        "Exposure to Air Pollution": 200751653,
+        "Forest, Land and Soil": 53990524,
+        "Freshwater": 144006629,
+        "Preservation Efforts": 62265331
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Emissions": 218301678,
+        "Exposure to Air Pollution": 173140049,
+        "Forest, Land and Soil": 110201066,
+        "Freshwater": 127364710,
+        "Preservation Efforts": 25712306
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Emissions": 173451865,
+        "Exposure to Air Pollution": 118225477,
+        "Forest, Land and Soil": 51730593,
+        "Freshwater": 72272879,
+        "Preservation Efforts": 2335813
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Emissions": 125476454,
+        "Exposure to Air Pollution": 141023651,
+        "Forest, Land and Soil": 41879118,
+        "Freshwater": 97392637,
+        "Preservation Efforts": 6602807
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Emissions": 160957589,
+        "Exposure to Air Pollution": 172864342,
+        "Forest, Land and Soil": 80982118,
+        "Freshwater": 95022265,
+        "Preservation Efforts": 48217263
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Emissions": 179674186,
+        "Exposure to Air Pollution": 135329933,
+        "Forest, Land and Soil": 84377158,
+        "Freshwater": 99876332,
+        "Preservation Efforts": 11052879
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Emissions": 206215978,
+        "Exposure to Air Pollution": 144643219,
+        "Forest, Land and Soil": 125042342,
+        "Freshwater": 151115626,
+        "Preservation Efforts": 17267312
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Emissions": 171084460,
+        "Exposure to Air Pollution": 140815384,
+        "Forest, Land and Soil": 94573015,
+        "Freshwater": 63076535,
+        "Preservation Efforts": 11968764
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Emissions": 148033589,
+        "Exposure to Air Pollution": 204504435,
+        "Forest, Land and Soil": 66664305,
+        "Freshwater": 100994547,
+        "Preservation Efforts": 6503149
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Emissions": 178533127,
+        "Exposure to Air Pollution": 144984360,
+        "Forest, Land and Soil": 82851835,
+        "Freshwater": 108652796,
+        "Preservation Efforts": 10743386
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Emissions": 158518016,
+        "Exposure to Air Pollution": 162547778,
+        "Forest, Land and Soil": 68542182,
+        "Freshwater": 115336538,
+        "Preservation Efforts": 4659699
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Emissions": 159868987,
+        "Exposure to Air Pollution": 178402708,
+        "Forest, Land and Soil": 47018320,
+        "Freshwater": 118051334,
+        "Preservation Efforts": 49653812
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Emissions": 192032624,
+        "Exposure to Air Pollution": 155114153,
+        "Forest, Land and Soil": 98551042,
+        "Freshwater": 84609229,
+        "Preservation Efforts": 11638446
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Emissions": 193388396,
+        "Exposure to Air Pollution": 212595521,
+        "Forest, Land and Soil": 121548867,
+        "Freshwater": 138208267,
+        "Preservation Efforts": 14556605
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Emissions": 183718342,
+        "Exposure to Air Pollution": 170118246,
+        "Forest, Land and Soil": 97183090,
+        "Freshwater": 100440324,
+        "Preservation Efforts": 46895846
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Emissions": 174425578,
+        "Exposure to Air Pollution": 168645668,
+        "Forest, Land and Soil": 91377331,
+        "Freshwater": 102319942,
+        "Preservation Efforts": 20978650
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Emissions": 91914273,
+        "Exposure to Air Pollution": 161322520,
+        "Forest, Land and Soil": 81595284,
+        "Freshwater": 86040612,
+        "Preservation Efforts": 13038869
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Emissions": 38408542,
+        "Exposure to Air Pollution": 212147146,
+        "Forest, Land and Soil": 84097067,
+        "Freshwater": 117980304,
+        "Preservation Efforts": 45395075
+      }
+    }
+  ],
+  "derivatives": {
+    "Natural Environment": [
+      "Emissions",
+      "Exposure to Air Pollution",
+      "Forest, Land and Soil",
+      "Freshwater",
+      "Preservation Efforts"
+    ]
+  },
+  "weightingOptions": {
+    "Emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Exposure to Air Pollution": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Forest, Land and Soil": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Freshwater": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Preservation Efforts": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

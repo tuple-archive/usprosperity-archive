@@ -1,0 +1,778 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Venture capital invested": 322233,
+        "Number of venture capital deals": 341518,
+        "Assets under management": 0,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 0,
+        "Bank branch access": 15718
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Venture capital invested": 372950,
+        "Number of venture capital deals": 292385,
+        "Assets under management": 180045,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 307466,
+        "Bank branch access": 127910
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Venture capital invested": 378025,
+        "Number of venture capital deals": 347632,
+        "Assets under management": 147727,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 74962,
+        "Bank branch access": 144653
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Venture capital invested": 456112,
+        "Number of venture capital deals": 444483,
+        "Assets under management": 351032,
+        "Venture capital fundraising": 208846,
+        "New foreign direct investment": 388028,
+        "Bank branch access": 96880
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Venture capital invested": 615384,
+        "Number of venture capital deals": 615384,
+        "Assets under management": 615384,
+        "Venture capital fundraising": 615384,
+        "New foreign direct investment": 489270,
+        "Bank branch access": 697050
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Venture capital invested": 615384,
+        "Number of venture capital deals": 615384,
+        "Assets under management": 495659,
+        "Venture capital fundraising": 347737,
+        "New foreign direct investment": 559952,
+        "Bank branch access": 415309
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Venture capital invested": 579065,
+        "Number of venture capital deals": 564546,
+        "Assets under management": 566593,
+        "Venture capital fundraising": 569069,
+        "New foreign direct investment": 517660,
+        "Bank branch access": 647531
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Venture capital invested": 615384,
+        "Number of venture capital deals": 615384,
+        "Assets under management": 615384,
+        "Venture capital fundraising": 615384,
+        "New foreign direct investment": 394124,
+        "Bank branch access": 923076
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Venture capital invested": 615384,
+        "Number of venture capital deals": 615384,
+        "Assets under management": 330651,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 511375,
+        "Bank branch access": 458414
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Venture capital invested": 458939,
+        "Number of venture capital deals": 407751,
+        "Assets under management": 344886,
+        "Venture capital fundraising": 98411,
+        "New foreign direct investment": 377399,
+        "Bank branch access": 436907
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Venture capital invested": 537690,
+        "Number of venture capital deals": 458354,
+        "Assets under management": 381008,
+        "Venture capital fundraising": 353949,
+        "New foreign direct investment": 416076,
+        "Bank branch access": 337846
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Venture capital invested": 290184,
+        "Number of venture capital deals": 307848,
+        "Assets under management": 39031,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 295319,
+        "Bank branch access": 371947
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Venture capital invested": 420310,
+        "Number of venture capital deals": 405569,
+        "Assets under management": 261943,
+        "Venture capital fundraising": 336091,
+        "New foreign direct investment": 421476,
+        "Bank branch access": 142737
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Venture capital invested": 402519,
+        "Number of venture capital deals": 444403,
+        "Assets under management": 251471,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 319850,
+        "Bank branch access": 88615
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Venture capital invested": 555624,
+        "Number of venture capital deals": 491199,
+        "Assets under management": 511732,
+        "Venture capital fundraising": 416954,
+        "New foreign direct investment": 426651,
+        "Bank branch access": 923076
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Venture capital invested": 397480,
+        "Number of venture capital deals": 447388,
+        "Assets under management": 252113,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 254519,
+        "Bank branch access": 289117
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Venture capital invested": 349781,
+        "Number of venture capital deals": 317273,
+        "Assets under management": 216843,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 569583,
+        "Bank branch access": 312753
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Venture capital invested": 407627,
+        "Number of venture capital deals": 353225,
+        "Assets under management": 195920,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 345856,
+        "Bank branch access": 339657
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Venture capital invested": 318345,
+        "Number of venture capital deals": 250354,
+        "Assets under management": 299132,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 443671,
+        "Bank branch access": 291016
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Venture capital invested": 615384,
+        "Number of venture capital deals": 615384,
+        "Assets under management": 615384,
+        "Venture capital fundraising": 615384,
+        "New foreign direct investment": 562319,
+        "Bank branch access": 923076
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Venture capital invested": 549625,
+        "Number of venture capital deals": 487566,
+        "Assets under management": 372402,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 483940,
+        "Bank branch access": 479788
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Venture capital invested": 427568,
+        "Number of venture capital deals": 526441,
+        "Assets under management": 388255,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 212372,
+        "Bank branch access": 103791
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Venture capital invested": 414728,
+        "Number of venture capital deals": 416074,
+        "Assets under management": 417420,
+        "Venture capital fundraising": 345695,
+        "New foreign direct investment": 462491,
+        "Bank branch access": 406147
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Venture capital invested": 592309,
+        "Number of venture capital deals": 481837,
+        "Assets under management": 408174,
+        "Venture capital fundraising": 401941,
+        "New foreign direct investment": 559064,
+        "Bank branch access": 396899
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Venture capital invested": 448187,
+        "Number of venture capital deals": 406062,
+        "Assets under management": 426858,
+        "Venture capital fundraising": 161279,
+        "New foreign direct investment": 407801,
+        "Bank branch access": 174482
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Venture capital invested": 11761,
+        "Number of venture capital deals": 44688,
+        "Assets under management": 0,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 180417,
+        "Bank branch access": 82171
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Venture capital invested": 474464,
+        "Number of venture capital deals": 489799,
+        "Assets under management": 323726,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 235499,
+        "Bank branch access": 15776
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Venture capital invested": 595423,
+        "Number of venture capital deals": 479698,
+        "Assets under management": 374845,
+        "Venture capital fundraising": 140887,
+        "New foreign direct investment": 456211,
+        "Bank branch access": 269343
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Venture capital invested": 230899,
+        "Number of venture capital deals": 335274,
+        "Assets under management": 374715,
+        "Venture capital fundraising": 378857,
+        "New foreign direct investment": 335222,
+        "Bank branch access": 34651
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Venture capital invested": 411805,
+        "Number of venture capital deals": 404937,
+        "Assets under management": 295531,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 299368,
+        "Bank branch access": 393095
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Venture capital invested": 474107,
+        "Number of venture capital deals": 482099,
+        "Assets under management": 303026,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 347010,
+        "Bank branch access": 157221
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Venture capital invested": 493259,
+        "Number of venture capital deals": 424112,
+        "Assets under management": 456232,
+        "Venture capital fundraising": 356052,
+        "New foreign direct investment": 406577,
+        "Bank branch access": 923076
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Venture capital invested": 413284,
+        "Number of venture capital deals": 387267,
+        "Assets under management": 142539,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 302935,
+        "Bank branch access": 65342
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Venture capital invested": 459521,
+        "Number of venture capital deals": 410163,
+        "Assets under management": 255714,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 443708,
+        "Bank branch access": 57346
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Venture capital invested": 615384,
+        "Number of venture capital deals": 615384,
+        "Assets under management": 614647,
+        "Venture capital fundraising": 561274,
+        "New foreign direct investment": 508359,
+        "Bank branch access": 923076
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Venture capital invested": 498778,
+        "Number of venture capital deals": 417754,
+        "Assets under management": 429465,
+        "Venture capital fundraising": 446135,
+        "New foreign direct investment": 338563,
+        "Bank branch access": 546137
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Venture capital invested": 244923,
+        "Number of venture capital deals": 294407,
+        "Assets under management": 0,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 173507,
+        "Bank branch access": 272929
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Venture capital invested": 510058,
+        "Number of venture capital deals": 539315,
+        "Assets under management": 313074,
+        "Venture capital fundraising": 149449,
+        "New foreign direct investment": 380439,
+        "Bank branch access": 190811
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Venture capital invested": 525476,
+        "Number of venture capital deals": 492884,
+        "Assets under management": 425938,
+        "Venture capital fundraising": 360520,
+        "New foreign direct investment": 570007,
+        "Bank branch access": 898186
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Venture capital invested": 450642,
+        "Number of venture capital deals": 504413,
+        "Assets under management": 61683,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 81686,
+        "Bank branch access": 555308
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Venture capital invested": 311916,
+        "Number of venture capital deals": 332211,
+        "Assets under management": 156996,
+        "Venture capital fundraising": 111119,
+        "New foreign direct investment": 226553,
+        "Bank branch access": 146658
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Venture capital invested": 320004,
+        "Number of venture capital deals": 226552,
+        "Assets under management": 277113,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 145169,
+        "Bank branch access": 71150
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Venture capital invested": 429057,
+        "Number of venture capital deals": 398607,
+        "Assets under management": 403728,
+        "Venture capital fundraising": 266892,
+        "New foreign direct investment": 313193,
+        "Bank branch access": 294428
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Venture capital invested": 520393,
+        "Number of venture capital deals": 459075,
+        "Assets under management": 392556,
+        "Venture capital fundraising": 305211,
+        "New foreign direct investment": 505325,
+        "Bank branch access": 501789
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Venture capital invested": 612197,
+        "Number of venture capital deals": 583527,
+        "Assets under management": 518121,
+        "Venture capital fundraising": 433812,
+        "New foreign direct investment": 369493,
+        "Bank branch access": 247728
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Venture capital invested": 497236,
+        "Number of venture capital deals": 465103,
+        "Assets under management": 447379,
+        "Venture capital fundraising": 345142,
+        "New foreign direct investment": 390737,
+        "Bank branch access": 923076
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Venture capital invested": 476646,
+        "Number of venture capital deals": 559213,
+        "Assets under management": 338281,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 110546,
+        "Bank branch access": 76853
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Venture capital invested": 615384,
+        "Number of venture capital deals": 610410,
+        "Assets under management": 526756,
+        "Venture capital fundraising": 462168,
+        "New foreign direct investment": 476590,
+        "Bank branch access": 218171
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Venture capital invested": 396682,
+        "Number of venture capital deals": 408207,
+        "Assets under management": 416264,
+        "Venture capital fundraising": 378151,
+        "New foreign direct investment": 562772,
+        "Bank branch access": 420535
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Venture capital invested": 40434,
+        "Number of venture capital deals": 151714,
+        "Assets under management": 0,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 208348,
+        "Bank branch access": 93909
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Venture capital invested": 288977,
+        "Number of venture capital deals": 446139,
+        "Assets under management": 0,
+        "Venture capital fundraising": 0,
+        "New foreign direct investment": 158686,
+        "Bank branch access": 7341
+      }
+    }
+  ],
+  "derivatives": {
+    "Financing Ecosystems": [
+      "Venture capital invested",
+      "Number of venture capital deals",
+      "Assets under management",
+      "Venture capital fundraising",
+      "New foreign direct investment",
+      "Bank branch access"
+    ]
+  },
+  "weightingOptions": {
+    "Venture capital invested": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Number of venture capital deals": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Assets under management": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Venture capital fundraising": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "New foreign direct investment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Bank branch access": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,932 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Adult dentist visits": 92608,
+        "Adult doctor visits": 84444,
+        "Colorectal cancer screening": 22575,
+        "Child medical visits": 0,
+        "HPV immunizations": 150588,
+        "Pap smear test": 41666,
+        "Child Immunization": 215454,
+        "Child dentist visits": 58125
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Adult dentist visits": 37826,
+        "Adult doctor visits": 120000,
+        "Colorectal cancer screening": 100350,
+        "Child medical visits": 0,
+        "HPV immunizations": 119411,
+        "Pap smear test": 81666,
+        "Child Immunization": 224727,
+        "Child dentist visits": 73125
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Adult dentist visits": 6521,
+        "Adult doctor visits": 126666,
+        "Colorectal cancer screening": 72000,
+        "Child medical visits": 0,
+        "HPV immunizations": 138235,
+        "Pap smear test": 49999,
+        "Child Immunization": 214909,
+        "Child dentist visits": 25312
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Adult dentist visits": 43043,
+        "Adult doctor visits": 91666,
+        "Colorectal cancer screening": 78300,
+        "Child medical visits": 0,
+        "HPV immunizations": 175882,
+        "Pap smear test": 63333,
+        "Child Immunization": 199090,
+        "Child dentist visits": 41250
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Adult dentist visits": 78913,
+        "Adult doctor visits": 89444,
+        "Colorectal cancer screening": 109200,
+        "Child medical visits": 0,
+        "HPV immunizations": 172941,
+        "Pap smear test": 94999,
+        "Child Immunization": 210545,
+        "Child dentist visits": 90937
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Adult dentist visits": 80217,
+        "Adult doctor visits": 71111,
+        "Colorectal cancer screening": 89025,
+        "Child medical visits": 31200,
+        "HPV immunizations": 214705,
+        "Pap smear test": 46666,
+        "Child Immunization": 223636,
+        "Child dentist visits": 91875
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Adult dentist visits": 137608,
+        "Adult doctor visits": 132777,
+        "Colorectal cancer screening": 138150,
+        "Child medical visits": 33000,
+        "HPV immunizations": 157647,
+        "Pap smear test": 133333,
+        "Child Immunization": 247090,
+        "Child dentist visits": 144375
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Adult dentist visits": 121304,
+        "Adult doctor visits": 135555,
+        "Colorectal cancer screening": 126075,
+        "Child medical visits": 17400,
+        "HPV immunizations": 285294,
+        "Pap smear test": 101666,
+        "Child Immunization": 240000,
+        "Child dentist visits": 72187
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Adult dentist visits": 69130,
+        "Adult doctor visits": 140555,
+        "Colorectal cancer screening": 120300,
+        "Child medical visits": 35400,
+        "HPV immunizations": 189411,
+        "Pap smear test": 130000,
+        "Child Immunization": 256909,
+        "Child dentist visits": 69375
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Adult dentist visits": 63913,
+        "Adult doctor visits": 114444,
+        "Colorectal cancer screening": 100650,
+        "Child medical visits": 22799,
+        "HPV immunizations": 170588,
+        "Pap smear test": 89166,
+        "Child Immunization": 252000,
+        "Child dentist visits": 11249
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Adult dentist visits": 48260,
+        "Adult doctor visits": 112777,
+        "Colorectal cancer screening": 85125,
+        "Child medical visits": 0,
+        "HPV immunizations": 133529,
+        "Pap smear test": 89999,
+        "Child Immunization": 194181,
+        "Child dentist visits": 62812
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Adult dentist visits": 127826,
+        "Adult doctor visits": 133333,
+        "Colorectal cancer screening": 136125,
+        "Child medical visits": 0,
+        "HPV immunizations": 229411,
+        "Pap smear test": 120833,
+        "Child Immunization": 217090,
+        "Child dentist visits": 116250
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Adult dentist visits": 102391,
+        "Adult doctor visits": 122777,
+        "Colorectal cancer screening": 108675,
+        "Child medical visits": 11399,
+        "HPV immunizations": 199411,
+        "Pap smear test": 93333,
+        "Child Immunization": 233454,
+        "Child dentist visits": 110625
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Adult dentist visits": 67173,
+        "Adult doctor visits": 79999,
+        "Colorectal cancer screening": 75374,
+        "Child medical visits": 0,
+        "HPV immunizations": 100588,
+        "Pap smear test": 0,
+        "Child Immunization": 213818,
+        "Child dentist visits": 73125
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Adult dentist visits": 84782,
+        "Adult doctor visits": 112777,
+        "Colorectal cancer screening": 73049,
+        "Child medical visits": 0,
+        "HPV immunizations": 164117,
+        "Pap smear test": 85000,
+        "Child Immunization": 247636,
+        "Child dentist visits": 60937
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Adult dentist visits": 60000,
+        "Adult doctor visits": 112777,
+        "Colorectal cancer screening": 84225,
+        "Child medical visits": 0,
+        "HPV immunizations": 83529,
+        "Pap smear test": 82500,
+        "Child Immunization": 198000,
+        "Child dentist visits": 33750
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Adult dentist visits": 82826,
+        "Adult doctor visits": 104999,
+        "Colorectal cancer screening": 77024,
+        "Child medical visits": 0,
+        "HPV immunizations": 132352,
+        "Pap smear test": 70833,
+        "Child Immunization": 215454,
+        "Child dentist visits": 46875
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Adult dentist visits": 46956,
+        "Adult doctor visits": 133888,
+        "Colorectal cancer screening": 94574,
+        "Child medical visits": 24600,
+        "HPV immunizations": 164117,
+        "Pap smear test": 49166,
+        "Child Immunization": 223636,
+        "Child dentist visits": 52499
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Adult dentist visits": 18913,
+        "Adult doctor visits": 137777,
+        "Colorectal cancer screening": 92100,
+        "Child medical visits": 0,
+        "HPV immunizations": 191176,
+        "Pap smear test": 115000,
+        "Child Immunization": 218181,
+        "Child dentist visits": 42187
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Adult dentist visits": 122608,
+        "Adult doctor visits": 141666,
+        "Colorectal cancer screening": 150000,
+        "Child medical visits": 44999,
+        "HPV immunizations": 278235,
+        "Pap smear test": 134166,
+        "Child Immunization": 284181,
+        "Child dentist visits": 133124
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Adult dentist visits": 74347,
+        "Adult doctor visits": 132777,
+        "Colorectal cancer screening": 116324,
+        "Child medical visits": 0,
+        "HPV immunizations": 246470,
+        "Pap smear test": 122500,
+        "Child Immunization": 246545,
+        "Child dentist visits": 68437
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Adult dentist visits": 63913,
+        "Adult doctor visits": 107777,
+        "Colorectal cancer screening": 141225,
+        "Child medical visits": 37200,
+        "HPV immunizations": 150588,
+        "Pap smear test": 99166,
+        "Child Immunization": 232909,
+        "Child dentist visits": 39375
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Adult dentist visits": 101086,
+        "Adult doctor visits": 130555,
+        "Colorectal cancer screening": 132375,
+        "Child medical visits": 0,
+        "HPV immunizations": 190588,
+        "Pap smear test": 109999,
+        "Child Immunization": 217636,
+        "Child dentist visits": 32812
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Adult dentist visits": 120000,
+        "Adult doctor visits": 97222,
+        "Colorectal cancer screening": 124575,
+        "Child medical visits": 4800,
+        "HPV immunizations": 175294,
+        "Pap smear test": 110833,
+        "Child Immunization": 196909,
+        "Child dentist visits": 39375
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Adult dentist visits": 56086,
+        "Adult doctor visits": 113333,
+        "Colorectal cancer screening": 95400,
+        "Child medical visits": 0,
+        "HPV immunizations": 160588,
+        "Pap smear test": 84166,
+        "Child Immunization": 224727,
+        "Child dentist visits": 1875
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Adult dentist visits": 0,
+        "Adult doctor visits": 123888,
+        "Colorectal cancer screening": 41700,
+        "Child medical visits": 0,
+        "HPV immunizations": 20588,
+        "Pap smear test": 43333,
+        "Child Immunization": 211090,
+        "Child dentist visits": 33750
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Adult dentist visits": 72391,
+        "Adult doctor visits": 85555,
+        "Colorectal cancer screening": 55950,
+        "Child medical visits": 15600,
+        "HPV immunizations": 115882,
+        "Pap smear test": 56666,
+        "Child Immunization": 197454,
+        "Child dentist visits": 87187
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Adult dentist visits": 67826,
+        "Adult doctor visits": 124444,
+        "Colorectal cancer screening": 109949,
+        "Child medical visits": 0,
+        "HPV immunizations": 132352,
+        "Pap smear test": 94166,
+        "Child Immunization": 223090,
+        "Child dentist visits": 44999
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Adult dentist visits": 81521,
+        "Adult doctor visits": 89444,
+        "Colorectal cancer screening": 75374,
+        "Child medical visits": 0,
+        "HPV immunizations": 293529,
+        "Pap smear test": 88333,
+        "Child Immunization": 266181,
+        "Child dentist visits": 6562
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Adult dentist visits": 80869,
+        "Adult doctor visits": 91666,
+        "Colorectal cancer screening": 87825,
+        "Child medical visits": 0,
+        "HPV immunizations": 197058,
+        "Pap smear test": 83333,
+        "Child Immunization": 261272,
+        "Child dentist visits": 60937
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Adult dentist visits": 82826,
+        "Adult doctor visits": 116666,
+        "Colorectal cancer screening": 136500,
+        "Child medical visits": 50400,
+        "HPV immunizations": 212941,
+        "Pap smear test": 115833,
+        "Child Immunization": 266727,
+        "Child dentist visits": 102187
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Adult dentist visits": 106304,
+        "Adult doctor visits": 134444,
+        "Colorectal cancer screening": 79424,
+        "Child medical visits": 17400,
+        "HPV immunizations": 143529,
+        "Pap smear test": 78333,
+        "Child Immunization": 214363,
+        "Child dentist visits": 109687
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Adult dentist visits": 63913,
+        "Adult doctor visits": 71111,
+        "Colorectal cancer screening": 57525,
+        "Child medical visits": 0,
+        "HPV immunizations": 192941,
+        "Pap smear test": 40000,
+        "Child Immunization": 228545,
+        "Child dentist visits": 87187
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Adult dentist visits": 63260,
+        "Adult doctor visits": 83888,
+        "Colorectal cancer screening": 27075,
+        "Child medical visits": 0,
+        "HPV immunizations": 152352,
+        "Pap smear test": 53333,
+        "Child Immunization": 225272,
+        "Child dentist visits": 0
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Adult dentist visits": 95869,
+        "Adult doctor visits": 136666,
+        "Colorectal cancer screening": 97500,
+        "Child medical visits": 0,
+        "HPV immunizations": 176470,
+        "Pap smear test": 117499,
+        "Child Immunization": 204545,
+        "Child dentist visits": 43125
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Adult dentist visits": 80869,
+        "Adult doctor visits": 117777,
+        "Colorectal cancer screening": 76800,
+        "Child medical visits": 1800,
+        "HPV immunizations": 132941,
+        "Pap smear test": 71666,
+        "Child Immunization": 198545,
+        "Child dentist visits": 57187
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Adult dentist visits": 34565,
+        "Adult doctor visits": 110555,
+        "Colorectal cancer screening": 42524,
+        "Child medical visits": 0,
+        "HPV immunizations": 87058,
+        "Pap smear test": 10833,
+        "Child Immunization": 203454,
+        "Child dentist visits": 40312
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Adult dentist visits": 82173,
+        "Adult doctor visits": 92222,
+        "Colorectal cancer screening": 115875,
+        "Child medical visits": 10799,
+        "HPV immunizations": 198823,
+        "Pap smear test": 70000,
+        "Child Immunization": 219818,
+        "Child dentist visits": 65625
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Adult dentist visits": 93913,
+        "Adult doctor visits": 126111,
+        "Colorectal cancer screening": 111450,
+        "Child medical visits": 0,
+        "HPV immunizations": 194705,
+        "Pap smear test": 78333,
+        "Child Immunization": 220363,
+        "Child dentist visits": 72187
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Adult dentist visits": 109565,
+        "Adult doctor visits": 150000,
+        "Colorectal cancer screening": 140325,
+        "Child medical visits": 10799,
+        "HPV immunizations": 300000,
+        "Pap smear test": 118333,
+        "Child Immunization": 242181,
+        "Child dentist visits": 122812
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Adult dentist visits": 43695,
+        "Adult doctor visits": 124444,
+        "Colorectal cancer screening": 104700,
+        "Child medical visits": 0,
+        "HPV immunizations": 152941,
+        "Pap smear test": 73333,
+        "Child Immunization": 196363,
+        "Child dentist visits": 75000
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Adult dentist visits": 82826,
+        "Adult doctor visits": 97222,
+        "Colorectal cancer screening": 90675,
+        "Child medical visits": 0,
+        "HPV immunizations": 201176,
+        "Pap smear test": 67500,
+        "Child Immunization": 243818,
+        "Child dentist visits": 68437
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Adult dentist visits": 20869,
+        "Adult doctor visits": 121111,
+        "Colorectal cancer screening": 90975,
+        "Child medical visits": 0,
+        "HPV immunizations": 94117,
+        "Pap smear test": 81666,
+        "Child Immunization": 268909,
+        "Child dentist visits": 26249
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Adult dentist visits": 37173,
+        "Adult doctor visits": 101111,
+        "Colorectal cancer screening": 20700,
+        "Child medical visits": 0,
+        "HPV immunizations": 125882,
+        "Pap smear test": 45833,
+        "Child Immunization": 206181,
+        "Child dentist visits": 34687
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Adult dentist visits": 111521,
+        "Adult doctor visits": 82222,
+        "Colorectal cancer screening": 97875,
+        "Child medical visits": 0,
+        "HPV immunizations": 103529,
+        "Pap smear test": 23333,
+        "Child Immunization": 206727,
+        "Child dentist visits": 80624
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Adult dentist visits": 106956,
+        "Adult doctor visits": 131666,
+        "Colorectal cancer screening": 98400,
+        "Child medical visits": 52200,
+        "HPV immunizations": 165882,
+        "Pap smear test": 123333,
+        "Child Immunization": 256909,
+        "Child dentist visits": 71249
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Adult dentist visits": 117391,
+        "Adult doctor visits": 97222,
+        "Colorectal cancer screening": 110700,
+        "Child medical visits": 43799,
+        "HPV immunizations": 215294,
+        "Pap smear test": 58333,
+        "Child Immunization": 240000,
+        "Child dentist visits": 98437
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Adult dentist visits": 89999,
+        "Adult doctor visits": 85555,
+        "Colorectal cancer screening": 113700,
+        "Child medical visits": 0,
+        "HPV immunizations": 154705,
+        "Pap smear test": 68333,
+        "Child Immunization": 217636,
+        "Child dentist visits": 114374
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Adult dentist visits": 102391,
+        "Adult doctor visits": 106666,
+        "Colorectal cancer screening": 136575,
+        "Child medical visits": 2400,
+        "HPV immunizations": 197058,
+        "Pap smear test": 92500,
+        "Child Immunization": 213818,
+        "Child dentist visits": 18750
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Adult dentist visits": 6521,
+        "Adult doctor visits": 125555,
+        "Colorectal cancer screening": 83475,
+        "Child medical visits": 5399,
+        "HPV immunizations": 120000,
+        "Pap smear test": 40000,
+        "Child Immunization": 243818,
+        "Child dentist visits": 68437
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Adult dentist visits": 82826,
+        "Adult doctor visits": 64999,
+        "Colorectal cancer screening": 13650,
+        "Child medical visits": 7200,
+        "HPV immunizations": 85294,
+        "Pap smear test": 48333,
+        "Child Immunization": 229090,
+        "Child dentist visits": 63749
+      }
+    }
+  ],
+  "derivatives": {
+    "Preventative Interventions": [
+      "Adult dentist visits",
+      "Adult doctor visits",
+      "Colorectal cancer screening",
+      "Child medical visits",
+      "HPV immunizations",
+      "Pap smear test",
+      "Child Immunization",
+      "Child dentist visits"
+    ]
+  },
+  "weightingOptions": {
+    "Adult dentist visits": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Adult doctor visits": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Colorectal cancer screening": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Child medical visits": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "HPV immunizations": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Pap smear test": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Child Immunization": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Child dentist visits": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

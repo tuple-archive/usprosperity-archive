@@ -1,0 +1,1163 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Volunteer rate": 251244,
+        "Volunteering intensity": 110096,
+        "Volunteering intensity (microdata)": 134269,
+        "Active in neighborhood": 351397,
+        "Helping the community": 59447,
+        "Helping the community (microdata)": 188614,
+        "(Non-religious) membership organizations": 257185,
+        "Religious membership organizations": 124999,
+        "Religious organization participation": 47223,
+        "Sport or recreation organization participation": 111963,
+        "School, neighborhood or community association participation": 144332
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Volunteer rate": 84295,
+        "Volunteering intensity": 49991,
+        "Volunteering intensity (microdata)": 113212,
+        "Active in neighborhood": 70302,
+        "Helping the community": 29399,
+        "Helping the community (microdata)": 65689,
+        "(Non-religious) membership organizations": 19305,
+        "Religious membership organizations": 157142,
+        "Religious organization participation": 101194,
+        "Sport or recreation organization participation": 57636,
+        "School, neighborhood or community association participation": 100011
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Volunteer rate": 196778,
+        "Volunteering intensity": 16151,
+        "Volunteering intensity (microdata)": 120078,
+        "Active in neighborhood": 129700,
+        "Helping the community": 48566,
+        "Helping the community (microdata)": 96612,
+        "(Non-religious) membership organizations": 27278,
+        "Religious membership organizations": 164285,
+        "Religious organization participation": 55543,
+        "Sport or recreation organization participation": 48283,
+        "School, neighborhood or community association participation": 42644
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Volunteer rate": 85449,
+        "Volunteering intensity": 106554,
+        "Volunteering intensity (microdata)": 119825,
+        "Active in neighborhood": 90866,
+        "Helping the community": 18445,
+        "Helping the community (microdata)": 61906,
+        "(Non-religious) membership organizations": 43006,
+        "Religious membership organizations": 52142,
+        "Religious organization participation": 41970,
+        "Sport or recreation organization participation": 27462,
+        "School, neighborhood or community association participation": 16243
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Volunteer rate": 63645,
+        "Volunteering intensity": 73816,
+        "Volunteering intensity (microdata)": 112952,
+        "Active in neighborhood": 131021,
+        "Helping the community": 45460,
+        "Helping the community (microdata)": 82381,
+        "(Non-religious) membership organizations": 220919,
+        "Religious membership organizations": 45000,
+        "Religious organization participation": 50213,
+        "Sport or recreation organization participation": 70181,
+        "School, neighborhood or community association participation": 37561
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Volunteer rate": 340943,
+        "Volunteering intensity": 100514,
+        "Volunteering intensity (microdata)": 131200,
+        "Active in neighborhood": 332046,
+        "Helping the community": 62268,
+        "Helping the community (microdata)": 155350,
+        "(Non-religious) membership organizations": 144152,
+        "Religious membership organizations": 59285,
+        "Religious organization participation": 65966,
+        "Sport or recreation organization participation": 84504,
+        "School, neighborhood or community association participation": 93635
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Volunteer rate": 167286,
+        "Volunteering intensity": 86436,
+        "Volunteering intensity (microdata)": 142194,
+        "Active in neighborhood": 273422,
+        "Helping the community": 82039,
+        "Helping the community (microdata)": 133587,
+        "(Non-religious) membership organizations": 127546,
+        "Religious membership organizations": 52142,
+        "Religious organization participation": 37878,
+        "Sport or recreation organization participation": 70919,
+        "School, neighborhood or community association participation": 27709
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Volunteer rate": 259453,
+        "Volunteering intensity": 116180,
+        "Volunteering intensity (microdata)": 92294,
+        "Active in neighborhood": 428571,
+        "Helping the community": 103810,
+        "Helping the community (microdata)": 144466,
+        "(Non-religious) membership organizations": 152375,
+        "Religious membership organizations": 72142,
+        "Religious organization participation": 45451,
+        "Sport or recreation organization participation": 140600,
+        "School, neighborhood or community association participation": 213198
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Volunteer rate": 161772,
+        "Volunteering intensity": 103006,
+        "Volunteering intensity (microdata)": 130211,
+        "Active in neighborhood": 368948,
+        "Helping the community": 68432,
+        "Helping the community (microdata)": 105140,
+        "(Non-religious) membership organizations": 121012,
+        "Religious membership organizations": 66428,
+        "Religious organization participation": 173315,
+        "Sport or recreation organization participation": 111567,
+        "School, neighborhood or community association participation": 148996
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Volunteer rate": 42471,
+        "Volunteering intensity": 58634,
+        "Volunteering intensity (microdata)": 106124,
+        "Active in neighborhood": 120458,
+        "Helping the community": 52730,
+        "Helping the community (microdata)": 63218,
+        "(Non-religious) membership organizations": 95567,
+        "Religious membership organizations": 59285,
+        "Religious organization participation": 61705,
+        "Sport or recreation organization participation": 35134,
+        "School, neighborhood or community association participation": 6627
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Volunteer rate": 107697,
+        "Volunteering intensity": 57564,
+        "Volunteering intensity (microdata)": 108453,
+        "Active in neighborhood": 129864,
+        "Helping the community": 31533,
+        "Helping the community (microdata)": 84336,
+        "(Non-religious) membership organizations": 56262,
+        "Religious membership organizations": 90714,
+        "Religious organization participation": 140454,
+        "Sport or recreation organization participation": 44686,
+        "School, neighborhood or community association participation": 95785
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Volunteer rate": 150988,
+        "Volunteering intensity": 46050,
+        "Volunteering intensity (microdata)": 146541,
+        "Active in neighborhood": 84076,
+        "Helping the community": 42549,
+        "Helping the community (microdata)": 100558,
+        "(Non-religious) membership organizations": 73590,
+        "Religious membership organizations": 69285,
+        "Religious organization participation": 42128,
+        "Sport or recreation organization participation": 80651,
+        "School, neighborhood or community association participation": 65493
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Volunteer rate": 195133,
+        "Volunteering intensity": 95106,
+        "Volunteering intensity (microdata)": 100292,
+        "Active in neighborhood": 218474,
+        "Helping the community": 35400,
+        "Helping the community (microdata)": 96488,
+        "(Non-religious) membership organizations": 110312,
+        "Religious membership organizations": 120000,
+        "Religious organization participation": 115675,
+        "Sport or recreation organization participation": 74011,
+        "School, neighborhood or community association participation": 17201
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Volunteer rate": 215190,
+        "Volunteering intensity": 111834,
+        "Volunteering intensity (microdata)": 137349,
+        "Active in neighborhood": 239764,
+        "Helping the community": 31182,
+        "Helping the community (microdata)": 101945,
+        "(Non-religious) membership organizations": 115562,
+        "Religious membership organizations": 110714,
+        "Religious organization participation": 118455,
+        "Sport or recreation organization participation": 120852,
+        "School, neighborhood or community association participation": 111777
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Volunteer rate": 201510,
+        "Volunteering intensity": 54133,
+        "Volunteering intensity (microdata)": 98583,
+        "Active in neighborhood": 263831,
+        "Helping the community": 59795,
+        "Helping the community (microdata)": 110957,
+        "(Non-religious) membership organizations": 96098,
+        "Religious membership organizations": 69285,
+        "Religious organization participation": 54180,
+        "Sport or recreation organization participation": 74458,
+        "School, neighborhood or community association participation": 40383
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Volunteer rate": 219544,
+        "Volunteering intensity": 45378,
+        "Volunteering intensity (microdata)": 111039,
+        "Active in neighborhood": 110451,
+        "Helping the community": 42683,
+        "Helping the community (microdata)": 81132,
+        "(Non-religious) membership organizations": 59639,
+        "Religious membership organizations": 100000,
+        "Religious organization participation": 124812,
+        "Sport or recreation organization participation": 56374,
+        "School, neighborhood or community association participation": 20069
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Volunteer rate": 199387,
+        "Volunteering intensity": 99983,
+        "Volunteering intensity (microdata)": 82214,
+        "Active in neighborhood": 173588,
+        "Helping the community": 59639,
+        "Helping the community (microdata)": 97206,
+        "(Non-religious) membership organizations": 74312,
+        "Religious membership organizations": 120000,
+        "Religious organization participation": 93222,
+        "Sport or recreation organization participation": 132580,
+        "School, neighborhood or community association participation": 93031
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Volunteer rate": 72368,
+        "Volunteering intensity": 12819,
+        "Volunteering intensity (microdata)": 112084,
+        "Active in neighborhood": 72515,
+        "Helping the community": 37659,
+        "Helping the community (microdata)": 37139,
+        "(Non-religious) membership organizations": 39394,
+        "Religious membership organizations": 127142,
+        "Religious organization participation": 97066,
+        "Sport or recreation organization participation": 67855,
+        "School, neighborhood or community association participation": 31179
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Volunteer rate": 85574,
+        "Volunteering intensity": 43222,
+        "Volunteering intensity (microdata)": 84889,
+        "Active in neighborhood": 156621,
+        "Helping the community": 67129,
+        "Helping the community (microdata)": 58143,
+        "(Non-religious) membership organizations": 57194,
+        "Religious membership organizations": 92142,
+        "Religious organization participation": 65052,
+        "Sport or recreation organization participation": 0,
+        "School, neighborhood or community association participation": 1019
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Volunteer rate": 160235,
+        "Volunteering intensity": 63951,
+        "Volunteering intensity (microdata)": 107677,
+        "Active in neighborhood": 254952,
+        "Helping the community": 51151,
+        "Helping the community (microdata)": 129690,
+        "(Non-religious) membership organizations": 131382,
+        "Religious membership organizations": 45714,
+        "Religious organization participation": 46602,
+        "Sport or recreation organization participation": 132769,
+        "School, neighborhood or community association participation": 13414
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Volunteer rate": 232969,
+        "Volunteering intensity": 99262,
+        "Volunteering intensity (microdata)": 105476,
+        "Active in neighborhood": 428571,
+        "Helping the community": 69950,
+        "Helping the community (microdata)": 138054,
+        "(Non-religious) membership organizations": 69202,
+        "Religious membership organizations": 65714,
+        "Religious organization participation": 93499,
+        "Sport or recreation organization participation": 95530,
+        "School, neighborhood or community association participation": 129981
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Volunteer rate": 252183,
+        "Volunteering intensity": 105921,
+        "Volunteering intensity (microdata)": 116343,
+        "Active in neighborhood": 276010,
+        "Helping the community": 68312,
+        "Helping the community (microdata)": 207828,
+        "(Non-religious) membership organizations": 202827,
+        "Religious membership organizations": 84285,
+        "Religious organization participation": 70103,
+        "Sport or recreation organization participation": 109306,
+        "School, neighborhood or community association participation": 62803
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Volunteer rate": 179856,
+        "Volunteering intensity": 49674,
+        "Volunteering intensity (microdata)": 120992,
+        "Active in neighborhood": 179858,
+        "Helping the community": 62784,
+        "Helping the community (microdata)": 103048,
+        "(Non-religious) membership organizations": 62897,
+        "Religious membership organizations": 68571,
+        "Religious organization participation": 81212,
+        "Sport or recreation organization participation": 50362,
+        "School, neighborhood or community association participation": 54398
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Volunteer rate": 314759,
+        "Volunteering intensity": 90209,
+        "Volunteering intensity (microdata)": 98776,
+        "Active in neighborhood": 428571,
+        "Helping the community": 85814,
+        "Helping the community (microdata)": 119524,
+        "(Non-religious) membership organizations": 144201,
+        "Religious membership organizations": 79999,
+        "Religious organization participation": 164973,
+        "Sport or recreation organization participation": 97548,
+        "School, neighborhood or community association participation": 61722
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Volunteer rate": 237317,
+        "Volunteering intensity": 48265,
+        "Volunteering intensity (microdata)": 101655,
+        "Active in neighborhood": 214244,
+        "Helping the community": 64556,
+        "Helping the community (microdata)": 103372,
+        "(Non-religious) membership organizations": 73897,
+        "Religious membership organizations": 107142,
+        "Religious organization participation": 126519,
+        "Sport or recreation organization participation": 101433,
+        "School, neighborhood or community association participation": 66963
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Volunteer rate": 60581,
+        "Volunteering intensity": 37352,
+        "Volunteering intensity (microdata)": 97093,
+        "Active in neighborhood": 166869,
+        "Helping the community": 49383,
+        "Helping the community (microdata)": 46841,
+        "(Non-religious) membership organizations": 14682,
+        "Religious membership organizations": 162857,
+        "Religious organization participation": 211196,
+        "Sport or recreation organization participation": 78672,
+        "School, neighborhood or community association participation": 150742
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Volunteer rate": 266551,
+        "Volunteering intensity": 48265,
+        "Volunteering intensity (microdata)": 118180,
+        "Active in neighborhood": 293154,
+        "Helping the community": 214285,
+        "Helping the community (microdata)": 116040,
+        "(Non-religious) membership organizations": 410052,
+        "Religious membership organizations": 128571,
+        "Religious organization participation": 78673,
+        "Sport or recreation organization participation": 127887,
+        "School, neighborhood or community association participation": 51252
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Volunteer rate": 156192,
+        "Volunteering intensity": 73143,
+        "Volunteering intensity (microdata)": 102153,
+        "Active in neighborhood": 244242,
+        "Helping the community": 13366,
+        "Helping the community (microdata)": 53259,
+        "(Non-religious) membership organizations": 75149,
+        "Religious membership organizations": 117857,
+        "Religious organization participation": 131443,
+        "Sport or recreation organization participation": 35757,
+        "School, neighborhood or community association participation": 104920
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Volunteer rate": 197164,
+        "Volunteering intensity": 68498,
+        "Volunteering intensity (microdata)": 69356,
+        "Active in neighborhood": 259568,
+        "Helping the community": 28036,
+        "Helping the community (microdata)": 103107,
+        "(Non-religious) membership organizations": 174124,
+        "Religious membership organizations": 159285,
+        "Religious organization participation": 101881,
+        "Sport or recreation organization participation": 117795,
+        "School, neighborhood or community association participation": 19774
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Volunteer rate": 367273,
+        "Volunteering intensity": 113379,
+        "Volunteering intensity (microdata)": 99178,
+        "Active in neighborhood": 263878,
+        "Helping the community": 45739,
+        "Helping the community (microdata)": 84219,
+        "(Non-religious) membership organizations": 127293,
+        "Religious membership organizations": 112142,
+        "Religious organization participation": 104285,
+        "Sport or recreation organization participation": 101978,
+        "School, neighborhood or community association participation": 51157
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Volunteer rate": 216497,
+        "Volunteering intensity": 111596,
+        "Volunteering intensity (microdata)": 122449,
+        "Active in neighborhood": 343385,
+        "Helping the community": 101247,
+        "Helping the community (microdata)": 195656,
+        "(Non-religious) membership organizations": 179657,
+        "Religious membership organizations": 55714,
+        "Religious organization participation": 36809,
+        "Sport or recreation organization participation": 160283,
+        "School, neighborhood or community association participation": 56053
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Volunteer rate": 68552,
+        "Volunteering intensity": 75779,
+        "Volunteering intensity (microdata)": 110034,
+        "Active in neighborhood": 188791,
+        "Helping the community": 33420,
+        "Helping the community (microdata)": 80041,
+        "(Non-religious) membership organizations": 103713,
+        "Religious membership organizations": 49999,
+        "Religious organization participation": 57498,
+        "Sport or recreation organization participation": 48122,
+        "School, neighborhood or community association participation": 31683
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Volunteer rate": 111695,
+        "Volunteering intensity": 92888,
+        "Volunteering intensity (microdata)": 127097,
+        "Active in neighborhood": 141620,
+        "Helping the community": 51950,
+        "Helping the community (microdata)": 95934,
+        "(Non-religious) membership organizations": 58748,
+        "Religious membership organizations": 85000,
+        "Religious organization participation": 62871,
+        "Sport or recreation organization participation": 73528,
+        "School, neighborhood or community association participation": 53559
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Volunteer rate": 36863,
+        "Volunteering intensity": 40707,
+        "Volunteering intensity (microdata)": 104560,
+        "Active in neighborhood": 77799,
+        "Helping the community": 35577,
+        "Helping the community (microdata)": 45364,
+        "(Non-religious) membership organizations": 146170,
+        "Religious membership organizations": 37142,
+        "Religious organization participation": 31070,
+        "Sport or recreation organization participation": 52982,
+        "School, neighborhood or community association participation": 24016
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Volunteer rate": 18612,
+        "Volunteering intensity": 118654,
+        "Volunteering intensity (microdata)": 100413,
+        "Active in neighborhood": 114659,
+        "Helping the community": 37039,
+        "Helping the community (microdata)": 59400,
+        "(Non-religious) membership organizations": 212163,
+        "Religious membership organizations": 52142,
+        "Religious organization participation": 41579,
+        "Sport or recreation organization participation": 47366,
+        "School, neighborhood or community association participation": 60508
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Volunteer rate": 256777,
+        "Volunteering intensity": 61735,
+        "Volunteering intensity (microdata)": 107547,
+        "Active in neighborhood": 195706,
+        "Helping the community": 49234,
+        "Helping the community (microdata)": 76745,
+        "(Non-religious) membership organizations": 57555,
+        "Religious membership organizations": 84285,
+        "Religious organization participation": 83129,
+        "Sport or recreation organization participation": 68222,
+        "School, neighborhood or community association participation": 9988
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Volunteer rate": 78338,
+        "Volunteering intensity": 112552,
+        "Volunteering intensity (microdata)": 125402,
+        "Active in neighborhood": 105835,
+        "Helping the community": 39441,
+        "Helping the community (microdata)": 41963,
+        "(Non-religious) membership organizations": 39817,
+        "Religious membership organizations": 134285,
+        "Religious organization participation": 91779,
+        "Sport or recreation organization participation": 80701,
+        "School, neighborhood or community association participation": 96593
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Volunteer rate": 268206,
+        "Volunteering intensity": 105077,
+        "Volunteering intensity (microdata)": 130219,
+        "Active in neighborhood": 301899,
+        "Helping the community": 123973,
+        "Helping the community (microdata)": 90448,
+        "(Non-religious) membership organizations": 120512,
+        "Religious membership organizations": 75000,
+        "Religious organization participation": 45204,
+        "Sport or recreation organization participation": 135062,
+        "School, neighborhood or community association participation": 69886
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Volunteer rate": 220637,
+        "Volunteering intensity": 84253,
+        "Volunteering intensity (microdata)": 121723,
+        "Active in neighborhood": 225631,
+        "Helping the community": 60437,
+        "Helping the community (microdata)": 80855,
+        "(Non-religious) membership organizations": 80373,
+        "Religious membership organizations": 86428,
+        "Religious organization participation": 103546,
+        "Sport or recreation organization participation": 51472,
+        "School, neighborhood or community association participation": 2095
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Volunteer rate": 79078,
+        "Volunteering intensity": 17847,
+        "Volunteering intensity (microdata)": 127038,
+        "Active in neighborhood": 200638,
+        "Helping the community": 68038,
+        "Helping the community (microdata)": 153589,
+        "(Non-religious) membership organizations": 154289,
+        "Religious membership organizations": 45714,
+        "Religious organization participation": 66616,
+        "Sport or recreation organization participation": 80823,
+        "School, neighborhood or community association participation": 41256
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Volunteer rate": 151357,
+        "Volunteering intensity": 99273,
+        "Volunteering intensity (microdata)": 118243,
+        "Active in neighborhood": 261861,
+        "Helping the community": 50928,
+        "Helping the community (microdata)": 99089,
+        "(Non-religious) membership organizations": 57935,
+        "Religious membership organizations": 124285,
+        "Religious organization participation": 128755,
+        "Sport or recreation organization participation": 0,
+        "School, neighborhood or community association participation": 56990
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Volunteer rate": 428571,
+        "Volunteering intensity": 125884,
+        "Volunteering intensity (microdata)": 114511,
+        "Active in neighborhood": 428571,
+        "Helping the community": 51809,
+        "Helping the community (microdata)": 195652,
+        "(Non-religious) membership organizations": 250338,
+        "Religious membership organizations": 159285,
+        "Religious organization participation": 168344,
+        "Sport or recreation organization participation": 60543,
+        "School, neighborhood or community association participation": 28376
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Volunteer rate": 158736,
+        "Volunteering intensity": 66049,
+        "Volunteering intensity (microdata)": 109651,
+        "Active in neighborhood": 144943,
+        "Helping the community": 23469,
+        "Helping the community (microdata)": 69219,
+        "(Non-religious) membership organizations": 88033,
+        "Religious membership organizations": 130000,
+        "Religious organization participation": 129435,
+        "Sport or recreation organization participation": 58984,
+        "School, neighborhood or community association participation": 45274
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Volunteer rate": 93150,
+        "Volunteering intensity": 52585,
+        "Volunteering intensity (microdata)": 116346,
+        "Active in neighborhood": 80503,
+        "Helping the community": 26381,
+        "Helping the community (microdata)": 52812,
+        "(Non-religious) membership organizations": 29818,
+        "Religious membership organizations": 79285,
+        "Religious organization participation": 87672,
+        "Sport or recreation organization participation": 74929,
+        "School, neighborhood or community association participation": 62703
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Volunteer rate": 428571,
+        "Volunteering intensity": 214285,
+        "Volunteering intensity (microdata)": 162803,
+        "Active in neighborhood": 428571,
+        "Helping the community": 49065,
+        "Helping the community (microdata)": 183893,
+        "(Non-religious) membership organizations": 76885,
+        "Religious membership organizations": 143571,
+        "Religious organization participation": 214285,
+        "Sport or recreation organization participation": 98822,
+        "School, neighborhood or community association participation": 168547
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Volunteer rate": 229465,
+        "Volunteering intensity": 120998,
+        "Volunteering intensity (microdata)": 100610,
+        "Active in neighborhood": 205612,
+        "Helping the community": 48724,
+        "Helping the community (microdata)": 68035,
+        "(Non-religious) membership organizations": 69988,
+        "Religious membership organizations": 90000,
+        "Religious organization participation": 54699,
+        "Sport or recreation organization participation": 73412,
+        "School, neighborhood or community association participation": 81449
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Volunteer rate": 264045,
+        "Volunteering intensity": 110017,
+        "Volunteering intensity (microdata)": 122639,
+        "Active in neighborhood": 428571,
+        "Helping the community": 100394,
+        "Helping the community (microdata)": 214285,
+        "(Non-religious) membership organizations": 240863,
+        "Religious membership organizations": 97142,
+        "Religious organization participation": 59346,
+        "Sport or recreation organization participation": 186228,
+        "School, neighborhood or community association participation": 109891
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Volunteer rate": 189047,
+        "Volunteering intensity": 112705,
+        "Volunteering intensity (microdata)": 123827,
+        "Active in neighborhood": 217546,
+        "Helping the community": 75915,
+        "Helping the community (microdata)": 120887,
+        "(Non-religious) membership organizations": 90591,
+        "Religious membership organizations": 64999,
+        "Religious organization participation": 98940,
+        "Sport or recreation organization participation": 147225,
+        "School, neighborhood or community association participation": 136306
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Volunteer rate": 247507,
+        "Volunteering intensity": 134206,
+        "Volunteering intensity (microdata)": 134968,
+        "Active in neighborhood": 105612,
+        "Helping the community": 61436,
+        "Helping the community (microdata)": 127064,
+        "(Non-religious) membership organizations": 123550,
+        "Religious membership organizations": 76428,
+        "Religious organization participation": 95606,
+        "Sport or recreation organization participation": 120019,
+        "School, neighborhood or community association participation": 73169
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Volunteer rate": 144208,
+        "Volunteering intensity": 65968,
+        "Volunteering intensity (microdata)": 113640,
+        "Active in neighborhood": 259205,
+        "Helping the community": 56770,
+        "Helping the community (microdata)": 58896,
+        "(Non-religious) membership organizations": 97740,
+        "Religious membership organizations": 169999,
+        "Religious organization participation": 75623,
+        "Sport or recreation organization participation": 50618,
+        "School, neighborhood or community association participation": 65295
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Volunteer rate": 150443,
+        "Volunteering intensity": 117415,
+        "Volunteering intensity (microdata)": 125048,
+        "Active in neighborhood": 257290,
+        "Helping the community": 46481,
+        "Helping the community (microdata)": 168684,
+        "(Non-religious) membership organizations": 246940,
+        "Religious membership organizations": 120000,
+        "Religious organization participation": 70858,
+        "Sport or recreation organization participation": 145998,
+        "School, neighborhood or community association participation": 49631
+      }
+    }
+  ],
+  "derivatives": {
+    "Civic and Social Participation": [
+      "Volunteer rate",
+      "Volunteering intensity",
+      "Volunteering intensity (microdata)",
+      "Active in neighborhood",
+      "Helping the community",
+      "Helping the community (microdata)",
+      "(Non-religious) membership organizations",
+      "Religious membership organizations",
+      "Religious organization participation",
+      "Sport or recreation organization participation",
+      "School, neighborhood or community association participation"
+    ]
+  },
+  "weightingOptions": {
+    "Volunteer rate": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Volunteering intensity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Volunteering intensity (microdata)": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Active in neighborhood": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Helping the community": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Helping the community (microdata)": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "(Non-religious) membership organizations": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Religious membership organizations": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Religious organization participation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Sport or recreation organization participation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "School, neighborhood or community association participation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

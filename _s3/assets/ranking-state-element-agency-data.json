@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 0,
+        "Death row population": 666666,
+        "Adult Incarceration": 369696,
+        "Youth Incarceration": 210760,
+        "Trafficking": 499605
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 554915,
+        "Death row population": 61643,
+        "Adult Incarceration": 206060,
+        "Youth Incarceration": 265440,
+        "Trafficking": 598423
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 486306,
+        "Death row population": 384029,
+        "Adult Incarceration": 200000,
+        "Youth Incarceration": 253293,
+        "Trafficking": 298001
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 375023,
+        "Death row population": 287394,
+        "Adult Incarceration": 254545,
+        "Youth Incarceration": 315646,
+        "Trafficking": 217168
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 554903,
+        "Death row population": 253274,
+        "Adult Incarceration": 454545,
+        "Youth Incarceration": 280133,
+        "Trafficking": 44109
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 478570,
+        "Death row population": 646915,
+        "Adult Incarceration": 406060,
+        "Youth Incarceration": 259221,
+        "Trafficking": 248602
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 512635,
+        "Death row population": 666666,
+        "Adult Incarceration": 557575,
+        "Youth Incarceration": 333333,
+        "Trafficking": 650793
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 660606,
+        "Youth Incarceration": 272021,
+        "Trafficking": 666666
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 369696,
+        "Youth Incarceration": 278513,
+        "Trafficking": 38257
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 540302,
+        "Death row population": 289695,
+        "Adult Incarceration": 321212,
+        "Youth Incarceration": 276908,
+        "Trafficking": 0
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 615034,
+        "Death row population": 506564,
+        "Adult Incarceration": 175757,
+        "Youth Incarceration": 302950,
+        "Trafficking": 27294
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 557575,
+        "Youth Incarceration": 329772,
+        "Trafficking": 387807
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 496969,
+        "Youth Incarceration": 258466,
+        "Trafficking": 231339
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 509591,
+        "Adult Incarceration": 290909,
+        "Youth Incarceration": 242964,
+        "Trafficking": 660726
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 622705,
+        "Death row population": 666666,
+        "Adult Incarceration": 509090,
+        "Youth Incarceration": 308551,
+        "Trafficking": 481757
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 617616,
+        "Adult Incarceration": 303030,
+        "Youth Incarceration": 252426,
+        "Trafficking": 429687
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 550960,
+        "Adult Incarceration": 351515,
+        "Youth Incarceration": 281752,
+        "Trafficking": 216055
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 543948,
+        "Death row population": 460336,
+        "Adult Incarceration": 193939,
+        "Youth Incarceration": 287692,
+        "Trafficking": 246774
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 306257,
+        "Adult Incarceration": 72727,
+        "Youth Incarceration": 268857,
+        "Trafficking": 147999
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 654545,
+        "Youth Incarceration": 328216,
+        "Trafficking": 627648
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 575676,
+        "Death row population": 666666,
+        "Adult Incarceration": 496969,
+        "Youth Incarceration": 304770,
+        "Trafficking": 233859
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 624242,
+        "Youth Incarceration": 310123,
+        "Trafficking": 341951
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 430303,
+        "Youth Incarceration": 284273,
+        "Trafficking": 89175
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 569323,
+        "Death row population": 666666,
+        "Adult Incarceration": 624242,
+        "Youth Incarceration": 291448,
+        "Trafficking": 554277
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 488917,
+        "Death row population": 532927,
+        "Adult Incarceration": 303030,
+        "Youth Incarceration": 285556,
+        "Trafficking": 54444
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 304711,
+        "Adult Incarceration": 115151,
+        "Youth Incarceration": 307323,
+        "Trafficking": 0
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 600072,
+        "Adult Incarceration": 400000,
+        "Youth Incarceration": 257728,
+        "Trafficking": 123938
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 562829,
+        "Death row population": 333354,
+        "Adult Incarceration": 442424,
+        "Youth Incarceration": 333333,
+        "Trafficking": 382246
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 527272,
+        "Youth Incarceration": 282370,
+        "Trafficking": 255045
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 477640,
+        "Adult Incarceration": 460606,
+        "Youth Incarceration": 230944,
+        "Trafficking": 205150
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 638965,
+        "Adult Incarceration": 624242,
+        "Youth Incarceration": 322998,
+        "Trafficking": 666666
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 604470,
+        "Death row population": 666666,
+        "Adult Incarceration": 600000,
+        "Youth Incarceration": 317809,
+        "Trafficking": 312618
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 631093,
+        "Adult Incarceration": 357575,
+        "Youth Incarceration": 273944,
+        "Trafficking": 246544
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 492401,
+        "Death row population": 187926,
+        "Adult Incarceration": 327272,
+        "Youth Incarceration": 249382,
+        "Trafficking": 0
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 581818,
+        "Youth Incarceration": 328716,
+        "Trafficking": 423626
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 619357,
+        "Death row population": 353401,
+        "Adult Incarceration": 381818,
+        "Youth Incarceration": 257516,
+        "Trafficking": 38875
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 528831,
+        "Death row population": 356436,
+        "Adult Incarceration": 66666,
+        "Youth Incarceration": 300160,
+        "Trafficking": 323550
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 446213,
+        "Adult Incarceration": 466666,
+        "Youth Incarceration": 227637,
+        "Trafficking": 227666
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 623376,
+        "Death row population": 353857,
+        "Adult Incarceration": 381818,
+        "Youth Incarceration": 273789,
+        "Trafficking": 482061
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 654545,
+        "Youth Incarceration": 286211,
+        "Trafficking": 666666
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 452115,
+        "Adult Incarceration": 387878,
+        "Youth Incarceration": 295184,
+        "Trafficking": 342606
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 587391,
+        "Adult Incarceration": 296969,
+        "Youth Incarceration": 270320,
+        "Trafficking": 307579
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 507626,
+        "Death row population": 427077,
+        "Adult Incarceration": 284848,
+        "Youth Incarceration": 311342,
+        "Trafficking": 355465
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 610189,
+        "Death row population": 441305,
+        "Adult Incarceration": 236363,
+        "Youth Incarceration": 289137,
+        "Trafficking": 82466
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 580365,
+        "Adult Incarceration": 515151,
+        "Youth Incarceration": 325346,
+        "Trafficking": 315555
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 653205,
+        "Adult Incarceration": 333333,
+        "Youth Incarceration": 285884,
+        "Trafficking": 461515
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 654545,
+        "Youth Incarceration": 333333,
+        "Trafficking": 655431
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 385084,
+        "Death row population": 666666,
+        "Adult Incarceration": 533333,
+        "Youth Incarceration": 293177,
+        "Trafficking": 119128
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 357575,
+        "Youth Incarceration": 295082,
+        "Trafficking": 612406
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 666666,
+        "Adult Incarceration": 400000,
+        "Youth Incarceration": 196185,
+        "Trafficking": 479716
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Fatal police shootings of unarmed civilians": 666666,
+        "Death row population": 604518,
+        "Adult Incarceration": 296969,
+        "Youth Incarceration": 187568,
+        "Trafficking": 666666
+      }
+    }
+  ],
+  "derivatives": {
+    "Agency": [
+      "Fatal police shootings of unarmed civilians",
+      "Death row population",
+      "Adult Incarceration",
+      "Youth Incarceration",
+      "Trafficking"
+    ]
+  },
+  "weightingOptions": {
+    "Fatal police shootings of unarmed civilians": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Death row population": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Adult Incarceration": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Youth Incarceration": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Trafficking": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

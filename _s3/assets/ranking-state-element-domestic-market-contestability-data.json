@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Low-income licensed occupations": 243713,
+        "Occupational licensing training cost": 185454,
+        "Occupational licensing training time": 415786,
+        "Age requirements for license": 545454,
+        "Regulation density index": 331152
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Low-income licensed occupations": 243713,
+        "Occupational licensing training cost": 129090,
+        "Occupational licensing training time": 545454,
+        "Age requirements for license": 545454,
+        "Regulation density index": 123441
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Low-income licensed occupations": 87040,
+        "Occupational licensing training cost": 279999,
+        "Occupational licensing training time": 12311,
+        "Age requirements for license": 436363,
+        "Regulation density index": 83890
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Low-income licensed occupations": 156673,
+        "Occupational licensing training cost": 0,
+        "Occupational licensing training time": 0,
+        "Age requirements for license": 0,
+        "Regulation density index": 430969
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Low-income licensed occupations": 17408,
+        "Occupational licensing training cost": 0,
+        "Occupational licensing training time": 0,
+        "Age requirements for license": 0,
+        "Regulation density index": 0
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Low-income licensed occupations": 748549,
+        "Occupational licensing training cost": 101818,
+        "Occupational licensing training time": 340174,
+        "Age requirements for license": 218181,
+        "Regulation density index": 514696
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Low-income licensed occupations": 226305,
+        "Occupational licensing training cost": 247272,
+        "Occupational licensing training time": 221220,
+        "Age requirements for license": 490909,
+        "Regulation density index": 256695
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Low-income licensed occupations": 295938,
+        "Occupational licensing training cost": 0,
+        "Occupational licensing training time": 338783,
+        "Age requirements for license": 490909,
+        "Regulation density index": 77922
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Low-income licensed occupations": 574468,
+        "Occupational licensing training cost": 365454,
+        "Occupational licensing training time": 121666,
+        "Age requirements for license": 381818,
+        "Regulation density index": 222986
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Low-income licensed occupations": 365570,
+        "Occupational licensing training cost": 149090,
+        "Occupational licensing training time": 0,
+        "Age requirements for license": 0,
+        "Regulation density index": 81949
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Low-income licensed occupations": 626692,
+        "Occupational licensing training cost": 390909,
+        "Occupational licensing training time": 130168,
+        "Age requirements for license": 163636,
+        "Regulation density index": 200569
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Low-income licensed occupations": 243713,
+        "Occupational licensing training cost": 0,
+        "Occupational licensing training time": 0,
+        "Age requirements for license": 0,
+        "Regulation density index": 284878
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Low-income licensed occupations": 104448,
+        "Occupational licensing training cost": 403636,
+        "Occupational licensing training time": 303117,
+        "Age requirements for license": 545454,
+        "Regulation density index": 252572
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Low-income licensed occupations": 174081,
+        "Occupational licensing training cost": 429090,
+        "Occupational licensing training time": 251584,
+        "Age requirements for license": 436363,
+        "Regulation density index": 511138
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Low-income licensed occupations": 644100,
+        "Occupational licensing training cost": 283636,
+        "Occupational licensing training time": 355832,
+        "Age requirements for license": 109090,
+        "Regulation density index": 26498
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Low-income licensed occupations": 696324,
+        "Occupational licensing training cost": 430909,
+        "Occupational licensing training time": 261547,
+        "Age requirements for license": 163636,
+        "Regulation density index": 288324
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Low-income licensed occupations": 731141,
+        "Occupational licensing training cost": 485454,
+        "Occupational licensing training time": 435161,
+        "Age requirements for license": 327272,
+        "Regulation density index": 455656
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Low-income licensed occupations": 696324,
+        "Occupational licensing training cost": 290909,
+        "Occupational licensing training time": 128607,
+        "Age requirements for license": 109090,
+        "Regulation density index": 190794
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Low-income licensed occupations": 0,
+        "Occupational licensing training cost": 72727,
+        "Occupational licensing training time": 431561,
+        "Age requirements for license": 436363,
+        "Regulation density index": 47546
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Low-income licensed occupations": 470019,
+        "Occupational licensing training cost": 165454,
+        "Occupational licensing training time": 93736,
+        "Age requirements for license": 218181,
+        "Regulation density index": 183987
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Low-income licensed occupations": 313346,
+        "Occupational licensing training cost": 203636,
+        "Occupational licensing training time": 82590,
+        "Age requirements for license": 218181,
+        "Regulation density index": 47021
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Low-income licensed occupations": 557059,
+        "Occupational licensing training cost": 385454,
+        "Occupational licensing training time": 290747,
+        "Age requirements for license": 436363,
+        "Regulation density index": 264626
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Low-income licensed occupations": 487427,
+        "Occupational licensing training cost": 287272,
+        "Occupational licensing training time": 347208,
+        "Age requirements for license": 163636,
+        "Regulation density index": 184055
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Low-income licensed occupations": 748549,
+        "Occupational licensing training cost": 294545,
+        "Occupational licensing training time": 288323,
+        "Age requirements for license": 545454,
+        "Regulation density index": 467488
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Low-income licensed occupations": 696324,
+        "Occupational licensing training cost": 401818,
+        "Occupational licensing training time": 234519,
+        "Age requirements for license": 163636,
+        "Regulation density index": 276468
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Low-income licensed occupations": 191489,
+        "Occupational licensing training cost": 127272,
+        "Occupational licensing training time": 515852,
+        "Age requirements for license": 490909,
+        "Regulation density index": 281285
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Low-income licensed occupations": 783365,
+        "Occupational licensing training cost": 252727,
+        "Occupational licensing training time": 274107,
+        "Age requirements for license": 218181,
+        "Regulation density index": 226062
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Low-income licensed occupations": 174081,
+        "Occupational licensing training cost": 365454,
+        "Occupational licensing training time": 378332,
+        "Age requirements for license": 490909,
+        "Regulation density index": 119615
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Low-income licensed occupations": 208897,
+        "Occupational licensing training cost": 443636,
+        "Occupational licensing training time": 545454,
+        "Age requirements for license": 109090,
+        "Regulation density index": 349024
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Low-income licensed occupations": 243713,
+        "Occupational licensing training cost": 545454,
+        "Occupational licensing training time": 545454,
+        "Age requirements for license": 490909,
+        "Regulation density index": 360470
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Low-income licensed occupations": 678916,
+        "Occupational licensing training cost": 394545,
+        "Occupational licensing training time": 322498,
+        "Age requirements for license": 381818,
+        "Regulation density index": 471711
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Low-income licensed occupations": 400386,
+        "Occupational licensing training cost": 320000,
+        "Occupational licensing training time": 164591,
+        "Age requirements for license": 272727,
+        "Regulation density index": 82240
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Low-income licensed occupations": 191489,
+        "Occupational licensing training cost": 243636,
+        "Occupational licensing training time": 88818,
+        "Age requirements for license": 54545,
+        "Regulation density index": 426751
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Low-income licensed occupations": 34816,
+        "Occupational licensing training cost": 0,
+        "Occupational licensing training time": 0,
+        "Age requirements for license": 0,
+        "Regulation density index": 232413
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Low-income licensed occupations": 626692,
+        "Occupational licensing training cost": 219999,
+        "Occupational licensing training time": 319854,
+        "Age requirements for license": 218181,
+        "Regulation density index": 79837
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Low-income licensed occupations": 644100,
+        "Occupational licensing training cost": 385454,
+        "Occupational licensing training time": 232441,
+        "Age requirements for license": 272727,
+        "Regulation density index": 64375
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Low-income licensed occupations": 626692,
+        "Occupational licensing training cost": 301818,
+        "Occupational licensing training time": 184921,
+        "Age requirements for license": 272727,
+        "Regulation density index": 102202
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Low-income licensed occupations": 139264,
+        "Occupational licensing training cost": 118181,
+        "Occupational licensing training time": 77142,
+        "Age requirements for license": 109090,
+        "Regulation density index": 209469
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Low-income licensed occupations": 452611,
+        "Occupational licensing training cost": 476363,
+        "Occupational licensing training time": 545454,
+        "Age requirements for license": 381818,
+        "Regulation density index": 271620
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Low-income licensed occupations": 87040,
+        "Occupational licensing training cost": 321818,
+        "Occupational licensing training time": 258196,
+        "Age requirements for license": 54545,
+        "Regulation density index": 326000
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Low-income licensed occupations": 295938,
+        "Occupational licensing training cost": 327272,
+        "Occupational licensing training time": 149438,
+        "Age requirements for license": 436363,
+        "Regulation density index": 104379
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Low-income licensed occupations": 783365,
+        "Occupational licensing training cost": 367272,
+        "Occupational licensing training time": 227297,
+        "Age requirements for license": 272727,
+        "Regulation density index": 343962
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Low-income licensed occupations": 104448,
+        "Occupational licensing training cost": 132727,
+        "Occupational licensing training time": 390927,
+        "Age requirements for license": 436363,
+        "Regulation density index": 93650
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Low-income licensed occupations": 696324,
+        "Occupational licensing training cost": 267272,
+        "Occupational licensing training time": 241887,
+        "Age requirements for license": 272727,
+        "Regulation density index": 69557
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Low-income licensed occupations": 226305,
+        "Occupational licensing training cost": 59999,
+        "Occupational licensing training time": 100160,
+        "Age requirements for license": 545454,
+        "Regulation density index": 403321
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Low-income licensed occupations": 156673,
+        "Occupational licensing training cost": 198181,
+        "Occupational licensing training time": 24970,
+        "Age requirements for license": 54545,
+        "Regulation density index": 123225
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Low-income licensed occupations": 800773,
+        "Occupational licensing training cost": 376363,
+        "Occupational licensing training time": 304378,
+        "Age requirements for license": 327272,
+        "Regulation density index": 400721
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Low-income licensed occupations": 0,
+        "Occupational licensing training cost": 347272,
+        "Occupational licensing training time": 509139,
+        "Age requirements for license": 490909,
+        "Regulation density index": 164042
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Low-income licensed occupations": 609284,
+        "Occupational licensing training cost": 256363,
+        "Occupational licensing training time": 410677,
+        "Age requirements for license": 272727,
+        "Regulation density index": 263475
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Low-income licensed occupations": 121856,
+        "Occupational licensing training cost": 414545,
+        "Occupational licensing training time": 417506,
+        "Age requirements for license": 436363,
+        "Regulation density index": 149718
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Low-income licensed occupations": 818181,
+        "Occupational licensing training cost": 99999,
+        "Occupational licensing training time": 313325,
+        "Age requirements for license": 218181,
+        "Regulation density index": 482285
+      }
+    }
+  ],
+  "derivatives": {
+    "Domestic Market Contestability": [
+      "Low-income licensed occupations",
+      "Occupational licensing training cost",
+      "Occupational licensing training time",
+      "Age requirements for license",
+      "Regulation density index"
+    ]
+  },
+  "weightingOptions": {
+    "Low-income licensed occupations": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Occupational licensing training cost": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Occupational licensing training time": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Age requirements for license": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Regulation density index": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

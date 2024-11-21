@@ -1,0 +1,855 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Number of airports": 13889,
+        "Road condition": 305945,
+        "Railroad length": 4774,
+        "Bus transit route mileage": 105,
+        "Public road length": 0,
+        "Bridge condition": 170940,
+        "Distance to airport": 0
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Number of airports": 58263,
+        "Road condition": 734226,
+        "Railroad length": 343097,
+        "Bus transit route mileage": 6992,
+        "Public road length": 313114,
+        "Bridge condition": 241741,
+        "Distance to airport": 262159
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Number of airports": 61053,
+        "Road condition": 509616,
+        "Railroad length": 264082,
+        "Bus transit route mileage": 2545,
+        "Public road length": 311130,
+        "Bridge condition": 222545,
+        "Distance to airport": 116865
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Number of airports": 28156,
+        "Road condition": 475361,
+        "Railroad length": 83380,
+        "Bus transit route mileage": 11051,
+        "Public road length": 79856,
+        "Bridge condition": 269230,
+        "Distance to airport": 40409
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Number of airports": 65121,
+        "Road condition": 204760,
+        "Railroad length": 171826,
+        "Bus transit route mileage": 63319,
+        "Public road length": 187563,
+        "Bridge condition": 209969,
+        "Distance to airport": 343778
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Number of airports": 46135,
+        "Road condition": 361790,
+        "Railroad length": 136950,
+        "Bus transit route mileage": 11212,
+        "Public road length": 137908,
+        "Bridge condition": 217658,
+        "Distance to airport": 274731
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Number of airports": 273567,
+        "Road condition": 321222,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 196936,
+        "Public road length": 535515,
+        "Bridge condition": 214008,
+        "Distance to airport": 449921
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Number of airports": 538461,
+        "Road condition": 0,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 269230,
+        "Public road length": 538461,
+        "Bridge condition": 250105,
+        "Distance to airport": 538461
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Number of airports": 226546,
+        "Road condition": 503723,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 184640,
+        "Public road length": 450509,
+        "Bridge condition": 266924,
+        "Distance to airport": 187866
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Number of airports": 168492,
+        "Road condition": 710003,
+        "Railroad length": 279347,
+        "Bus transit route mileage": 68981,
+        "Public road length": 349304,
+        "Bridge condition": 250681,
+        "Distance to airport": 398068
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Number of airports": 84636,
+        "Road condition": 747187,
+        "Railroad length": 423275,
+        "Bus transit route mileage": 18323,
+        "Public road length": 342284,
+        "Bridge condition": 261762,
+        "Distance to airport": 210644
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Number of airports": 80480,
+        "Road condition": 144269,
+        "Railroad length": 0,
+        "Bus transit route mileage": 66251,
+        "Public road length": 104895,
+        "Bridge condition": 190176,
+        "Distance to airport": 472325
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Number of airports": 54948,
+        "Road condition": 465022,
+        "Railroad length": 369019,
+        "Bus transit route mileage": 157029,
+        "Public road length": 321336,
+        "Bridge condition": 14057,
+        "Distance to airport": 310449
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Number of airports": 36747,
+        "Road condition": 664101,
+        "Railroad length": 106724,
+        "Bus transit route mileage": 841,
+        "Public road length": 90519,
+        "Bridge condition": 204546,
+        "Distance to airport": 276283
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Number of airports": 141988,
+        "Road condition": 386936,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 36551,
+        "Public road length": 384905,
+        "Bridge condition": 166887,
+        "Distance to airport": 432280
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Number of airports": 165329,
+        "Road condition": 471493,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 18540,
+        "Public road length": 392537,
+        "Bridge condition": 213164,
+        "Distance to airport": 252149
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Number of airports": 48209,
+        "Road condition": 715438,
+        "Railroad length": 306378,
+        "Bus transit route mileage": 2686,
+        "Public road length": 277979,
+        "Bridge condition": 219946,
+        "Distance to airport": 232591
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Number of airports": 66820,
+        "Road condition": 638878,
+        "Railroad length": 352237,
+        "Bus transit route mileage": 12697,
+        "Public road length": 317636,
+        "Bridge condition": 192011,
+        "Distance to airport": 241762
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Number of airports": 112667,
+        "Road condition": 323424,
+        "Railroad length": 370282,
+        "Bus transit route mileage": 9936,
+        "Public road length": 244370,
+        "Bridge condition": 108993,
+        "Distance to airport": 340601
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Number of airports": 307889,
+        "Road condition": 139513,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 198449,
+        "Public road length": 538461,
+        "Bridge condition": 164132,
+        "Distance to airport": 459733
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Number of airports": 242965,
+        "Road condition": 363637,
+        "Railroad length": 428239,
+        "Bus transit route mileage": 150758,
+        "Public road length": 450548,
+        "Bridge condition": 223945,
+        "Distance to airport": 407434
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Number of airports": 62849,
+        "Road condition": 353374,
+        "Railroad length": 187151,
+        "Bus transit route mileage": 1142,
+        "Public road length": 113363,
+        "Bridge condition": 108549,
+        "Distance to airport": 112395
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Number of airports": 86665,
+        "Road condition": 400138,
+        "Railroad length": 329996,
+        "Bus transit route mileage": 39357,
+        "Public road length": 333896,
+        "Bridge condition": 137376,
+        "Distance to airport": 343404
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Number of airports": 60590,
+        "Road condition": 427538,
+        "Railroad length": 286248,
+        "Bus transit route mileage": 15677,
+        "Public road length": 285830,
+        "Bridge condition": 225752,
+        "Distance to airport": 286292
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Number of airports": 75510,
+        "Road condition": 547932,
+        "Railroad length": 294680,
+        "Bus transit route mileage": 11485,
+        "Public road length": 305100,
+        "Bridge condition": 165652,
+        "Distance to airport": 284830
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Number of airports": 52557,
+        "Road condition": 422924,
+        "Railroad length": 287688,
+        "Bus transit route mileage": 2580,
+        "Public road length": 268961,
+        "Bridge condition": 176318,
+        "Distance to airport": 156320
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Number of airports": 19903,
+        "Road condition": 582995,
+        "Railroad length": 135294,
+        "Bus transit route mileage": 778,
+        "Public road length": 60055,
+        "Bridge condition": 192165,
+        "Distance to airport": 5207
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Number of airports": 98792,
+        "Road condition": 486934,
+        "Railroad length": 315315,
+        "Bus transit route mileage": 22548,
+        "Public road length": 340009,
+        "Bridge condition": 182671,
+        "Distance to airport": 354573
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Number of airports": 42295,
+        "Road condition": 708861,
+        "Railroad length": 251512,
+        "Bus transit route mileage": 853,
+        "Public road length": 212866,
+        "Bridge condition": 145132,
+        "Distance to airport": 268217
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Number of airports": 32662,
+        "Road condition": 455642,
+        "Railroad length": 214616,
+        "Bus transit route mileage": 2806,
+        "Public road length": 206752,
+        "Bridge condition": 172259,
+        "Distance to airport": 306835
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Number of airports": 168400,
+        "Road condition": 485878,
+        "Railroad length": 221928,
+        "Bus transit route mileage": 4920,
+        "Public road length": 290133,
+        "Bridge condition": 171229,
+        "Distance to airport": 317179
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Number of airports": 459823,
+        "Road condition": 143756,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 269230,
+        "Public road length": 538461,
+        "Bridge condition": 188741,
+        "Distance to airport": 412491
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Number of airports": 14826,
+        "Road condition": 306212,
+        "Railroad length": 83145,
+        "Bus transit route mileage": 2995,
+        "Public road length": 80600,
+        "Bridge condition": 222203,
+        "Distance to airport": 105737
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Number of airports": 12164,
+        "Road condition": 768502,
+        "Railroad length": 58515,
+        "Bus transit route mileage": 3900,
+        "Public road length": 42161,
+        "Bridge condition": 269230,
+        "Distance to airport": 251001
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Number of airports": 134369,
+        "Road condition": 270710,
+        "Railroad length": 421047,
+        "Bus transit route mileage": 77648,
+        "Public road length": 362717,
+        "Bridge condition": 154106,
+        "Distance to airport": 506199
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Number of airports": 176056,
+        "Road condition": 401988,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 49149,
+        "Public road length": 421854,
+        "Bridge condition": 223066,
+        "Distance to airport": 323025
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Number of airports": 59658,
+        "Road condition": 509301,
+        "Railroad length": 250960,
+        "Bus transit route mileage": 5426,
+        "Public road length": 271718,
+        "Bridge condition": 148894,
+        "Distance to airport": 227922
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Number of airports": 47233,
+        "Road condition": 607378,
+        "Railroad length": 129471,
+        "Bus transit route mileage": 6874,
+        "Public road length": 130707,
+        "Bridge condition": 227217,
+        "Distance to airport": 244822
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Number of airports": 188942,
+        "Road condition": 366223,
+        "Railroad length": 538461,
+        "Bus transit route mileage": 69255,
+        "Public road length": 391842,
+        "Bridge condition": 80762,
+        "Distance to airport": 361626
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Number of airports": 249962,
+        "Road condition": 44827,
+        "Railroad length": 484302,
+        "Bus transit route mileage": 269230,
+        "Public road length": 538461,
+        "Bridge condition": 14245,
+        "Distance to airport": 520352
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Number of airports": 69141,
+        "Road condition": 523656,
+        "Railroad length": 409295,
+        "Bus transit route mileage": 24726,
+        "Public road length": 385579,
+        "Bridge condition": 181290,
+        "Distance to airport": 360630
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Number of airports": 25001,
+        "Road condition": 562488,
+        "Railroad length": 129410,
+        "Bus transit route mileage": 616,
+        "Public road length": 179537,
+        "Bridge condition": 35103,
+        "Distance to airport": 205681
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Number of airports": 85140,
+        "Road condition": 575739,
+        "Railroad length": 340039,
+        "Bus transit route mileage": 16834,
+        "Public road length": 353375,
+        "Bridge condition": 234023,
+        "Distance to airport": 258414
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Number of airports": 83232,
+        "Road condition": 468392,
+        "Railroad length": 215605,
+        "Bus transit route mileage": 12858,
+        "Public road length": 201297,
+        "Bridge condition": 269230,
+        "Distance to airport": 385396
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Number of airports": 19134,
+        "Road condition": 525176,
+        "Railroad length": 90759,
+        "Bus transit route mileage": 11661,
+        "Public road length": 80463,
+        "Bridge condition": 268859,
+        "Distance to airport": 433767
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Number of airports": 116718,
+        "Road condition": 587550,
+        "Railroad length": 420788,
+        "Bus transit route mileage": 35416,
+        "Public road length": 303088,
+        "Bridge condition": 237336,
+        "Distance to airport": 407990
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Number of airports": 96977,
+        "Road condition": 563206,
+        "Railroad length": 344096,
+        "Bus transit route mileage": 11832,
+        "Public road length": 254047,
+        "Bridge condition": 264225,
+        "Distance to airport": 283014
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Number of airports": 89938,
+        "Road condition": 338517,
+        "Railroad length": 234244,
+        "Bus transit route mileage": 29595,
+        "Public road length": 202445,
+        "Bridge condition": 224520,
+        "Distance to airport": 237257
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Number of airports": 109366,
+        "Road condition": 276799,
+        "Railroad length": 323526,
+        "Bus transit route mileage": 18250,
+        "Public road length": 330946,
+        "Bridge condition": 196537,
+        "Distance to airport": 324177
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Number of airports": 55553,
+        "Road condition": 422885,
+        "Railroad length": 479593,
+        "Bus transit route mileage": 11923,
+        "Public road length": 264187,
+        "Bridge condition": 0,
+        "Distance to airport": 235394
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Number of airports": 13420,
+        "Road condition": 727705,
+        "Railroad length": 104095,
+        "Bus transit route mileage": 0,
+        "Public road length": 8533,
+        "Bridge condition": 194703,
+        "Distance to airport": 146513
+      }
+    }
+  ],
+  "derivatives": {
+    "Transport": [
+      "Number of airports",
+      "Road condition",
+      "Railroad length",
+      "Bus transit route mileage",
+      "Public road length",
+      "Bridge condition",
+      "Distance to airport"
+    ]
+  },
+  "weightingOptions": {
+    "Number of airports": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Road condition": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Railroad length": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Bus transit route mileage": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Public road length": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Bridge condition": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Distance to airport": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Obesity": 178125,
+        "Smoking": 334821,
+        "Alcohol use disorder": 80046,
+        "Illicit drug use disorder": 58934,
+        "Pain reliever misuse": 97641
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Obesity": 73125,
+        "Smoking": 238392,
+        "Alcohol use disorder": 146100,
+        "Illicit drug use disorder": 105082,
+        "Pain reliever misuse": 67945
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Obesity": 48750,
+        "Smoking": 243749,
+        "Alcohol use disorder": 162128,
+        "Illicit drug use disorder": 143594,
+        "Pain reliever misuse": 134739
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Obesity": 161250,
+        "Smoking": 391071,
+        "Alcohol use disorder": 167003,
+        "Illicit drug use disorder": 103596,
+        "Pain reliever misuse": 117578
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Obesity": 258750,
+        "Smoking": 533035,
+        "Alcohol use disorder": 111540,
+        "Illicit drug use disorder": 64975,
+        "Pain reliever misuse": 135176
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Obesity": 303750,
+        "Smoking": 436607,
+        "Alcohol use disorder": 41896,
+        "Illicit drug use disorder": 0,
+        "Pain reliever misuse": 103447
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Obesity": 204375,
+        "Smoking": 471428,
+        "Alcohol use disorder": 115770,
+        "Illicit drug use disorder": 132529,
+        "Pain reliever misuse": 155303
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Obesity": 303750,
+        "Smoking": 458035,
+        "Alcohol use disorder": 19157,
+        "Illicit drug use disorder": 0,
+        "Pain reliever misuse": 93317
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Obesity": 105000,
+        "Smoking": 358928,
+        "Alcohol use disorder": 116517,
+        "Illicit drug use disorder": 87659,
+        "Pain reliever misuse": 146355
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Obesity": 243750,
+        "Smoking": 393749,
+        "Alcohol use disorder": 187500,
+        "Illicit drug use disorder": 153117,
+        "Pain reliever misuse": 127481
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Obesity": 129375,
+        "Smoking": 361607,
+        "Alcohol use disorder": 173860,
+        "Illicit drug use disorder": 150444,
+        "Pain reliever misuse": 141215
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Obesity": 281250,
+        "Smoking": 460714,
+        "Alcohol use disorder": 125887,
+        "Illicit drug use disorder": 102138,
+        "Pain reliever misuse": 146100
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Obesity": 114375,
+        "Smoking": 348214,
+        "Alcohol use disorder": 131899,
+        "Illicit drug use disorder": 125621,
+        "Pain reliever misuse": 97210
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Obesity": 196875,
+        "Smoking": 380357,
+        "Alcohol use disorder": 141182,
+        "Illicit drug use disorder": 142724,
+        "Pain reliever misuse": 93105
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Obesity": 157500,
+        "Smoking": 412499,
+        "Alcohol use disorder": 138694,
+        "Illicit drug use disorder": 111780,
+        "Pain reliever misuse": 187500
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Obesity": 88125,
+        "Smoking": 278571,
+        "Alcohol use disorder": 136300,
+        "Illicit drug use disorder": 76024,
+        "Pain reliever misuse": 121990
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Obesity": 89999,
+        "Smoking": 356249,
+        "Alcohol use disorder": 151907,
+        "Illicit drug use disorder": 147574,
+        "Pain reliever misuse": 121070
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Obesity": 65625,
+        "Smoking": 155357,
+        "Alcohol use disorder": 155207,
+        "Illicit drug use disorder": 102199,
+        "Pain reliever misuse": 91313
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Obesity": 76875,
+        "Smoking": 200892,
+        "Alcohol use disorder": 134923,
+        "Illicit drug use disorder": 121244,
+        "Pain reliever misuse": 113638
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Obesity": 277500,
+        "Smoking": 476785,
+        "Alcohol use disorder": 119944,
+        "Illicit drug use disorder": 84133,
+        "Pain reliever misuse": 160856
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Obesity": 144375,
+        "Smoking": 458035,
+        "Alcohol use disorder": 163349,
+        "Illicit drug use disorder": 135470,
+        "Pain reliever misuse": 144811
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Obesity": 155625,
+        "Smoking": 294642,
+        "Alcohol use disorder": 137940,
+        "Illicit drug use disorder": 67333,
+        "Pain reliever misuse": 159755
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Obesity": 75000,
+        "Smoking": 286607,
+        "Alcohol use disorder": 132265,
+        "Illicit drug use disorder": 132440,
+        "Pain reliever misuse": 122208
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Obesity": 185625,
+        "Smoking": 404464,
+        "Alcohol use disorder": 134411,
+        "Illicit drug use disorder": 134249,
+        "Pain reliever misuse": 132631
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Obesity": 97500,
+        "Smoking": 259821,
+        "Alcohol use disorder": 151503,
+        "Illicit drug use disorder": 126235,
+        "Pain reliever misuse": 127492
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Obesity": 0,
+        "Smoking": 241071,
+        "Alcohol use disorder": 165459,
+        "Illicit drug use disorder": 138364,
+        "Pain reliever misuse": 112545
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Obesity": 219374,
+        "Smoking": 334821,
+        "Alcohol use disorder": 70766,
+        "Illicit drug use disorder": 82708,
+        "Pain reliever misuse": 81599
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Obesity": 112500,
+        "Smoking": 294642,
+        "Alcohol use disorder": 154642,
+        "Illicit drug use disorder": 124091,
+        "Pain reliever misuse": 138817
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Obesity": 97500,
+        "Smoking": 337500,
+        "Alcohol use disorder": 107970,
+        "Illicit drug use disorder": 112912,
+        "Pain reliever misuse": 122935
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Obesity": 110625,
+        "Smoking": 399107,
+        "Alcohol use disorder": 132326,
+        "Illicit drug use disorder": 147639,
+        "Pain reliever misuse": 161430
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Obesity": 153750,
+        "Smoking": 348214,
+        "Alcohol use disorder": 107231,
+        "Illicit drug use disorder": 121977,
+        "Pain reliever misuse": 149851
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Obesity": 268125,
+        "Smoking": 447321,
+        "Alcohol use disorder": 183615,
+        "Illicit drug use disorder": 136623,
+        "Pain reliever misuse": 180526
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Obesity": 155625,
+        "Smoking": 356249,
+        "Alcohol use disorder": 145470,
+        "Illicit drug use disorder": 127069,
+        "Pain reliever misuse": 128473
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Obesity": 176250,
+        "Smoking": 380357,
+        "Alcohol use disorder": 120673,
+        "Illicit drug use disorder": 12140,
+        "Pain reliever misuse": 115192
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Obesity": 241875,
+        "Smoking": 455357,
+        "Alcohol use disorder": 154197,
+        "Illicit drug use disorder": 111441,
+        "Pain reliever misuse": 183749
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Obesity": 97500,
+        "Smoking": 230357,
+        "Alcohol use disorder": 153863,
+        "Illicit drug use disorder": 78773,
+        "Pain reliever misuse": 105342
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Obesity": 60000,
+        "Smoking": 289285,
+        "Alcohol use disorder": 140351,
+        "Illicit drug use disorder": 126923,
+        "Pain reliever misuse": 112772
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Obesity": 206250,
+        "Smoking": 404464,
+        "Alcohol use disorder": 89968,
+        "Illicit drug use disorder": 72766,
+        "Pain reliever misuse": 60989
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Obesity": 127500,
+        "Smoking": 326785,
+        "Alcohol use disorder": 157293,
+        "Illicit drug use disorder": 118354,
+        "Pain reliever misuse": 166038
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Obesity": 187500,
+        "Smoking": 439285,
+        "Alcohol use disorder": 104954,
+        "Illicit drug use disorder": 112227,
+        "Pain reliever misuse": 153214
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Obesity": 86250,
+        "Smoking": 316071,
+        "Alcohol use disorder": 153416,
+        "Illicit drug use disorder": 166022,
+        "Pain reliever misuse": 134752
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Obesity": 131250,
+        "Smoking": 294642,
+        "Alcohol use disorder": 124224,
+        "Illicit drug use disorder": 164962,
+        "Pain reliever misuse": 158224
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Obesity": 65625,
+        "Smoking": 257142,
+        "Alcohol use disorder": 164821,
+        "Illicit drug use disorder": 128742,
+        "Pain reliever misuse": 138306
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Obesity": 112500,
+        "Smoking": 409821,
+        "Alcohol use disorder": 172257,
+        "Illicit drug use disorder": 174539,
+        "Pain reliever misuse": 134708
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Obesity": 202500,
+        "Smoking": 562500,
+        "Alcohol use disorder": 186678,
+        "Illicit drug use disorder": 119040,
+        "Pain reliever misuse": 119003
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Obesity": 151875,
+        "Smoking": 425892,
+        "Alcohol use disorder": 156640,
+        "Illicit drug use disorder": 115367,
+        "Pain reliever misuse": 150443
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Obesity": 251250,
+        "Smoking": 375000,
+        "Alcohol use disorder": 95987,
+        "Illicit drug use disorder": 41047,
+        "Pain reliever misuse": 141583
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Obesity": 219374,
+        "Smoking": 458035,
+        "Alcohol use disorder": 131295,
+        "Illicit drug use disorder": 103648,
+        "Pain reliever misuse": 99342
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Obesity": 108749,
+        "Smoking": 375000,
+        "Alcohol use disorder": 118831,
+        "Illicit drug use disorder": 147215,
+        "Pain reliever misuse": 112363
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Obesity": 5624,
+        "Smoking": 123214,
+        "Alcohol use disorder": 187500,
+        "Illicit drug use disorder": 135591,
+        "Pain reliever misuse": 165468
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Obesity": 193125,
+        "Smoking": 294642,
+        "Alcohol use disorder": 108841,
+        "Illicit drug use disorder": 174622,
+        "Pain reliever misuse": 151105
+      }
+    }
+  ],
+  "derivatives": {
+    "Behavioral Risk Factors": [
+      "Obesity",
+      "Smoking",
+      "Alcohol use disorder",
+      "Illicit drug use disorder",
+      "Pain reliever misuse"
+    ]
+  },
+  "weightingOptions": {
+    "Obesity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Smoking": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Alcohol use disorder": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Illicit drug use disorder": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Pain reliever misuse": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

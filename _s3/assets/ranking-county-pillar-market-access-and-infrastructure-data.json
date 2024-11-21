@@ -1,0 +1,7549 @@
+{
+  "regions": [
+    {
+      "id": "13001",
+      "title": "Appling, GA",
+      "scores": {
+        "Communications": 135.21894374293782,
+        "Resources": 1309.1941390569364,
+        "Transport": 1873.8645646248578
+      }
+    },
+    {
+      "id": "13003",
+      "title": "Atkinson, GA",
+      "scores": {
+        "Communications": 1571.4855889160494,
+        "Resources": 1249.22378150497,
+        "Transport": 1914.8641800989874
+      }
+    },
+    {
+      "id": "13005",
+      "title": "Bacon, GA",
+      "scores": {
+        "Communications": 72.09371593338626,
+        "Resources": 1252.1885438232164,
+        "Transport": 1876.7074943457355
+      }
+    },
+    {
+      "id": "13007",
+      "title": "Baker, GA",
+      "scores": {
+        "Communications": 1113.9135481537505,
+        "Resources": 1371.8030153498698,
+        "Transport": 1768.1934048448707
+      }
+    },
+    {
+      "id": "13009",
+      "title": "Baldwin, GA",
+      "scores": {
+        "Communications": 1709.8717761765681,
+        "Resources": 1243.5068579993144,
+        "Transport": 1626.223509305761
+      }
+    },
+    {
+      "id": "13011",
+      "title": "Banks, GA",
+      "scores": {
+        "Communications": 380.4169528376692,
+        "Resources": 1260.5480766101805,
+        "Transport": 1533.9947804887197
+      }
+    },
+    {
+      "id": "13013",
+      "title": "Barrow, GA",
+      "scores": {
+        "Communications": 1587.2458983883253,
+        "Resources": 1252.7586098609363,
+        "Transport": 1727.7400629693655
+      }
+    },
+    {
+      "id": "13015",
+      "title": "Bartow, GA",
+      "scores": {
+        "Communications": 1885.635172784302,
+        "Resources": 1262.1507254999094,
+        "Transport": 1788.215804907635
+      }
+    },
+    {
+      "id": "13017",
+      "title": "Ben Hill, GA",
+      "scores": {
+        "Communications": 2182.950074597168,
+        "Resources": 1249.4270464567353,
+        "Transport": 1387.3510311275152
+      }
+    },
+    {
+      "id": "13019",
+      "title": "Berrien, GA",
+      "scores": {
+        "Communications": 2166.3111609662315,
+        "Resources": 1249.2775990752384,
+        "Transport": 2075.345005957946
+      }
+    },
+    {
+      "id": "13021",
+      "title": "Bibb, GA",
+      "scores": {
+        "Communications": 1349.8783716903263,
+        "Resources": 1249.5267435063668,
+        "Transport": 1459.2153432143298
+      }
+    },
+    {
+      "id": "13023",
+      "title": "Bleckley, GA",
+      "scores": {
+        "Communications": 84.87731780771767,
+        "Resources": 1252.0712335725486,
+        "Transport": 1469.900703174057
+      }
+    },
+    {
+      "id": "13025",
+      "title": "Brantley, GA",
+      "scores": {
+        "Communications": 2504.3576979426484,
+        "Resources": 1236.5949865012553,
+        "Transport": 1939.8450276788658
+      }
+    },
+    {
+      "id": "13027",
+      "title": "Brooks, GA",
+      "scores": {
+        "Communications": 1705.7759399434797,
+        "Resources": 1257.2609599735663,
+        "Transport": 1842.9294319877586
+      }
+    },
+    {
+      "id": "13029",
+      "title": "Bryan, GA",
+      "scores": {
+        "Communications": 2058.896876934548,
+        "Resources": 1242.0340456003657,
+        "Transport": 1966.4384107347473
+      }
+    },
+    {
+      "id": "13031",
+      "title": "Bulloch, GA",
+      "scores": {
+        "Communications": 3020.889351168586,
+        "Resources": 1245.3931446783165,
+        "Transport": 1835.7786857744254
+      }
+    },
+    {
+      "id": "13033",
+      "title": "Burke, GA",
+      "scores": {
+        "Communications": 1829.4820061279318,
+        "Resources": 1312.5855822399108,
+        "Transport": 2179.0784349965124
+      }
+    },
+    {
+      "id": "13035",
+      "title": "Butts, GA",
+      "scores": {
+        "Communications": 1739.5616726594433,
+        "Resources": 1256.6859417535125,
+        "Transport": 1959.6321076858146
+      }
+    },
+    {
+      "id": "13037",
+      "title": "Calhoun, GA",
+      "scores": {
+        "Communications": 518.3843458837906,
+        "Resources": 1311.2258168086466,
+        "Transport": 1827.2502020723773
+      }
+    },
+    {
+      "id": "13039",
+      "title": "Camden, GA",
+      "scores": {
+        "Communications": 1630.506963242495,
+        "Resources": 1237.770424883115,
+        "Transport": 1971.7083745734783
+      }
+    },
+    {
+      "id": "13043",
+      "title": "Candler, GA",
+      "scores": {
+        "Communications": 2666.8577872468113,
+        "Resources": 1247.431077876857,
+        "Transport": 1642.146629873466
+      }
+    },
+    {
+      "id": "13045",
+      "title": "Carroll, GA",
+      "scores": {
+        "Communications": 1729.3214914965827,
+        "Resources": 1245.0555161361335,
+        "Transport": 1888.5888525598598
+      }
+    },
+    {
+      "id": "13047",
+      "title": "Catoosa, GA",
+      "scores": {
+        "Communications": 2385.3237225445455,
+        "Resources": 1233.68756968909,
+        "Transport": 2230.607935478646
+      }
+    },
+    {
+      "id": "13049",
+      "title": "Charlton, GA",
+      "scores": {
+        "Communications": 443.62478823719835,
+        "Resources": 1237.7940982611249,
+        "Transport": 1914.7058949712941
+      }
+    },
+    {
+      "id": "13051",
+      "title": "Chatham, GA",
+      "scores": {
+        "Communications": 1807.0536451329592,
+        "Resources": 563.4231503346272,
+        "Transport": 1731.4656860669156
+      }
+    },
+    {
+      "id": "13053",
+      "title": "Chattahoochee, GA",
+      "scores": {
+        "Communications": 1210.9526630000357,
+        "Resources": 1248.8509085357507,
+        "Transport": 2165.415901456246
+      }
+    },
+    {
+      "id": "13055",
+      "title": "Chattooga, GA",
+      "scores": {
+        "Communications": 1637.6245920798538,
+        "Resources": 1239.381640773264,
+        "Transport": 1742.7973099956282
+      }
+    },
+    {
+      "id": "13057",
+      "title": "Cherokee, GA",
+      "scores": {
+        "Communications": 2388.6244074492497,
+        "Resources": 1264.0395467989206,
+        "Transport": 1871.9239762262027
+      }
+    },
+    {
+      "id": "13059",
+      "title": "Clarke, GA",
+      "scores": {
+        "Communications": 2212.1370040258907,
+        "Resources": 1251.284046478655,
+        "Transport": 1617.4123444348008
+      }
+    },
+    {
+      "id": "13061",
+      "title": "Clay, GA",
+      "scores": {
+        "Communications": 511.43406369601666,
+        "Resources": 1269.0331208207738,
+        "Transport": 1772.0358875947304
+      }
+    },
+    {
+      "id": "13063",
+      "title": "Clayton, GA",
+      "scores": {
+        "Communications": 2313.9963094734644,
+        "Resources": 1247.139801830645,
+        "Transport": 1920.0830510129776
+      }
+    },
+    {
+      "id": "13065",
+      "title": "Clinch, GA",
+      "scores": {
+        "Communications": 54.7064499978111,
+        "Resources": 1245.6037479398315,
+        "Transport": 1980.712119720476
+      }
+    },
+    {
+      "id": "13067",
+      "title": "Cobb, GA",
+      "scores": {
+        "Communications": 2568.3940184107378,
+        "Resources": 1275.2832803031956,
+        "Transport": 1877.5896656179427
+      }
+    },
+    {
+      "id": "13069",
+      "title": "Coffee, GA",
+      "scores": {
+        "Communications": 892.4862907791246,
+        "Resources": 1248.90263990153,
+        "Transport": 1567.195419511725
+      }
+    },
+    {
+      "id": "13071",
+      "title": "Colquitt, GA",
+      "scores": {
+        "Communications": 2220.0071160050925,
+        "Resources": 1236.7702477838222,
+        "Transport": 1780.7206775529835
+      }
+    },
+    {
+      "id": "13073",
+      "title": "Columbia, GA",
+      "scores": {
+        "Communications": 1725.1134494931507,
+        "Resources": 1243.7464385983028,
+        "Transport": 1950.1877839639994
+      }
+    },
+    {
+      "id": "13075",
+      "title": "Cook, GA",
+      "scores": {
+        "Communications": 2205.85826846185,
+        "Resources": 1253.2722056954315,
+        "Transport": 1838.5203425824268
+      }
+    },
+    {
+      "id": "13077",
+      "title": "Coweta, GA",
+      "scores": {
+        "Communications": 2150.8365761008677,
+        "Resources": 1244.359465574357,
+        "Transport": 2002.0122403381158
+      }
+    },
+    {
+      "id": "13079",
+      "title": "Crawford, GA",
+      "scores": {
+        "Communications": 30.62049508354912,
+        "Resources": 1247.5317940653742,
+        "Transport": 1892.5507439137984
+      }
+    },
+    {
+      "id": "13081",
+      "title": "Crisp, GA",
+      "scores": {
+        "Communications": 2004.7575356545626,
+        "Resources": 1256.801143632595,
+        "Transport": 1876.325412943043
+      }
+    },
+    {
+      "id": "13083",
+      "title": "Dade, GA",
+      "scores": {
+        "Communications": 2331.0228076607495,
+        "Resources": 1245.501632320772,
+        "Transport": 1979.898337554244
+      }
+    },
+    {
+      "id": "13085",
+      "title": "Dawson, GA",
+      "scores": {
+        "Communications": 1203.5670584733473,
+        "Resources": 1231.7203796700376,
+        "Transport": 1644.68739274021
+      }
+    },
+    {
+      "id": "13087",
+      "title": "Decatur, GA",
+      "scores": {
+        "Communications": 1886.553776357605,
+        "Resources": 1268.8950377966848,
+        "Transport": 1853.3391880670983
+      }
+    },
+    {
+      "id": "13089",
+      "title": "De Kalb, GA",
+      "scores": {
+        "Communications": 2773.3156139682806,
+        "Resources": 1248.4164238277951,
+        "Transport": 1868.6500560143709
+      }
+    },
+    {
+      "id": "13091",
+      "title": "Dodge, GA",
+      "scores": {
+        "Communications": 1540.4801649565034,
+        "Resources": 1250.6016696413967,
+        "Transport": 1743.8665611721444
+      }
+    },
+    {
+      "id": "13093",
+      "title": "Dooly, GA",
+      "scores": {
+        "Communications": 752.917867529259,
+        "Resources": 1270.1720109889545,
+        "Transport": 1618.8106318064808
+      }
+    },
+    {
+      "id": "13095",
+      "title": "Dougherty, GA",
+      "scores": {
+        "Communications": 2511.058192499725,
+        "Resources": 1237.2505966135134,
+        "Transport": 1997.3689649936855
+      }
+    },
+    {
+      "id": "13097",
+      "title": "Douglas, GA",
+      "scores": {
+        "Communications": 2235.448389465769,
+        "Resources": 1245.5399825175753,
+        "Transport": 1984.1052346810366
+      }
+    },
+    {
+      "id": "13099",
+      "title": "Early, GA",
+      "scores": {
+        "Communications": 76.43135283037272,
+        "Resources": 1455.5811256439822,
+        "Transport": 1946.2263349134375
+      }
+    },
+    {
+      "id": "13101",
+      "title": "Echols, GA",
+      "scores": {
+        "Communications": 223.99668343094964,
+        "Resources": 1250.5369313078074,
+        "Transport": 1763.414482447326
+      }
+    },
+    {
+      "id": "13103",
+      "title": "Effingham, GA",
+      "scores": {
+        "Communications": 2076.865147333351,
+        "Resources": 1279.2029652401523,
+        "Transport": 1854.1057030650145
+      }
+    },
+    {
+      "id": "13105",
+      "title": "Elbert, GA",
+      "scores": {
+        "Communications": 1017.526048146418,
+        "Resources": 1247.962691386458,
+        "Transport": 1600.8181501120043
+      }
+    },
+    {
+      "id": "13107",
+      "title": "Emanuel, GA",
+      "scores": {
+        "Communications": 2524.7254492319375,
+        "Resources": 1248.257818247323,
+        "Transport": 1849.274214124572
+      }
+    },
+    {
+      "id": "13109",
+      "title": "Evans, GA",
+      "scores": {
+        "Communications": 1235.1003932303906,
+        "Resources": 1251.8973561065832,
+        "Transport": 1753.3329711796873
+      }
+    },
+    {
+      "id": "13111",
+      "title": "Fannin, GA",
+      "scores": {
+        "Communications": 434.23205437196725,
+        "Resources": 584.677355550721,
+        "Transport": 1753.8367212568194
+      }
+    },
+    {
+      "id": "13113",
+      "title": "Fayette, GA",
+      "scores": {
+        "Communications": 2077.11218030975,
+        "Resources": 1248.1582961249878,
+        "Transport": 1911.6804860229347
+      }
+    },
+    {
+      "id": "13115",
+      "title": "Floyd, GA",
+      "scores": {
+        "Communications": 1805.6063201134546,
+        "Resources": 1280.7418262782594,
+        "Transport": 1599.8314027893732
+      }
+    },
+    {
+      "id": "13117",
+      "title": "Forsyth, GA",
+      "scores": {
+        "Communications": 2422.3105023636144,
+        "Resources": 1232.506044797724,
+        "Transport": 1799.6268115604466
+      }
+    },
+    {
+      "id": "13119",
+      "title": "Franklin, GA",
+      "scores": {
+        "Communications": 311.35033450489215,
+        "Resources": 1260.5341572617806,
+        "Transport": 1716.9955007550095
+      }
+    },
+    {
+      "id": "13121",
+      "title": "Fulton, GA",
+      "scores": {
+        "Communications": 2683.6588332068486,
+        "Resources": 1292.951386275796,
+        "Transport": 1801.0321235593935
+      }
+    },
+    {
+      "id": "13123",
+      "title": "Gilmer, GA",
+      "scores": {
+        "Communications": 206.10355381601474,
+        "Resources": 1214.1004342940341,
+        "Transport": 1802.4449820196526
+      }
+    },
+    {
+      "id": "13125",
+      "title": "Glascock, GA",
+      "scores": {
+        "Communications": 240.20785971401457,
+        "Resources": 1242.773621136677,
+        "Transport": 1702.145211790456
+      }
+    },
+    {
+      "id": "13127",
+      "title": "Glynn, GA",
+      "scores": {
+        "Communications": 1842.1061987131466,
+        "Resources": 1245.516303865251,
+        "Transport": 1890.9267141101952
+      }
+    },
+    {
+      "id": "13129",
+      "title": "Gordon, GA",
+      "scores": {
+        "Communications": 1209.5998864460612,
+        "Resources": 1206.142519831875,
+        "Transport": 1759.469093987384
+      }
+    },
+    {
+      "id": "13131",
+      "title": "Grady, GA",
+      "scores": {
+        "Communications": 2147.79445127426,
+        "Resources": 1215.8131987737952,
+        "Transport": 2090.7880789523174
+      }
+    },
+    {
+      "id": "13133",
+      "title": "Greene, GA",
+      "scores": {
+        "Communications": 1025.739005252912,
+        "Resources": 1240.0679272501345,
+        "Transport": 1628.7032273048226
+      }
+    },
+    {
+      "id": "13135",
+      "title": "Gwinnett, GA",
+      "scores": {
+        "Communications": 2766.546836926608,
+        "Resources": 1266.9528923054206,
+        "Transport": 1840.8355189226509
+      }
+    },
+    {
+      "id": "13137",
+      "title": "Habersham, GA",
+      "scores": {
+        "Communications": 1012.4429648105797,
+        "Resources": 1242.0679297799213,
+        "Transport": 1523.630532169663
+      }
+    },
+    {
+      "id": "13139",
+      "title": "Hall, GA",
+      "scores": {
+        "Communications": 2071.781530709967,
+        "Resources": 1276.2295155982895,
+        "Transport": 1763.703894379889
+      }
+    },
+    {
+      "id": "13141",
+      "title": "Hancock, GA",
+      "scores": {
+        "Communications": 23.28375812465854,
+        "Resources": 1244.8797295026009,
+        "Transport": 1491.9043344819943
+      }
+    },
+    {
+      "id": "13143",
+      "title": "Haralson, GA",
+      "scores": {
+        "Communications": 1495.3681565542454,
+        "Resources": 1244.6322239769186,
+        "Transport": 1756.9782161051485
+      }
+    },
+    {
+      "id": "13145",
+      "title": "Harris, GA",
+      "scores": {
+        "Communications": 2108.2948364497847,
+        "Resources": 1251.1122612642587,
+        "Transport": 2126.3715700939947
+      }
+    },
+    {
+      "id": "13147",
+      "title": "Hart, GA",
+      "scores": {
+        "Communications": 462.29012654252915,
+        "Resources": 1247.3040566844938,
+        "Transport": 1644.4192756872276
+      }
+    },
+    {
+      "id": "13149",
+      "title": "Heard, GA",
+      "scores": {
+        "Communications": 1215.5470706753044,
+        "Resources": 1268.3847336639772,
+        "Transport": 1947.2622496116867
+      }
+    },
+    {
+      "id": "13151",
+      "title": "Henry, GA",
+      "scores": {
+        "Communications": 2348.8271875876285,
+        "Resources": 1257.2830627165904,
+        "Transport": 1864.3341851649836
+      }
+    },
+    {
+      "id": "13153",
+      "title": "Houston, GA",
+      "scores": {
+        "Communications": 1219.8362575376093,
+        "Resources": 1252.245521284193,
+        "Transport": 1686.0205225101543
+      }
+    },
+    {
+      "id": "13155",
+      "title": "Irwin, GA",
+      "scores": {
+        "Communications": 1694.1390624566554,
+        "Resources": 1275.1742116178239,
+        "Transport": 1583.9509659551106
+      }
+    },
+    {
+      "id": "13157",
+      "title": "Jackson, GA",
+      "scores": {
+        "Communications": 1231.828590190947,
+        "Resources": 1258.5514898697568,
+        "Transport": 1708.7158498509516
+      }
+    },
+    {
+      "id": "13159",
+      "title": "Jasper, GA",
+      "scores": {
+        "Communications": 1098.3683274021253,
+        "Resources": 1255.0479258777914,
+        "Transport": 1617.4130847143363
+      }
+    },
+    {
+      "id": "13161",
+      "title": "Jeff Davis, GA",
+      "scores": {
+        "Communications": 1705.6318385406882,
+        "Resources": 1247.293451572333,
+        "Transport": 1541.5935683199973
+      }
+    },
+    {
+      "id": "13163",
+      "title": "Jefferson, GA",
+      "scores": {
+        "Communications": 1334.4588802712824,
+        "Resources": 1271.690539419594,
+        "Transport": 2145.990497226095
+      }
+    },
+    {
+      "id": "13165",
+      "title": "Jenkins, GA",
+      "scores": {
+        "Communications": 1758.4278423171354,
+        "Resources": 1257.9472786763588,
+        "Transport": 2042.150462644178
+      }
+    },
+    {
+      "id": "13167",
+      "title": "Johnson, GA",
+      "scores": {
+        "Communications": 1071.3024868332368,
+        "Resources": 1247.8470343439117,
+        "Transport": 1616.7549395881601
+      }
+    },
+    {
+      "id": "13169",
+      "title": "Jones, GA",
+      "scores": {
+        "Communications": 1183.3979852520997,
+        "Resources": 1246.2656279380735,
+        "Transport": 1666.917802755774
+      }
+    },
+    {
+      "id": "13171",
+      "title": "Lamar, GA",
+      "scores": {
+        "Communications": 1410.9753575714305,
+        "Resources": 1243.0573655544679,
+        "Transport": 1675.5787328284164
+      }
+    },
+    {
+      "id": "13173",
+      "title": "Lanier, GA",
+      "scores": {
+        "Communications": 2096.756698276512,
+        "Resources": 1246.4301197199754,
+        "Transport": 1848.5319166997954
+      }
+    },
+    {
+      "id": "13175",
+      "title": "Laurens, GA",
+      "scores": {
+        "Communications": 1211.475766249064,
+        "Resources": 1253.3048589717125,
+        "Transport": 1473.9889619281269
+      }
+    },
+    {
+      "id": "13177",
+      "title": "Lee, GA",
+      "scores": {
+        "Communications": 2259.835730305771,
+        "Resources": 1245.0180913397758,
+        "Transport": 2162.8055478195465
+      }
+    },
+    {
+      "id": "13179",
+      "title": "Liberty, GA",
+      "scores": {
+        "Communications": 1415.3499711253037,
+        "Resources": 1245.9178472160793,
+        "Transport": 2164.7697214994696
+      }
+    },
+    {
+      "id": "13181",
+      "title": "Lincoln, GA",
+      "scores": {
+        "Communications": 1122.0638075842778,
+        "Resources": 1241.008940949544,
+        "Transport": 1738.483514265752
+      }
+    },
+    {
+      "id": "13183",
+      "title": "Long, GA",
+      "scores": {
+        "Communications": 1277.867834777844,
+        "Resources": 1241.4123398318798,
+        "Transport": 2008.6365144398806
+      }
+    },
+    {
+      "id": "13185",
+      "title": "Lowndes, GA",
+      "scores": {
+        "Communications": 2445.054653843725,
+        "Resources": 1247.2467957739889,
+        "Transport": 2000.5196441085325
+      }
+    },
+    {
+      "id": "13187",
+      "title": "Lumpkin, GA",
+      "scores": {
+        "Communications": 703.5719280957945,
+        "Resources": 1240.8154693693323,
+        "Transport": 1656.3727856682217
+      }
+    },
+    {
+      "id": "13189",
+      "title": "McDuffie, GA",
+      "scores": {
+        "Communications": 1215.7523677054673,
+        "Resources": 1244.561209738037,
+        "Transport": 1869.0536763233404
+      }
+    },
+    {
+      "id": "13191",
+      "title": "McIntosh, GA",
+      "scores": {
+        "Communications": 943.5219276066848,
+        "Resources": 1242.204408501265,
+        "Transport": 2237.814409492595
+      }
+    },
+    {
+      "id": "13193",
+      "title": "Macon, GA",
+      "scores": {
+        "Communications": 144.23377604940094,
+        "Resources": 1283.4230535873753,
+        "Transport": 1585.9930273131936
+      }
+    },
+    {
+      "id": "13195",
+      "title": "Madison, GA",
+      "scores": {
+        "Communications": 1265.7904406517953,
+        "Resources": 1256.0746143021133,
+        "Transport": 1616.0338724320377
+      }
+    },
+    {
+      "id": "13197",
+      "title": "Marion, GA",
+      "scores": {
+        "Communications": 128.7034744329315,
+        "Resources": 1259.0441949882506,
+        "Transport": 1527.9404929996354
+      }
+    },
+    {
+      "id": "13199",
+      "title": "Meriwether, GA",
+      "scores": {
+        "Communications": 959.8797364211551,
+        "Resources": 1239.4228358923149,
+        "Transport": 1606.5736058986627
+      }
+    },
+    {
+      "id": "13201",
+      "title": "Miller, GA",
+      "scores": {
+        "Communications": 202.6231254811657,
+        "Resources": 1342.9870518420905,
+        "Transport": 1737.078468317094
+      }
+    },
+    {
+      "id": "13205",
+      "title": "Mitchell, GA",
+      "scores": {
+        "Communications": 1985.3071518749978,
+        "Resources": 1285.0841917389394,
+        "Transport": 2076.08339807357
+      }
+    },
+    {
+      "id": "13207",
+      "title": "Monroe, GA",
+      "scores": {
+        "Communications": 399.9402212921355,
+        "Resources": 1276.5757547099151,
+        "Transport": 1717.0958094104446
+      }
+    },
+    {
+      "id": "13209",
+      "title": "Montgomery, GA",
+      "scores": {
+        "Communications": 130.94882201573813,
+        "Resources": 1248.6165780617011,
+        "Transport": 1733.9684765561835
+      }
+    },
+    {
+      "id": "13211",
+      "title": "Morgan, GA",
+      "scores": {
+        "Communications": 1373.2121851073202,
+        "Resources": 1251.0115717300778,
+        "Transport": 1799.5167348006366
+      }
+    },
+    {
+      "id": "13213",
+      "title": "Murray, GA",
+      "scores": {
+        "Communications": 1765.244636415845,
+        "Resources": 1202.1477126461446,
+        "Transport": 1599.3078394619004
+      }
+    },
+    {
+      "id": "13215",
+      "title": "Muscogee, GA",
+      "scores": {
+        "Communications": 2480.2304754971324,
+        "Resources": 1251.8282412834458,
+        "Transport": 1762.8726240984329
+      }
+    },
+    {
+      "id": "13217",
+      "title": "Newton, GA",
+      "scores": {
+        "Communications": 2216.231721790588,
+        "Resources": 1252.6903931146394,
+        "Transport": 1978.1676899510628
+      }
+    },
+    {
+      "id": "13219",
+      "title": "Oconee, GA",
+      "scores": {
+        "Communications": 1866.5429466672335,
+        "Resources": 1251.3564664640148,
+        "Transport": 1847.7579033976617
+      }
+    },
+    {
+      "id": "13221",
+      "title": "Oglethorpe, GA",
+      "scores": {
+        "Communications": 931.8994825552933,
+        "Resources": 1257.6726211194377,
+        "Transport": 1486.1259266922627
+      }
+    },
+    {
+      "id": "13223",
+      "title": "Paulding, GA",
+      "scores": {
+        "Communications": 2280.4506646295777,
+        "Resources": 1274.8513527175387,
+        "Transport": 1763.0048302530192
+      }
+    },
+    {
+      "id": "13225",
+      "title": "Peach, GA",
+      "scores": {
+        "Communications": 378.5913765939299,
+        "Resources": 1252.9622648289712,
+        "Transport": 1771.9518121857743
+      }
+    },
+    {
+      "id": "13227",
+      "title": "Pickens, GA",
+      "scores": {
+        "Communications": 916.8898642806842,
+        "Resources": 1213.0745801899566,
+        "Transport": 1664.8181721736444
+      }
+    },
+    {
+      "id": "13229",
+      "title": "Pierce, GA",
+      "scores": {
+        "Communications": 15.10275618881836,
+        "Resources": 1247.4269689593236,
+        "Transport": 2047.3429109120516
+      }
+    },
+    {
+      "id": "13231",
+      "title": "Pike, GA",
+      "scores": {
+        "Communications": 501.0219563066995,
+        "Resources": 1244.2071327878189,
+        "Transport": 1872.5697568937194
+      }
+    },
+    {
+      "id": "13233",
+      "title": "Polk, GA",
+      "scores": {
+        "Communications": 1867.7467149710328,
+        "Resources": 1246.196573001042,
+        "Transport": 1699.02905478661
+      }
+    },
+    {
+      "id": "13235",
+      "title": "Pulaski, GA",
+      "scores": {
+        "Communications": 50.186786139680095,
+        "Resources": 1262.7599593682473,
+        "Transport": 1542.0747105337339
+      }
+    },
+    {
+      "id": "13237",
+      "title": "Putnam, GA",
+      "scores": {
+        "Communications": 1692.5039598288934,
+        "Resources": 1401.0817528910359,
+        "Transport": 1767.4681335039174
+      }
+    },
+    {
+      "id": "13239",
+      "title": "Quitman, GA",
+      "scores": {
+        "Communications": 924.6834780807831,
+        "Resources": 1244.2498312095108,
+        "Transport": 1977.4510579480495
+      }
+    },
+    {
+      "id": "13241",
+      "title": "Rabun, GA",
+      "scores": {
+        "Communications": 1133.0622430622664,
+        "Resources": 1242.3473151939143,
+        "Transport": 1819.2410582063867
+      }
+    },
+    {
+      "id": "13243",
+      "title": "Randolph, GA",
+      "scores": {
+        "Communications": 1899.7241121246027,
+        "Resources": 1293.5134385917509,
+        "Transport": 1898.1451491627513
+      }
+    },
+    {
+      "id": "13245",
+      "title": "Richmond, GA",
+      "scores": {
+        "Communications": 1497.483321842595,
+        "Resources": 1251.6151201188031,
+        "Transport": 1842.006596699197
+      }
+    },
+    {
+      "id": "13247",
+      "title": "Rockdale, GA",
+      "scores": {
+        "Communications": 2047.1871690624778,
+        "Resources": 1250.8905393324478,
+        "Transport": 1837.3608962385908
+      }
+    },
+    {
+      "id": "13249",
+      "title": "Schley, GA",
+      "scores": {
+        "Communications": 1654.0000523933206,
+        "Resources": 1250.6396863433692,
+        "Transport": 1696.9287276032128
+      }
+    },
+    {
+      "id": "13251",
+      "title": "Screven, GA",
+      "scores": {
+        "Communications": 2705.4878047041966,
+        "Resources": 1263.2606555824086,
+        "Transport": 1867.9676802322103
+      }
+    },
+    {
+      "id": "13253",
+      "title": "Seminole, GA",
+      "scores": {
+        "Communications": 1484.3014835163547,
+        "Resources": 1342.679023835611,
+        "Transport": 1721.9405065300443
+      }
+    },
+    {
+      "id": "13255",
+      "title": "Spalding, GA",
+      "scores": {
+        "Communications": 1970.3281569524083,
+        "Resources": 1243.3228560791763,
+        "Transport": 1927.258864621053
+      }
+    },
+    {
+      "id": "13257",
+      "title": "Stephens, GA",
+      "scores": {
+        "Communications": 1016.4416791177316,
+        "Resources": 1244.2826783138867,
+        "Transport": 1624.502416723183
+      }
+    },
+    {
+      "id": "13259",
+      "title": "Stewart, GA",
+      "scores": {
+        "Communications": 506.9908348175301,
+        "Resources": 1246.9309395328617,
+        "Transport": 2095.0593863472614
+      }
+    },
+    {
+      "id": "13261",
+      "title": "Sumter, GA",
+      "scores": {
+        "Communications": 1893.8235869406026,
+        "Resources": 1263.9523307351176,
+        "Transport": 1970.4804079473117
+      }
+    },
+    {
+      "id": "13263",
+      "title": "Talbot, GA",
+      "scores": {
+        "Communications": 799.6887549181893,
+        "Resources": 1253.4301491193887,
+        "Transport": 1711.5430511392356
+      }
+    },
+    {
+      "id": "13265",
+      "title": "Taliaferro, GA",
+      "scores": {
+        "Communications": 894.0504282092686,
+        "Resources": 1241.2793730800026,
+        "Transport": 1605.5181925081315
+      }
+    },
+    {
+      "id": "13267",
+      "title": "Tattnall, GA",
+      "scores": {
+        "Communications": 792.0921616809883,
+        "Resources": 1253.4216971432088,
+        "Transport": 1861.3149271978841
+      }
+    },
+    {
+      "id": "13269",
+      "title": "Taylor, GA",
+      "scores": {
+        "Communications": 35.51277185464634,
+        "Resources": 1255.9520992231191,
+        "Transport": 1960.3795395991287
+      }
+    },
+    {
+      "id": "13271",
+      "title": "Telfair, GA",
+      "scores": {
+        "Communications": 1609.9217732579632,
+        "Resources": 1247.3792313872107,
+        "Transport": 1601.004995862311
+      }
+    },
+    {
+      "id": "13273",
+      "title": "Terrell, GA",
+      "scores": {
+        "Communications": 1746.4730093601322,
+        "Resources": 1277.4936240901377,
+        "Transport": 1935.4767009782677
+      }
+    },
+    {
+      "id": "13275",
+      "title": "Thomas, GA",
+      "scores": {
+        "Communications": 2263.7936520002177,
+        "Resources": 1214.476383341464,
+        "Transport": 1760.6211517520944
+      }
+    },
+    {
+      "id": "13277",
+      "title": "Tift, GA",
+      "scores": {
+        "Communications": 2381.5689203492275,
+        "Resources": 1234.5220287582977,
+        "Transport": 1839.2603838559376
+      }
+    },
+    {
+      "id": "13279",
+      "title": "Toombs, GA",
+      "scores": {
+        "Communications": 628.700433964192,
+        "Resources": 1253.8368280360899,
+        "Transport": 1536.9267567564705
+      }
+    },
+    {
+      "id": "13281",
+      "title": "Towns, GA",
+      "scores": {
+        "Communications": 688.5246940015115,
+        "Resources": 555.5150502639883,
+        "Transport": 1667.6640639483119
+      }
+    },
+    {
+      "id": "13283",
+      "title": "Treutlen, GA",
+      "scores": {
+        "Communications": 287.47537037462325,
+        "Resources": 1251.4264612032941,
+        "Transport": 1708.3817156263103
+      }
+    },
+    {
+      "id": "13285",
+      "title": "Troup, GA",
+      "scores": {
+        "Communications": 1931.5840508827782,
+        "Resources": 1245.9155034072244,
+        "Transport": 1765.7674683829453
+      }
+    },
+    {
+      "id": "13287",
+      "title": "Turner, GA",
+      "scores": {
+        "Communications": 1828.8873014147298,
+        "Resources": 1255.5672119656867,
+        "Transport": 2056.2402224531243
+      }
+    },
+    {
+      "id": "13289",
+      "title": "Twiggs, GA",
+      "scores": {
+        "Communications": 71.48138861177767,
+        "Resources": 1258.5689166317907,
+        "Transport": 1330.8778849239593
+      }
+    },
+    {
+      "id": "13291",
+      "title": "Union, GA",
+      "scores": {
+        "Communications": 802.6016306849746,
+        "Resources": 554.141661801465,
+        "Transport": 1586.941239393362
+      }
+    },
+    {
+      "id": "13293",
+      "title": "Upson, GA",
+      "scores": {
+        "Communications": 1670.7084819124746,
+        "Resources": 1245.871744282206,
+        "Transport": 1678.254531528611
+      }
+    },
+    {
+      "id": "13295",
+      "title": "Walker, GA",
+      "scores": {
+        "Communications": 2114.6651291481908,
+        "Resources": 1234.2172583147046,
+        "Transport": 1941.907430112953
+      }
+    },
+    {
+      "id": "13297",
+      "title": "Walton, GA",
+      "scores": {
+        "Communications": 1828.4192326119055,
+        "Resources": 1249.5268590110502,
+        "Transport": 1809.326134678328
+      }
+    },
+    {
+      "id": "13299",
+      "title": "Ware, GA",
+      "scores": {
+        "Communications": 1143.0630876790328,
+        "Resources": 1238.9235194405078,
+        "Transport": 1670.2117443457264
+      }
+    },
+    {
+      "id": "13301",
+      "title": "Warren, GA",
+      "scores": {
+        "Communications": 31.536042024667214,
+        "Resources": 1244.9921547958234,
+        "Transport": 1899.7373261582618
+      }
+    },
+    {
+      "id": "13303",
+      "title": "Washington, GA",
+      "scores": {
+        "Communications": 1476.7975385213592,
+        "Resources": 1257.0093405468533,
+        "Transport": 1650.367839163403
+      }
+    },
+    {
+      "id": "13305",
+      "title": "Wayne, GA",
+      "scores": {
+        "Communications": 1383.3581627303645,
+        "Resources": 1273.9667465477087,
+        "Transport": 1930.7968254436807
+      }
+    },
+    {
+      "id": "13307",
+      "title": "Webster, GA",
+      "scores": {
+        "Communications": 118.36515960697879,
+        "Resources": 1274.8667168596103,
+        "Transport": 1973.924520271186
+      }
+    },
+    {
+      "id": "13309",
+      "title": "Wheeler, GA",
+      "scores": {
+        "Communications": 143.21872675947745,
+        "Resources": 1248.4295985404844,
+        "Transport": 1427.7882313133803
+      }
+    },
+    {
+      "id": "13311",
+      "title": "White, GA",
+      "scores": {
+        "Communications": 1212.6042708653208,
+        "Resources": 1253.2482689295948,
+        "Transport": 1680.1417914300696
+      }
+    },
+    {
+      "id": "13313",
+      "title": "Whitfield, GA",
+      "scores": {
+        "Communications": 2902.6395531460566,
+        "Resources": 1236.6248607693951,
+        "Transport": 1825.285810391482
+      }
+    },
+    {
+      "id": "13315",
+      "title": "Wilcox, GA",
+      "scores": {
+        "Communications": 252.90827745057305,
+        "Resources": 1281.01491329518,
+        "Transport": 1987.3269285581039
+      }
+    },
+    {
+      "id": "13317",
+      "title": "Wilkes, GA",
+      "scores": {
+        "Communications": 1083.8233035865858,
+        "Resources": 1244.178004562061,
+        "Transport": 1971.4832544311862
+      }
+    },
+    {
+      "id": "13319",
+      "title": "Wilkinson, GA",
+      "scores": {
+        "Communications": 125.03965848889462,
+        "Resources": 1272.2793448027335,
+        "Transport": 1722.4157465139854
+      }
+    },
+    {
+      "id": "13321",
+      "title": "Worth, GA",
+      "scores": {
+        "Communications": 2019.7435816178918,
+        "Resources": 1249.2967660031577,
+        "Transport": 2035.2235288447973
+      }
+    },
+    {
+      "id": "19001",
+      "title": "Adair, IA",
+      "scores": {
+        "Communications": 1380.208124609776,
+        "Resources": 1586.7495451336895,
+        "Transport": 1969.2482585819764
+      }
+    },
+    {
+      "id": "19003",
+      "title": "Adams, IA",
+      "scores": {
+        "Communications": 1421.8196438964414,
+        "Resources": 1589.6039013885595,
+        "Transport": 1789.2444828681387
+      }
+    },
+    {
+      "id": "19005",
+      "title": "Allamakee, IA",
+      "scores": {
+        "Communications": 2048.799827255819,
+        "Resources": 1788.147308498274,
+        "Transport": 1297.140048063341
+      }
+    },
+    {
+      "id": "19007",
+      "title": "Appanoose, IA",
+      "scores": {
+        "Communications": 1541.838929407193,
+        "Resources": 1592.3510416623092,
+        "Transport": 1135.5917607393305
+      }
+    },
+    {
+      "id": "19009",
+      "title": "Audubon, IA",
+      "scores": {
+        "Communications": 1194.1070013349497,
+        "Resources": 1589.6071088201686,
+        "Transport": 1775.8717672661667
+      }
+    },
+    {
+      "id": "19011",
+      "title": "Benton, IA",
+      "scores": {
+        "Communications": 1533.59400402693,
+        "Resources": 1563.261413654654,
+        "Transport": 1657.7588118802591
+      }
+    },
+    {
+      "id": "19013",
+      "title": "Black Hawk, IA",
+      "scores": {
+        "Communications": 2775.3687577888204,
+        "Resources": 1585.33520751979,
+        "Transport": 1937.9094952467278
+      }
+    },
+    {
+      "id": "19015",
+      "title": "Boone, IA",
+      "scores": {
+        "Communications": 2349.09033161784,
+        "Resources": 1575.002787962436,
+        "Transport": 1367.409294756245
+      }
+    },
+    {
+      "id": "19017",
+      "title": "Bremer, IA",
+      "scores": {
+        "Communications": 2542.387882239744,
+        "Resources": 1584.1875727682911,
+        "Transport": 1997.910226646274
+      }
+    },
+    {
+      "id": "19019",
+      "title": "Buchanan, IA",
+      "scores": {
+        "Communications": 1468.4901351574822,
+        "Resources": 1585.213619661625,
+        "Transport": 1903.3126439755108
+      }
+    },
+    {
+      "id": "19021",
+      "title": "Buena Vista, IA",
+      "scores": {
+        "Communications": 1861.1541509077217,
+        "Resources": 1588.6715917863298,
+        "Transport": 1559.6937186637235
+      }
+    },
+    {
+      "id": "19023",
+      "title": "Butler, IA",
+      "scores": {
+        "Communications": 1885.1837527031346,
+        "Resources": 1586.1461526576593,
+        "Transport": 1544.0419220359017
+      }
+    },
+    {
+      "id": "19025",
+      "title": "Calhoun, IA",
+      "scores": {
+        "Communications": 1498.3830682302957,
+        "Resources": 1584.6563052548643,
+        "Transport": 2200.076870924816
+      }
+    },
+    {
+      "id": "19027",
+      "title": "Carroll, IA",
+      "scores": {
+        "Communications": 2018.1809504337923,
+        "Resources": 1588.3080556652278,
+        "Transport": 1623.855250438642
+      }
+    },
+    {
+      "id": "19029",
+      "title": "Cass, IA",
+      "scores": {
+        "Communications": 2272.033895359358,
+        "Resources": 1584.6144189199945,
+        "Transport": 1547.2272535421728
+      }
+    },
+    {
+      "id": "19031",
+      "title": "Cedar, IA",
+      "scores": {
+        "Communications": 1784.6267597403375,
+        "Resources": 1576.087082185013,
+        "Transport": 1653.700313677941
+      }
+    },
+    {
+      "id": "19033",
+      "title": "Cerro Gordo, IA",
+      "scores": {
+        "Communications": 2555.4765817299303,
+        "Resources": 1583.5036580417511,
+        "Transport": 1888.6397959224387
+      }
+    },
+    {
+      "id": "19035",
+      "title": "Cherokee, IA",
+      "scores": {
+        "Communications": 1724.43271671334,
+        "Resources": 1590.0994874609041,
+        "Transport": 1448.5746659619172
+      }
+    },
+    {
+      "id": "19037",
+      "title": "Chickasaw, IA",
+      "scores": {
+        "Communications": 1783.8541453192825,
+        "Resources": 1588.859883213163,
+        "Transport": 1806.7339384318102
+      }
+    },
+    {
+      "id": "19039",
+      "title": "Clarke, IA",
+      "scores": {
+        "Communications": 2012.8621014968915,
+        "Resources": 1583.7311375176441,
+        "Transport": 1738.2591886749133
+      }
+    },
+    {
+      "id": "19041",
+      "title": "Clay, IA",
+      "scores": {
+        "Communications": 2135.8256718580205,
+        "Resources": 1588.6740772408546,
+        "Transport": 1792.8836685210804
+      }
+    },
+    {
+      "id": "19043",
+      "title": "Clayton, IA",
+      "scores": {
+        "Communications": 2096.359867600595,
+        "Resources": 1585.223588534259,
+        "Transport": 1629.7829522000404
+      }
+    },
+    {
+      "id": "19045",
+      "title": "Clinton, IA",
+      "scores": {
+        "Communications": 2418.6776177354823,
+        "Resources": 1667.1563339520565,
+        "Transport": 1766.4956749052167
+      }
+    },
+    {
+      "id": "19047",
+      "title": "Crawford, IA",
+      "scores": {
+        "Communications": 1433.6159230505853,
+        "Resources": 1592.6464533011679,
+        "Transport": 1627.7602749204534
+      }
+    },
+    {
+      "id": "19049",
+      "title": "Dallas, IA",
+      "scores": {
+        "Communications": 2747.5964014553,
+        "Resources": 1581.5429673925692,
+        "Transport": 1720.3204680943031
+      }
+    },
+    {
+      "id": "19051",
+      "title": "Davis, IA",
+      "scores": {
+        "Communications": 2159.101853653737,
+        "Resources": 1576.2209441327855,
+        "Transport": 1553.5860204459846
+      }
+    },
+    {
+      "id": "19053",
+      "title": "Decatur, IA",
+      "scores": {
+        "Communications": 2322.0056619410902,
+        "Resources": 1581.8588857401687,
+        "Transport": 1871.133883484755
+      }
+    },
+    {
+      "id": "19055",
+      "title": "Delaware, IA",
+      "scores": {
+        "Communications": 1554.6844623429247,
+        "Resources": 1586.6917943622987,
+        "Transport": 1725.5918199418854
+      }
+    },
+    {
+      "id": "19057",
+      "title": "Des Moines, IA",
+      "scores": {
+        "Communications": 2266.6493028808163,
+        "Resources": 1628.2620490047534,
+        "Transport": 1672.1613618867195
+      }
+    },
+    {
+      "id": "19059",
+      "title": "Dickinson, IA",
+      "scores": {
+        "Communications": 2067.801190498071,
+        "Resources": 1582.9031669228334,
+        "Transport": 1458.83551926365
+      }
+    },
+    {
+      "id": "19061",
+      "title": "Dubuque, IA",
+      "scores": {
+        "Communications": 2615.847135173189,
+        "Resources": 1584.9152530366605,
+        "Transport": 1695.1061157841598
+      }
+    },
+    {
+      "id": "19063",
+      "title": "Emmet, IA",
+      "scores": {
+        "Communications": 1587.5037373986654,
+        "Resources": 1583.3484190056035,
+        "Transport": 1263.6381597086938
+      }
+    },
+    {
+      "id": "19065",
+      "title": "Fayette, IA",
+      "scores": {
+        "Communications": 2268.2216318107985,
+        "Resources": 1582.165098285833,
+        "Transport": 1468.735193561211
+      }
+    },
+    {
+      "id": "19067",
+      "title": "Floyd, IA",
+      "scores": {
+        "Communications": 1822.1412034826244,
+        "Resources": 1584.8369811835703,
+        "Transport": 1852.5983470009926
+      }
+    },
+    {
+      "id": "19069",
+      "title": "Franklin, IA",
+      "scores": {
+        "Communications": 1439.5006706001461,
+        "Resources": 1585.6107872865878,
+        "Transport": 1827.5993330993338
+      }
+    },
+    {
+      "id": "19071",
+      "title": "Fremont, IA",
+      "scores": {
+        "Communications": 312.22250434608173,
+        "Resources": 1587.4693874528707,
+        "Transport": 1843.6730877392094
+      }
+    },
+    {
+      "id": "19073",
+      "title": "Greene, IA",
+      "scores": {
+        "Communications": 903.5863430271323,
+        "Resources": 1577.3409671022819,
+        "Transport": 1860.596124349292
+      }
+    },
+    {
+      "id": "19075",
+      "title": "Grundy, IA",
+      "scores": {
+        "Communications": 1558.6513753795646,
+        "Resources": 1575.6640051866345,
+        "Transport": 1937.426565518793
+      }
+    },
+    {
+      "id": "19077",
+      "title": "Guthrie, IA",
+      "scores": {
+        "Communications": 1301.463092101652,
+        "Resources": 1574.4150671275263,
+        "Transport": 1411.3383600115003
+      }
+    },
+    {
+      "id": "19079",
+      "title": "Hamilton, IA",
+      "scores": {
+        "Communications": 1814.2176806996058,
+        "Resources": 1584.1169396200578,
+        "Transport": 1998.8531245596494
+      }
+    },
+    {
+      "id": "19081",
+      "title": "Hancock, IA",
+      "scores": {
+        "Communications": 1918.3498929943105,
+        "Resources": 1583.1487932266473,
+        "Transport": 1620.065147404864
+      }
+    },
+    {
+      "id": "19083",
+      "title": "Hardin, IA",
+      "scores": {
+        "Communications": 1963.83212961583,
+        "Resources": 1587.3810520279546,
+        "Transport": 1780.3559933682561
+      }
+    },
+    {
+      "id": "19085",
+      "title": "Harrison, IA",
+      "scores": {
+        "Communications": 965.8697877316645,
+        "Resources": 1592.4830127411428,
+        "Transport": 1746.4318539131314
+      }
+    },
+    {
+      "id": "19087",
+      "title": "Henry, IA",
+      "scores": {
+        "Communications": 1630.8670471432745,
+        "Resources": 1579.7672295442271,
+        "Transport": 1835.179854491858
+      }
+    },
+    {
+      "id": "19089",
+      "title": "Howard, IA",
+      "scores": {
+        "Communications": 2060.893735750688,
+        "Resources": 1591.039968571536,
+        "Transport": 1392.377885636862
+      }
+    },
+    {
+      "id": "19091",
+      "title": "Humboldt, IA",
+      "scores": {
+        "Communications": 1466.385069235128,
+        "Resources": 1584.830140276738,
+        "Transport": 1832.7941497146394
+      }
+    },
+    {
+      "id": "19093",
+      "title": "Ida, IA",
+      "scores": {
+        "Communications": 279.49467854737287,
+        "Resources": 1591.3647906650965,
+        "Transport": 1823.6803289702302
+      }
+    },
+    {
+      "id": "19095",
+      "title": "Iowa, IA",
+      "scores": {
+        "Communications": 1841.7779887182921,
+        "Resources": 1563.3506445010923,
+        "Transport": 1632.7277684260803
+      }
+    },
+    {
+      "id": "19097",
+      "title": "Jackson, IA",
+      "scores": {
+        "Communications": 1545.3650432587635,
+        "Resources": 1584.405282399038,
+        "Transport": 1711.1825459682916
+      }
+    },
+    {
+      "id": "19099",
+      "title": "Jasper, IA",
+      "scores": {
+        "Communications": 2302.3833720470134,
+        "Resources": 1583.0349285706116,
+        "Transport": 1588.3118460096318
+      }
+    },
+    {
+      "id": "19101",
+      "title": "Jefferson, IA",
+      "scores": {
+        "Communications": 1654.5182504911033,
+        "Resources": 1575.1382534301517,
+        "Transport": 1474.2773824404997
+      }
+    },
+    {
+      "id": "19103",
+      "title": "Johnson, IA",
+      "scores": {
+        "Communications": 2666.533952289415,
+        "Resources": 1578.700810642627,
+        "Transport": 1789.8928134884918
+      }
+    },
+    {
+      "id": "19105",
+      "title": "Jones, IA",
+      "scores": {
+        "Communications": 2096.7026946771457,
+        "Resources": 1574.4264409492064,
+        "Transport": 2012.569570439221
+      }
+    },
+    {
+      "id": "19107",
+      "title": "Keokuk, IA",
+      "scores": {
+        "Communications": 1576.9504199569244,
+        "Resources": 1579.0598321038337,
+        "Transport": 1194.931945025639
+      }
+    },
+    {
+      "id": "19109",
+      "title": "Kossuth, IA",
+      "scores": {
+        "Communications": 1748.680081174505,
+        "Resources": 1584.8218588957006,
+        "Transport": 1725.0353761388017
+      }
+    },
+    {
+      "id": "19111",
+      "title": "Lee, IA",
+      "scores": {
+        "Communications": 2195.1221562156547,
+        "Resources": 1591.7950146328167,
+        "Transport": 1633.1190176323269
+      }
+    },
+    {
+      "id": "19113",
+      "title": "Linn, IA",
+      "scores": {
+        "Communications": 2612.493428698949,
+        "Resources": 1582.2848389655353,
+        "Transport": 1780.0161316592764
+      }
+    },
+    {
+      "id": "19115",
+      "title": "Louisa, IA",
+      "scores": {
+        "Communications": 1527.0341699690664,
+        "Resources": 1603.5013081535453,
+        "Transport": 1695.646848987645
+      }
+    },
+    {
+      "id": "19117",
+      "title": "Lucas, IA",
+      "scores": {
+        "Communications": 1835.6680649599878,
+        "Resources": 1579.659978902707,
+        "Transport": 1180.815692802089
+      }
+    },
+    {
+      "id": "19119",
+      "title": "Lyon, IA",
+      "scores": {
+        "Communications": 964.2924131006409,
+        "Resources": 1596.089000617324,
+        "Transport": 1572.6537552369853
+      }
+    },
+    {
+      "id": "19121",
+      "title": "Madison, IA",
+      "scores": {
+        "Communications": 2002.8161018026751,
+        "Resources": 1584.5457691773795,
+        "Transport": 1491.847911499038
+      }
+    },
+    {
+      "id": "19123",
+      "title": "Mahaska, IA",
+      "scores": {
+        "Communications": 2523.4566901665276,
+        "Resources": 1583.1560366379824,
+        "Transport": 1387.4816093620445
+      }
+    },
+    {
+      "id": "19125",
+      "title": "Marion, IA",
+      "scores": {
+        "Communications": 2448.6362512384135,
+        "Resources": 1581.7450509113999,
+        "Transport": 1686.2691598783
+      }
+    },
+    {
+      "id": "19127",
+      "title": "Marshall, IA",
+      "scores": {
+        "Communications": 2303.0741805927205,
+        "Resources": 1575.4866560901164,
+        "Transport": 1534.6406646960293
+      }
+    },
+    {
+      "id": "19129",
+      "title": "Mills, IA",
+      "scores": {
+        "Communications": 1333.8861406787842,
+        "Resources": 1584.7163627697303,
+        "Transport": 1838.7819497333012
+      }
+    },
+    {
+      "id": "19131",
+      "title": "Mitchell, IA",
+      "scores": {
+        "Communications": 1755.773611826617,
+        "Resources": 1593.2802017967529,
+        "Transport": 1631.9823453731865
+      }
+    },
+    {
+      "id": "19133",
+      "title": "Monona, IA",
+      "scores": {
+        "Communications": 934.5246139288804,
+        "Resources": 1609.2996457657662,
+        "Transport": 2027.1176667575148
+      }
+    },
+    {
+      "id": "19135",
+      "title": "Monroe, IA",
+      "scores": {
+        "Communications": 2051.638635364087,
+        "Resources": 1586.942112440648,
+        "Transport": 1037.3604864065787
+      }
+    },
+    {
+      "id": "19137",
+      "title": "Montgomery, IA",
+      "scores": {
+        "Communications": 2498.8056215958873,
+        "Resources": 1584.0200058986316,
+        "Transport": 1470.7081968077573
+      }
+    },
+    {
+      "id": "19139",
+      "title": "Muscatine, IA",
+      "scores": {
+        "Communications": 1682.421022959621,
+        "Resources": 1662.0413948124792,
+        "Transport": 1547.6520770349418
+      }
+    },
+    {
+      "id": "19141",
+      "title": "O Brien, IA",
+      "scores": {
+        "Communications": 1495.7889371404417,
+        "Resources": 1590.3714485354942,
+        "Transport": 1799.7599016470608
+      }
+    },
+    {
+      "id": "19143",
+      "title": "Osceola, IA",
+      "scores": {
+        "Communications": 903.0191902040837,
+        "Resources": 1605.785427470088,
+        "Transport": 2045.3328815696668
+      }
+    },
+    {
+      "id": "19145",
+      "title": "Page, IA",
+      "scores": {
+        "Communications": 2234.8891716163353,
+        "Resources": 1585.9225596770002,
+        "Transport": 1673.9894381519366
+      }
+    },
+    {
+      "id": "19147",
+      "title": "Palo Alto, IA",
+      "scores": {
+        "Communications": 1211.792280746965,
+        "Resources": 1592.7738782509612,
+        "Transport": 1363.7483105578553
+      }
+    },
+    {
+      "id": "19149",
+      "title": "Plymouth, IA",
+      "scores": {
+        "Communications": 1046.734344664336,
+        "Resources": 1589.9535458047585,
+        "Transport": 1723.8145147350513
+      }
+    },
+    {
+      "id": "19151",
+      "title": "Pocahontas, IA",
+      "scores": {
+        "Communications": 1305.4331180211043,
+        "Resources": 1583.7785569995174,
+        "Transport": 1667.8187150156432
+      }
+    },
+    {
+      "id": "19153",
+      "title": "Polk, IA",
+      "scores": {
+        "Communications": 2770.3835442260392,
+        "Resources": 1582.1468934081595,
+        "Transport": 1927.1361782558863
+      }
+    },
+    {
+      "id": "19155",
+      "title": "Pottawattamie, IA",
+      "scores": {
+        "Communications": 1632.6669220136096,
+        "Resources": 1673.6802014487594,
+        "Transport": 1723.7554936505476
+      }
+    },
+    {
+      "id": "19157",
+      "title": "Poweshiek, IA",
+      "scores": {
+        "Communications": 1945.7137827862975,
+        "Resources": 1581.8933761101314,
+        "Transport": 1455.2211496437772
+      }
+    },
+    {
+      "id": "19159",
+      "title": "Ringgold, IA",
+      "scores": {
+        "Communications": 1038.5162145817524,
+        "Resources": 1583.2440321226516,
+        "Transport": 1319.2018505255999
+      }
+    },
+    {
+      "id": "19161",
+      "title": "Sac, IA",
+      "scores": {
+        "Communications": 892.506622007396,
+        "Resources": 1596.9704689497628,
+        "Transport": 1524.6377243154702
+      }
+    },
+    {
+      "id": "19163",
+      "title": "Scott, IA",
+      "scores": {
+        "Communications": 2679.9694227419577,
+        "Resources": 1591.7437498922243,
+        "Transport": 1757.4963762686848
+      }
+    },
+    {
+      "id": "19165",
+      "title": "Shelby, IA",
+      "scores": {
+        "Communications": 1283.7625327753594,
+        "Resources": 1590.7326950116346,
+        "Transport": 1580.8982622928531
+      }
+    },
+    {
+      "id": "19167",
+      "title": "Sioux, IA",
+      "scores": {
+        "Communications": 1237.0700073173834,
+        "Resources": 1596.0428780785114,
+        "Transport": 1882.8418165142168
+      }
+    },
+    {
+      "id": "19169",
+      "title": "Story, IA",
+      "scores": {
+        "Communications": 2428.015197717058,
+        "Resources": 1585.841394861022,
+        "Transport": 1689.81788983082
+      }
+    },
+    {
+      "id": "19171",
+      "title": "Tama, IA",
+      "scores": {
+        "Communications": 2153.6594182074446,
+        "Resources": 1575.1190390351467,
+        "Transport": 1363.3740185211796
+      }
+    },
+    {
+      "id": "19173",
+      "title": "Taylor, IA",
+      "scores": {
+        "Communications": 1180.7265119636352,
+        "Resources": 1584.3652715743974,
+        "Transport": 1236.5422830552247
+      }
+    },
+    {
+      "id": "19175",
+      "title": "Union, IA",
+      "scores": {
+        "Communications": 2081.7692480319456,
+        "Resources": 1585.8779296352457,
+        "Transport": 1615.8591259396992
+      }
+    },
+    {
+      "id": "19177",
+      "title": "Van Buren, IA",
+      "scores": {
+        "Communications": 324.0020467404072,
+        "Resources": 1578.4153281794343,
+        "Transport": 1434.2013907146463
+      }
+    },
+    {
+      "id": "19179",
+      "title": "Wapello, IA",
+      "scores": {
+        "Communications": 2399.3368481713746,
+        "Resources": 1582.0707925724764,
+        "Transport": 1333.0732449545512
+      }
+    },
+    {
+      "id": "19181",
+      "title": "Warren, IA",
+      "scores": {
+        "Communications": 2326.160417291354,
+        "Resources": 1581.7939583911877,
+        "Transport": 1616.9098082254984
+      }
+    },
+    {
+      "id": "19183",
+      "title": "Washington, IA",
+      "scores": {
+        "Communications": 2024.062528160523,
+        "Resources": 1587.8419989444885,
+        "Transport": 1646.7098304040076
+      }
+    },
+    {
+      "id": "19185",
+      "title": "Wayne, IA",
+      "scores": {
+        "Communications": 1909.902132573335,
+        "Resources": 1583.0218754498792,
+        "Transport": 1417.5035287678104
+      }
+    },
+    {
+      "id": "19187",
+      "title": "Webster, IA",
+      "scores": {
+        "Communications": 2228.6919127302644,
+        "Resources": 1586.752532726883,
+        "Transport": 1669.8950992490595
+      }
+    },
+    {
+      "id": "19189",
+      "title": "Winnebago, IA",
+      "scores": {
+        "Communications": 1900.57510123168,
+        "Resources": 1578.9656961848796,
+        "Transport": 1539.4545722127925
+      }
+    },
+    {
+      "id": "19191",
+      "title": "Winneshiek, IA",
+      "scores": {
+        "Communications": 2097.305259990562,
+        "Resources": 1589.3600053930704,
+        "Transport": 1415.388629239378
+      }
+    },
+    {
+      "id": "19193",
+      "title": "Woodbury, IA",
+      "scores": {
+        "Communications": 2520.312019345293,
+        "Resources": 1702.2895109628155,
+        "Transport": 1626.8502382986392
+      }
+    },
+    {
+      "id": "19195",
+      "title": "Worth, IA",
+      "scores": {
+        "Communications": 1781.2246683077387,
+        "Resources": 1606.4404907392961,
+        "Transport": 2210.6018616565952
+      }
+    },
+    {
+      "id": "19197",
+      "title": "Wright, IA",
+      "scores": {
+        "Communications": 1683.6633386475046,
+        "Resources": 1586.9375138456248,
+        "Transport": 1672.8408121363316
+      }
+    },
+    {
+      "id": "30001",
+      "title": "Beaverhead, MT",
+      "scores": {
+        "Communications": 1039.8224389447562,
+        "Resources": 2168.612283169245,
+        "Transport": 1036.989177301
+      }
+    },
+    {
+      "id": "30003",
+      "title": "Big Horn, MT",
+      "scores": {
+        "Communications": 765.8128181344083,
+        "Resources": 2061.865692109572,
+        "Transport": 1179.151416506427
+      }
+    },
+    {
+      "id": "30005",
+      "title": "Blaine, MT",
+      "scores": {
+        "Communications": 939.6051855400865,
+        "Resources": 2168.612283169245,
+        "Transport": 885.9612216921711
+      }
+    },
+    {
+      "id": "30007",
+      "title": "Broadwater, MT",
+      "scores": {
+        "Communications": 1100.0903725010862,
+        "Resources": 2168.612283169245,
+        "Transport": 1276.650238550771
+      }
+    },
+    {
+      "id": "30009",
+      "title": "Carbon, MT",
+      "scores": {
+        "Communications": 530.5690478264997,
+        "Resources": 2122.7863640202845,
+        "Transport": 1151.7147246140246
+      }
+    },
+    {
+      "id": "30011",
+      "title": "Carter, MT",
+      "scores": {
+        "Communications": 944.1899609425083,
+        "Resources": 1375.9403403991448,
+        "Transport": 946.8377649955872
+      }
+    },
+    {
+      "id": "30013",
+      "title": "Cascade, MT",
+      "scores": {
+        "Communications": 1581.690673980177,
+        "Resources": 1655.8082015411364,
+        "Transport": 1428.5036276720734
+      }
+    },
+    {
+      "id": "30015",
+      "title": "Chouteau, MT",
+      "scores": {
+        "Communications": 848.5722866319204,
+        "Resources": 1907.5569957432,
+        "Transport": 1131.9484611761761
+      }
+    },
+    {
+      "id": "30017",
+      "title": "Custer, MT",
+      "scores": {
+        "Communications": 1542.7242802940875,
+        "Resources": 1103.778297300643,
+        "Transport": 888.2760365069859
+      }
+    },
+    {
+      "id": "30019",
+      "title": "Daniels, MT",
+      "scores": {
+        "Communications": 2560.4817895022547,
+        "Resources": 903.7151711736714,
+        "Transport": 873.4348568068226
+      }
+    },
+    {
+      "id": "30021",
+      "title": "Dawson, MT",
+      "scores": {
+        "Communications": 1642.663309676293,
+        "Resources": 1613.3714508977234,
+        "Transport": 1198.8029441141148
+      }
+    },
+    {
+      "id": "30023",
+      "title": "Deer Lodge, MT",
+      "scores": {
+        "Communications": 1641.6625805256576,
+        "Resources": 1758.2138071153097,
+        "Transport": 1246.3237624449623
+      }
+    },
+    {
+      "id": "30025",
+      "title": "Fallon, MT",
+      "scores": {
+        "Communications": 1989.738449452821,
+        "Resources": 878.4090909090909,
+        "Transport": 910.9414531996174
+      }
+    },
+    {
+      "id": "30027",
+      "title": "Fergus, MT",
+      "scores": {
+        "Communications": 1454.0140396241466,
+        "Resources": 1822.9292311062777,
+        "Transport": 836.9939852249345
+      }
+    },
+    {
+      "id": "30029",
+      "title": "Flathead, MT",
+      "scores": {
+        "Communications": 1388.1204663550182,
+        "Resources": 1330.0279294797922,
+        "Transport": 865.4122139871928
+      }
+    },
+    {
+      "id": "30031",
+      "title": "Gallatin, MT",
+      "scores": {
+        "Communications": 1883.0005524095618,
+        "Resources": 1687.9782721570373,
+        "Transport": 1411.274129353477
+      }
+    },
+    {
+      "id": "30033",
+      "title": "Garfield, MT",
+      "scores": {
+        "Communications": 1074.5217750556724,
+        "Resources": 1012.2976611541279,
+        "Transport": 907.9120518326564
+      }
+    },
+    {
+      "id": "30035",
+      "title": "Glacier, MT",
+      "scores": {
+        "Communications": 478.9295784811686,
+        "Resources": 930.4867618499682,
+        "Transport": 887.5252857562351
+      }
+    },
+    {
+      "id": "30037",
+      "title": "Golden Valley, MT",
+      "scores": {
+        "Communications": 2018.4431054307154,
+        "Resources": 2168.612283169245,
+        "Transport": 1173.136896277426
+      }
+    },
+    {
+      "id": "30039",
+      "title": "Granite, MT",
+      "scores": {
+        "Communications": 1151.4626579000935,
+        "Resources": 2159.4113950461465,
+        "Transport": 1068.5833880967057
+      }
+    },
+    {
+      "id": "30041",
+      "title": "Hill, MT",
+      "scores": {
+        "Communications": 1360.5880708960217,
+        "Resources": 1670.9635934210874,
+        "Transport": 928.2283790037917
+      }
+    },
+    {
+      "id": "30043",
+      "title": "Jefferson, MT",
+      "scores": {
+        "Communications": 1304.1166549326508,
+        "Resources": 1743.2415634900187,
+        "Transport": 1364.6202378697046
+      }
+    },
+    {
+      "id": "30045",
+      "title": "Judith Basin, MT",
+      "scores": {
+        "Communications": 111.30942916910504,
+        "Resources": 2168.612283169245,
+        "Transport": 989.5882696438459
+      }
+    },
+    {
+      "id": "30047",
+      "title": "Lake, MT",
+      "scores": {
+        "Communications": 1481.8873718757802,
+        "Resources": 1466.5530462408497,
+        "Transport": 1000.9025882807201
+      }
+    },
+    {
+      "id": "30049",
+      "title": "Lewis and Clark, MT",
+      "scores": {
+        "Communications": 1815.8519674789823,
+        "Resources": 1659.8214637670721,
+        "Transport": 1213.9808211929187
+      }
+    },
+    {
+      "id": "30051",
+      "title": "Liberty, MT",
+      "scores": {
+        "Communications": 814.4444991616716,
+        "Resources": 1910.2062059360073,
+        "Transport": 976.4802942266258
+      }
+    },
+    {
+      "id": "30053",
+      "title": "Lincoln, MT",
+      "scores": {
+        "Communications": 716.0558898392248,
+        "Resources": 1329.6414211031395,
+        "Transport": 789.5106044082206
+      }
+    },
+    {
+      "id": "30055",
+      "title": "McCone, MT",
+      "scores": {
+        "Communications": 1330.765686798585,
+        "Resources": 1187.6028946178199,
+        "Transport": 1063.969602124208
+      }
+    },
+    {
+      "id": "30057",
+      "title": "Madison, MT",
+      "scores": {
+        "Communications": 990.2908309704429,
+        "Resources": 2168.612283169245,
+        "Transport": 1135.293618845004
+      }
+    },
+    {
+      "id": "30059",
+      "title": "Meagher, MT",
+      "scores": {
+        "Communications": 1130.0176508620743,
+        "Resources": 2168.612283169245,
+        "Transport": 1086.0642164339183
+      }
+    },
+    {
+      "id": "30061",
+      "title": "Mineral, MT",
+      "scores": {
+        "Communications": 1198.3843495221884,
+        "Resources": 1611.2876646935006,
+        "Transport": 1090.971103240185
+      }
+    },
+    {
+      "id": "30063",
+      "title": "Missoula, MT",
+      "scores": {
+        "Communications": 1876.9483408987596,
+        "Resources": 1624.9195216986386,
+        "Transport": 1349.7897873875113
+      }
+    },
+    {
+      "id": "30065",
+      "title": "Musselshell, MT",
+      "scores": {
+        "Communications": 1261.0957086859269,
+        "Resources": 1908.2995232327485,
+        "Transport": 1170.669229281587
+      }
+    },
+    {
+      "id": "30067",
+      "title": "Park, MT",
+      "scores": {
+        "Communications": 1511.7198074805422,
+        "Resources": 1880.0947490174838,
+        "Transport": 1236.6095644053632
+      }
+    },
+    {
+      "id": "30069",
+      "title": "Petroleum, MT",
+      "scores": {
+        "Communications": 1024.978951650668,
+        "Resources": 1388.8888888888887,
+        "Transport": 789.7448771659822
+      }
+    },
+    {
+      "id": "30071",
+      "title": "Phillips, MT",
+      "scores": {
+        "Communications": 791.1519883374286,
+        "Resources": 2168.612283169245,
+        "Transport": 863.7033869343362
+      }
+    },
+    {
+      "id": "30073",
+      "title": "Pondera, MT",
+      "scores": {
+        "Communications": 36.28527449256983,
+        "Resources": 2033.015271525683,
+        "Transport": 1102.1741555628232
+      }
+    },
+    {
+      "id": "30075",
+      "title": "Powder River, MT",
+      "scores": {
+        "Communications": 173.74097269298468,
+        "Resources": 1388.8888888888887,
+        "Transport": 1057.2415252371834
+      }
+    },
+    {
+      "id": "30077",
+      "title": "Powell, MT",
+      "scores": {
+        "Communications": 1429.4366692052906,
+        "Resources": 2051.4865669720643,
+        "Transport": 1152.8509769647185
+      }
+    },
+    {
+      "id": "30079",
+      "title": "Prairie, MT",
+      "scores": {
+        "Communications": 1674.759729995175,
+        "Resources": 1388.8888888888887,
+        "Transport": 901.3607171280009
+      }
+    },
+    {
+      "id": "30081",
+      "title": "Ravalli, MT",
+      "scores": {
+        "Communications": 1331.9209367006451,
+        "Resources": 1763.5163944831781,
+        "Transport": 1167.5457833238854
+      }
+    },
+    {
+      "id": "30083",
+      "title": "Richland, MT",
+      "scores": {
+        "Communications": 1617.3742434559485,
+        "Resources": 1994.777679078145,
+        "Transport": 1410.5998752796186
+      }
+    },
+    {
+      "id": "30085",
+      "title": "Roosevelt, MT",
+      "scores": {
+        "Communications": 992.2803030670169,
+        "Resources": 1638.9677943551578,
+        "Transport": 1105.38069221373
+      }
+    },
+    {
+      "id": "30087",
+      "title": "Rosebud, MT",
+      "scores": {
+        "Communications": 372.7892350851926,
+        "Resources": 1983.5722650491803,
+        "Transport": 909.6785865980605
+      }
+    },
+    {
+      "id": "30089",
+      "title": "Sanders, MT",
+      "scores": {
+        "Communications": 1160.6882474813522,
+        "Resources": 1670.484299129567,
+        "Transport": 1046.454701217892
+      }
+    },
+    {
+      "id": "30091",
+      "title": "Sheridan, MT",
+      "scores": {
+        "Communications": 976.63602454838,
+        "Resources": 941.7643136977247,
+        "Transport": 1145.7441004482487
+      }
+    },
+    {
+      "id": "30093",
+      "title": "Silver Bow, MT",
+      "scores": {
+        "Communications": 1805.7754876133731,
+        "Resources": 1628.096892933911,
+        "Transport": 1416.1043444126935
+      }
+    },
+    {
+      "id": "30095",
+      "title": "Stillwater, MT",
+      "scores": {
+        "Communications": 711.4985996664817,
+        "Resources": 1871.6673248806742,
+        "Transport": 1234.722600057279
+      }
+    },
+    {
+      "id": "30097",
+      "title": "Sweet Grass, MT",
+      "scores": {
+        "Communications": 762.9375375606953,
+        "Resources": 2168.612283169245,
+        "Transport": 1149.7369578767189
+      }
+    },
+    {
+      "id": "30099",
+      "title": "Teton, MT",
+      "scores": {
+        "Communications": 30.444663203149698,
+        "Resources": 2168.612283169245,
+        "Transport": 1235.923624596095
+      }
+    },
+    {
+      "id": "30101",
+      "title": "Toole, MT",
+      "scores": {
+        "Communications": 37.91384121950601,
+        "Resources": 912.2671179131099,
+        "Transport": 1013.9035986333198
+      }
+    },
+    {
+      "id": "30103",
+      "title": "Treasure, MT",
+      "scores": {
+        "Communications": 292.6764903788225,
+        "Resources": 1444.8870370370369,
+        "Transport": 1031.7226872943215
+      }
+    },
+    {
+      "id": "30105",
+      "title": "Valley, MT",
+      "scores": {
+        "Communications": 361.1763208569629,
+        "Resources": 2168.612283169245,
+        "Transport": 875.0422838864407
+      }
+    },
+    {
+      "id": "30107",
+      "title": "Wheatland, MT",
+      "scores": {
+        "Communications": 286.3074895658333,
+        "Resources": 2168.612283169245,
+        "Transport": 1006.6182822524673
+      }
+    },
+    {
+      "id": "30109",
+      "title": "Wibaux, MT",
+      "scores": {
+        "Communications": 280.82235625495787,
+        "Resources": 890.2052439286481,
+        "Transport": 1118.4369495574063
+      }
+    },
+    {
+      "id": "30111",
+      "title": "Yellowstone, MT",
+      "scores": {
+        "Communications": 1885.6583846503202,
+        "Resources": 943.2794804265765,
+        "Transport": 1412.8857819677896
+      }
+    },
+    {
+      "id": "36001",
+      "title": "Albany, NY",
+      "scores": {
+        "Communications": 2007.9003946848616,
+        "Resources": 1091.8654721112732,
+        "Transport": 1903.7227070059284
+      }
+    },
+    {
+      "id": "36003",
+      "title": "Allegany, NY",
+      "scores": {
+        "Communications": 1731.8929075502062,
+        "Resources": 1138.1534742160377,
+        "Transport": 1587.5269304485284
+      }
+    },
+    {
+      "id": "36005",
+      "title": "Bronx, NY",
+      "scores": {
+        "Communications": 1981.4358057819086,
+        "Resources": 1494.6616264899567,
+        "Transport": 1880.0469253557733
+      }
+    },
+    {
+      "id": "36007",
+      "title": "Broome, NY",
+      "scores": {
+        "Communications": 1743.2613364438037,
+        "Resources": 1064.121023583556,
+        "Transport": 1943.6269740260855
+      }
+    },
+    {
+      "id": "36009",
+      "title": "Cattaraugus, NY",
+      "scores": {
+        "Communications": 1698.852095523127,
+        "Resources": 1104.4263286753273,
+        "Transport": 1706.2577657408706
+      }
+    },
+    {
+      "id": "36011",
+      "title": "Cayuga, NY",
+      "scores": {
+        "Communications": 1871.8289664721572,
+        "Resources": 1104.0563660593791,
+        "Transport": 1675.690925163661
+      }
+    },
+    {
+      "id": "36013",
+      "title": "Chautauqua, NY",
+      "scores": {
+        "Communications": 1746.6881155478432,
+        "Resources": 1119.3514359076737,
+        "Transport": 1716.99668146098
+      }
+    },
+    {
+      "id": "36015",
+      "title": "Chemung, NY",
+      "scores": {
+        "Communications": 1920.9499294833993,
+        "Resources": 1064.340114311931,
+        "Transport": 1884.412430520333
+      }
+    },
+    {
+      "id": "36017",
+      "title": "Chenango, NY",
+      "scores": {
+        "Communications": 1689.0551410556998,
+        "Resources": 1104.7201614734388,
+        "Transport": 1802.0550878882873
+      }
+    },
+    {
+      "id": "36019",
+      "title": "Clinton, NY",
+      "scores": {
+        "Communications": 1918.342904234905,
+        "Resources": 1103.8480455066003,
+        "Transport": 1867.195321924415
+      }
+    },
+    {
+      "id": "36021",
+      "title": "Columbia, NY",
+      "scores": {
+        "Communications": 982.5676084640539,
+        "Resources": 1081.745814016931,
+        "Transport": 1637.6545661277717
+      }
+    },
+    {
+      "id": "36023",
+      "title": "Cortland, NY",
+      "scores": {
+        "Communications": 1835.9928018548,
+        "Resources": 1104.1735738968268,
+        "Transport": 1743.32046618417
+      }
+    },
+    {
+      "id": "36025",
+      "title": "Delaware, NY",
+      "scores": {
+        "Communications": 1320.3475338297853,
+        "Resources": 1231.5672030947312,
+        "Transport": 1645.6056295235308
+      }
+    },
+    {
+      "id": "36027",
+      "title": "Dutchess, NY",
+      "scores": {
+        "Communications": 1892.1243223338743,
+        "Resources": 1083.0895254719237,
+        "Transport": 1769.8461971143338
+      }
+    },
+    {
+      "id": "36029",
+      "title": "Erie, NY",
+      "scores": {
+        "Communications": 1974.5797740410826,
+        "Resources": 1108.7124578128542,
+        "Transport": 1887.7196477183754
+      }
+    },
+    {
+      "id": "36031",
+      "title": "Essex, NY",
+      "scores": {
+        "Communications": 1885.1583746488013,
+        "Resources": 1113.5392083930133,
+        "Transport": 1713.815501161619
+      }
+    },
+    {
+      "id": "36033",
+      "title": "Franklin, NY",
+      "scores": {
+        "Communications": 1557.683783188427,
+        "Resources": 1106.078258529883,
+        "Transport": 1639.7179998392503
+      }
+    },
+    {
+      "id": "36035",
+      "title": "Fulton, NY",
+      "scores": {
+        "Communications": 1743.8619226895362,
+        "Resources": 1126.0420424959968,
+        "Transport": 1676.6543101918317
+      }
+    },
+    {
+      "id": "36037",
+      "title": "Genesee, NY",
+      "scores": {
+        "Communications": 2157.153285719598,
+        "Resources": 1174.0609565365282,
+        "Transport": 1699.0895531052186
+      }
+    },
+    {
+      "id": "36039",
+      "title": "Greene, NY",
+      "scores": {
+        "Communications": 1264.7985563183524,
+        "Resources": 1081.9225818490756,
+        "Transport": 1741.9250039318651
+      }
+    },
+    {
+      "id": "36041",
+      "title": "Hamilton, NY",
+      "scores": {
+        "Communications": 1098.9945786556668,
+        "Resources": 1105.7316378383784,
+        "Transport": 1428.7362236860904
+      }
+    },
+    {
+      "id": "36043",
+      "title": "Herkimer, NY",
+      "scores": {
+        "Communications": 1734.0430055590452,
+        "Resources": 1112.2057010064464,
+        "Transport": 1573.882574371786
+      }
+    },
+    {
+      "id": "36045",
+      "title": "Jefferson, NY",
+      "scores": {
+        "Communications": 1800.465698634106,
+        "Resources": 1127.259491204305,
+        "Transport": 1873.8970669842836
+      }
+    },
+    {
+      "id": "36047",
+      "title": "Kings, NY",
+      "scores": {
+        "Communications": 2837.8610483075386,
+        "Resources": 1495.0183750707702,
+        "Transport": 1885.1367849806848
+      }
+    },
+    {
+      "id": "36049",
+      "title": "Lewis, NY",
+      "scores": {
+        "Communications": 1557.0424799945185,
+        "Resources": 1106.1633702129902,
+        "Transport": 1633.0145308665067
+      }
+    },
+    {
+      "id": "36051",
+      "title": "Livingston, NY",
+      "scores": {
+        "Communications": 1685.8894075283463,
+        "Resources": 1140.664561699653,
+        "Transport": 1824.0428782338245
+      }
+    },
+    {
+      "id": "36053",
+      "title": "Madison, NY",
+      "scores": {
+        "Communications": 1898.9375936411204,
+        "Resources": 1103.064690322759,
+        "Transport": 1746.1204649695965
+      }
+    },
+    {
+      "id": "36055",
+      "title": "Monroe, NY",
+      "scores": {
+        "Communications": 2026.1990663851109,
+        "Resources": 1174.0565451347677,
+        "Transport": 1864.4516313724178
+      }
+    },
+    {
+      "id": "36057",
+      "title": "Montgomery, NY",
+      "scores": {
+        "Communications": 1682.8160346217608,
+        "Resources": 1125.2409089713406,
+        "Transport": 1761.1956312065513
+      }
+    },
+    {
+      "id": "36059",
+      "title": "Nassau, NY",
+      "scores": {
+        "Communications": 2131.1481428599172,
+        "Resources": 1355.821729534549,
+        "Transport": 1957.8855807634725
+      }
+    },
+    {
+      "id": "36061",
+      "title": "New York, NY",
+      "scores": {
+        "Communications": 2770.6011482197046,
+        "Resources": 1497.2588362806541,
+        "Transport": 1933.5144429883433
+      }
+    },
+    {
+      "id": "36063",
+      "title": "Niagara, NY",
+      "scores": {
+        "Communications": 1841.9739727434703,
+        "Resources": 1127.7704575612731,
+        "Transport": 1850.8894577164413
+      }
+    },
+    {
+      "id": "36065",
+      "title": "Oneida, NY",
+      "scores": {
+        "Communications": 1940.5279413208173,
+        "Resources": 1106.0131193741227,
+        "Transport": 1722.1144472373346
+      }
+    },
+    {
+      "id": "36067",
+      "title": "Onondaga, NY",
+      "scores": {
+        "Communications": 2143.7256713776264,
+        "Resources": 1104.737049793959,
+        "Transport": 1885.032315855328
+      }
+    },
+    {
+      "id": "36069",
+      "title": "Ontario, NY",
+      "scores": {
+        "Communications": 1810.2589532720608,
+        "Resources": 1144.5515852772876,
+        "Transport": 1801.4835243055184
+      }
+    },
+    {
+      "id": "36071",
+      "title": "Orange, NY",
+      "scores": {
+        "Communications": 1947.3554249509903,
+        "Resources": 1051.309413544087,
+        "Transport": 1824.457493569689
+      }
+    },
+    {
+      "id": "36073",
+      "title": "Orleans, NY",
+      "scores": {
+        "Communications": 1803.7164428772585,
+        "Resources": 1104.237283076878,
+        "Transport": 1701.2022623393218
+      }
+    },
+    {
+      "id": "36075",
+      "title": "Oswego, NY",
+      "scores": {
+        "Communications": 1829.3045282149346,
+        "Resources": 1294.9788959127063,
+        "Transport": 1770.4352854778094
+      }
+    },
+    {
+      "id": "36077",
+      "title": "Otsego, NY",
+      "scores": {
+        "Communications": 1454.0247536991778,
+        "Resources": 1103.5212045580909,
+        "Transport": 1580.786191021566
+      }
+    },
+    {
+      "id": "36079",
+      "title": "Putnam, NY",
+      "scores": {
+        "Communications": 1967.2497041528327,
+        "Resources": 1020.7307998636729,
+        "Transport": 1784.7325717134431
+      }
+    },
+    {
+      "id": "36081",
+      "title": "Queens, NY",
+      "scores": {
+        "Communications": 2441.0897868050674,
+        "Resources": 1483.2749021595,
+        "Transport": 1953.9515956520884
+      }
+    },
+    {
+      "id": "36083",
+      "title": "Rensselaer, NY",
+      "scores": {
+        "Communications": 1891.770682387308,
+        "Resources": 1105.428033255023,
+        "Transport": 1833.721675930954
+      }
+    },
+    {
+      "id": "36085",
+      "title": "Richmond, NY",
+      "scores": {
+        "Communications": 2192.204722093632,
+        "Resources": 1508.9186126503605,
+        "Transport": 1977.3042024635774
+      }
+    },
+    {
+      "id": "36087",
+      "title": "Rockland, NY",
+      "scores": {
+        "Communications": 1977.3810753426853,
+        "Resources": 1166.2072085594968,
+        "Transport": 1842.6129283223959
+      }
+    },
+    {
+      "id": "36089",
+      "title": "St Lawrence, NY",
+      "scores": {
+        "Communications": 1720.3933523841924,
+        "Resources": 1130.9565498853517,
+        "Transport": 1774.2107591885156
+      }
+    },
+    {
+      "id": "36091",
+      "title": "Saratoga, NY",
+      "scores": {
+        "Communications": 1951.7777351892519,
+        "Resources": 1106.1581957376868,
+        "Transport": 1818.9957410931747
+      }
+    },
+    {
+      "id": "36093",
+      "title": "Schenectady, NY",
+      "scores": {
+        "Communications": 1967.3030766947907,
+        "Resources": 1128.0075954252322,
+        "Transport": 1871.2057648548196
+      }
+    },
+    {
+      "id": "36095",
+      "title": "Schoharie, NY",
+      "scores": {
+        "Communications": 1632.5395139392253,
+        "Resources": 1206.447967396922,
+        "Transport": 1749.7883679023673
+      }
+    },
+    {
+      "id": "36097",
+      "title": "Schuyler, NY",
+      "scores": {
+        "Communications": 1584.4832996434316,
+        "Resources": 1069.2999730516003,
+        "Transport": 1843.188444968876
+      }
+    },
+    {
+      "id": "36099",
+      "title": "Seneca, NY",
+      "scores": {
+        "Communications": 1539.8250611258345,
+        "Resources": 1110.944518973079,
+        "Transport": 1635.8398346609401
+      }
+    },
+    {
+      "id": "36101",
+      "title": "Steuben, NY",
+      "scores": {
+        "Communications": 1946.3931693213385,
+        "Resources": 1060.7268579904098,
+        "Transport": 1797.7466248305336
+      }
+    },
+    {
+      "id": "36103",
+      "title": "Suffolk, NY",
+      "scores": {
+        "Communications": 1979.5936809958985,
+        "Resources": 1369.1252679067102,
+        "Transport": 1953.6657112493576
+      }
+    },
+    {
+      "id": "36105",
+      "title": "Sullivan, NY",
+      "scores": {
+        "Communications": 1891.9523180819042,
+        "Resources": 1103.425575531164,
+        "Transport": 1693.1992923750229
+      }
+    },
+    {
+      "id": "36107",
+      "title": "Tioga, NY",
+      "scores": {
+        "Communications": 1727.5052308404806,
+        "Resources": 1064.1871337100051,
+        "Transport": 1828.4734971417997
+      }
+    },
+    {
+      "id": "36109",
+      "title": "Tompkins, NY",
+      "scores": {
+        "Communications": 1870.7279910668078,
+        "Resources": 1088.8027271926505,
+        "Transport": 1867.289828967501
+      }
+    },
+    {
+      "id": "36111",
+      "title": "Ulster, NY",
+      "scores": {
+        "Communications": 1916.1713996985795,
+        "Resources": 1062.8479902939298,
+        "Transport": 1637.4154301482367
+      }
+    },
+    {
+      "id": "36113",
+      "title": "Warren, NY",
+      "scores": {
+        "Communications": 1962.342419432531,
+        "Resources": 1134.9002009929254,
+        "Transport": 1577.323687076374
+      }
+    },
+    {
+      "id": "36115",
+      "title": "Washington, NY",
+      "scores": {
+        "Communications": 1837.5686313922206,
+        "Resources": 1111.7847066165614,
+        "Transport": 1664.1649337615186
+      }
+    },
+    {
+      "id": "36117",
+      "title": "Wayne, NY",
+      "scores": {
+        "Communications": 1846.3616323554807,
+        "Resources": 1227.5683214664311,
+        "Transport": 1667.0961278356938
+      }
+    },
+    {
+      "id": "36119",
+      "title": "Westchester, NY",
+      "scores": {
+        "Communications": 2125.0602962041567,
+        "Resources": 1484.9483764024037,
+        "Transport": 1926.5415736364205
+      }
+    },
+    {
+      "id": "36121",
+      "title": "Wyoming, NY",
+      "scores": {
+        "Communications": 1846.00566416351,
+        "Resources": 1139.6527126352885,
+        "Transport": 1770.9255089256014
+      }
+    },
+    {
+      "id": "36123",
+      "title": "Yates, NY",
+      "scores": {
+        "Communications": 1627.4658327788866,
+        "Resources": 1063.916814708721,
+        "Transport": 1784.222150740591
+      }
+    },
+    {
+      "id": "40001",
+      "title": "Adair, OK",
+      "scores": {
+        "Communications": 1812.404313060372,
+        "Resources": 1487.5096117578685,
+        "Transport": 1396.3917624015398
+      }
+    },
+    {
+      "id": "40003",
+      "title": "Alfalfa, OK",
+      "scores": {
+        "Communications": 482.1227621982013,
+        "Resources": 1500.0020032436685,
+        "Transport": 1165.1744052438496
+      }
+    },
+    {
+      "id": "40005",
+      "title": "Atoka, OK",
+      "scores": {
+        "Communications": 385.5789551309641,
+        "Resources": 1435.2394314445348,
+        "Transport": 1125.6682943991007
+      }
+    },
+    {
+      "id": "40007",
+      "title": "Beaver, OK",
+      "scores": {
+        "Communications": 510.98499169661426,
+        "Resources": 1135.1931650825532,
+        "Transport": 1230.6315105368185
+      }
+    },
+    {
+      "id": "40009",
+      "title": "Beckham, OK",
+      "scores": {
+        "Communications": 1382.5271951265688,
+        "Resources": 1447.43015591795,
+        "Transport": 1226.5836266416618
+      }
+    },
+    {
+      "id": "40011",
+      "title": "Blaine, OK",
+      "scores": {
+        "Communications": 784.6431801677728,
+        "Resources": 1467.4514599176923,
+        "Transport": 1294.6796860648897
+      }
+    },
+    {
+      "id": "40013",
+      "title": "Bryan, OK",
+      "scores": {
+        "Communications": 681.3217443663124,
+        "Resources": 1473.8911308009176,
+        "Transport": 1189.1231321152236
+      }
+    },
+    {
+      "id": "40015",
+      "title": "Caddo, OK",
+      "scores": {
+        "Communications": 115.27624581192842,
+        "Resources": 1411.390260990785,
+        "Transport": 1299.3334727008903
+      }
+    },
+    {
+      "id": "40017",
+      "title": "Canadian, OK",
+      "scores": {
+        "Communications": 1598.5168508857075,
+        "Resources": 1438.7453942419024,
+        "Transport": 1551.901373454113
+      }
+    },
+    {
+      "id": "40019",
+      "title": "Carter, OK",
+      "scores": {
+        "Communications": 1745.612788357539,
+        "Resources": 1452.855454013854,
+        "Transport": 1275.1222871768516
+      }
+    },
+    {
+      "id": "40021",
+      "title": "Cherokee, OK",
+      "scores": {
+        "Communications": 1033.116523094989,
+        "Resources": 1465.3291032722304,
+        "Transport": 1312.050629961052
+      }
+    },
+    {
+      "id": "40023",
+      "title": "Choctaw, OK",
+      "scores": {
+        "Communications": 956.2954331966428,
+        "Resources": 1431.822914814103,
+        "Transport": 1143.6901728655628
+      }
+    },
+    {
+      "id": "40025",
+      "title": "Cimarron, OK",
+      "scores": {
+        "Communications": 76.7646130197577,
+        "Resources": 1485.437476973791,
+        "Transport": 1139.5231713157755
+      }
+    },
+    {
+      "id": "40027",
+      "title": "Cleveland, OK",
+      "scores": {
+        "Communications": 1874.520779677372,
+        "Resources": 1456.7256726459377,
+        "Transport": 1546.6681229262003
+      }
+    },
+    {
+      "id": "40029",
+      "title": "Coal, OK",
+      "scores": {
+        "Communications": 135.12200722200154,
+        "Resources": 1446.1119140785313,
+        "Transport": 1097.6260432434867
+      }
+    },
+    {
+      "id": "40031",
+      "title": "Comanche, OK",
+      "scores": {
+        "Communications": 1895.7471378955947,
+        "Resources": 1364.3365000778683,
+        "Transport": 1623.7738170704797
+      }
+    },
+    {
+      "id": "40033",
+      "title": "Cotton, OK",
+      "scores": {
+        "Communications": 1455.9008585402455,
+        "Resources": 1423.9954038074738,
+        "Transport": 1605.4555374543565
+      }
+    },
+    {
+      "id": "40035",
+      "title": "Craig, OK",
+      "scores": {
+        "Communications": 1916.4553051243229,
+        "Resources": 1433.9332642625816,
+        "Transport": 1275.8251979119698
+      }
+    },
+    {
+      "id": "40037",
+      "title": "Creek, OK",
+      "scores": {
+        "Communications": 919.1670812439987,
+        "Resources": 1451.9737980709956,
+        "Transport": 1289.4242130247442
+      }
+    },
+    {
+      "id": "40039",
+      "title": "Custer, OK",
+      "scores": {
+        "Communications": 1133.5434881366098,
+        "Resources": 1407.476341129394,
+        "Transport": 1229.9526893523655
+      }
+    },
+    {
+      "id": "40041",
+      "title": "Delaware, OK",
+      "scores": {
+        "Communications": 2035.2647519950424,
+        "Resources": 1451.0736166511836,
+        "Transport": 1427.3385070014501
+      }
+    },
+    {
+      "id": "40043",
+      "title": "Dewey, OK",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1470.6291962935836,
+        "Transport": 1210.3645180332514
+      }
+    },
+    {
+      "id": "40045",
+      "title": "Ellis, OK",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1542.7715896589198,
+        "Transport": 1139.6802735956437
+      }
+    },
+    {
+      "id": "40047",
+      "title": "Garfield, OK",
+      "scores": {
+        "Communications": 2072.408816245624,
+        "Resources": 1484.5788726487986,
+        "Transport": 1345.6004324982916
+      }
+    },
+    {
+      "id": "40049",
+      "title": "Garvin, OK",
+      "scores": {
+        "Communications": 775.283242626512,
+        "Resources": 1451.927858703209,
+        "Transport": 1368.4045887931293
+      }
+    },
+    {
+      "id": "40051",
+      "title": "Grady, OK",
+      "scores": {
+        "Communications": 1108.6466547918799,
+        "Resources": 1432.5065455843119,
+        "Transport": 1491.1302197908483
+      }
+    },
+    {
+      "id": "40053",
+      "title": "Grant, OK",
+      "scores": {
+        "Communications": 26.332425899230444,
+        "Resources": 1501.5867679121977,
+        "Transport": 1154.3396543822785
+      }
+    },
+    {
+      "id": "40055",
+      "title": "Greer, OK",
+      "scores": {
+        "Communications": 845.2309697535453,
+        "Resources": 1460.9178778175362,
+        "Transport": 1302.5624089020457
+      }
+    },
+    {
+      "id": "40057",
+      "title": "Harmon, OK",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1636.8387368380202,
+        "Transport": 1235.2040024837002
+      }
+    },
+    {
+      "id": "40059",
+      "title": "Harper, OK",
+      "scores": {
+        "Communications": 113.32525824354288,
+        "Resources": 1572.9927211890401,
+        "Transport": 1167.7126500992965
+      }
+    },
+    {
+      "id": "40061",
+      "title": "Haskell, OK",
+      "scores": {
+        "Communications": 79.41554881800795,
+        "Resources": 1463.917927301927,
+        "Transport": 1364.2619301991585
+      }
+    },
+    {
+      "id": "40063",
+      "title": "Hughes, OK",
+      "scores": {
+        "Communications": 239.79482377374705,
+        "Resources": 1455.353700714599,
+        "Transport": 1092.1430949705118
+      }
+    },
+    {
+      "id": "40065",
+      "title": "Jackson, OK",
+      "scores": {
+        "Communications": 1710.2667158920237,
+        "Resources": 1485.694789807548,
+        "Transport": 1377.7589955728433
+      }
+    },
+    {
+      "id": "40067",
+      "title": "Jefferson, OK",
+      "scores": {
+        "Communications": 900.6657057944412,
+        "Resources": 1499.428657895936,
+        "Transport": 1431.7603581639764
+      }
+    },
+    {
+      "id": "40069",
+      "title": "Johnston, OK",
+      "scores": {
+        "Communications": 360.74424420762995,
+        "Resources": 1458.844146595018,
+        "Transport": 1062.2189867539225
+      }
+    },
+    {
+      "id": "40071",
+      "title": "Kay, OK",
+      "scores": {
+        "Communications": 1444.488626867672,
+        "Resources": 1474.222360142465,
+        "Transport": 1392.5601701401458
+      }
+    },
+    {
+      "id": "40073",
+      "title": "Kingfisher, OK",
+      "scores": {
+        "Communications": 983.6703596710269,
+        "Resources": 1506.3535608165066,
+        "Transport": 1380.6267735889728
+      }
+    },
+    {
+      "id": "40075",
+      "title": "Kiowa, OK",
+      "scores": {
+        "Communications": 903.2364135476588,
+        "Resources": 1406.9787675735686,
+        "Transport": 1480.2618291259353
+      }
+    },
+    {
+      "id": "40077",
+      "title": "Latimer, OK",
+      "scores": {
+        "Communications": 196.33833035092576,
+        "Resources": 1423.2950368771499,
+        "Transport": 1399.8965975279143
+      }
+    },
+    {
+      "id": "40079",
+      "title": "Le Flore, OK",
+      "scores": {
+        "Communications": 291.0132133063775,
+        "Resources": 1460.2513272633025,
+        "Transport": 1474.585868256587
+      }
+    },
+    {
+      "id": "40081",
+      "title": "Lincoln, OK",
+      "scores": {
+        "Communications": 1294.82628229521,
+        "Resources": 1452.6972028772295,
+        "Transport": 1316.166535666199
+      }
+    },
+    {
+      "id": "40083",
+      "title": "Logan, OK",
+      "scores": {
+        "Communications": 1286.4989121815872,
+        "Resources": 1481.6634123046106,
+        "Transport": 1337.7059058012626
+      }
+    },
+    {
+      "id": "40085",
+      "title": "Love, OK",
+      "scores": {
+        "Communications": 848.2946135762979,
+        "Resources": 1486.7305166908852,
+        "Transport": 1286.8458131661137
+      }
+    },
+    {
+      "id": "40087",
+      "title": "McClain, OK",
+      "scores": {
+        "Communications": 1165.4208642102067,
+        "Resources": 1436.4102532395739,
+        "Transport": 1548.0863055858745
+      }
+    },
+    {
+      "id": "40089",
+      "title": "McCurtain, OK",
+      "scores": {
+        "Communications": 880.3604049046318,
+        "Resources": 1458.5374146747051,
+        "Transport": 1278.687681071242
+      }
+    },
+    {
+      "id": "40091",
+      "title": "McIntosh, OK",
+      "scores": {
+        "Communications": 41.39268105094467,
+        "Resources": 1450.8007331892488,
+        "Transport": 1318.4794930780545
+      }
+    },
+    {
+      "id": "40093",
+      "title": "Major, OK",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1550.369129718115,
+        "Transport": 1173.1397787230385
+      }
+    },
+    {
+      "id": "40095",
+      "title": "Marshall, OK",
+      "scores": {
+        "Communications": 803.9621594264545,
+        "Resources": 1483.7175809660955,
+        "Transport": 1213.0053171773268
+      }
+    },
+    {
+      "id": "40097",
+      "title": "Mayes, OK",
+      "scores": {
+        "Communications": 1445.4554435014622,
+        "Resources": 1458.114540431937,
+        "Transport": 1403.2809385797086
+      }
+    },
+    {
+      "id": "40099",
+      "title": "Murray, OK",
+      "scores": {
+        "Communications": 1350.4872278939897,
+        "Resources": 1472.2544969937856,
+        "Transport": 1305.3059550169924
+      }
+    },
+    {
+      "id": "40101",
+      "title": "Muskogee, OK",
+      "scores": {
+        "Communications": 1668.8693562958401,
+        "Resources": 1471.0868975122232,
+        "Transport": 1285.0308946205841
+      }
+    },
+    {
+      "id": "40103",
+      "title": "Noble, OK",
+      "scores": {
+        "Communications": 687.0025874126143,
+        "Resources": 1511.8944812129769,
+        "Transport": 1593.1044953687563
+      }
+    },
+    {
+      "id": "40105",
+      "title": "Nowata, OK",
+      "scores": {
+        "Communications": 1546.6126414578885,
+        "Resources": 1404.543032636754,
+        "Transport": 1317.2928673415404
+      }
+    },
+    {
+      "id": "40107",
+      "title": "Okfuskee, OK",
+      "scores": {
+        "Communications": 353.41312706036643,
+        "Resources": 1449.0410330371053,
+        "Transport": 1200.2764572245064
+      }
+    },
+    {
+      "id": "40109",
+      "title": "Oklahoma, OK",
+      "scores": {
+        "Communications": 1896.8497717643324,
+        "Resources": 1478.1346592654486,
+        "Transport": 1595.2547219475287
+      }
+    },
+    {
+      "id": "40111",
+      "title": "Okmulgee, OK",
+      "scores": {
+        "Communications": 1572.943117611318,
+        "Resources": 1449.27147543207,
+        "Transport": 1295.2574929667487
+      }
+    },
+    {
+      "id": "40113",
+      "title": "Osage, OK",
+      "scores": {
+        "Communications": 1061.1516352540416,
+        "Resources": 1410.7949908658732,
+        "Transport": 1254.853865328186
+      }
+    },
+    {
+      "id": "40115",
+      "title": "Ottawa, OK",
+      "scores": {
+        "Communications": 2296.9911178666457,
+        "Resources": 1434.103233392109,
+        "Transport": 1361.2149606339142
+      }
+    },
+    {
+      "id": "40117",
+      "title": "Pawnee, OK",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1478.5850946679452,
+        "Transport": 1334.4883601639413
+      }
+    },
+    {
+      "id": "40119",
+      "title": "Payne, OK",
+      "scores": {
+        "Communications": 1968.5176882261355,
+        "Resources": 1485.187009484219,
+        "Transport": 1582.765176478628
+      }
+    },
+    {
+      "id": "40121",
+      "title": "Pittsburg, OK",
+      "scores": {
+        "Communications": 602.7230354557946,
+        "Resources": 1398.521608665176,
+        "Transport": 1163.2800449802733
+      }
+    },
+    {
+      "id": "40123",
+      "title": "Pontotoc, OK",
+      "scores": {
+        "Communications": 1744.839202251192,
+        "Resources": 1460.5132285099496,
+        "Transport": 1218.8316507396883
+      }
+    },
+    {
+      "id": "40125",
+      "title": "Pottawatomie, OK",
+      "scores": {
+        "Communications": 2182.777512060615,
+        "Resources": 1457.8654703193401,
+        "Transport": 1452.3461204222046
+      }
+    },
+    {
+      "id": "40127",
+      "title": "Pushmataha, OK",
+      "scores": {
+        "Communications": 595.8190104981628,
+        "Resources": 1419.913140798082,
+        "Transport": 1231.003454925817
+      }
+    },
+    {
+      "id": "40129",
+      "title": "Roger Mills, OK",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1458.76385264078,
+        "Transport": 1174.6355308663371
+      }
+    },
+    {
+      "id": "40131",
+      "title": "Rogers, OK",
+      "scores": {
+        "Communications": 1367.4540054644851,
+        "Resources": 1411.1512236169124,
+        "Transport": 1507.9384399465193
+      }
+    },
+    {
+      "id": "40133",
+      "title": "Seminole, OK",
+      "scores": {
+        "Communications": 949.0152362043295,
+        "Resources": 1441.5889035199984,
+        "Transport": 1130.3579649245046
+      }
+    },
+    {
+      "id": "40135",
+      "title": "Sequoyah, OK",
+      "scores": {
+        "Communications": 146.10741162661296,
+        "Resources": 1486.4332461848821,
+        "Transport": 1539.146974711851
+      }
+    },
+    {
+      "id": "40137",
+      "title": "Stephens, OK",
+      "scores": {
+        "Communications": 1580.5523686522772,
+        "Resources": 1455.0895306413781,
+        "Transport": 1516.5763125878073
+      }
+    },
+    {
+      "id": "40139",
+      "title": "Texas, OK",
+      "scores": {
+        "Communications": 610.8273191647304,
+        "Resources": 1240.0349056729065,
+        "Transport": 1173.8646302431641
+      }
+    },
+    {
+      "id": "40141",
+      "title": "Tillman, OK",
+      "scores": {
+        "Communications": 1496.5012650634674,
+        "Resources": 1464.405078989439,
+        "Transport": 1501.367294406642
+      }
+    },
+    {
+      "id": "40143",
+      "title": "Tulsa, OK",
+      "scores": {
+        "Communications": 1846.658241830538,
+        "Resources": 1435.9450981042116,
+        "Transport": 1639.2630346179103
+      }
+    },
+    {
+      "id": "40145",
+      "title": "Wagoner, OK",
+      "scores": {
+        "Communications": 1529.3338327952983,
+        "Resources": 1458.2654361867303,
+        "Transport": 1517.4512344093664
+      }
+    },
+    {
+      "id": "40147",
+      "title": "Washington, OK",
+      "scores": {
+        "Communications": 2174.685850108146,
+        "Resources": 1396.1271804891371,
+        "Transport": 1429.184738481473
+      }
+    },
+    {
+      "id": "40149",
+      "title": "Washita, OK",
+      "scores": {
+        "Communications": 480.3311895568406,
+        "Resources": 1414.7483885374766,
+        "Transport": 1325.7360576821861
+      }
+    },
+    {
+      "id": "40151",
+      "title": "Woods, OK",
+      "scores": {
+        "Communications": 815.9549261802848,
+        "Resources": 1498.9585808504553,
+        "Transport": 1100.2307689615752
+      }
+    },
+    {
+      "id": "40153",
+      "title": "Woodward, OK",
+      "scores": {
+        "Communications": 115.27624581192842,
+        "Resources": 1492.4752581482942,
+        "Transport": 1136.5257747687763
+      }
+    },
+    {
+      "id": "48001",
+      "title": "Anderson, TX",
+      "scores": {
+        "Communications": 441.46071428661287,
+        "Resources": 1465.6396686408864,
+        "Transport": 1520.036681830791
+      }
+    },
+    {
+      "id": "48003",
+      "title": "Andrews, TX",
+      "scores": {
+        "Communications": 2387.5003284054355,
+        "Resources": 1534.360309236628,
+        "Transport": 1551.2401645228683
+      }
+    },
+    {
+      "id": "48005",
+      "title": "Angelina, TX",
+      "scores": {
+        "Communications": 2032.9523816630658,
+        "Resources": 1457.0631128449565,
+        "Transport": 1285.2675646953712
+      }
+    },
+    {
+      "id": "48007",
+      "title": "Aransas, TX",
+      "scores": {
+        "Communications": 2083.722050800731,
+        "Resources": 985.0242674184118,
+        "Transport": 1527.8976375191621
+      }
+    },
+    {
+      "id": "48009",
+      "title": "Archer, TX",
+      "scores": {
+        "Communications": 1368.7390153107062,
+        "Resources": 1484.3337624169098,
+        "Transport": 1571.0564781878513
+      }
+    },
+    {
+      "id": "48011",
+      "title": "Armstrong, TX",
+      "scores": {
+        "Communications": 15.580768294532119,
+        "Resources": 1331.689156909403,
+        "Transport": 1519.1535122340274
+      }
+    },
+    {
+      "id": "48013",
+      "title": "Atascosa, TX",
+      "scores": {
+        "Communications": 797.2414135124392,
+        "Resources": 1244.5331530651445,
+        "Transport": 1489.4724503467494
+      }
+    },
+    {
+      "id": "48015",
+      "title": "Austin, TX",
+      "scores": {
+        "Communications": 1092.2835801809783,
+        "Resources": 1162.5467835586044,
+        "Transport": 1443.9265538959523
+      }
+    },
+    {
+      "id": "48017",
+      "title": "Bailey, TX",
+      "scores": {
+        "Communications": 561.6979256730875,
+        "Resources": 1440.8835203935664,
+        "Transport": 1383.109425841124
+      }
+    },
+    {
+      "id": "48019",
+      "title": "Bandera, TX",
+      "scores": {
+        "Communications": 1789.3636378487984,
+        "Resources": 1513.1778025974575,
+        "Transport": 1473.3390181178897
+      }
+    },
+    {
+      "id": "48021",
+      "title": "Bastrop, TX",
+      "scores": {
+        "Communications": 1378.5223132890294,
+        "Resources": 1535.0993253692618,
+        "Transport": 1621.1769596383122
+      }
+    },
+    {
+      "id": "48023",
+      "title": "Baylor, TX",
+      "scores": {
+        "Communications": 86.55519103633523,
+        "Resources": 1497.2902996749947,
+        "Transport": 1423.3144832778005
+      }
+    },
+    {
+      "id": "48025",
+      "title": "Bee, TX",
+      "scores": {
+        "Communications": 1448.3260702669922,
+        "Resources": 996.7651715399784,
+        "Transport": 1478.613640437128
+      }
+    },
+    {
+      "id": "48027",
+      "title": "Bell, TX",
+      "scores": {
+        "Communications": 1937.9707550014955,
+        "Resources": 1479.8533134233455,
+        "Transport": 1628.373224747207
+      }
+    },
+    {
+      "id": "48029",
+      "title": "Bexar, TX",
+      "scores": {
+        "Communications": 2601.8858326462796,
+        "Resources": 1519.7036815210886,
+        "Transport": 1721.2072528567867
+      }
+    },
+    {
+      "id": "48031",
+      "title": "Blanco, TX",
+      "scores": {
+        "Communications": 1422.1186057070818,
+        "Resources": 1516.4185741614363,
+        "Transport": 1503.0922826962715
+      }
+    },
+    {
+      "id": "48033",
+      "title": "Borden, TX",
+      "scores": {
+        "Communications": 591.2379797231343,
+        "Resources": 1653.0571439799512,
+        "Transport": 1366.1537155608378
+      }
+    },
+    {
+      "id": "48035",
+      "title": "Bosque, TX",
+      "scores": {
+        "Communications": 133.51786922456807,
+        "Resources": 1483.4686675602459,
+        "Transport": 1571.839883502539
+      }
+    },
+    {
+      "id": "48037",
+      "title": "Bowie, TX",
+      "scores": {
+        "Communications": 2128.322767477393,
+        "Resources": 576.655593963133,
+        "Transport": 1611.2274501520083
+      }
+    },
+    {
+      "id": "48039",
+      "title": "Brazoria, TX",
+      "scores": {
+        "Communications": 1695.1417577581822,
+        "Resources": 1220.2637653749634,
+        "Transport": 1525.4262091329315
+      }
+    },
+    {
+      "id": "48041",
+      "title": "Brazos, TX",
+      "scores": {
+        "Communications": 2864.8010960364195,
+        "Resources": 950.980653812154,
+        "Transport": 1724.7746137368906
+      }
+    },
+    {
+      "id": "48043",
+      "title": "Brewster, TX",
+      "scores": {
+        "Communications": 875.8325719840122,
+        "Resources": 1151.6962499642405,
+        "Transport": 1168.375610092698
+      }
+    },
+    {
+      "id": "48045",
+      "title": "Briscoe, TX",
+      "scores": {
+        "Communications": 192.8689156200384,
+        "Resources": 1411.2907039729184,
+        "Transport": 1436.6421944834278
+      }
+    },
+    {
+      "id": "48047",
+      "title": "Brooks, TX",
+      "scores": {
+        "Communications": 2287.5989016129274,
+        "Resources": 984.3554207733553,
+        "Transport": 1375.1129899619514
+      }
+    },
+    {
+      "id": "48049",
+      "title": "Brown, TX",
+      "scores": {
+        "Communications": 220.95771068266396,
+        "Resources": 1461.4716429172067,
+        "Transport": 1393.6753582137203
+      }
+    },
+    {
+      "id": "48051",
+      "title": "Burleson, TX",
+      "scores": {
+        "Communications": 1098.4111732013496,
+        "Resources": 989.0850607867602,
+        "Transport": 1612.454418537608
+      }
+    },
+    {
+      "id": "48053",
+      "title": "Burnet, TX",
+      "scores": {
+        "Communications": 971.0255114443626,
+        "Resources": 1481.9074536589048,
+        "Transport": 1593.9266753557208
+      }
+    },
+    {
+      "id": "48055",
+      "title": "Caldwell, TX",
+      "scores": {
+        "Communications": 1503.721188600092,
+        "Resources": 1179.0366699548383,
+        "Transport": 1610.1835974044739
+      }
+    },
+    {
+      "id": "48057",
+      "title": "Calhoun, TX",
+      "scores": {
+        "Communications": 1986.8096791005396,
+        "Resources": 1003.4848636345332,
+        "Transport": 1309.0674897671415
+      }
+    },
+    {
+      "id": "48059",
+      "title": "Callahan, TX",
+      "scores": {
+        "Communications": 1005.4861614920075,
+        "Resources": 1147.5918314458647,
+        "Transport": 1638.9088987488271
+      }
+    },
+    {
+      "id": "48061",
+      "title": "Cameron, TX",
+      "scores": {
+        "Communications": 1800.864684197266,
+        "Resources": 1045.6681968277335,
+        "Transport": 1697.636758114551
+      }
+    },
+    {
+      "id": "48063",
+      "title": "Camp, TX",
+      "scores": {
+        "Communications": 573.6783051605133,
+        "Resources": 554.053725214821,
+        "Transport": 1505.8006496375585
+      }
+    },
+    {
+      "id": "48065",
+      "title": "Carson, TX",
+      "scores": {
+        "Communications": 1197.0517874228908,
+        "Resources": 1546.912752310172,
+        "Transport": 1622.5504308672719
+      }
+    },
+    {
+      "id": "48067",
+      "title": "Cass, TX",
+      "scores": {
+        "Communications": 754.8913156143683,
+        "Resources": 547.3324260944015,
+        "Transport": 1567.3258875592473
+      }
+    },
+    {
+      "id": "48069",
+      "title": "Castro, TX",
+      "scores": {
+        "Communications": 486.07095087068683,
+        "Resources": 1762.897818411238,
+        "Transport": 1426.1643228786575
+      }
+    },
+    {
+      "id": "48071",
+      "title": "Chambers, TX",
+      "scores": {
+        "Communications": 1174.1480578108542,
+        "Resources": 1272.4465006376984,
+        "Transport": 1529.2933599079684
+      }
+    },
+    {
+      "id": "48073",
+      "title": "Cherokee, TX",
+      "scores": {
+        "Communications": 497.02821681008515,
+        "Resources": 1603.0493120666047,
+        "Transport": 1536.6149924602057
+      }
+    },
+    {
+      "id": "48075",
+      "title": "Childress, TX",
+      "scores": {
+        "Communications": 2233.8156808277636,
+        "Resources": 877.4654882664081,
+        "Transport": 1165.8873003266433
+      }
+    },
+    {
+      "id": "48077",
+      "title": "Clay, TX",
+      "scores": {
+        "Communications": 1143.9698800272304,
+        "Resources": 1492.6544144517854,
+        "Transport": 1611.3641223480138
+      }
+    },
+    {
+      "id": "48079",
+      "title": "Cochran, TX",
+      "scores": {
+        "Communications": 81.10009593859884,
+        "Resources": 1757.5829311704601,
+        "Transport": 1361.5900125392543
+      }
+    },
+    {
+      "id": "48081",
+      "title": "Coke, TX",
+      "scores": {
+        "Communications": 1064.2276945367187,
+        "Resources": 1482.5173340974723,
+        "Transport": 1546.0439155321228
+      }
+    },
+    {
+      "id": "48083",
+      "title": "Coleman, TX",
+      "scores": {
+        "Communications": 73.82348918606496,
+        "Resources": 1463.6637487728788,
+        "Transport": 1484.21209804026
+      }
+    },
+    {
+      "id": "48085",
+      "title": "Collin, TX",
+      "scores": {
+        "Communications": 2228.8851078743564,
+        "Resources": 1489.67285518085,
+        "Transport": 1593.2392077983284
+      }
+    },
+    {
+      "id": "48087",
+      "title": "Collingsworth, TX",
+      "scores": {
+        "Communications": 43.8208215698876,
+        "Resources": 781.4736296256224,
+        "Transport": 1240.563871033321
+      }
+    },
+    {
+      "id": "48089",
+      "title": "Colorado, TX",
+      "scores": {
+        "Communications": 951.440026069251,
+        "Resources": 1177.1626138916724,
+        "Transport": 1353.0526755130854
+      }
+    },
+    {
+      "id": "48091",
+      "title": "Comal, TX",
+      "scores": {
+        "Communications": 2409.461257507168,
+        "Resources": 1514.526949069301,
+        "Transport": 1626.335849871361
+      }
+    },
+    {
+      "id": "48093",
+      "title": "Comanche, TX",
+      "scores": {
+        "Communications": 1185.932517825125,
+        "Resources": 1506.1634383020546,
+        "Transport": 1285.99506380462
+      }
+    },
+    {
+      "id": "48095",
+      "title": "Concho, TX",
+      "scores": {
+        "Communications": 385.1550104628589,
+        "Resources": 1471.2173675644124,
+        "Transport": 1527.2879385522
+      }
+    },
+    {
+      "id": "48097",
+      "title": "Cooke, TX",
+      "scores": {
+        "Communications": 1911.979070440396,
+        "Resources": 1491.0306026453695,
+        "Transport": 1443.8790062305561
+      }
+    },
+    {
+      "id": "48099",
+      "title": "Coryell, TX",
+      "scores": {
+        "Communications": 1522.1134168870778,
+        "Resources": 1476.1577279527537,
+        "Transport": 1619.1131252215762
+      }
+    },
+    {
+      "id": "48101",
+      "title": "Cottle, TX",
+      "scores": {
+        "Communications": 533.0986051057271,
+        "Resources": 1279.8018527284153,
+        "Transport": 1201.696293510343
+      }
+    },
+    {
+      "id": "48103",
+      "title": "Crane, TX",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1550.6881287268918,
+        "Transport": 1526.5435291271888
+      }
+    },
+    {
+      "id": "48105",
+      "title": "Crockett, TX",
+      "scores": {
+        "Communications": 15.580768294532119,
+        "Resources": 1426.1581009047538,
+        "Transport": 1345.1861302069105
+      }
+    },
+    {
+      "id": "48107",
+      "title": "Crosby, TX",
+      "scores": {
+        "Communications": 59.721606706520745,
+        "Resources": 1421.15127612698,
+        "Transport": 1518.6247797165781
+      }
+    },
+    {
+      "id": "48109",
+      "title": "Culberson, TX",
+      "scores": {
+        "Communications": 680.9273493765279,
+        "Resources": 1862.9306873452335,
+        "Transport": 1177.5938991782434
+      }
+    },
+    {
+      "id": "48111",
+      "title": "Dallam, TX",
+      "scores": {
+        "Communications": 638.8325464103783,
+        "Resources": 1955.8760799900276,
+        "Transport": 1240.6406412955769
+      }
+    },
+    {
+      "id": "48113",
+      "title": "Dallas, TX",
+      "scores": {
+        "Communications": 2509.6303141768417,
+        "Resources": 1475.7243333729032,
+        "Transport": 1714.475513629447
+      }
+    },
+    {
+      "id": "48115",
+      "title": "Dawson, TX",
+      "scores": {
+        "Communications": 109.08335378906698,
+        "Resources": 1543.3933749479052,
+        "Transport": 1425.9273729181818
+      }
+    },
+    {
+      "id": "48117",
+      "title": "Deaf Smith, TX",
+      "scores": {
+        "Communications": 597.3511105867086,
+        "Resources": 1318.2850686678914,
+        "Transport": 1444.9780840719068
+      }
+    },
+    {
+      "id": "48119",
+      "title": "Delta, TX",
+      "scores": {
+        "Communications": 1047.9328690904517,
+        "Resources": 1507.4846420951228,
+        "Transport": 1300.817520188304
+      }
+    },
+    {
+      "id": "48121",
+      "title": "Denton, TX",
+      "scores": {
+        "Communications": 2190.573912837417,
+        "Resources": 1491.8671635405542,
+        "Transport": 1626.496302018049
+      }
+    },
+    {
+      "id": "48123",
+      "title": "De Witt, TX",
+      "scores": {
+        "Communications": 872.1118362482296,
+        "Resources": 1047.6232386302581,
+        "Transport": 1286.131493993688
+      }
+    },
+    {
+      "id": "48125",
+      "title": "Dickens, TX",
+      "scores": {
+        "Communications": 11.234637881866147,
+        "Resources": 1211.2844922396985,
+        "Transport": 1365.2712928274386
+      }
+    },
+    {
+      "id": "48127",
+      "title": "Dimmit, TX",
+      "scores": {
+        "Communications": 1234.5984501787889,
+        "Resources": 1005.7146618871567,
+        "Transport": 1390.6008826311506
+      }
+    },
+    {
+      "id": "48129",
+      "title": "Donley, TX",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1107.8131494476202,
+        "Transport": 1403.7218745618748
+      }
+    },
+    {
+      "id": "48131",
+      "title": "Duval, TX",
+      "scores": {
+        "Communications": 806.3105558391328,
+        "Resources": 992.6196109119962,
+        "Transport": 1413.62636211408
+      }
+    },
+    {
+      "id": "48133",
+      "title": "Eastland, TX",
+      "scores": {
+        "Communications": 271.9489699912025,
+        "Resources": 1466.0802705496155,
+        "Transport": 1467.4420954091759
+      }
+    },
+    {
+      "id": "48135",
+      "title": "Ector, TX",
+      "scores": {
+        "Communications": 2297.8490282029416,
+        "Resources": 1470.0640713043872,
+        "Transport": 1626.2353853924517
+      }
+    },
+    {
+      "id": "48137",
+      "title": "Edwards, TX",
+      "scores": {
+        "Communications": 365.54183577769004,
+        "Resources": 1131.1828384744742,
+        "Transport": 1193.7146088836082
+      }
+    },
+    {
+      "id": "48139",
+      "title": "Ellis, TX",
+      "scores": {
+        "Communications": 1712.7474068428178,
+        "Resources": 1474.2687428944869,
+        "Transport": 1558.851513439581
+      }
+    },
+    {
+      "id": "48141",
+      "title": "El Paso, TX",
+      "scores": {
+        "Communications": 2220.642499176403,
+        "Resources": 1570.384976590831,
+        "Transport": 1705.3023311628972
+      }
+    },
+    {
+      "id": "48143",
+      "title": "Erath, TX",
+      "scores": {
+        "Communications": 662.0338935361746,
+        "Resources": 1481.8399069546576,
+        "Transport": 1337.1215586297621
+      }
+    },
+    {
+      "id": "48145",
+      "title": "Falls, TX",
+      "scores": {
+        "Communications": 1085.9327705537012,
+        "Resources": 1408.5646361128554,
+        "Transport": 1573.0133916109853
+      }
+    },
+    {
+      "id": "48147",
+      "title": "Fannin, TX",
+      "scores": {
+        "Communications": 1346.0416937632397,
+        "Resources": 1483.3930224302246,
+        "Transport": 1285.5608080680659
+      }
+    },
+    {
+      "id": "48149",
+      "title": "Fayette, TX",
+      "scores": {
+        "Communications": 606.5162355293688,
+        "Resources": 1392.354713168232,
+        "Transport": 1420.5117215077041
+      }
+    },
+    {
+      "id": "48151",
+      "title": "Fisher, TX",
+      "scores": {
+        "Communications": 1051.3144425681514,
+        "Resources": 1489.3147090600974,
+        "Transport": 1457.7616017604446
+      }
+    },
+    {
+      "id": "48153",
+      "title": "Floyd, TX",
+      "scores": {
+        "Communications": 976.3596109137704,
+        "Resources": 1524.7110482057662,
+        "Transport": 1465.0002249865433
+      }
+    },
+    {
+      "id": "48155",
+      "title": "Foard, TX",
+      "scores": {
+        "Communications": 1184.150162940084,
+        "Resources": 1343.8165297466303,
+        "Transport": 1327.6216929077846
+      }
+    },
+    {
+      "id": "48157",
+      "title": "Fort Bend, TX",
+      "scores": {
+        "Communications": 2214.598737268259,
+        "Resources": 1169.1930378520158,
+        "Transport": 1476.5597539769742
+      }
+    },
+    {
+      "id": "48159",
+      "title": "Franklin, TX",
+      "scores": {
+        "Communications": 1048.6351522834482,
+        "Resources": 1123.8934412511721,
+        "Transport": 1400.178455496514
+      }
+    },
+    {
+      "id": "48161",
+      "title": "Freestone, TX",
+      "scores": {
+        "Communications": 580.0417146740464,
+        "Resources": 2017.2614681184875,
+        "Transport": 1379.8918503144582
+      }
+    },
+    {
+      "id": "48163",
+      "title": "Frio, TX",
+      "scores": {
+        "Communications": 1498.6053235409424,
+        "Resources": 1039.1202824752654,
+        "Transport": 1396.6388445681812
+      }
+    },
+    {
+      "id": "48165",
+      "title": "Gaines, TX",
+      "scores": {
+        "Communications": 702.8586300633723,
+        "Resources": 1760.3105458089865,
+        "Transport": 1553.6448880884532
+      }
+    },
+    {
+      "id": "48167",
+      "title": "Galveston, TX",
+      "scores": {
+        "Communications": 1982.123566897273,
+        "Resources": 1139.8146533463066,
+        "Transport": 1604.0505477302822
+      }
+    },
+    {
+      "id": "48169",
+      "title": "Garza, TX",
+      "scores": {
+        "Communications": 1828.3547182267143,
+        "Resources": 1343.5417800601695,
+        "Transport": 1477.4252532955238
+      }
+    },
+    {
+      "id": "48171",
+      "title": "Gillespie, TX",
+      "scores": {
+        "Communications": 1633.1016925337383,
+        "Resources": 1388.2973782862437,
+        "Transport": 1402.228527920378
+      }
+    },
+    {
+      "id": "48173",
+      "title": "Glasscock, TX",
+      "scores": {
+        "Communications": 980.9409380860814,
+        "Resources": 2021.6611261551445,
+        "Transport": 1516.0523822794044
+      }
+    },
+    {
+      "id": "48175",
+      "title": "Goliad, TX",
+      "scores": {
+        "Communications": 941.9701919853704,
+        "Resources": 1590.6686951462316,
+        "Transport": 1402.3591376121283
+      }
+    },
+    {
+      "id": "48177",
+      "title": "Gonzales, TX",
+      "scores": {
+        "Communications": 1340.4922348190985,
+        "Resources": 1095.906088611053,
+        "Transport": 1414.6103350449448
+      }
+    },
+    {
+      "id": "48179",
+      "title": "Gray, TX",
+      "scores": {
+        "Communications": 1800.3395192767837,
+        "Resources": 999.1077366282534,
+        "Transport": 1430.2389234589275
+      }
+    },
+    {
+      "id": "48181",
+      "title": "Grayson, TX",
+      "scores": {
+        "Communications": 2090.3519913525615,
+        "Resources": 1492.0932129180926,
+        "Transport": 1414.0261920262578
+      }
+    },
+    {
+      "id": "48183",
+      "title": "Gregg, TX",
+      "scores": {
+        "Communications": 1359.0861616734594,
+        "Resources": 551.1630808817127,
+        "Transport": 1693.6123456759312
+      }
+    },
+    {
+      "id": "48185",
+      "title": "Grimes, TX",
+      "scores": {
+        "Communications": 1414.3403771421922,
+        "Resources": 1074.5165596235533,
+        "Transport": 1622.983394889034
+      }
+    },
+    {
+      "id": "48187",
+      "title": "Guadalupe, TX",
+      "scores": {
+        "Communications": 1920.3246007924008,
+        "Resources": 1308.138548857507,
+        "Transport": 1547.4284312335183
+      }
+    },
+    {
+      "id": "48189",
+      "title": "Hale, TX",
+      "scores": {
+        "Communications": 1673.155840402723,
+        "Resources": 1392.1559459231287,
+        "Transport": 1596.386646226974
+      }
+    },
+    {
+      "id": "48191",
+      "title": "Hall, TX",
+      "scores": {
+        "Communications": 145.22466178352303,
+        "Resources": 1002.066686342767,
+        "Transport": 1277.6790542039598
+      }
+    },
+    {
+      "id": "48193",
+      "title": "Hamilton, TX",
+      "scores": {
+        "Communications": 311.05149736483105,
+        "Resources": 1489.6341936556928,
+        "Transport": 1459.257612065857
+      }
+    },
+    {
+      "id": "48195",
+      "title": "Hansford, TX",
+      "scores": {
+        "Communications": 15.580768294532119,
+        "Resources": 1860.4873584343648,
+        "Transport": 1299.9935961787453
+      }
+    },
+    {
+      "id": "48197",
+      "title": "Hardeman, TX",
+      "scores": {
+        "Communications": 646.0703527988883,
+        "Resources": 1201.8909287917127,
+        "Transport": 1295.9959665982794
+      }
+    },
+    {
+      "id": "48199",
+      "title": "Hardin, TX",
+      "scores": {
+        "Communications": 1567.1577247123473,
+        "Resources": 885.9051643178228,
+        "Transport": 1545.8365993555497
+      }
+    },
+    {
+      "id": "48201",
+      "title": "Harris, TX",
+      "scores": {
+        "Communications": 2471.181210377235,
+        "Resources": 1111.9526844566208,
+        "Transport": 1700.416293309784
+      }
+    },
+    {
+      "id": "48203",
+      "title": "Harrison, TX",
+      "scores": {
+        "Communications": 1386.438371409171,
+        "Resources": 552.4100998358276,
+        "Transport": 1617.1755591159422
+      }
+    },
+    {
+      "id": "48205",
+      "title": "Hartley, TX",
+      "scores": {
+        "Communications": 297.9044065672609,
+        "Resources": 1857.368508860797,
+        "Transport": 1364.273766598685
+      }
+    },
+    {
+      "id": "48207",
+      "title": "Haskell, TX",
+      "scores": {
+        "Communications": 1838.3432602016715,
+        "Resources": 1440.2608285394401,
+        "Transport": 1389.1356097356572
+      }
+    },
+    {
+      "id": "48209",
+      "title": "Hays, TX",
+      "scores": {
+        "Communications": 2179.8403853766417,
+        "Resources": 1479.5900982522205,
+        "Transport": 1622.5792498578105
+      }
+    },
+    {
+      "id": "48211",
+      "title": "Hemphill, TX",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1324.0874642794179,
+        "Transport": 1219.1221310711808
+      }
+    },
+    {
+      "id": "48213",
+      "title": "Henderson, TX",
+      "scores": {
+        "Communications": 885.1566468771521,
+        "Resources": 1468.6309498894282,
+        "Transport": 1595.9122727323208
+      }
+    },
+    {
+      "id": "48215",
+      "title": "Hidalgo, TX",
+      "scores": {
+        "Communications": 1861.7269370830022,
+        "Resources": 1386.1024327639846,
+        "Transport": 1667.5177331444263
+      }
+    },
+    {
+      "id": "48217",
+      "title": "Hill, TX",
+      "scores": {
+        "Communications": 230.52329144017466,
+        "Resources": 1472.811577454234,
+        "Transport": 1596.6084841776023
+      }
+    },
+    {
+      "id": "48219",
+      "title": "Hockley, TX",
+      "scores": {
+        "Communications": 135.71857810435853,
+        "Resources": 1395.8443706181856,
+        "Transport": 1547.6157658014915
+      }
+    },
+    {
+      "id": "48221",
+      "title": "Hood, TX",
+      "scores": {
+        "Communications": 1603.740495089012,
+        "Resources": 1485.5104276239417,
+        "Transport": 1429.955646532054
+      }
+    },
+    {
+      "id": "48223",
+      "title": "Hopkins, TX",
+      "scores": {
+        "Communications": 1507.1676930754898,
+        "Resources": 1430.0308322471026,
+        "Transport": 1422.0194401955148
+      }
+    },
+    {
+      "id": "48225",
+      "title": "Houston, TX",
+      "scores": {
+        "Communications": 208.4783893002193,
+        "Resources": 1408.8662089468112,
+        "Transport": 1322.0162548829132
+      }
+    },
+    {
+      "id": "48227",
+      "title": "Howard, TX",
+      "scores": {
+        "Communications": 2319.8825720561154,
+        "Resources": 1491.4848831528604,
+        "Transport": 1388.8730636379566
+      }
+    },
+    {
+      "id": "48229",
+      "title": "Hudspeth, TX",
+      "scores": {
+        "Communications": 1069.3585527464056,
+        "Resources": 1881.3967820449357,
+        "Transport": 1382.2984517539758
+      }
+    },
+    {
+      "id": "48231",
+      "title": "Hunt, TX",
+      "scores": {
+        "Communications": 1248.2021637318926,
+        "Resources": 1471.1468226682025,
+        "Transport": 1461.0557936464556
+      }
+    },
+    {
+      "id": "48233",
+      "title": "Hutchinson, TX",
+      "scores": {
+        "Communications": 1925.2524064435293,
+        "Resources": 1351.4512363145973,
+        "Transport": 1468.1738092334274
+      }
+    },
+    {
+      "id": "48235",
+      "title": "Irion, TX",
+      "scores": {
+        "Communications": 110.42539135266234,
+        "Resources": 1513.1200247724166,
+        "Transport": 1570.4309955288745
+      }
+    },
+    {
+      "id": "48237",
+      "title": "Jack, TX",
+      "scores": {
+        "Communications": 987.5592400139118,
+        "Resources": 1489.388289795814,
+        "Transport": 1436.9243631222769
+      }
+    },
+    {
+      "id": "48239",
+      "title": "Jackson, TX",
+      "scores": {
+        "Communications": 853.1068940870268,
+        "Resources": 1082.7751200503367,
+        "Transport": 1222.8082804487663
+      }
+    },
+    {
+      "id": "48241",
+      "title": "Jasper, TX",
+      "scores": {
+        "Communications": 1232.5397264333988,
+        "Resources": 819.7816968937988,
+        "Transport": 1421.8733838472838
+      }
+    },
+    {
+      "id": "48243",
+      "title": "Jeff Davis, TX",
+      "scores": {
+        "Communications": 186.88347635687956,
+        "Resources": 1162.4917259151812,
+        "Transport": 1160.1357986195844
+      }
+    },
+    {
+      "id": "48245",
+      "title": "Jefferson, TX",
+      "scores": {
+        "Communications": 1766.0251217536406,
+        "Resources": 890.2688028669834,
+        "Transport": 1693.6983611908609
+      }
+    },
+    {
+      "id": "48247",
+      "title": "Jim Hogg, TX",
+      "scores": {
+        "Communications": 125.87553022108,
+        "Resources": 979.4530923616419,
+        "Transport": 1407.1135256351574
+      }
+    },
+    {
+      "id": "48249",
+      "title": "Jim Wells, TX",
+      "scores": {
+        "Communications": 1661.8680545564637,
+        "Resources": 991.5750230134952,
+        "Transport": 1549.1293979745337
+      }
+    },
+    {
+      "id": "48251",
+      "title": "Johnson, TX",
+      "scores": {
+        "Communications": 1906.2901533323327,
+        "Resources": 1477.9595565298082,
+        "Transport": 1499.606209185108
+      }
+    },
+    {
+      "id": "48253",
+      "title": "Jones, TX",
+      "scores": {
+        "Communications": 1174.0814146695527,
+        "Resources": 1156.596446554987,
+        "Transport": 1606.381274055595
+      }
+    },
+    {
+      "id": "48255",
+      "title": "Karnes, TX",
+      "scores": {
+        "Communications": 450.2858450947435,
+        "Resources": 1060.7109335408759,
+        "Transport": 1402.8761242733588
+      }
+    },
+    {
+      "id": "48257",
+      "title": "Kaufman, TX",
+      "scores": {
+        "Communications": 1995.3476006071583,
+        "Resources": 1464.2724781275153,
+        "Transport": 1522.0159946224903
+      }
+    },
+    {
+      "id": "48259",
+      "title": "Kendall, TX",
+      "scores": {
+        "Communications": 2391.8683335118585,
+        "Resources": 1513.2408533520208,
+        "Transport": 1547.8580553165066
+      }
+    },
+    {
+      "id": "48261",
+      "title": "Kenedy, TX",
+      "scores": {
+        "Communications": 9.14501661486049,
+        "Resources": 1026.2641388751372,
+        "Transport": 1456.4469799594426
+      }
+    },
+    {
+      "id": "48263",
+      "title": "Kent, TX",
+      "scores": {
+        "Communications": 820.811867670948,
+        "Resources": 1905.8332037387427,
+        "Transport": 1357.0729687442772
+      }
+    },
+    {
+      "id": "48265",
+      "title": "Kerr, TX",
+      "scores": {
+        "Communications": 1731.1134583686805,
+        "Resources": 1545.790464448074,
+        "Transport": 1378.1669239668881
+      }
+    },
+    {
+      "id": "48267",
+      "title": "Kimble, TX",
+      "scores": {
+        "Communications": 1205.0734798888247,
+        "Resources": 1398.9906395698365,
+        "Transport": 1322.965688199892
+      }
+    },
+    {
+      "id": "48269",
+      "title": "King, TX",
+      "scores": {
+        "Communications": 177.7606258537744,
+        "Resources": 1504.7341662334811,
+        "Transport": 1235.8783295255355
+      }
+    },
+    {
+      "id": "48271",
+      "title": "Kinney, TX",
+      "scores": {
+        "Communications": 13.340951035968763,
+        "Resources": 1140.7702266601682,
+        "Transport": 1177.5938991782434
+      }
+    },
+    {
+      "id": "48273",
+      "title": "Kleberg, TX",
+      "scores": {
+        "Communications": 827.1120974764166,
+        "Resources": 993.3751373754395,
+        "Transport": 1602.7894725284254
+      }
+    },
+    {
+      "id": "48275",
+      "title": "Knox, TX",
+      "scores": {
+        "Communications": 1573.1582979774246,
+        "Resources": 1459.7175615440988,
+        "Transport": 1277.3981518239918
+      }
+    },
+    {
+      "id": "48277",
+      "title": "Lamar, TX",
+      "scores": {
+        "Communications": 1669.6168028829547,
+        "Resources": 1486.7955297624435,
+        "Transport": 1213.0442048396508
+      }
+    },
+    {
+      "id": "48279",
+      "title": "Lamb, TX",
+      "scores": {
+        "Communications": 289.0966141868585,
+        "Resources": 1525.1588254054986,
+        "Transport": 1518.1834593767412
+      }
+    },
+    {
+      "id": "48281",
+      "title": "Lampasas, TX",
+      "scores": {
+        "Communications": 652.2890689940125,
+        "Resources": 1482.291715816912,
+        "Transport": 1608.310276191985
+      }
+    },
+    {
+      "id": "48283",
+      "title": "La Salle, TX",
+      "scores": {
+        "Communications": 970.9397178405361,
+        "Resources": 1028.037390758945,
+        "Transport": 1412.269631307746
+      }
+    },
+    {
+      "id": "48285",
+      "title": "Lavaca, TX",
+      "scores": {
+        "Communications": 377.59144469455975,
+        "Resources": 1449.2865065718295,
+        "Transport": 1326.4565031497864
+      }
+    },
+    {
+      "id": "48287",
+      "title": "Lee, TX",
+      "scores": {
+        "Communications": 643.5701814935228,
+        "Resources": 1356.6335547811375,
+        "Transport": 1521.8082953414043
+      }
+    },
+    {
+      "id": "48289",
+      "title": "Leon, TX",
+      "scores": {
+        "Communications": 221.98487085624302,
+        "Resources": 1406.8216842239192,
+        "Transport": 1434.6290255389965
+      }
+    },
+    {
+      "id": "48291",
+      "title": "Liberty, TX",
+      "scores": {
+        "Communications": 1264.187750481517,
+        "Resources": 1112.3931552315464,
+        "Transport": 1541.5184971155625
+      }
+    },
+    {
+      "id": "48293",
+      "title": "Limestone, TX",
+      "scores": {
+        "Communications": 787.2889838722629,
+        "Resources": 1414.5447860307588,
+        "Transport": 1467.9569664040991
+      }
+    },
+    {
+      "id": "48295",
+      "title": "Lipscomb, TX",
+      "scores": {
+        "Communications": 128.16907834552939,
+        "Resources": 1471.6257765981281,
+        "Transport": 1150.8844974688418
+      }
+    },
+    {
+      "id": "48297",
+      "title": "Live Oak, TX",
+      "scores": {
+        "Communications": 1707.1511866266274,
+        "Resources": 1008.7582133764979,
+        "Transport": 1418.6146562166732
+      }
+    },
+    {
+      "id": "48299",
+      "title": "Llano, TX",
+      "scores": {
+        "Communications": 69.89211071478844,
+        "Resources": 1600.3605968195898,
+        "Transport": 1428.9234251432747
+      }
+    },
+    {
+      "id": "48301",
+      "title": "Loving, TX",
+      "scores": {
+        "Communications": 522.4826346517333,
+        "Resources": 2030.3145800505242,
+        "Transport": 1399.8491421352219
+      }
+    },
+    {
+      "id": "48303",
+      "title": "Lubbock, TX",
+      "scores": {
+        "Communications": 2414.6235681136977,
+        "Resources": 1297.2574490641564,
+        "Transport": 1721.5783242008893
+      }
+    },
+    {
+      "id": "48305",
+      "title": "Lynn, TX",
+      "scores": {
+        "Communications": 470.53257135856074,
+        "Resources": 1649.4625811910005,
+        "Transport": 1564.0587974618477
+      }
+    },
+    {
+      "id": "48307",
+      "title": "McCulloch, TX",
+      "scores": {
+        "Communications": 148.8223078045992,
+        "Resources": 1477.829026714473,
+        "Transport": 1340.278285796236
+      }
+    },
+    {
+      "id": "48309",
+      "title": "McLennan, TX",
+      "scores": {
+        "Communications": 2381.2086956009343,
+        "Resources": 1472.8438011128808,
+        "Transport": 1716.851060428629
+      }
+    },
+    {
+      "id": "48311",
+      "title": "McMullen, TX",
+      "scores": {
+        "Communications": 1281.8583940610727,
+        "Resources": 1190.680474621917,
+        "Transport": 1207.8989517556493
+      }
+    },
+    {
+      "id": "48313",
+      "title": "Madison, TX",
+      "scores": {
+        "Communications": 18.391072744180832,
+        "Resources": 878.5644859091282,
+        "Transport": 1533.4968045657006
+      }
+    },
+    {
+      "id": "48315",
+      "title": "Marion, TX",
+      "scores": {
+        "Communications": 1120.7451887914456,
+        "Resources": 680.0943713733749,
+        "Transport": 1537.878670086648
+      }
+    },
+    {
+      "id": "48317",
+      "title": "Martin, TX",
+      "scores": {
+        "Communications": 1284.909896990116,
+        "Resources": 1637.7938574411519,
+        "Transport": 1590.5284348553216
+      }
+    },
+    {
+      "id": "48319",
+      "title": "Mason, TX",
+      "scores": {
+        "Communications": 1233.7410269881238,
+        "Resources": 1486.5384060281751,
+        "Transport": 1213.5424832596693
+      }
+    },
+    {
+      "id": "48321",
+      "title": "Matagorda, TX",
+      "scores": {
+        "Communications": 1262.0490626365781,
+        "Resources": 1177.9627435944726,
+        "Transport": 1344.0603334922876
+      }
+    },
+    {
+      "id": "48323",
+      "title": "Maverick, TX",
+      "scores": {
+        "Communications": 1628.1968503782746,
+        "Resources": 998.2367336188663,
+        "Transport": 1187.611120703572
+      }
+    },
+    {
+      "id": "48325",
+      "title": "Medina, TX",
+      "scores": {
+        "Communications": 753.59212041555,
+        "Resources": 1256.0583207308096,
+        "Transport": 1507.9786318229817
+      }
+    },
+    {
+      "id": "48327",
+      "title": "Menard, TX",
+      "scores": {
+        "Communications": 45.91782260684751,
+        "Resources": 1500.6403891998225,
+        "Transport": 1459.2867453265108
+      }
+    },
+    {
+      "id": "48329",
+      "title": "Midland, TX",
+      "scores": {
+        "Communications": 2748.595761538397,
+        "Resources": 1464.4298448970017,
+        "Transport": 1677.4754992108915
+      }
+    },
+    {
+      "id": "48331",
+      "title": "Milam, TX",
+      "scores": {
+        "Communications": 1156.581539678397,
+        "Resources": 1604.3958031453346,
+        "Transport": 1503.560285677213
+      }
+    },
+    {
+      "id": "48333",
+      "title": "Mills, TX",
+      "scores": {
+        "Communications": 1697.9043988593698,
+        "Resources": 1498.246797982742,
+        "Transport": 1428.2088118280103
+      }
+    },
+    {
+      "id": "48335",
+      "title": "Mitchell, TX",
+      "scores": {
+        "Communications": 1015.3252260881343,
+        "Resources": 1512.049974739205,
+        "Transport": 1343.0742324354192
+      }
+    },
+    {
+      "id": "48337",
+      "title": "Montague, TX",
+      "scores": {
+        "Communications": 1110.0986042277889,
+        "Resources": 1483.2569645048088,
+        "Transport": 1454.5679589661986
+      }
+    },
+    {
+      "id": "48339",
+      "title": "Montgomery, TX",
+      "scores": {
+        "Communications": 2524.7863038737764,
+        "Resources": 1115.6811330511334,
+        "Transport": 1607.0074544398954
+      }
+    },
+    {
+      "id": "48341",
+      "title": "Moore, TX",
+      "scores": {
+        "Communications": 1874.13340489729,
+        "Resources": 1428.249297195623,
+        "Transport": 1503.2799793313745
+      }
+    },
+    {
+      "id": "48343",
+      "title": "Morris, TX",
+      "scores": {
+        "Communications": 980.1676750028557,
+        "Resources": 574.3982865495066,
+        "Transport": 1451.0112394052344
+      }
+    },
+    {
+      "id": "48345",
+      "title": "Motley, TX",
+      "scores": {
+        "Communications": 305.8729323334635,
+        "Resources": 1352.9637911391892,
+        "Transport": 1372.59874812006
+      }
+    },
+    {
+      "id": "48347",
+      "title": "Nacogdoches, TX",
+      "scores": {
+        "Communications": 1977.8764599615577,
+        "Resources": 1480.6530993919503,
+        "Transport": 1444.3531086114883
+      }
+    },
+    {
+      "id": "48349",
+      "title": "Navarro, TX",
+      "scores": {
+        "Communications": 858.0634620114866,
+        "Resources": 1476.7748449613084,
+        "Transport": 1430.0291790800375
+      }
+    },
+    {
+      "id": "48351",
+      "title": "Newton, TX",
+      "scores": {
+        "Communications": 1076.7425772547779,
+        "Resources": 804.0295747107675,
+        "Transport": 1424.3475739333326
+      }
+    },
+    {
+      "id": "48353",
+      "title": "Nolan, TX",
+      "scores": {
+        "Communications": 1965.7538302174873,
+        "Resources": 1467.5531329665987,
+        "Transport": 1483.6755138719311
+      }
+    },
+    {
+      "id": "48355",
+      "title": "Nueces, TX",
+      "scores": {
+        "Communications": 2545.5130835897953,
+        "Resources": 1000.3876953644897,
+        "Transport": 1704.8340841658078
+      }
+    },
+    {
+      "id": "48357",
+      "title": "Ochiltree, TX",
+      "scores": {
+        "Communications": 815.8861473327995,
+        "Resources": 1423.581543644756,
+        "Transport": 1241.5881950916607
+      }
+    },
+    {
+      "id": "48359",
+      "title": "Oldham, TX",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1266.6756229313232,
+        "Transport": 1454.204418859138
+      }
+    },
+    {
+      "id": "48361",
+      "title": "Orange, TX",
+      "scores": {
+        "Communications": 1683.4726986709547,
+        "Resources": 880.509617087518,
+        "Transport": 1641.1386930623275
+      }
+    },
+    {
+      "id": "48363",
+      "title": "Palo Pinto, TX",
+      "scores": {
+        "Communications": 834.9811739886383,
+        "Resources": 1519.524135521147,
+        "Transport": 1248.8241181124476
+      }
+    },
+    {
+      "id": "48365",
+      "title": "Panola, TX",
+      "scores": {
+        "Communications": 1230.1241061261696,
+        "Resources": 577.6231834936013,
+        "Transport": 1595.205909397309
+      }
+    },
+    {
+      "id": "48367",
+      "title": "Parker, TX",
+      "scores": {
+        "Communications": 1752.7605724985165,
+        "Resources": 1478.902275645397,
+        "Transport": 1484.9140148332808
+      }
+    },
+    {
+      "id": "48369",
+      "title": "Parmer, TX",
+      "scores": {
+        "Communications": 534.7363392538006,
+        "Resources": 1472.1381916722928,
+        "Transport": 1305.9816470110627
+      }
+    },
+    {
+      "id": "48371",
+      "title": "Pecos, TX",
+      "scores": {
+        "Communications": 853.9617724525833,
+        "Resources": 1659.1594079050267,
+        "Transport": 1257.7630429018918
+      }
+    },
+    {
+      "id": "48373",
+      "title": "Polk, TX",
+      "scores": {
+        "Communications": 864.0572506491235,
+        "Resources": 1091.579692532917,
+        "Transport": 1291.626399563742
+      }
+    },
+    {
+      "id": "48375",
+      "title": "Potter, TX",
+      "scores": {
+        "Communications": 2484.1725666946027,
+        "Resources": 1302.8929943211779,
+        "Transport": 1596.5376340361888
+      }
+    },
+    {
+      "id": "48377",
+      "title": "Presidio, TX",
+      "scores": {
+        "Communications": 151.68618582365875,
+        "Resources": 1160.0889186908298,
+        "Transport": 1177.5938991782434
+      }
+    },
+    {
+      "id": "48379",
+      "title": "Rains, TX",
+      "scores": {
+        "Communications": 15.580768294532119,
+        "Resources": 1111.0129107555774,
+        "Transport": 1492.8937707989437
+      }
+    },
+    {
+      "id": "48381",
+      "title": "Randall, TX",
+      "scores": {
+        "Communications": 2430.874773519993,
+        "Resources": 1289.3566911320725,
+        "Transport": 1640.3170976149554
+      }
+    },
+    {
+      "id": "48383",
+      "title": "Reagan, TX",
+      "scores": {
+        "Communications": 77.54688174239676,
+        "Resources": 1637.9165490447658,
+        "Transport": 1430.1798252959304
+      }
+    },
+    {
+      "id": "48385",
+      "title": "Real, TX",
+      "scores": {
+        "Communications": 391.41226415313616,
+        "Resources": 1150.276834129937,
+        "Transport": 1268.5054995875496
+      }
+    },
+    {
+      "id": "48387",
+      "title": "Red River, TX",
+      "scores": {
+        "Communications": 1593.0974173883967,
+        "Resources": 1443.4235709052136,
+        "Transport": 1364.7161334330472
+      }
+    },
+    {
+      "id": "48389",
+      "title": "Reeves, TX",
+      "scores": {
+        "Communications": 482.2780284426784,
+        "Resources": 1548.7234508156635,
+        "Transport": 1170.8577681722672
+      }
+    },
+    {
+      "id": "48391",
+      "title": "Refugio, TX",
+      "scores": {
+        "Communications": 1319.7270501919634,
+        "Resources": 1020.0066500021794,
+        "Transport": 1475.899015441641
+      }
+    },
+    {
+      "id": "48393",
+      "title": "Roberts, TX",
+      "scores": {
+        "Communications": 244.15219686596066,
+        "Resources": 1438.80525649379,
+        "Transport": 1326.5277648599956
+      }
+    },
+    {
+      "id": "48395",
+      "title": "Robertson, TX",
+      "scores": {
+        "Communications": 1439.1862325141574,
+        "Resources": 1632.7749944204804,
+        "Transport": 1553.412752207526
+      }
+    },
+    {
+      "id": "48397",
+      "title": "Rockwall, TX",
+      "scores": {
+        "Communications": 2199.3346157313345,
+        "Resources": 1472.2438157365516,
+        "Transport": 1593.4146957958678
+      }
+    },
+    {
+      "id": "48399",
+      "title": "Runnels, TX",
+      "scores": {
+        "Communications": 1081.8570014853592,
+        "Resources": 1038.6363459561371,
+        "Transport": 1492.3189406506222
+      }
+    },
+    {
+      "id": "48401",
+      "title": "Rusk, TX",
+      "scores": {
+        "Communications": 1409.12846692003,
+        "Resources": 1737.5692157733693,
+        "Transport": 1647.8983995466137
+      }
+    },
+    {
+      "id": "48403",
+      "title": "Sabine, TX",
+      "scores": {
+        "Communications": 618.5993684661861,
+        "Resources": 546.6181895605799,
+        "Transport": 1303.680160711153
+      }
+    },
+    {
+      "id": "48405",
+      "title": "San Augustine, TX",
+      "scores": {
+        "Communications": 225.9219243948794,
+        "Resources": 552.5880297313789,
+        "Transport": 1297.4544487533342
+      }
+    },
+    {
+      "id": "48407",
+      "title": "San Jacinto, TX",
+      "scores": {
+        "Communications": 788.4617731006042,
+        "Resources": 885.6850475790333,
+        "Transport": 1499.2100663865767
+      }
+    },
+    {
+      "id": "48409",
+      "title": "San Patricio, TX",
+      "scores": {
+        "Communications": 1906.2629061324596,
+        "Resources": 987.3276748143979,
+        "Transport": 1642.777695097618
+      }
+    },
+    {
+      "id": "48411",
+      "title": "San Saba, TX",
+      "scores": {
+        "Communications": 1801.7483661819465,
+        "Resources": 1503.6896064151583,
+        "Transport": 1403.5477211068098
+      }
+    },
+    {
+      "id": "48413",
+      "title": "Schleicher, TX",
+      "scores": {
+        "Communications": 33.316734947526264,
+        "Resources": 1400.9499442761714,
+        "Transport": 1542.7214891673157
+      }
+    },
+    {
+      "id": "48415",
+      "title": "Scurry, TX",
+      "scores": {
+        "Communications": 1954.2959800329168,
+        "Resources": 1525.3316007256735,
+        "Transport": 1302.1648863632704
+      }
+    },
+    {
+      "id": "48417",
+      "title": "Shackelford, TX",
+      "scores": {
+        "Communications": 971.2814828937209,
+        "Resources": 1467.5874774356475,
+        "Transport": 1561.8624619718985
+      }
+    },
+    {
+      "id": "48419",
+      "title": "Shelby, TX",
+      "scores": {
+        "Communications": 1140.4783542318937,
+        "Resources": 579.791831717974,
+        "Transport": 1434.2373576808432
+      }
+    },
+    {
+      "id": "48421",
+      "title": "Sherman, TX",
+      "scores": {
+        "Communications": 69.60197030755566,
+        "Resources": 1955.8760799900276,
+        "Transport": 1328.3762229232284
+      }
+    },
+    {
+      "id": "48423",
+      "title": "Smith, TX",
+      "scores": {
+        "Communications": 2181.1458198961755,
+        "Resources": 1397.3595036028203,
+        "Transport": 1698.5013900216036
+      }
+    },
+    {
+      "id": "48425",
+      "title": "Somervell, TX",
+      "scores": {
+        "Communications": 719.1542761373869,
+        "Resources": 2032.0665883185488,
+        "Transport": 1451.0537029715113
+      }
+    },
+    {
+      "id": "48427",
+      "title": "Starr, TX",
+      "scores": {
+        "Communications": 1583.095189729841,
+        "Resources": 978.9905695920474,
+        "Transport": 1520.9924120808698
+      }
+    },
+    {
+      "id": "48429",
+      "title": "Stephens, TX",
+      "scores": {
+        "Communications": 861.1605755259,
+        "Resources": 1542.4344137451649,
+        "Transport": 1425.0981506674095
+      }
+    },
+    {
+      "id": "48431",
+      "title": "Sterling, TX",
+      "scores": {
+        "Communications": 985.8681926870964,
+        "Resources": 1484.4044251813732,
+        "Transport": 1491.0647784673756
+      }
+    },
+    {
+      "id": "48433",
+      "title": "Stonewall, TX",
+      "scores": {
+        "Communications": 2280.962594888891,
+        "Resources": 1388.6850798127286,
+        "Transport": 1373.4205397459866
+      }
+    },
+    {
+      "id": "48435",
+      "title": "Sutton, TX",
+      "scores": {
+        "Communications": 1717.6730983575499,
+        "Resources": 1396.0834372921092,
+        "Transport": 1413.2222147863965
+      }
+    },
+    {
+      "id": "48437",
+      "title": "Swisher, TX",
+      "scores": {
+        "Communications": 1375.4762310713843,
+        "Resources": 1455.090939257068,
+        "Transport": 1422.5695297757923
+      }
+    },
+    {
+      "id": "48439",
+      "title": "Tarrant, TX",
+      "scores": {
+        "Communications": 2404.1791997656096,
+        "Resources": 1489.414578321339,
+        "Transport": 1653.9445523833092
+      }
+    },
+    {
+      "id": "48441",
+      "title": "Taylor, TX",
+      "scores": {
+        "Communications": 2464.8590197643907,
+        "Resources": 1145.958521117065,
+        "Transport": 1661.7290694342414
+      }
+    },
+    {
+      "id": "48443",
+      "title": "Terrell, TX",
+      "scores": {
+        "Communications": 8.234293004065178,
+        "Resources": 1544.0665576537808,
+        "Transport": 1177.5938991782434
+      }
+    },
+    {
+      "id": "48445",
+      "title": "Terry, TX",
+      "scores": {
+        "Communications": 69.60197030755566,
+        "Resources": 1597.0337736761496,
+        "Transport": 1496.9383344661828
+      }
+    },
+    {
+      "id": "48447",
+      "title": "Throckmorton, TX",
+      "scores": {
+        "Communications": 226.43180940881803,
+        "Resources": 1346.1071362621328,
+        "Transport": 1372.806162123206
+      }
+    },
+    {
+      "id": "48449",
+      "title": "Titus, TX",
+      "scores": {
+        "Communications": 1313.9057282750769,
+        "Resources": 1637.5689041976025,
+        "Transport": 1406.724129561806
+      }
+    },
+    {
+      "id": "48451",
+      "title": "Tom Green, TX",
+      "scores": {
+        "Communications": 2360.1412840532803,
+        "Resources": 1457.0955921568502,
+        "Transport": 1738.6440412233394
+      }
+    },
+    {
+      "id": "48453",
+      "title": "Travis, TX",
+      "scores": {
+        "Communications": 2713.082150397194,
+        "Resources": 1487.1945335483917,
+        "Transport": 1691.2323732030472
+      }
+    },
+    {
+      "id": "48455",
+      "title": "Trinity, TX",
+      "scores": {
+        "Communications": 157.3098432649471,
+        "Resources": 1404.3816039324927,
+        "Transport": 1295.9189674003442
+      }
+    },
+    {
+      "id": "48457",
+      "title": "Tyler, TX",
+      "scores": {
+        "Communications": 1157.6765313231167,
+        "Resources": 887.1395350937545,
+        "Transport": 1375.794448086033
+      }
+    },
+    {
+      "id": "48459",
+      "title": "Upshur, TX",
+      "scores": {
+        "Communications": 889.9226703065488,
+        "Resources": 554.9780182985589,
+        "Transport": 1598.1792537239508
+      }
+    },
+    {
+      "id": "48461",
+      "title": "Upton, TX",
+      "scores": {
+        "Communications": 444.14440561000345,
+        "Resources": 1605.9586955656084,
+        "Transport": 1522.550607678084
+      }
+    },
+    {
+      "id": "48463",
+      "title": "Uvalde, TX",
+      "scores": {
+        "Communications": 1391.4811540762057,
+        "Resources": 1029.9275707642425,
+        "Transport": 1297.993014705074
+      }
+    },
+    {
+      "id": "48465",
+      "title": "Val Verde, TX",
+      "scores": {
+        "Communications": 1593.7602888522658,
+        "Resources": 990.1626112798106,
+        "Transport": 1177.5938991782434
+      }
+    },
+    {
+      "id": "48467",
+      "title": "Van Zandt, TX",
+      "scores": {
+        "Communications": 422.54683381753006,
+        "Resources": 1423.0717406214794,
+        "Transport": 1560.220215136908
+      }
+    },
+    {
+      "id": "48469",
+      "title": "Victoria, TX",
+      "scores": {
+        "Communications": 2125.3592722105427,
+        "Resources": 1042.6681437838124,
+        "Transport": 1283.9387083998852
+      }
+    },
+    {
+      "id": "48471",
+      "title": "Walker, TX",
+      "scores": {
+        "Communications": 1969.8793200398352,
+        "Resources": 905.3341371861304,
+        "Transport": 1424.2716436893436
+      }
+    },
+    {
+      "id": "48473",
+      "title": "Waller, TX",
+      "scores": {
+        "Communications": 1233.7048844262872,
+        "Resources": 1118.9130301540922,
+        "Transport": 1522.2121600704118
+      }
+    },
+    {
+      "id": "48475",
+      "title": "Ward, TX",
+      "scores": {
+        "Communications": 288.0937806177179,
+        "Resources": 1519.9446890928102,
+        "Transport": 1288.1686875758571
+      }
+    },
+    {
+      "id": "48477",
+      "title": "Washington, TX",
+      "scores": {
+        "Communications": 1377.1512073436786,
+        "Resources": 959.7995214661169,
+        "Transport": 1581.7519558008378
+      }
+    },
+    {
+      "id": "48479",
+      "title": "Webb, TX",
+      "scores": {
+        "Communications": 1840.6432877242632,
+        "Resources": 977.9719914804755,
+        "Transport": 1651.880649900572
+      }
+    },
+    {
+      "id": "48481",
+      "title": "Wharton, TX",
+      "scores": {
+        "Communications": 672.1896685492159,
+        "Resources": 1169.090303150858,
+        "Transport": 1340.3407153870116
+      }
+    },
+    {
+      "id": "48483",
+      "title": "Wheeler, TX",
+      "scores": {
+        "Communications": 69.60197030755566,
+        "Resources": 1042.5712365374482,
+        "Transport": 1259.0387110879171
+      }
+    },
+    {
+      "id": "48485",
+      "title": "Wichita, TX",
+      "scores": {
+        "Communications": 1654.5769596554574,
+        "Resources": 1460.73995247768,
+        "Transport": 1686.9991691248472
+      }
+    },
+    {
+      "id": "48487",
+      "title": "Wilbarger, TX",
+      "scores": {
+        "Communications": 2304.4389473522683,
+        "Resources": 1483.2829830101286,
+        "Transport": 1478.7437898669777
+      }
+    },
+    {
+      "id": "48489",
+      "title": "Willacy, TX",
+      "scores": {
+        "Communications": 2321.4331751644095,
+        "Resources": 1016.6929661963895,
+        "Transport": 1653.7716048678867
+      }
+    },
+    {
+      "id": "48491",
+      "title": "Williamson, TX",
+      "scores": {
+        "Communications": 2345.0571822643965,
+        "Resources": 1487.7249859184035,
+        "Transport": 1572.8538036665416
+      }
+    },
+    {
+      "id": "48493",
+      "title": "Wilson, TX",
+      "scores": {
+        "Communications": 890.2998402059357,
+        "Resources": 1258.4542532115192,
+        "Transport": 1562.195024188388
+      }
+    },
+    {
+      "id": "48495",
+      "title": "Winkler, TX",
+      "scores": {
+        "Communications": 33.211921196144004,
+        "Resources": 1515.5369938625536,
+        "Transport": 1466.6761582003373
+      }
+    },
+    {
+      "id": "48497",
+      "title": "Wise, TX",
+      "scores": {
+        "Communications": 1220.9634553115486,
+        "Resources": 1490.9814917078527,
+        "Transport": 1502.4301810165393
+      }
+    },
+    {
+      "id": "48499",
+      "title": "Wood, TX",
+      "scores": {
+        "Communications": 646.0625623730966,
+        "Resources": 1398.3645250165148,
+        "Transport": 1576.8717306817837
+      }
+    },
+    {
+      "id": "48501",
+      "title": "Yoakum, TX",
+      "scores": {
+        "Communications": 678.3439696370605,
+        "Resources": 1542.6212480205006,
+        "Transport": 1518.1212554194021
+      }
+    },
+    {
+      "id": "48503",
+      "title": "Young, TX",
+      "scores": {
+        "Communications": 863.4197112667149,
+        "Resources": 1502.928994592426,
+        "Transport": 1416.521457056213
+      }
+    },
+    {
+      "id": "48505",
+      "title": "Zapata, TX",
+      "scores": {
+        "Communications": 1322.0012868736817,
+        "Resources": 980.2587225437505,
+        "Transport": 1517.6683520478286
+      }
+    },
+    {
+      "id": "48507",
+      "title": "Zavala, TX",
+      "scores": {
+        "Communications": 994.460027909156,
+        "Resources": 1027.5824008466755,
+        "Transport": 1216.161866134596
+      }
+    },
+    {
+      "id": "6001",
+      "title": "Alameda, CA",
+      "scores": {
+        "Communications": 2586.314981515749,
+        "Resources": 1130.5213973407526,
+        "Transport": 1586.5156977329625
+      }
+    },
+    {
+      "id": "6003",
+      "title": "Alpine, CA",
+      "scores": {
+        "Communications": 1396.4900698980084,
+        "Resources": 1283.5026212426005,
+        "Transport": 1198.27843719436
+      }
+    },
+    {
+      "id": "6005",
+      "title": "Amador, CA",
+      "scores": {
+        "Communications": 1212.1644030723928,
+        "Resources": 1143.7211999404522,
+        "Transport": 1441.9754777031756
+      }
+    },
+    {
+      "id": "6007",
+      "title": "Butte, CA",
+      "scores": {
+        "Communications": 1607.9750678894218,
+        "Resources": 1189.5943260315462,
+        "Transport": 1324.6545759347187
+      }
+    },
+    {
+      "id": "6009",
+      "title": "Calaveras, CA",
+      "scores": {
+        "Communications": 1463.3957784211354,
+        "Resources": 1131.542341831995,
+        "Transport": 1624.9412494198857
+      }
+    },
+    {
+      "id": "6011",
+      "title": "Colusa, CA",
+      "scores": {
+        "Communications": 1260.3821110274826,
+        "Resources": 1680.6987119008247,
+        "Transport": 1453.095708498193
+      }
+    },
+    {
+      "id": "6013",
+      "title": "Contra Costa, CA",
+      "scores": {
+        "Communications": 2327.9322751393215,
+        "Resources": 1129.1517964515087,
+        "Transport": 1532.5560197010282
+      }
+    },
+    {
+      "id": "6015",
+      "title": "Del Norte, CA",
+      "scores": {
+        "Communications": 1657.0340561457706,
+        "Resources": 842.9393017648865,
+        "Transport": 1332.6306410160253
+      }
+    },
+    {
+      "id": "6017",
+      "title": "El Dorado, CA",
+      "scores": {
+        "Communications": 1785.448284560882,
+        "Resources": 1124.6331715281565,
+        "Transport": 1203.1673544281641
+      }
+    },
+    {
+      "id": "6019",
+      "title": "Fresno, CA",
+      "scores": {
+        "Communications": 1987.785138626122,
+        "Resources": 1272.2528419370215,
+        "Transport": 1686.1553571007485
+      }
+    },
+    {
+      "id": "6021",
+      "title": "Glenn, CA",
+      "scores": {
+        "Communications": 1214.785739896367,
+        "Resources": 1562.7049438642714,
+        "Transport": 1454.4781240645257
+      }
+    },
+    {
+      "id": "6023",
+      "title": "Humboldt, CA",
+      "scores": {
+        "Communications": 936.6589312351658,
+        "Resources": 1135.1475249341818,
+        "Transport": 1388.2375941015925
+      }
+    },
+    {
+      "id": "6025",
+      "title": "Imperial, CA",
+      "scores": {
+        "Communications": 1619.939988407378,
+        "Resources": 1557.9096504257507,
+        "Transport": 1072.6841373064346
+      }
+    },
+    {
+      "id": "6027",
+      "title": "Inyo, CA",
+      "scores": {
+        "Communications": 971.4860203184647,
+        "Resources": 1408.662579312456,
+        "Transport": 1387.4007398399413
+      }
+    },
+    {
+      "id": "6029",
+      "title": "Kern, CA",
+      "scores": {
+        "Communications": 1878.4039745574282,
+        "Resources": 1278.0027017279763,
+        "Transport": 1650.4739846341322
+      }
+    },
+    {
+      "id": "6031",
+      "title": "Kings, CA",
+      "scores": {
+        "Communications": 1168.236572128395,
+        "Resources": 1321.9876287694653,
+        "Transport": 1631.843257705554
+      }
+    },
+    {
+      "id": "6033",
+      "title": "Lake, CA",
+      "scores": {
+        "Communications": 1953.369314902601,
+        "Resources": 1142.6578155338436,
+        "Transport": 1549.05277230808
+      }
+    },
+    {
+      "id": "6035",
+      "title": "Lassen, CA",
+      "scores": {
+        "Communications": 1323.5182567042884,
+        "Resources": 1190.2250033418914,
+        "Transport": 1178.7764409665256
+      }
+    },
+    {
+      "id": "6037",
+      "title": "Los Angeles, CA",
+      "scores": {
+        "Communications": 2173.245528803075,
+        "Resources": 1352.2379691571457,
+        "Transport": 1657.409414219444
+      }
+    },
+    {
+      "id": "6039",
+      "title": "Madera, CA",
+      "scores": {
+        "Communications": 1600.4575506340725,
+        "Resources": 1332.0266963304018,
+        "Transport": 1515.621045589453
+      }
+    },
+    {
+      "id": "6041",
+      "title": "Marin, CA",
+      "scores": {
+        "Communications": 1973.072873942326,
+        "Resources": 1130.1573579610667,
+        "Transport": 1438.2433244504575
+      }
+    },
+    {
+      "id": "6043",
+      "title": "Mariposa, CA",
+      "scores": {
+        "Communications": 1214.7735353261635,
+        "Resources": 1144.737098167475,
+        "Transport": 1358.89516721439
+      }
+    },
+    {
+      "id": "6045",
+      "title": "Mendocino, CA",
+      "scores": {
+        "Communications": 1468.8138607212807,
+        "Resources": 1142.2737170259293,
+        "Transport": 1037.5435462975831
+      }
+    },
+    {
+      "id": "6047",
+      "title": "Merced, CA",
+      "scores": {
+        "Communications": 1594.2729500807095,
+        "Resources": 1202.8748877048183,
+        "Transport": 1610.2999448684634
+      }
+    },
+    {
+      "id": "6049",
+      "title": "Modoc, CA",
+      "scores": {
+        "Communications": 148.11867336025261,
+        "Resources": 1486.560545147949,
+        "Transport": 1182.9585379673797
+      }
+    },
+    {
+      "id": "6051",
+      "title": "Mono, CA",
+      "scores": {
+        "Communications": 2047.4672053336594,
+        "Resources": 1444.5327710091597,
+        "Transport": 1729.8969047893756
+      }
+    },
+    {
+      "id": "6053",
+      "title": "Monterey, CA",
+      "scores": {
+        "Communications": 1841.7217052190053,
+        "Resources": 1141.1185377853953,
+        "Transport": 1295.595268166724
+      }
+    },
+    {
+      "id": "6055",
+      "title": "Napa, CA",
+      "scores": {
+        "Communications": 1846.7387978341467,
+        "Resources": 1141.840466493163,
+        "Transport": 1296.299671224979
+      }
+    },
+    {
+      "id": "6057",
+      "title": "Nevada, CA",
+      "scores": {
+        "Communications": 1656.728070265028,
+        "Resources": 1130.4286546767014,
+        "Transport": 1539.08513732177
+      }
+    },
+    {
+      "id": "6059",
+      "title": "Orange, CA",
+      "scores": {
+        "Communications": 2166.562025225524,
+        "Resources": 1369.47547776276,
+        "Transport": 1753.6465888267458
+      }
+    },
+    {
+      "id": "6061",
+      "title": "Placer, CA",
+      "scores": {
+        "Communications": 2344.9096257469323,
+        "Resources": 1154.640600266643,
+        "Transport": 1443.0664098730342
+      }
+    },
+    {
+      "id": "6063",
+      "title": "Plumas, CA",
+      "scores": {
+        "Communications": 1335.6451695524513,
+        "Resources": 1224.0104176555265,
+        "Transport": 1317.849884875756
+      }
+    },
+    {
+      "id": "6065",
+      "title": "Riverside, CA",
+      "scores": {
+        "Communications": 2082.8262995849395,
+        "Resources": 1355.6682818982133,
+        "Transport": 1491.264663141241
+      }
+    },
+    {
+      "id": "6067",
+      "title": "Sacramento, CA",
+      "scores": {
+        "Communications": 2261.533371630815,
+        "Resources": 1156.4313445149457,
+        "Transport": 1554.5243563554973
+      }
+    },
+    {
+      "id": "6069",
+      "title": "San Benito, CA",
+      "scores": {
+        "Communications": 1828.1994756517931,
+        "Resources": 1132.7221557909506,
+        "Transport": 1325.6345524002495
+      }
+    },
+    {
+      "id": "6071",
+      "title": "San Bernardino, CA",
+      "scores": {
+        "Communications": 2206.4286638353346,
+        "Resources": 1242.670356379715,
+        "Transport": 1195.7867765121725
+      }
+    },
+    {
+      "id": "6073",
+      "title": "San Diego, CA",
+      "scores": {
+        "Communications": 2001.512730004486,
+        "Resources": 1261.5524044153058,
+        "Transport": 1556.9078533529641
+      }
+    },
+    {
+      "id": "6075",
+      "title": "San Francisco, CA",
+      "scores": {
+        "Communications": 2716.3679797023187,
+        "Resources": 1126.566472439056,
+        "Transport": 1769.260274752045
+      }
+    },
+    {
+      "id": "6077",
+      "title": "San Joaquin, CA",
+      "scores": {
+        "Communications": 1946.7950032553822,
+        "Resources": 1159.7943707667048,
+        "Transport": 1650.3922122949039
+      }
+    },
+    {
+      "id": "6079",
+      "title": "San Luis Obispo, CA",
+      "scores": {
+        "Communications": 1497.8215949628286,
+        "Resources": 1261.4058039473066,
+        "Transport": 1585.3977096599217
+      }
+    },
+    {
+      "id": "6081",
+      "title": "San Mateo, CA",
+      "scores": {
+        "Communications": 2800.572936146345,
+        "Resources": 1127.3400566387722,
+        "Transport": 1663.7717860935722
+      }
+    },
+    {
+      "id": "6083",
+      "title": "Santa Barbara, CA",
+      "scores": {
+        "Communications": 1587.2922335889416,
+        "Resources": 1243.5869251154493,
+        "Transport": 1419.4288294836995
+      }
+    },
+    {
+      "id": "6085",
+      "title": "Santa Clara, CA",
+      "scores": {
+        "Communications": 2400.351637221156,
+        "Resources": 1128.7864563403818,
+        "Transport": 1478.987289351837
+      }
+    },
+    {
+      "id": "6087",
+      "title": "Santa Cruz, CA",
+      "scores": {
+        "Communications": 2254.8154285416776,
+        "Resources": 1128.9919485461426,
+        "Transport": 1473.0439400127946
+      }
+    },
+    {
+      "id": "6089",
+      "title": "Shasta, CA",
+      "scores": {
+        "Communications": 1373.958632845631,
+        "Resources": 1150.827333252164,
+        "Transport": 1722.641539504486
+      }
+    },
+    {
+      "id": "6091",
+      "title": "Sierra, CA",
+      "scores": {
+        "Communications": 1359.0280243995985,
+        "Resources": 1269.4043034198785,
+        "Transport": 1373.3471496437144
+      }
+    },
+    {
+      "id": "6093",
+      "title": "Siskiyou, CA",
+      "scores": {
+        "Communications": 194.25727782081051,
+        "Resources": 1219.0375018716527,
+        "Transport": 1452.137403955652
+      }
+    },
+    {
+      "id": "6095",
+      "title": "Solano, CA",
+      "scores": {
+        "Communications": 1841.5831261561905,
+        "Resources": 1143.9246322403342,
+        "Transport": 1534.6726668120323
+      }
+    },
+    {
+      "id": "6097",
+      "title": "Sonoma, CA",
+      "scores": {
+        "Communications": 1762.0130071735416,
+        "Resources": 1136.6478898842588,
+        "Transport": 1557.5061764729292
+      }
+    },
+    {
+      "id": "6099",
+      "title": "Stanislaus, CA",
+      "scores": {
+        "Communications": 1835.8574409801638,
+        "Resources": 1168.4562106468868,
+        "Transport": 1547.4567212827494
+      }
+    },
+    {
+      "id": "6101",
+      "title": "Sutter, CA",
+      "scores": {
+        "Communications": 1598.9043514237903,
+        "Resources": 1250.5599885240092,
+        "Transport": 1798.9562002156515
+      }
+    },
+    {
+      "id": "6103",
+      "title": "Tehama, CA",
+      "scores": {
+        "Communications": 782.4588719401625,
+        "Resources": 1279.8519328897364,
+        "Transport": 1560.9274945338507
+      }
+    },
+    {
+      "id": "6105",
+      "title": "Trinity, CA",
+      "scores": {
+        "Communications": 149.7422148681832,
+        "Resources": 1157.394065919673,
+        "Transport": 1478.207293000829
+      }
+    },
+    {
+      "id": "6107",
+      "title": "Tulare, CA",
+      "scores": {
+        "Communications": 1454.503765613877,
+        "Resources": 1298.9833536387134,
+        "Transport": 1373.2144388913077
+      }
+    },
+    {
+      "id": "6109",
+      "title": "Tuolumne, CA",
+      "scores": {
+        "Communications": 1519.5789496448187,
+        "Resources": 1249.2326416646235,
+        "Transport": 1392.6814144442105
+      }
+    },
+    {
+      "id": "6111",
+      "title": "Ventura, CA",
+      "scores": {
+        "Communications": 1882.154595391498,
+        "Resources": 1368.180673901308,
+        "Transport": 1386.0237585039013
+      }
+    },
+    {
+      "id": "6113",
+      "title": "Yolo, CA",
+      "scores": {
+        "Communications": 2178.347747367621,
+        "Resources": 1175.3874645135184,
+        "Transport": 1441.7298910542656
+      }
+    },
+    {
+      "id": "6115",
+      "title": "Yuba, CA",
+      "scores": {
+        "Communications": 1521.9405271944772,
+        "Resources": 1202.2243694191015,
+        "Transport": 1640.8894224459334
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Adams, CO",
+      "scores": {
+        "Communications": 2035.407266508895,
+        "Resources": 1347.7887474801196,
+        "Transport": 1298.395508670988
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Alamosa, CO",
+      "scores": {
+        "Communications": 1709.636956268082,
+        "Resources": 1478.6626527409696,
+        "Transport": 1332.913393919538
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Arapahoe, CO",
+      "scores": {
+        "Communications": 2213.0616711688695,
+        "Resources": 1353.0380061690835,
+        "Transport": 1253.831297077669
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Archuleta, CO",
+      "scores": {
+        "Communications": 917.2946142660521,
+        "Resources": 1376.7246332575444,
+        "Transport": 1142.1594235194198
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Baca, CO",
+      "scores": {
+        "Communications": 63.38187909501053,
+        "Resources": 1878.0459842365153,
+        "Transport": 986.8411277781696
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Bent, CO",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1852.2662556346172,
+        "Transport": 800.2237494071333
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Boulder, CO",
+      "scores": {
+        "Communications": 2220.470954438894,
+        "Resources": 1338.3560961196952,
+        "Transport": 1160.5879204223295
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Broomfield, CO",
+      "scores": {
+        "Communications": 1873.000101956874,
+        "Resources": 498.18647656343336,
+        "Transport": 1652.7930470735196
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Chaffee, CO",
+      "scores": {
+        "Communications": 1308.2866805350611,
+        "Resources": 1469.0665989981437,
+        "Transport": 1452.0767342560011
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Cheyenne, CO",
+      "scores": {
+        "Communications": 7.668071049648197,
+        "Resources": 794.2469511370657,
+        "Transport": 849.4972517138754
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Clear Creek, CO",
+      "scores": {
+        "Communications": 1421.249454678637,
+        "Resources": 1344.0685827425189,
+        "Transport": 1367.4345445244417
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Conejos, CO",
+      "scores": {
+        "Communications": 1194.2146239024416,
+        "Resources": 1879.6318241650952,
+        "Transport": 1185.6838402269723
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Costilla, CO",
+      "scores": {
+        "Communications": 1584.8432168018685,
+        "Resources": 1771.331290286344,
+        "Transport": 1218.5688385505875
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Crowley, CO",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1381.8211443513878,
+        "Transport": 937.0297697812049
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Custer, CO",
+      "scores": {
+        "Communications": 61.507214306477664,
+        "Resources": 1457.7106120954193,
+        "Transport": 905.6323337675852
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Delta, CO",
+      "scores": {
+        "Communications": 1701.600960896851,
+        "Resources": 1536.177064039162,
+        "Transport": 1170.6390401538467
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Denver, CO",
+      "scores": {
+        "Communications": 2649.922341933167,
+        "Resources": 1326.7305036545529,
+        "Transport": 1698.1813441450704
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Dolores, CO",
+      "scores": {
+        "Communications": 7.018631866783406,
+        "Resources": 1364.4634429904936,
+        "Transport": 1466.0624778163485
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Douglas, CO",
+      "scores": {
+        "Communications": 1982.476891503758,
+        "Resources": 1351.6237368567572,
+        "Transport": 1252.662950486531
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Eagle, CO",
+      "scores": {
+        "Communications": 1437.2468096270525,
+        "Resources": 1357.9620117412546,
+        "Transport": 1295.0564767134722
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Elbert, CO",
+      "scores": {
+        "Communications": 1508.3891672017803,
+        "Resources": 1360.3591115936083,
+        "Transport": 1294.2601979611964
+      }
+    },
+    {
+      "id": "8041",
+      "title": "El Paso, CO",
+      "scores": {
+        "Communications": 1925.1360801233209,
+        "Resources": 1379.2465886485747,
+        "Transport": 1370.9465154192746
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Fremont, CO",
+      "scores": {
+        "Communications": 1508.5471642276182,
+        "Resources": 1383.1275098247424,
+        "Transport": 1137.1141507407706
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Garfield, CO",
+      "scores": {
+        "Communications": 1328.3460052989278,
+        "Resources": 1403.8683261158988,
+        "Transport": 1054.4638430587215
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Gilpin, CO",
+      "scores": {
+        "Communications": 1044.0806496423497,
+        "Resources": 1324.5985875445508,
+        "Transport": 1287.6982275656865
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Grand, CO",
+      "scores": {
+        "Communications": 1512.815313954432,
+        "Resources": 1575.9290983081632,
+        "Transport": 1257.6126741067098
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Gunnison, CO",
+      "scores": {
+        "Communications": 1248.3147162365065,
+        "Resources": 1874.854750822827,
+        "Transport": 1405.221088161289
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Hinsdale, CO",
+      "scores": {
+        "Communications": 1271.1536959184016,
+        "Resources": 1872.173565423379,
+        "Transport": 878.2992950188635
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Huerfano, CO",
+      "scores": {
+        "Communications": 1004.657308993535,
+        "Resources": 1430.7704118603401,
+        "Transport": 1223.4290603864374
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Jackson, CO",
+      "scores": {
+        "Communications": 1197.4387657533655,
+        "Resources": 1051.8657833827635,
+        "Transport": 1121.8217303063464
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Jefferson, CO",
+      "scores": {
+        "Communications": 2049.558387391437,
+        "Resources": 1344.4819896348179,
+        "Transport": 1378.6882011498458
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Kiowa, CO",
+      "scores": {
+        "Communications": 0.0,
+        "Resources": 1350.615131968353,
+        "Transport": 903.9648788524447
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Kit Carson, CO",
+      "scores": {
+        "Communications": 676.256104280628,
+        "Resources": 789.5920619438879,
+        "Transport": 892.3428333621262
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Lake, CO",
+      "scores": {
+        "Communications": 1482.8024491324907,
+        "Resources": 1373.2613906658576,
+        "Transport": 1142.2316166374756
+      }
+    },
+    {
+      "id": "8067",
+      "title": "La Plata, CO",
+      "scores": {
+        "Communications": 1087.8831352094717,
+        "Resources": 1426.7339806618343,
+        "Transport": 1645.0239087402672
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Larimer, CO",
+      "scores": {
+        "Communications": 1666.7438866319071,
+        "Resources": 1358.4519411197741,
+        "Transport": 1200.7166758073106
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Las Animas, CO",
+      "scores": {
+        "Communications": 1030.9476965153103,
+        "Resources": 1362.3164164407708,
+        "Transport": 923.5090468614103
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Lincoln, CO",
+      "scores": {
+        "Communications": 135.71857810435853,
+        "Resources": 1533.694621676575,
+        "Transport": 852.1767343403191
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Logan, CO",
+      "scores": {
+        "Communications": 2042.9737752117153,
+        "Resources": 1451.0461691026421,
+        "Transport": 860.1976874384939
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Mesa, CO",
+      "scores": {
+        "Communications": 1657.1240263909615,
+        "Resources": 1424.7547245010544,
+        "Transport": 1388.3014551062993
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Mineral, CO",
+      "scores": {
+        "Communications": 2195.776626122003,
+        "Resources": 1492.2150853546839,
+        "Transport": 901.2253575423506
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Moffat, CO",
+      "scores": {
+        "Communications": 1402.432501308208,
+        "Resources": 1501.877178073887,
+        "Transport": 945.1632163354791
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Montezuma, CO",
+      "scores": {
+        "Communications": 803.0944254462643,
+        "Resources": 1459.805707182275,
+        "Transport": 1495.321691817826
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Montrose, CO",
+      "scores": {
+        "Communications": 1773.6256167320785,
+        "Resources": 1625.123884095483,
+        "Transport": 1064.3049150043673
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Morgan, CO",
+      "scores": {
+        "Communications": 1445.7094586628878,
+        "Resources": 1414.2102920672564,
+        "Transport": 939.6679928448324
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Otero, CO",
+      "scores": {
+        "Communications": 1346.2731407665935,
+        "Resources": 1681.5476771194724,
+        "Transport": 956.9680407695479
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Ouray, CO",
+      "scores": {
+        "Communications": 1050.6279557319308,
+        "Resources": 1691.101012064976,
+        "Transport": 1499.720264389727
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Park, CO",
+      "scores": {
+        "Communications": 866.7344318917562,
+        "Resources": 1379.0720103259364,
+        "Transport": 1379.5608737286173
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Phillips, CO",
+      "scores": {
+        "Communications": 2315.6640191522565,
+        "Resources": 818.1585524170165,
+        "Transport": 1101.4529414422439
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Pitkin, CO",
+      "scores": {
+        "Communications": 1583.1147838417044,
+        "Resources": 1451.3224733041834,
+        "Transport": 1246.55327013419
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Prowers, CO",
+      "scores": {
+        "Communications": 866.714342506608,
+        "Resources": 1494.6493742696982,
+        "Transport": 981.3541206345233
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Pueblo, CO",
+      "scores": {
+        "Communications": 1643.1900890869506,
+        "Resources": 1373.2478856492057,
+        "Transport": 1294.7828989003654
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Rio Blanco, CO",
+      "scores": {
+        "Communications": 1031.0115327866508,
+        "Resources": 1741.5215195287801,
+        "Transport": 977.7702807603507
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Rio Grande, CO",
+      "scores": {
+        "Communications": 1793.7727110340954,
+        "Resources": 1879.6318241650952,
+        "Transport": 1278.7510161974365
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Routt, CO",
+      "scores": {
+        "Communications": 1538.2505082736932,
+        "Resources": 1440.1496621301674,
+        "Transport": 1635.6651987107725
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Saguache, CO",
+      "scores": {
+        "Communications": 945.8394794269607,
+        "Resources": 1874.9913868208996,
+        "Transport": 1081.4411765505902
+      }
+    },
+    {
+      "id": "8111",
+      "title": "San Juan, CO",
+      "scores": {
+        "Communications": 1135.8625965559802,
+        "Resources": 1186.1033899942188,
+        "Transport": 1417.8481116916184
+      }
+    },
+    {
+      "id": "8113",
+      "title": "San Miguel, CO",
+      "scores": {
+        "Communications": 1116.4772208161887,
+        "Resources": 1433.0060623282152,
+        "Transport": 1251.7470115056847
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Sedgwick, CO",
+      "scores": {
+        "Communications": 860.7460158244448,
+        "Resources": 1051.8657833827635,
+        "Transport": 996.2001306113166
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Summit, CO",
+      "scores": {
+        "Communications": 1605.982454015415,
+        "Resources": 1356.2473874387247,
+        "Transport": 1172.4698451436109
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Teller, CO",
+      "scores": {
+        "Communications": 1399.2185419999735,
+        "Resources": 1378.2603585094175,
+        "Transport": 1289.2990906692494
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Washington, CO",
+      "scores": {
+        "Communications": 756.0244015758235,
+        "Resources": 1513.1709516532871,
+        "Transport": 879.6414835388367
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Weld, CO",
+      "scores": {
+        "Communications": 1545.8352178723744,
+        "Resources": 1353.4332632209523,
+        "Transport": 1080.1375523862998
+      }
+    },
+    {
+      "id": "8125",
+      "title": "Yuma, CO",
+      "scores": {
+        "Communications": 1206.7613874425224,
+        "Resources": 1878.0459842365153,
+        "Transport": 1014.8071929748553
+      }
+    }
+  ],
+  "derivatives": {
+    "Market Access and Infrastructure": [
+      "Communications",
+      "Resources",
+      "Transport"
+    ]
+  },
+  "weightingOptions": {
+    "Communications": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Resources": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Transport": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

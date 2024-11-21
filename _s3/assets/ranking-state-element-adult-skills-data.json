@@ -1,0 +1,470 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Adult population with at least a high school diploma": 1214285,
+        "Adult population with bachelor's degree or higher": 381250
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Adult population with at least a high school diploma": 633928,
+        "Adult population with bachelor's degree or higher": 259375
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Adult population with at least a high school diploma": 669642,
+        "Adult population with bachelor's degree or higher": 165625
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Adult population with at least a high school diploma": 678571,
+        "Adult population with bachelor's degree or higher": 381250
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Adult population with at least a high school diploma": 357142,
+        "Adult population with bachelor's degree or higher": 531250
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Adult population with at least a high school diploma": 1107142,
+        "Adult population with bachelor's degree or higher": 771875
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Adult population with at least a high school diploma": 955357,
+        "Adult population with bachelor's degree or higher": 681250
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Adult population with at least a high school diploma": 1062500,
+        "Adult population with bachelor's degree or higher": 1250000
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Adult population with at least a high school diploma": 919642,
+        "Adult population with bachelor's degree or higher": 475000
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Adult population with at least a high school diploma": 750000,
+        "Adult population with bachelor's degree or higher": 396875
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Adult population with at least a high school diploma": 705357,
+        "Adult population with bachelor's degree or higher": 453125
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Adult population with at least a high school diploma": 1107142,
+        "Adult population with bachelor's degree or higher": 487500
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Adult population with at least a high school diploma": 1125000,
+        "Adult population with bachelor's degree or higher": 353124
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Adult population with at least a high school diploma": 1026785,
+        "Adult population with bachelor's degree or higher": 334375
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Adult population with at least a high school diploma": 875000,
+        "Adult population with bachelor's degree or higher": 556250
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Adult population with at least a high school diploma": 857142,
+        "Adult population with bachelor's degree or higher": 278125
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Adult population with at least a high school diploma": 1053571,
+        "Adult population with bachelor's degree or higher": 500000
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Adult population with at least a high school diploma": 642857,
+        "Adult population with bachelor's degree or higher": 221875
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Adult population with at least a high school diploma": 535714,
+        "Adult population with bachelor's degree or higher": 218750
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Adult population with at least a high school diploma": 1008928,
+        "Adult population with bachelor's degree or higher": 843750
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Adult population with at least a high school diploma": 928571,
+        "Adult population with bachelor's degree or higher": 715625
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Adult population with at least a high school diploma": 1178571,
+        "Adult population with bachelor's degree or higher": 475000
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Adult population with at least a high school diploma": 1017857,
+        "Adult population with bachelor's degree or higher": 375000
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Adult population with at least a high school diploma": 1214285,
+        "Adult population with bachelor's degree or higher": 603125
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Adult population with at least a high school diploma": 955357,
+        "Adult population with bachelor's degree or higher": 381250
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Adult population with at least a high school diploma": 473214,
+        "Adult population with bachelor's degree or higher": 134375
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Adult population with at least a high school diploma": 1250000,
+        "Adult population with bachelor's degree or higher": 487500
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Adult population with at least a high school diploma": 767857,
+        "Adult population with bachelor's degree or higher": 446875
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Adult population with at least a high school diploma": 1205357,
+        "Adult population with bachelor's degree or higher": 387500
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Adult population with at least a high school diploma": 1071428,
+        "Adult population with bachelor's degree or higher": 475000
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Adult population with at least a high school diploma": 1187500,
+        "Adult population with bachelor's degree or higher": 612500
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Adult population with at least a high school diploma": 919642,
+        "Adult population with bachelor's degree or higher": 724999
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Adult population with at least a high school diploma": 526785,
+        "Adult population with bachelor's degree or higher": 303125
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Adult population with at least a high school diploma": 616071,
+        "Adult population with bachelor's degree or higher": 240625
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Adult population with at least a high school diploma": 678571,
+        "Adult population with bachelor's degree or higher": 618750
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Adult population with at least a high school diploma": 964285,
+        "Adult population with bachelor's degree or higher": 353124
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Adult population with at least a high school diploma": 750000,
+        "Adult population with bachelor's degree or higher": 256250
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Adult population with at least a high school diploma": 1017857,
+        "Adult population with bachelor's degree or higher": 515625
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Adult population with at least a high school diploma": 982142,
+        "Adult population with bachelor's degree or higher": 446875
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Adult population with at least a high school diploma": 830357,
+        "Adult population with bachelor's degree or higher": 525000
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Adult population with at least a high school diploma": 741071,
+        "Adult population with bachelor's degree or higher": 362499
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Adult population with at least a high school diploma": 1080357,
+        "Adult population with bachelor's degree or higher": 365625
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Adult population with at least a high school diploma": 714285,
+        "Adult population with bachelor's degree or higher": 334375
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Adult population with at least a high school diploma": 410714,
+        "Adult population with bachelor's degree or higher": 400000
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Adult population with at least a high school diploma": 1160714,
+        "Adult population with bachelor's degree or higher": 525000
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Adult population with at least a high school diploma": 892857,
+        "Adult population with bachelor's degree or higher": 675000
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Adult population with at least a high school diploma": 1169642,
+        "Adult population with bachelor's degree or higher": 646874
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Adult population with at least a high school diploma": 1044642,
+        "Adult population with bachelor's degree or higher": 593750
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Adult population with at least a high school diploma": 1142857,
+        "Adult population with bachelor's degree or higher": 415625
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Adult population with at least a high school diploma": 633928,
+        "Adult population with bachelor's degree or higher": 96875
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Adult population with at least a high school diploma": 1250000,
+        "Adult population with bachelor's degree or higher": 346875
+      }
+    }
+  ],
+  "derivatives": {
+    "Adult Skills": [
+      "Adult population with at least a high school diploma",
+      "Adult population with bachelor's degree or higher"
+    ]
+  },
+  "weightingOptions": {
+    "Adult population with at least a high school diploma": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Adult population with bachelor's degree or higher": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

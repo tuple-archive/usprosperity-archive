@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Mean download speed": 946837,
+        "Ultra-fast internet access": 843965,
+        "High speed internet access": 343703,
+        "Internet providers (Business)": 221087
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Mean download speed": 1036954,
+        "Ultra-fast internet access": 350502,
+        "High speed internet access": 254814,
+        "Internet providers (Business)": 265764
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Mean download speed": 467895,
+        "Ultra-fast internet access": 212294,
+        "High speed internet access": 245925,
+        "Internet providers (Business)": 154577
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Mean download speed": 279574,
+        "Ultra-fast internet access": 146997,
+        "High speed internet access": 474074,
+        "Internet providers (Business)": 831147
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Mean download speed": 1104163,
+        "Ultra-fast internet access": 181693,
+        "High speed internet access": 482962,
+        "Internet providers (Business)": 888888
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Mean download speed": 902463,
+        "Ultra-fast internet access": 198203,
+        "High speed internet access": 459259,
+        "Internet providers (Business)": 415406
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Mean download speed": 928410,
+        "Ultra-fast internet access": 60279,
+        "High speed internet access": 583703,
+        "Internet providers (Business)": 574248
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Mean download speed": 1333333,
+        "Ultra-fast internet access": 397558,
+        "High speed internet access": 687407,
+        "Internet providers (Business)": 663090
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Mean download speed": 1241166,
+        "Ultra-fast internet access": 94546,
+        "High speed internet access": 699259,
+        "Internet providers (Business)": 405408
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Mean download speed": 1176061,
+        "Ultra-fast internet access": 240614,
+        "High speed internet access": 568888,
+        "Internet providers (Business)": 641601
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Mean download speed": 1212218,
+        "Ultra-fast internet access": 453182,
+        "High speed internet access": 317037,
+        "Internet providers (Business)": 370469
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Mean download speed": 1181523,
+        "Ultra-fast internet access": 570403,
+        "High speed internet access": 577777,
+        "Internet providers (Business)": 0
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Mean download speed": 727084,
+        "Ultra-fast internet access": 818055,
+        "High speed internet access": 311111,
+        "Internet providers (Business)": 140231
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Mean download speed": 496571,
+        "Ultra-fast internet access": 702093,
+        "High speed internet access": 462222,
+        "Internet providers (Business)": 216264
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Mean download speed": 960903,
+        "Ultra-fast internet access": 247430,
+        "High speed internet access": 435555,
+        "Internet providers (Business)": 809715
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Mean download speed": 972151,
+        "Ultra-fast internet access": 276996,
+        "High speed internet access": 400000,
+        "Internet providers (Business)": 290214
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Mean download speed": 721397,
+        "Ultra-fast internet access": 388449,
+        "High speed internet access": 317037,
+        "Internet providers (Business)": 235578
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Mean download speed": 1061901,
+        "Ultra-fast internet access": 335409,
+        "High speed internet access": 189629,
+        "Internet providers (Business)": 0
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Mean download speed": 743303,
+        "Ultra-fast internet access": 278178,
+        "High speed internet access": 263703,
+        "Internet providers (Business)": 71447
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Mean download speed": 1216317,
+        "Ultra-fast internet access": 78307,
+        "High speed internet access": 613333,
+        "Internet providers (Business)": 606757
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Mean download speed": 1152706,
+        "Ultra-fast internet access": 33384,
+        "High speed internet access": 648888,
+        "Internet providers (Business)": 462285
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Mean download speed": 1087737,
+        "Ultra-fast internet access": 17137,
+        "High speed internet access": 494814,
+        "Internet providers (Business)": 239270
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Mean download speed": 988948,
+        "Ultra-fast internet access": 115203,
+        "High speed internet access": 370370,
+        "Internet providers (Business)": 492046
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Mean download speed": 1027068,
+        "Ultra-fast internet access": 376617,
+        "High speed internet access": 400000,
+        "Internet providers (Business)": 389821
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Mean download speed": 945588,
+        "Ultra-fast internet access": 428767,
+        "High speed internet access": 278518,
+        "Internet providers (Business)": 152031
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Mean download speed": 719987,
+        "Ultra-fast internet access": 586307,
+        "High speed internet access": 41481,
+        "Internet providers (Business)": 66620
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Mean download speed": 811239,
+        "Ultra-fast internet access": 58669,
+        "High speed internet access": 302222,
+        "Internet providers (Business)": 90061
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Mean download speed": 1333333,
+        "Ultra-fast internet access": 385878,
+        "High speed internet access": 450370,
+        "Internet providers (Business)": 359095
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Mean download speed": 1333333,
+        "Ultra-fast internet access": 888888,
+        "High speed internet access": 506666,
+        "Internet providers (Business)": 83583
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Mean download speed": 452818,
+        "Ultra-fast internet access": 230841,
+        "High speed internet access": 509629,
+        "Internet providers (Business)": 249462
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Mean download speed": 1036717,
+        "Ultra-fast internet access": 82492,
+        "High speed internet access": 622222,
+        "Internet providers (Business)": 345645
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Mean download speed": 1248140,
+        "Ultra-fast internet access": 23262,
+        "High speed internet access": 666666,
+        "Internet providers (Business)": 524790
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Mean download speed": 500907,
+        "Ultra-fast internet access": 140235,
+        "High speed internet access": 320000,
+        "Internet providers (Business)": 188170
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Mean download speed": 548914,
+        "Ultra-fast internet access": 267722,
+        "High speed internet access": 506666,
+        "Internet providers (Business)": 714259
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Mean download speed": 1333333,
+        "Ultra-fast internet access": 209191,
+        "High speed internet access": 625185,
+        "Internet providers (Business)": 698546
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Mean download speed": 1152845,
+        "Ultra-fast internet access": 217142,
+        "High speed internet access": 480000,
+        "Internet providers (Business)": 429512
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Mean download speed": 331546,
+        "Ultra-fast internet access": 322788,
+        "High speed internet access": 225185,
+        "Internet providers (Business)": 356865
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Mean download speed": 994376,
+        "Ultra-fast internet access": 311373,
+        "High speed internet access": 465185,
+        "Internet providers (Business)": 402003
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Mean download speed": 1213642,
+        "Ultra-fast internet access": 187113,
+        "High speed internet access": 571851,
+        "Internet providers (Business)": 391994
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Mean download speed": 1136344,
+        "Ultra-fast internet access": 0,
+        "High speed internet access": 663703,
+        "Internet providers (Business)": 411111
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Mean download speed": 1042763,
+        "Ultra-fast internet access": 240271,
+        "High speed internet access": 509629,
+        "Internet providers (Business)": 261286
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Mean download speed": 801151,
+        "Ultra-fast internet access": 699405,
+        "High speed internet access": 530370,
+        "Internet providers (Business)": 37705
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Mean download speed": 1166482,
+        "Ultra-fast internet access": 393718,
+        "High speed internet access": 397037,
+        "Internet providers (Business)": 343835
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Mean download speed": 1017445,
+        "Ultra-fast internet access": 421913,
+        "High speed internet access": 453333,
+        "Internet providers (Business)": 707439
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Mean download speed": 943480,
+        "Ultra-fast internet access": 338652,
+        "High speed internet access": 482962,
+        "Internet providers (Business)": 446036
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Mean download speed": 900628,
+        "Ultra-fast internet access": 51478,
+        "High speed internet access": 459259,
+        "Internet providers (Business)": 306029
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Mean download speed": 986921,
+        "Ultra-fast internet access": 175614,
+        "High speed internet access": 613333,
+        "Internet providers (Business)": 142055
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Mean download speed": 1068080,
+        "Ultra-fast internet access": 291025,
+        "High speed internet access": 441481,
+        "Internet providers (Business)": 602482
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Mean download speed": 965157,
+        "Ultra-fast internet access": 134626,
+        "High speed internet access": 447407,
+        "Internet providers (Business)": 165921
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Mean download speed": 637557,
+        "Ultra-fast internet access": 311256,
+        "High speed internet access": 417777,
+        "Internet providers (Business)": 17284
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Mean download speed": 625373,
+        "Ultra-fast internet access": 172135,
+        "High speed internet access": 275555,
+        "Internet providers (Business)": 0
+      }
+    }
+  ],
+  "derivatives": {
+    "Communications": [
+      "Mean download speed",
+      "Ultra-fast internet access",
+      "High speed internet access",
+      "Internet providers (Business)"
+    ]
+  },
+  "weightingOptions": {
+    "Mean download speed": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Ultra-fast internet access": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "High speed internet access": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Internet providers (Business)": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

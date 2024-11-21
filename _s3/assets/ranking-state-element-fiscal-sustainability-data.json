@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Government credit rating": 69444,
+        "State reserves capacity": 555555,
+        "Revenue to expenditure ratio": 555555,
+        "State budget balance": 555555,
+        "State pension funding": 59161
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 445436,
+        "Revenue to expenditure ratio": 358304,
+        "State budget balance": 267229,
+        "State pension funding": 140315
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 215438,
+        "Revenue to expenditure ratio": 377282,
+        "State budget balance": 330554,
+        "State pension funding": 184477
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 420232,
+        "Revenue to expenditure ratio": 415300,
+        "State budget balance": 326527,
+        "State pension funding": 116808
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Government credit rating": 69444,
+        "State reserves capacity": 427274,
+        "Revenue to expenditure ratio": 411204,
+        "State budget balance": 364733,
+        "State pension funding": 198896
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 341723,
+        "Revenue to expenditure ratio": 115711,
+        "State budget balance": 0,
+        "State pension funding": 46873
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Government credit rating": 0,
+        "State reserves capacity": 419085,
+        "Revenue to expenditure ratio": 555555,
+        "State budget balance": 555555,
+        "State pension funding": 0
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 437946,
+        "Revenue to expenditure ratio": 555555,
+        "State budget balance": 384309,
+        "State pension funding": 490383
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 474525,
+        "Revenue to expenditure ratio": 383294,
+        "State budget balance": 359226,
+        "State pension funding": 321123
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 376683,
+        "Revenue to expenditure ratio": 384910,
+        "State budget balance": 284336,
+        "State pension funding": 277272
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 395351,
+        "Revenue to expenditure ratio": 401227,
+        "State budget balance": 313435,
+        "State pension funding": 80446
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 393718,
+        "Revenue to expenditure ratio": 122494,
+        "State budget balance": 0,
+        "State pension funding": 50991
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 437260,
+        "Revenue to expenditure ratio": 436028,
+        "State budget balance": 371381,
+        "State pension funding": 263284
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 410985,
+        "Revenue to expenditure ratio": 519060,
+        "State budget balance": 382093,
+        "State pension funding": 331879
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Government credit rating": 0,
+        "State reserves capacity": 0,
+        "Revenue to expenditure ratio": 62351,
+        "State budget balance": 0,
+        "State pension funding": 0
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 400821,
+        "Revenue to expenditure ratio": 362103,
+        "State budget balance": 279287,
+        "State pension funding": 146536
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Government credit rating": 69444,
+        "State reserves capacity": 325629,
+        "Revenue to expenditure ratio": 504442,
+        "State budget balance": 373457,
+        "State pension funding": 123304
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Government credit rating": 0,
+        "State reserves capacity": 239279,
+        "Revenue to expenditure ratio": 142469,
+        "State budget balance": 0,
+        "State pension funding": 0
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Government credit rating": 69444,
+        "State reserves capacity": 388611,
+        "Revenue to expenditure ratio": 364510,
+        "State budget balance": 303576,
+        "State pension funding": 155361
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 393961,
+        "Revenue to expenditure ratio": 200327,
+        "State budget balance": 0,
+        "State pension funding": 0
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 347302,
+        "Revenue to expenditure ratio": 316525,
+        "State budget balance": 235636,
+        "State pension funding": 160672
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 394721,
+        "Revenue to expenditure ratio": 410197,
+        "State budget balance": 340841,
+        "State pension funding": 285305
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 440107,
+        "Revenue to expenditure ratio": 358070,
+        "State budget balance": 292545,
+        "State pension funding": 174814
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 432847,
+        "Revenue to expenditure ratio": 357782,
+        "State budget balance": 314465,
+        "State pension funding": 165431
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 392800,
+        "Revenue to expenditure ratio": 306532,
+        "State budget balance": 167774,
+        "State pension funding": 168130
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 346426,
+        "Revenue to expenditure ratio": 348570,
+        "State budget balance": 276997,
+        "State pension funding": 53163
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 434555,
+        "Revenue to expenditure ratio": 439530,
+        "State budget balance": 359155,
+        "State pension funding": 127441
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 417428,
+        "Revenue to expenditure ratio": 508324,
+        "State budget balance": 363720,
+        "State pension funding": 251197
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 555555,
+        "Revenue to expenditure ratio": 555555,
+        "State budget balance": 539577,
+        "State pension funding": 91121
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 465802,
+        "Revenue to expenditure ratio": 293480,
+        "State budget balance": 114610,
+        "State pension funding": 219827
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 320730,
+        "Revenue to expenditure ratio": 386965,
+        "State budget balance": 307705,
+        "State pension funding": 86209
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Government credit rating": 0,
+        "State reserves capacity": 251781,
+        "Revenue to expenditure ratio": 0,
+        "State budget balance": 0,
+        "State pension funding": 0
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 460479,
+        "Revenue to expenditure ratio": 555555,
+        "State budget balance": 462121,
+        "State pension funding": 103333
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 453458,
+        "Revenue to expenditure ratio": 433905,
+        "State budget balance": 310355,
+        "State pension funding": 144340
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 349058,
+        "Revenue to expenditure ratio": 274216,
+        "State budget balance": 0,
+        "State pension funding": 305489
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 367684,
+        "Revenue to expenditure ratio": 279566,
+        "State budget balance": 0,
+        "State pension funding": 185535
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 465197,
+        "Revenue to expenditure ratio": 440435,
+        "State budget balance": 335548,
+        "State pension funding": 247334
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 518129,
+        "Revenue to expenditure ratio": 441240,
+        "State budget balance": 369729,
+        "State pension funding": 291942
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Government credit rating": 0,
+        "State reserves capacity": 96760,
+        "Revenue to expenditure ratio": 330579,
+        "State budget balance": 259957,
+        "State pension funding": 29964
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 303650,
+        "Revenue to expenditure ratio": 352949,
+        "State budget balance": 311152,
+        "State pension funding": 87482
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 477679,
+        "Revenue to expenditure ratio": 494671,
+        "State budget balance": 365350,
+        "State pension funding": 0
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 375909,
+        "Revenue to expenditure ratio": 486118,
+        "State budget balance": 354175,
+        "State pension funding": 407764
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 424432,
+        "Revenue to expenditure ratio": 481581,
+        "State budget balance": 352960,
+        "State pension funding": 228452
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 462864,
+        "Revenue to expenditure ratio": 555555,
+        "State budget balance": 448419,
+        "State pension funding": 200181
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 401617,
+        "Revenue to expenditure ratio": 555555,
+        "State budget balance": 388195,
+        "State pension funding": 199794
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Government credit rating": 277777,
+        "State reserves capacity": 309976,
+        "Revenue to expenditure ratio": 381681,
+        "State budget balance": 299025,
+        "State pension funding": 220840
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 415023,
+        "Revenue to expenditure ratio": 321353,
+        "State budget balance": 280969,
+        "State pension funding": 96841
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Government credit rating": 208333,
+        "State reserves capacity": 382151,
+        "Revenue to expenditure ratio": 465119,
+        "State budget balance": 390177,
+        "State pension funding": 174487
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 370623,
+        "Revenue to expenditure ratio": 410162,
+        "State budget balance": 343502,
+        "State pension funding": 555555
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Government credit rating": 69444,
+        "State reserves capacity": 492305,
+        "Revenue to expenditure ratio": 407446,
+        "State budget balance": 350460,
+        "State pension funding": 260955
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Government credit rating": 138888,
+        "State reserves capacity": 555555,
+        "Revenue to expenditure ratio": 452655,
+        "State budget balance": 391048,
+        "State pension funding": 174039
+      }
+    }
+  ],
+  "derivatives": {
+    "Fiscal Sustainability": [
+      "Government credit rating",
+      "State reserves capacity",
+      "Revenue to expenditure ratio",
+      "State budget balance",
+      "State pension funding"
+    ]
+  },
+  "weightingOptions": {
+    "Government credit rating": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "State reserves capacity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Revenue to expenditure ratio": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "State budget balance": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "State pension funding": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

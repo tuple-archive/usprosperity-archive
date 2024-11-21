@@ -1,0 +1,2353 @@
+{
+  "regions": [
+    {
+      "id": "Adair__KY",
+      "title": "Adair",
+      "scores": {
+        "Safety and Security": 9132479,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5091233,
+        "Business Environment": 5691562,
+        "Infrastructure": 5584399,
+        "Economic Quality": 5479623,
+        "Living Conditions": 5941873,
+        "Health": 4359248,
+        "Education": 5023381,
+        "Natural Environment": 5707302
+      }
+    },
+    {
+      "id": "Allen__KY",
+      "title": "Allen",
+      "scores": {
+        "Safety and Security": 5832122,
+        "Personal Freedom": 5415181,
+        "Governance": 5561430,
+        "Social Capital": 4822134,
+        "Business Environment": 5446922,
+        "Infrastructure": 6902223,
+        "Economic Quality": 5817599,
+        "Living Conditions": 6191177,
+        "Health": 4233253,
+        "Education": 5150422,
+        "Natural Environment": 5796236
+      }
+    },
+    {
+      "id": "Anderson__KY",
+      "title": "Anderson",
+      "scores": {
+        "Safety and Security": 7813004,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4850533,
+        "Business Environment": 5528812,
+        "Infrastructure": 7169166,
+        "Economic Quality": 5789442,
+        "Living Conditions": 6998914,
+        "Health": 4704357,
+        "Education": 5378281,
+        "Natural Environment": 5432916
+      }
+    },
+    {
+      "id": "Ballard__KY",
+      "title": "Ballard",
+      "scores": {
+        "Safety and Security": 7479154,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4757696,
+        "Business Environment": 5388344,
+        "Infrastructure": 6022955,
+        "Economic Quality": 6275041,
+        "Living Conditions": 6283065,
+        "Health": 4465764,
+        "Education": 5607828,
+        "Natural Environment": 4897675
+      }
+    },
+    {
+      "id": "Barren__KY",
+      "title": "Barren",
+      "scores": {
+        "Safety and Security": 6118808,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4886835,
+        "Business Environment": 5700521,
+        "Infrastructure": 6674149,
+        "Economic Quality": 6144498,
+        "Living Conditions": 5628851,
+        "Health": 4246861,
+        "Education": 5093601,
+        "Natural Environment": 5357805
+      }
+    },
+    {
+      "id": "Bath__KY",
+      "title": "Bath",
+      "scores": {
+        "Safety and Security": 8934396,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4895621,
+        "Business Environment": 5330345,
+        "Infrastructure": 6344635,
+        "Economic Quality": 4925429,
+        "Living Conditions": 5817048,
+        "Health": 3882179,
+        "Education": 4595791,
+        "Natural Environment": 5289586
+      }
+    },
+    {
+      "id": "Bell__KY",
+      "title": "Bell",
+      "scores": {
+        "Safety and Security": 5687198,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4767857,
+        "Business Environment": 5579997,
+        "Infrastructure": 6624878,
+        "Economic Quality": 5491988,
+        "Living Conditions": 4768497,
+        "Health": 3320809,
+        "Education": 4190993,
+        "Natural Environment": 5716299
+      }
+    },
+    {
+      "id": "Boone__KY",
+      "title": "Boone",
+      "scores": {
+        "Safety and Security": 6353576,
+        "Personal Freedom": 5379336,
+        "Governance": 5561430,
+        "Social Capital": 5029855,
+        "Business Environment": 6327446,
+        "Infrastructure": 7980933,
+        "Economic Quality": 7132938,
+        "Living Conditions": 7592351,
+        "Health": 5194694,
+        "Education": 6015498,
+        "Natural Environment": 4048642
+      }
+    },
+    {
+      "id": "Bourbon__KY",
+      "title": "Bourbon",
+      "scores": {
+        "Safety and Security": 6800114,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5183013,
+        "Business Environment": 5745732,
+        "Infrastructure": 6524414,
+        "Economic Quality": 7261612,
+        "Living Conditions": 6318076,
+        "Health": 5109840,
+        "Education": 5029056,
+        "Natural Environment": 5270793
+      }
+    },
+    {
+      "id": "Boyd__KY",
+      "title": "Boyd",
+      "scores": {
+        "Safety and Security": 5623286,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4757457,
+        "Business Environment": 5913723,
+        "Infrastructure": 6723330,
+        "Economic Quality": 5726009,
+        "Living Conditions": 6222785,
+        "Health": 4015550,
+        "Education": 5093359,
+        "Natural Environment": 4106845
+      }
+    },
+    {
+      "id": "Boyle__KY",
+      "title": "Boyle",
+      "scores": {
+        "Safety and Security": 6892678,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5039441,
+        "Business Environment": 5943013,
+        "Infrastructure": 7300813,
+        "Economic Quality": 5916097,
+        "Living Conditions": 6950317,
+        "Health": 4846745,
+        "Education": 5938789,
+        "Natural Environment": 5456490
+      }
+    },
+    {
+      "id": "Bracken__KY",
+      "title": "Bracken",
+      "scores": {
+        "Safety and Security": 8341534,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5156766,
+        "Business Environment": 5292219,
+        "Infrastructure": 4401671,
+        "Economic Quality": 6037941,
+        "Living Conditions": 5930620,
+        "Health": 4589990,
+        "Education": 4330382,
+        "Natural Environment": 5476696
+      }
+    },
+    {
+      "id": "Breathitt__KY",
+      "title": "Breathitt",
+      "scores": {
+        "Safety and Security": 9061981,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4701201,
+        "Business Environment": 5545834,
+        "Infrastructure": 3753886,
+        "Economic Quality": 4769881,
+        "Living Conditions": 4041126,
+        "Health": 3249928,
+        "Education": 4279282,
+        "Natural Environment": 5529671
+      }
+    },
+    {
+      "id": "Breckinridge__KY",
+      "title": "Breckinridge",
+      "scores": {
+        "Safety and Security": 7808196,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4941764,
+        "Business Environment": 5474179,
+        "Infrastructure": 6870626,
+        "Economic Quality": 4794812,
+        "Living Conditions": 5912068,
+        "Health": 4555379,
+        "Education": 5046318,
+        "Natural Environment": 5615327
+      }
+    },
+    {
+      "id": "Bullitt__KY",
+      "title": "Bullitt",
+      "scores": {
+        "Safety and Security": 5875293,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4919152,
+        "Business Environment": 5564864,
+        "Infrastructure": 7178999,
+        "Economic Quality": 5796046,
+        "Living Conditions": 7197064,
+        "Health": 4912137,
+        "Education": 5005254,
+        "Natural Environment": 5461063
+      }
+    },
+    {
+      "id": "Butler__KY",
+      "title": "Butler",
+      "scores": {
+        "Safety and Security": 8106252,
+        "Personal Freedom": 5415181,
+        "Governance": 5561430,
+        "Social Capital": 4842601,
+        "Business Environment": 5442877,
+        "Infrastructure": 5273279,
+        "Economic Quality": 5613517,
+        "Living Conditions": 5866371,
+        "Health": 4111298,
+        "Education": 4058924,
+        "Natural Environment": 4956989
+      }
+    },
+    {
+      "id": "Caldwell__KY",
+      "title": "Caldwell",
+      "scores": {
+        "Safety and Security": 5712636,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4823522,
+        "Business Environment": 5610779,
+        "Infrastructure": 5418634,
+        "Economic Quality": 6110668,
+        "Living Conditions": 5595956,
+        "Health": 4400726,
+        "Education": 5631770,
+        "Natural Environment": 5001319
+      }
+    },
+    {
+      "id": "Calloway__KY",
+      "title": "Calloway",
+      "scores": {
+        "Safety and Security": 5272447,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5017418,
+        "Business Environment": 5724020,
+        "Infrastructure": 6675692,
+        "Economic Quality": 6729237,
+        "Living Conditions": 6869251,
+        "Health": 4867563,
+        "Education": 6213881,
+        "Natural Environment": 5357467
+      }
+    },
+    {
+      "id": "Campbell__KY",
+      "title": "Campbell",
+      "scores": {
+        "Safety and Security": 6560439,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4976380,
+        "Business Environment": 6038906,
+        "Infrastructure": 8262854,
+        "Economic Quality": 6835088,
+        "Living Conditions": 7060201,
+        "Health": 5110634,
+        "Education": 6239244,
+        "Natural Environment": 5264717
+      }
+    },
+    {
+      "id": "Carlisle__KY",
+      "title": "Carlisle",
+      "scores": {
+        "Safety and Security": 8544879,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5077214,
+        "Business Environment": 4651511,
+        "Infrastructure": 7683533,
+        "Economic Quality": 6122971,
+        "Living Conditions": 6398766,
+        "Health": 4314317,
+        "Education": 5303810,
+        "Natural Environment": 5570475
+      }
+    },
+    {
+      "id": "Carroll__KY",
+      "title": "Carroll",
+      "scores": {
+        "Safety and Security": 8083416,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4696735,
+        "Business Environment": 5583347,
+        "Infrastructure": 6712378,
+        "Economic Quality": 6420204,
+        "Living Conditions": 5469087,
+        "Health": 3946985,
+        "Education": 4137518,
+        "Natural Environment": 2578295
+      }
+    },
+    {
+      "id": "Carter__KY",
+      "title": "Carter",
+      "scores": {
+        "Safety and Security": 8543905,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4781207,
+        "Business Environment": 5561637,
+        "Infrastructure": 4905296,
+        "Economic Quality": 5107362,
+        "Living Conditions": 4983915,
+        "Health": 3760316,
+        "Education": 4901617,
+        "Natural Environment": 5048719
+      }
+    },
+    {
+      "id": "Casey__KY",
+      "title": "Casey",
+      "scores": {
+        "Safety and Security": 9036069,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4966344,
+        "Business Environment": 4638560,
+        "Infrastructure": 5768042,
+        "Economic Quality": 5566881,
+        "Living Conditions": 5780736,
+        "Health": 4011996,
+        "Education": 4307230,
+        "Natural Environment": 5697983
+      }
+    },
+    {
+      "id": "Christian__KY",
+      "title": "Christian",
+      "scores": {
+        "Safety and Security": 4787232,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4713426,
+        "Business Environment": 5650615,
+        "Infrastructure": 6727297,
+        "Economic Quality": 6197830,
+        "Living Conditions": 6081716,
+        "Health": 3830207,
+        "Education": 4325696,
+        "Natural Environment": 4948089
+      }
+    },
+    {
+      "id": "Clark__KY",
+      "title": "Clark",
+      "scores": {
+        "Safety and Security": 5194322,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4857402,
+        "Business Environment": 5690732,
+        "Infrastructure": 7096592,
+        "Economic Quality": 6516681,
+        "Living Conditions": 6093801,
+        "Health": 5010584,
+        "Education": 5216329,
+        "Natural Environment": 5051059
+      }
+    },
+    {
+      "id": "Clay__KY",
+      "title": "Clay",
+      "scores": {
+        "Safety and Security": 6989957,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4782721,
+        "Business Environment": 5254593,
+        "Infrastructure": 5842898,
+        "Economic Quality": 4370173,
+        "Living Conditions": 5159397,
+        "Health": 3445905,
+        "Education": 3703914,
+        "Natural Environment": 5360061
+      }
+    },
+    {
+      "id": "Clinton__KY",
+      "title": "Clinton",
+      "scores": {
+        "Safety and Security": 7336518,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4892712,
+        "Business Environment": 4649492,
+        "Infrastructure": 6774306,
+        "Economic Quality": 6220254,
+        "Living Conditions": 5721512,
+        "Health": 3931634,
+        "Education": 4196419,
+        "Natural Environment": 5210621
+      }
+    },
+    {
+      "id": "Crittenden__KY",
+      "title": "Crittenden",
+      "scores": {
+        "Safety and Security": 7357508,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4927145,
+        "Business Environment": 5488080,
+        "Infrastructure": 4845497,
+        "Economic Quality": 5891560,
+        "Living Conditions": 6187875,
+        "Health": 4173464,
+        "Education": 4818145,
+        "Natural Environment": 5413303
+      }
+    },
+    {
+      "id": "Cumberland__KY",
+      "title": "Cumberland",
+      "scores": {
+        "Safety and Security": 8888903,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4960997,
+        "Business Environment": 5545007,
+        "Infrastructure": 5781587,
+        "Economic Quality": 5607222,
+        "Living Conditions": 5973802,
+        "Health": 3991884,
+        "Education": 4108668,
+        "Natural Environment": 5806518
+      }
+    },
+    {
+      "id": "Daviess__KY",
+      "title": "Daviess",
+      "scores": {
+        "Safety and Security": 5316326,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4868585,
+        "Business Environment": 6069844,
+        "Infrastructure": 7369558,
+        "Economic Quality": 6340365,
+        "Living Conditions": 6637909,
+        "Health": 4768158,
+        "Education": 5542676,
+        "Natural Environment": 3906537
+      }
+    },
+    {
+      "id": "Edmonson__KY",
+      "title": "Edmonson",
+      "scores": {
+        "Safety and Security": 8930267,
+        "Personal Freedom": 5415181,
+        "Governance": 5561430,
+        "Social Capital": 4846015,
+        "Business Environment": 4616275,
+        "Infrastructure": 6802002,
+        "Economic Quality": 4875291,
+        "Living Conditions": 6112331,
+        "Health": 4190346,
+        "Education": 4789218,
+        "Natural Environment": 5656816
+      }
+    },
+    {
+      "id": "Elliott__KY",
+      "title": "Elliott",
+      "scores": {
+        "Safety and Security": 9224896,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4737568,
+        "Business Environment": 4620995,
+        "Infrastructure": 3609089,
+        "Economic Quality": 4971820,
+        "Living Conditions": 5615899,
+        "Health": 4168469,
+        "Education": 3983203,
+        "Natural Environment": 5824511
+      }
+    },
+    {
+      "id": "Estill__KY",
+      "title": "Estill",
+      "scores": {
+        "Safety and Security": 8950713,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4696674,
+        "Business Environment": 5377254,
+        "Infrastructure": 4698485,
+        "Economic Quality": 4597632,
+        "Living Conditions": 4814145,
+        "Health": 3902553,
+        "Education": 4291873,
+        "Natural Environment": 5821792
+      }
+    },
+    {
+      "id": "Fayette__KY",
+      "title": "Fayette",
+      "scores": {
+        "Safety and Security": 3678481,
+        "Personal Freedom": 5411470,
+        "Governance": 5561430,
+        "Social Capital": 5113056,
+        "Business Environment": 6862173,
+        "Infrastructure": 8030362,
+        "Economic Quality": 7213553,
+        "Living Conditions": 7129403,
+        "Health": 5863352,
+        "Education": 6075169,
+        "Natural Environment": 4962933
+      }
+    },
+    {
+      "id": "Fleming__KY",
+      "title": "Fleming",
+      "scores": {
+        "Safety and Security": 8341688,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4928092,
+        "Business Environment": 5594214,
+        "Infrastructure": 5342015,
+        "Economic Quality": 5942003,
+        "Living Conditions": 5941908,
+        "Health": 4130669,
+        "Education": 5068716,
+        "Natural Environment": 5526756
+      }
+    },
+    {
+      "id": "Floyd__KY",
+      "title": "Floyd",
+      "scores": {
+        "Safety and Security": 8675391,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4791292,
+        "Business Environment": 5451564,
+        "Infrastructure": 4974536,
+        "Economic Quality": 4537795,
+        "Living Conditions": 4938379,
+        "Health": 3251424,
+        "Education": 4962355,
+        "Natural Environment": 5619855
+      }
+    },
+    {
+      "id": "Franklin__KY",
+      "title": "Franklin",
+      "scores": {
+        "Safety and Security": 4693030,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4791385,
+        "Business Environment": 6112775,
+        "Infrastructure": 6469439,
+        "Economic Quality": 6429122,
+        "Living Conditions": 6794151,
+        "Health": 4829161,
+        "Education": 5343449,
+        "Natural Environment": 5215474
+      }
+    },
+    {
+      "id": "Fulton__KY",
+      "title": "Fulton",
+      "scores": {
+        "Safety and Security": 6862527,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4754368,
+        "Business Environment": 4659249,
+        "Infrastructure": 5450159,
+        "Economic Quality": 5930902,
+        "Living Conditions": 5416566,
+        "Health": 3645159,
+        "Education": 4257162,
+        "Natural Environment": 5112340
+      }
+    },
+    {
+      "id": "Gallatin__KY",
+      "title": "Gallatin",
+      "scores": {
+        "Safety and Security": 8193833,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4879902,
+        "Business Environment": 5330687,
+        "Infrastructure": 6881016,
+        "Economic Quality": 6855177,
+        "Living Conditions": 6259641,
+        "Health": 4568887,
+        "Education": 4530103,
+        "Natural Environment": 4494555
+      }
+    },
+    {
+      "id": "Garrard__KY",
+      "title": "Garrard",
+      "scores": {
+        "Safety and Security": 7919611,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4830840,
+        "Business Environment": 5341749,
+        "Infrastructure": 6038964,
+        "Economic Quality": 5501959,
+        "Living Conditions": 6496077,
+        "Health": 4912059,
+        "Education": 4515811,
+        "Natural Environment": 5465773
+      }
+    },
+    {
+      "id": "Grant__KY",
+      "title": "Grant",
+      "scores": {
+        "Safety and Security": 7933902,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4757614,
+        "Business Environment": 5346784,
+        "Infrastructure": 7151458,
+        "Economic Quality": 6081341,
+        "Living Conditions": 6328577,
+        "Health": 4564435,
+        "Education": 4496545,
+        "Natural Environment": 5132087
+      }
+    },
+    {
+      "id": "Graves__KY",
+      "title": "Graves",
+      "scores": {
+        "Safety and Security": 5894676,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4878920,
+        "Business Environment": 5604925,
+        "Infrastructure": 7548748,
+        "Economic Quality": 5989169,
+        "Living Conditions": 6741673,
+        "Health": 4336615,
+        "Education": 5468186,
+        "Natural Environment": 4821946
+      }
+    },
+    {
+      "id": "Grayson__KY",
+      "title": "Grayson",
+      "scores": {
+        "Safety and Security": 7718404,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4914932,
+        "Business Environment": 5605127,
+        "Infrastructure": 6904591,
+        "Economic Quality": 6067308,
+        "Living Conditions": 5928611,
+        "Health": 3953509,
+        "Education": 4691575,
+        "Natural Environment": 5317781
+      }
+    },
+    {
+      "id": "Green__KY",
+      "title": "Green",
+      "scores": {
+        "Safety and Security": 8931173,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4989945,
+        "Business Environment": 5453959,
+        "Infrastructure": 6517237,
+        "Economic Quality": 5885593,
+        "Living Conditions": 6132136,
+        "Health": 4098635,
+        "Education": 4526024,
+        "Natural Environment": 5696420
+      }
+    },
+    {
+      "id": "Greenup__KY",
+      "title": "Greenup",
+      "scores": {
+        "Safety and Security": 8614687,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4854869,
+        "Business Environment": 5511149,
+        "Infrastructure": 6132826,
+        "Economic Quality": 5075768,
+        "Living Conditions": 6816493,
+        "Health": 3955599,
+        "Education": 5215443,
+        "Natural Environment": 5101179
+      }
+    },
+    {
+      "id": "Hancock__KY",
+      "title": "Hancock",
+      "scores": {
+        "Safety and Security": 8816101,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4943828,
+        "Business Environment": 5574110,
+        "Infrastructure": 4171914,
+        "Economic Quality": 6318374,
+        "Living Conditions": 6081296,
+        "Health": 4697558,
+        "Education": 4851698,
+        "Natural Environment": 3228243
+      }
+    },
+    {
+      "id": "Hardin__KY",
+      "title": "Hardin",
+      "scores": {
+        "Safety and Security": 5937150,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4883991,
+        "Business Environment": 5749750,
+        "Infrastructure": 8185681,
+        "Economic Quality": 6429473,
+        "Living Conditions": 6935932,
+        "Health": 4608765,
+        "Education": 5277957,
+        "Natural Environment": 5118661
+      }
+    },
+    {
+      "id": "Harlan__KY",
+      "title": "Harlan",
+      "scores": {
+        "Safety and Security": 8454103,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4874659,
+        "Business Environment": 5441367,
+        "Infrastructure": 4978180,
+        "Economic Quality": 4310676,
+        "Living Conditions": 4651579,
+        "Health": 3268229,
+        "Education": 4721609,
+        "Natural Environment": 5689323
+      }
+    },
+    {
+      "id": "Harrison__KY",
+      "title": "Harrison",
+      "scores": {
+        "Safety and Security": 6735856,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4927965,
+        "Business Environment": 5394325,
+        "Infrastructure": 5364320,
+        "Economic Quality": 6444289,
+        "Living Conditions": 6488423,
+        "Health": 4429481,
+        "Education": 4710594,
+        "Natural Environment": 5301760
+      }
+    },
+    {
+      "id": "Hart__KY",
+      "title": "Hart",
+      "scores": {
+        "Safety and Security": 8935102,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4992240,
+        "Business Environment": 5355932,
+        "Infrastructure": 7834594,
+        "Economic Quality": 6275463,
+        "Living Conditions": 5925320,
+        "Health": 4310380,
+        "Education": 4000469,
+        "Natural Environment": 5299471
+      }
+    },
+    {
+      "id": "Henderson__KY",
+      "title": "Henderson",
+      "scores": {
+        "Safety and Security": 5560024,
+        "Personal Freedom": 5545484,
+        "Governance": 5561430,
+        "Social Capital": 4700955,
+        "Business Environment": 5647027,
+        "Infrastructure": 6713381,
+        "Economic Quality": 6164511,
+        "Living Conditions": 6745478,
+        "Health": 4417182,
+        "Education": 5655358,
+        "Natural Environment": 4301668
+      }
+    },
+    {
+      "id": "Henry__KY",
+      "title": "Henry",
+      "scores": {
+        "Safety and Security": 9146868,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4843902,
+        "Business Environment": 5484122,
+        "Infrastructure": 6535904,
+        "Economic Quality": 6064743,
+        "Living Conditions": 6375436,
+        "Health": 4876200,
+        "Education": 4349335,
+        "Natural Environment": 5246311
+      }
+    },
+    {
+      "id": "Hickman__KY",
+      "title": "Hickman",
+      "scores": {
+        "Safety and Security": 7595720,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5117883,
+        "Business Environment": 4620312,
+        "Infrastructure": 5304641,
+        "Economic Quality": 6301854,
+        "Living Conditions": 5395303,
+        "Health": 4143457,
+        "Education": 4931095,
+        "Natural Environment": 5460952
+      }
+    },
+    {
+      "id": "Hopkins__KY",
+      "title": "Hopkins",
+      "scores": {
+        "Safety and Security": 5624754,
+        "Personal Freedom": 5310882,
+        "Governance": 5561430,
+        "Social Capital": 4734741,
+        "Business Environment": 5660273,
+        "Infrastructure": 6241865,
+        "Economic Quality": 6172448,
+        "Living Conditions": 6474703,
+        "Health": 4251542,
+        "Education": 5268014,
+        "Natural Environment": 5069658
+      }
+    },
+    {
+      "id": "Jackson__KY",
+      "title": "Jackson",
+      "scores": {
+        "Safety and Security": 8187757,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4827338,
+        "Business Environment": 5234077,
+        "Infrastructure": 8046588,
+        "Economic Quality": 5002057,
+        "Living Conditions": 5354450,
+        "Health": 3525196,
+        "Education": 4144570,
+        "Natural Environment": 5682670
+      }
+    },
+    {
+      "id": "Jefferson__KY",
+      "title": "Jefferson",
+      "scores": {
+        "Safety and Security": 3162065,
+        "Personal Freedom": 4774760,
+        "Governance": 5561430,
+        "Social Capital": 4885373,
+        "Business Environment": 7542631,
+        "Infrastructure": 8431868,
+        "Economic Quality": 6428601,
+        "Living Conditions": 6986885,
+        "Health": 5006476,
+        "Education": 5222164,
+        "Natural Environment": 3480902
+      }
+    },
+    {
+      "id": "Jessamine__KY",
+      "title": "Jessamine",
+      "scores": {
+        "Safety and Security": 5861688,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5033396,
+        "Business Environment": 5685800,
+        "Infrastructure": 7139418,
+        "Economic Quality": 6901132,
+        "Living Conditions": 6333086,
+        "Health": 5506631,
+        "Education": 5565193,
+        "Natural Environment": 5683143
+      }
+    },
+    {
+      "id": "Johnson__KY",
+      "title": "Johnson",
+      "scores": {
+        "Safety and Security": 8279757,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5022069,
+        "Business Environment": 5532002,
+        "Infrastructure": 7010573,
+        "Economic Quality": 4658187,
+        "Living Conditions": 5765984,
+        "Health": 3447115,
+        "Education": 5591803,
+        "Natural Environment": 5677149
+      }
+    },
+    {
+      "id": "Kenton__KY",
+      "title": "Kenton",
+      "scores": {
+        "Safety and Security": 5766299,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4908877,
+        "Business Environment": 6802771,
+        "Infrastructure": 8082333,
+        "Economic Quality": 6497038,
+        "Living Conditions": 7133290,
+        "Health": 4852922,
+        "Education": 5761444,
+        "Natural Environment": 5375413
+      }
+    },
+    {
+      "id": "Knott__KY",
+      "title": "Knott",
+      "scores": {
+        "Safety and Security": 9367725,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4798240,
+        "Business Environment": 4620993,
+        "Infrastructure": 4897338,
+        "Economic Quality": 5055135,
+        "Living Conditions": 5256443,
+        "Health": 3317396,
+        "Education": 4686936,
+        "Natural Environment": 5498616
+      }
+    },
+    {
+      "id": "Knox__KY",
+      "title": "Knox",
+      "scores": {
+        "Safety and Security": 7768118,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4777594,
+        "Business Environment": 5460268,
+        "Infrastructure": 6271100,
+        "Economic Quality": 4847907,
+        "Living Conditions": 5415400,
+        "Health": 3650841,
+        "Education": 4540309,
+        "Natural Environment": 5202241
+      }
+    },
+    {
+      "id": "Larue__KY",
+      "title": "Larue",
+      "scores": {
+        "Safety and Security": 8745514,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4956587,
+        "Business Environment": 5633037,
+        "Infrastructure": 7048371,
+        "Economic Quality": 6026591,
+        "Living Conditions": 5736274,
+        "Health": 4491546,
+        "Education": 4986854,
+        "Natural Environment": 5505554
+      }
+    },
+    {
+      "id": "Laurel__KY",
+      "title": "Laurel",
+      "scores": {
+        "Safety and Security": 6258905,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4785163,
+        "Business Environment": 5709002,
+        "Infrastructure": 6702021,
+        "Economic Quality": 5664265,
+        "Living Conditions": 6262974,
+        "Health": 4034472,
+        "Education": 5181154,
+        "Natural Environment": 5467502
+      }
+    },
+    {
+      "id": "Lawrence__KY",
+      "title": "Lawrence",
+      "scores": {
+        "Safety and Security": 8163941,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5017564,
+        "Business Environment": 5283024,
+        "Infrastructure": 7599207,
+        "Economic Quality": 4446726,
+        "Living Conditions": 5322144,
+        "Health": 3459605,
+        "Education": 3554019,
+        "Natural Environment": 4622177
+      }
+    },
+    {
+      "id": "Lee__KY",
+      "title": "Lee",
+      "scores": {
+        "Safety and Security": 9083051,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4738592,
+        "Business Environment": 5279705,
+        "Infrastructure": 5801370,
+        "Economic Quality": 4910371,
+        "Living Conditions": 4417484,
+        "Health": 3325125,
+        "Education": 4389768,
+        "Natural Environment": 5582811
+      }
+    },
+    {
+      "id": "Leslie__KY",
+      "title": "Leslie",
+      "scores": {
+        "Safety and Security": 9042624,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5050407,
+        "Business Environment": 4624517,
+        "Infrastructure": 3537118,
+        "Economic Quality": 4779389,
+        "Living Conditions": 4496904,
+        "Health": 3362771,
+        "Education": 4428418,
+        "Natural Environment": 5367485
+      }
+    },
+    {
+      "id": "Letcher__KY",
+      "title": "Letcher",
+      "scores": {
+        "Safety and Security": 8453268,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4715506,
+        "Business Environment": 5331527,
+        "Infrastructure": 4126333,
+        "Economic Quality": 5291374,
+        "Living Conditions": 5121658,
+        "Health": 3198451,
+        "Education": 4865878,
+        "Natural Environment": 5617677
+      }
+    },
+    {
+      "id": "Lewis__KY",
+      "title": "Lewis",
+      "scores": {
+        "Safety and Security": 8468636,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4873832,
+        "Business Environment": 4630474,
+        "Infrastructure": 4455889,
+        "Economic Quality": 5142331,
+        "Living Conditions": 5195956,
+        "Health": 3912055,
+        "Education": 4379199,
+        "Natural Environment": 5378510
+      }
+    },
+    {
+      "id": "Lincoln__KY",
+      "title": "Lincoln",
+      "scores": {
+        "Safety and Security": 8581649,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5009963,
+        "Business Environment": 5398012,
+        "Infrastructure": 6054792,
+        "Economic Quality": 5443221,
+        "Living Conditions": 5445649,
+        "Health": 4095759,
+        "Education": 3993026,
+        "Natural Environment": 5366205
+      }
+    },
+    {
+      "id": "Livingston__KY",
+      "title": "Livingston",
+      "scores": {
+        "Safety and Security": 8221784,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5293578,
+        "Business Environment": 5084388,
+        "Infrastructure": 5023015,
+        "Economic Quality": 5500924,
+        "Living Conditions": 6126801,
+        "Health": 4297413,
+        "Education": 4939037,
+        "Natural Environment": 5181623
+      }
+    },
+    {
+      "id": "Logan__KY",
+      "title": "Logan",
+      "scores": {
+        "Safety and Security": 5605877,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4834277,
+        "Business Environment": 5533809,
+        "Infrastructure": 6740265,
+        "Economic Quality": 6301530,
+        "Living Conditions": 6280788,
+        "Health": 4377253,
+        "Education": 4789812,
+        "Natural Environment": 4611902
+      }
+    },
+    {
+      "id": "Lyon__KY",
+      "title": "Lyon",
+      "scores": {
+        "Safety and Security": 8320000,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5075361,
+        "Business Environment": 5359220,
+        "Infrastructure": 4653713,
+        "Economic Quality": 5215409,
+        "Living Conditions": 5896408,
+        "Health": 4933478,
+        "Education": 5411508,
+        "Natural Environment": 5232843
+      }
+    },
+    {
+      "id": "Madison__KY",
+      "title": "Madison",
+      "scores": {
+        "Safety and Security": 5803167,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4983831,
+        "Business Environment": 5639532,
+        "Infrastructure": 6939084,
+        "Economic Quality": 6556833,
+        "Living Conditions": 6228030,
+        "Health": 4815227,
+        "Education": 5671001,
+        "Natural Environment": 4693650
+      }
+    },
+    {
+      "id": "Magoffin__KY",
+      "title": "Magoffin",
+      "scores": {
+        "Safety and Security": 9074135,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4687724,
+        "Business Environment": 4631792,
+        "Infrastructure": 7579514,
+        "Economic Quality": 4890167,
+        "Living Conditions": 5220945,
+        "Health": 3241190,
+        "Education": 4525942,
+        "Natural Environment": 5213455
+      }
+    },
+    {
+      "id": "Marion__KY",
+      "title": "Marion",
+      "scores": {
+        "Safety and Security": 7404486,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4804872,
+        "Business Environment": 5575255,
+        "Infrastructure": 6566659,
+        "Economic Quality": 6105522,
+        "Living Conditions": 5814335,
+        "Health": 4512053,
+        "Education": 5151300,
+        "Natural Environment": 5664772
+      }
+    },
+    {
+      "id": "Marshall__KY",
+      "title": "Marshall",
+      "scores": {
+        "Safety and Security": 7103475,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5111266,
+        "Business Environment": 5902898,
+        "Infrastructure": 7085705,
+        "Economic Quality": 6388700,
+        "Living Conditions": 6947596,
+        "Health": 4841631,
+        "Education": 5118357,
+        "Natural Environment": 3442246
+      }
+    },
+    {
+      "id": "Martin__KY",
+      "title": "Martin",
+      "scores": {
+        "Safety and Security": 8523354,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4963273,
+        "Business Environment": 4632028,
+        "Infrastructure": 6095262,
+        "Economic Quality": 4641053,
+        "Living Conditions": 5569393,
+        "Health": 3617305,
+        "Education": 3959677,
+        "Natural Environment": 5413383
+      }
+    },
+    {
+      "id": "Mason__KY",
+      "title": "Mason",
+      "scores": {
+        "Safety and Security": 6322048,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4999010,
+        "Business Environment": 5707621,
+        "Infrastructure": 4087883,
+        "Economic Quality": 6432724,
+        "Living Conditions": 6154666,
+        "Health": 4360264,
+        "Education": 4485070,
+        "Natural Environment": 3238953
+      }
+    },
+    {
+      "id": "McCracken__KY",
+      "title": "McCracken",
+      "scores": {
+        "Safety and Security": 4464003,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4912092,
+        "Business Environment": 6298238,
+        "Infrastructure": 6735988,
+        "Economic Quality": 6523622,
+        "Living Conditions": 6674537,
+        "Health": 4570038,
+        "Education": 5742499,
+        "Natural Environment": 3421802
+      }
+    },
+    {
+      "id": "McCreary__KY",
+      "title": "McCreary",
+      "scores": {
+        "Safety and Security": 8826401,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4793271,
+        "Business Environment": 5681135,
+        "Infrastructure": 8138203,
+        "Economic Quality": 4598463,
+        "Living Conditions": 5212274,
+        "Health": 3925232,
+        "Education": 4455328,
+        "Natural Environment": 5524237
+      }
+    },
+    {
+      "id": "McLean__KY",
+      "title": "McLean",
+      "scores": {
+        "Safety and Security": 8419791,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4988818,
+        "Business Environment": 5023191,
+        "Infrastructure": 5244736,
+        "Economic Quality": 5606289,
+        "Living Conditions": 6029232,
+        "Health": 4560712,
+        "Education": 4814649,
+        "Natural Environment": 5472743
+      }
+    },
+    {
+      "id": "Meade__KY",
+      "title": "Meade",
+      "scores": {
+        "Safety and Security": 8222971,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5012252,
+        "Business Environment": 5385697,
+        "Infrastructure": 8082788,
+        "Economic Quality": 5354698,
+        "Living Conditions": 7096665,
+        "Health": 4746189,
+        "Education": 5535487,
+        "Natural Environment": 4653039
+      }
+    },
+    {
+      "id": "Menifee__KY",
+      "title": "Menifee",
+      "scores": {
+        "Safety and Security": 8641168,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4893190,
+        "Business Environment": 4612136,
+        "Infrastructure": 5808304,
+        "Economic Quality": 5690049,
+        "Living Conditions": 5949094,
+        "Health": 3909550,
+        "Education": 3810234,
+        "Natural Environment": 5760211
+      }
+    },
+    {
+      "id": "Mercer__KY",
+      "title": "Mercer",
+      "scores": {
+        "Safety and Security": 7610922,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5064550,
+        "Business Environment": 5506314,
+        "Infrastructure": 7054278,
+        "Economic Quality": 6150196,
+        "Living Conditions": 6449192,
+        "Health": 4780529,
+        "Education": 5011025,
+        "Natural Environment": 3891650
+      }
+    },
+    {
+      "id": "Metcalfe__KY",
+      "title": "Metcalfe",
+      "scores": {
+        "Safety and Security": 7344999,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4858471,
+        "Business Environment": 5398625,
+        "Infrastructure": 6599837,
+        "Economic Quality": 5939793,
+        "Living Conditions": 5510653,
+        "Health": 4019641,
+        "Education": 4196990,
+        "Natural Environment": 5198870
+      }
+    },
+    {
+      "id": "Monroe__KY",
+      "title": "Monroe",
+      "scores": {
+        "Safety and Security": 9070336,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5043945,
+        "Business Environment": 5672044,
+        "Infrastructure": 6631635,
+        "Economic Quality": 6267397,
+        "Living Conditions": 5258704,
+        "Health": 3818482,
+        "Education": 4206908,
+        "Natural Environment": 5699850
+      }
+    },
+    {
+      "id": "Montgomery__KY",
+      "title": "Montgomery",
+      "scores": {
+        "Safety and Security": 6391477,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4741427,
+        "Business Environment": 5748842,
+        "Infrastructure": 7133425,
+        "Economic Quality": 6390580,
+        "Living Conditions": 6769784,
+        "Health": 4266050,
+        "Education": 5025943,
+        "Natural Environment": 5120515
+      }
+    },
+    {
+      "id": "Morgan__KY",
+      "title": "Morgan",
+      "scores": {
+        "Safety and Security": 9303517,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4892915,
+        "Business Environment": 4638524,
+        "Infrastructure": 6110874,
+        "Economic Quality": 5561949,
+        "Living Conditions": 5815119,
+        "Health": 4196693,
+        "Education": 4668922,
+        "Natural Environment": 5538857
+      }
+    },
+    {
+      "id": "Muhlenberg__KY",
+      "title": "Muhlenberg",
+      "scores": {
+        "Safety and Security": 7616505,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4945984,
+        "Business Environment": 5536684,
+        "Infrastructure": 5888610,
+        "Economic Quality": 5527035,
+        "Living Conditions": 6397895,
+        "Health": 4261749,
+        "Education": 5046283,
+        "Natural Environment": 3032838
+      }
+    },
+    {
+      "id": "Nelson__KY",
+      "title": "Nelson",
+      "scores": {
+        "Safety and Security": 6155317,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5084948,
+        "Business Environment": 5663359,
+        "Infrastructure": 6824405,
+        "Economic Quality": 6316505,
+        "Living Conditions": 6875415,
+        "Health": 4908042,
+        "Education": 4960836,
+        "Natural Environment": 5451510
+      }
+    },
+    {
+      "id": "Nicholas__KY",
+      "title": "Nicholas",
+      "scores": {
+        "Safety and Security": 8553451,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4845604,
+        "Business Environment": 5271818,
+        "Infrastructure": 5152186,
+        "Economic Quality": 5749127,
+        "Living Conditions": 4593719,
+        "Health": 3947525,
+        "Education": 4507634,
+        "Natural Environment": 5490135
+      }
+    },
+    {
+      "id": "Ohio__KY",
+      "title": "Ohio",
+      "scores": {
+        "Safety and Security": 7597864,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4751510,
+        "Business Environment": 5400632,
+        "Infrastructure": 5615037,
+        "Economic Quality": 5906147,
+        "Living Conditions": 6099350,
+        "Health": 4353885,
+        "Education": 4744728,
+        "Natural Environment": 3336666
+      }
+    },
+    {
+      "id": "Oldham__KY",
+      "title": "Oldham",
+      "scores": {
+        "Safety and Security": 7146210,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5247315,
+        "Business Environment": 6460130,
+        "Infrastructure": 7415520,
+        "Economic Quality": 5993235,
+        "Living Conditions": 7929501,
+        "Health": 6095676,
+        "Education": 6734210,
+        "Natural Environment": 5751570
+      }
+    },
+    {
+      "id": "Owen__KY",
+      "title": "Owen",
+      "scores": {
+        "Safety and Security": 8941686,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5080223,
+        "Business Environment": 4614057,
+        "Infrastructure": 5788971,
+        "Economic Quality": 5531667,
+        "Living Conditions": 5967036,
+        "Health": 4613104,
+        "Education": 4537080,
+        "Natural Environment": 5741746
+      }
+    },
+    {
+      "id": "Owsley__KY",
+      "title": "Owsley",
+      "scores": {
+        "Safety and Security": 6946794,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4868969,
+        "Business Environment": 4612512,
+        "Infrastructure": 7233544,
+        "Economic Quality": 4816620,
+        "Living Conditions": 5318810,
+        "Health": 3350446,
+        "Education": 4118161,
+        "Natural Environment": 5445504
+      }
+    },
+    {
+      "id": "Pendleton__KY",
+      "title": "Pendleton",
+      "scores": {
+        "Safety and Security": 8073154,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4942165,
+        "Business Environment": 4644085,
+        "Infrastructure": 6405023,
+        "Economic Quality": 6124504,
+        "Living Conditions": 6280021,
+        "Health": 4721761,
+        "Education": 4890205,
+        "Natural Environment": 4282964
+      }
+    },
+    {
+      "id": "Perry__KY",
+      "title": "Perry",
+      "scores": {
+        "Safety and Security": 8177378,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4661349,
+        "Business Environment": 5651596,
+        "Infrastructure": 5226268,
+        "Economic Quality": 4930113,
+        "Living Conditions": 5763494,
+        "Health": 3207853,
+        "Education": 4972036,
+        "Natural Environment": 5354786
+      }
+    },
+    {
+      "id": "Pike__KY",
+      "title": "Pike",
+      "scores": {
+        "Safety and Security": 7417870,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4847639,
+        "Business Environment": 5686161,
+        "Infrastructure": 3722201,
+        "Economic Quality": 5325044,
+        "Living Conditions": 4920912,
+        "Health": 3357516,
+        "Education": 5158233,
+        "Natural Environment": 5720500
+      }
+    },
+    {
+      "id": "Powell__KY",
+      "title": "Powell",
+      "scores": {
+        "Safety and Security": 8025004,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4738068,
+        "Business Environment": 5450790,
+        "Infrastructure": 5322605,
+        "Economic Quality": 5532673,
+        "Living Conditions": 5288334,
+        "Health": 4008697,
+        "Education": 4664360,
+        "Natural Environment": 4911720
+      }
+    },
+    {
+      "id": "Pulaski__KY",
+      "title": "Pulaski",
+      "scores": {
+        "Safety and Security": 6381670,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4834801,
+        "Business Environment": 5760818,
+        "Infrastructure": 6687508,
+        "Economic Quality": 5928259,
+        "Living Conditions": 6022025,
+        "Health": 4189419,
+        "Education": 5100306,
+        "Natural Environment": 4882249
+      }
+    },
+    {
+      "id": "Robertson__KY",
+      "title": "Robertson",
+      "scores": {
+        "Safety and Security": 9606548,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4787547,
+        "Business Environment": 4624590,
+        "Infrastructure": 4365966,
+        "Economic Quality": 6474566,
+        "Living Conditions": 5503822,
+        "Health": 4513459,
+        "Education": 5023707,
+        "Natural Environment": 5662714
+      }
+    },
+    {
+      "id": "Rockcastle__KY",
+      "title": "Rockcastle",
+      "scores": {
+        "Safety and Security": 8333663,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4906237,
+        "Business Environment": 5386647,
+        "Infrastructure": 6707617,
+        "Economic Quality": 4785742,
+        "Living Conditions": 6114047,
+        "Health": 4147373,
+        "Education": 4993688,
+        "Natural Environment": 5217801
+      }
+    },
+    {
+      "id": "Rowan__KY",
+      "title": "Rowan",
+      "scores": {
+        "Safety and Security": 7415459,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4869539,
+        "Business Environment": 5700674,
+        "Infrastructure": 6776093,
+        "Economic Quality": 5467744,
+        "Living Conditions": 5650684,
+        "Health": 4386972,
+        "Education": 5230242,
+        "Natural Environment": 5513270
+      }
+    },
+    {
+      "id": "Russell__KY",
+      "title": "Russell",
+      "scores": {
+        "Safety and Security": 8254837,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4862929,
+        "Business Environment": 5649963,
+        "Infrastructure": 7549753,
+        "Economic Quality": 5890740,
+        "Living Conditions": 5971454,
+        "Health": 4264927,
+        "Education": 4555209,
+        "Natural Environment": 5637471
+      }
+    },
+    {
+      "id": "Scott__KY",
+      "title": "Scott",
+      "scores": {
+        "Safety and Security": 6187299,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5145968,
+        "Business Environment": 5558806,
+        "Infrastructure": 7507340,
+        "Economic Quality": 7553463,
+        "Living Conditions": 7404769,
+        "Health": 5667841,
+        "Education": 5549332,
+        "Natural Environment": 4931196
+      }
+    },
+    {
+      "id": "Shelby__KY",
+      "title": "Shelby",
+      "scores": {
+        "Safety and Security": 6617980,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5020258,
+        "Business Environment": 5755239,
+        "Infrastructure": 7072935,
+        "Economic Quality": 6618583,
+        "Living Conditions": 7102023,
+        "Health": 5277191,
+        "Education": 4891462,
+        "Natural Environment": 5285995
+      }
+    },
+    {
+      "id": "Simpson__KY",
+      "title": "Simpson",
+      "scores": {
+        "Safety and Security": 6409316,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5010102,
+        "Business Environment": 5607627,
+        "Infrastructure": 5713677,
+        "Economic Quality": 6482460,
+        "Living Conditions": 6191735,
+        "Health": 4464231,
+        "Education": 4757054,
+        "Natural Environment": 4723285
+      }
+    },
+    {
+      "id": "Spencer__KY",
+      "title": "Spencer",
+      "scores": {
+        "Safety and Security": 8749332,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5081344,
+        "Business Environment": 5857165,
+        "Infrastructure": 7295423,
+        "Economic Quality": 5212778,
+        "Living Conditions": 7213128,
+        "Health": 5268008,
+        "Education": 5746504,
+        "Natural Environment": 5748156
+      }
+    },
+    {
+      "id": "Taylor__KY",
+      "title": "Taylor",
+      "scores": {
+        "Safety and Security": 5023836,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4952431,
+        "Business Environment": 5798964,
+        "Infrastructure": 5795829,
+        "Economic Quality": 6101115,
+        "Living Conditions": 6441178,
+        "Health": 4218338,
+        "Education": 5203886,
+        "Natural Environment": 5534398
+      }
+    },
+    {
+      "id": "Todd__KY",
+      "title": "Todd",
+      "scores": {
+        "Safety and Security": 7666995,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5113220,
+        "Business Environment": 5526134,
+        "Infrastructure": 5018838,
+        "Economic Quality": 5948646,
+        "Living Conditions": 5704538,
+        "Health": 4340680,
+        "Education": 3885002,
+        "Natural Environment": 5409350
+      }
+    },
+    {
+      "id": "Trigg__KY",
+      "title": "Trigg",
+      "scores": {
+        "Safety and Security": 7061420,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5113860,
+        "Business Environment": 5458349,
+        "Infrastructure": 4875069,
+        "Economic Quality": 5808204,
+        "Living Conditions": 6445676,
+        "Health": 4848260,
+        "Education": 4209806,
+        "Natural Environment": 4681055
+      }
+    },
+    {
+      "id": "Trimble__KY",
+      "title": "Trimble",
+      "scores": {
+        "Safety and Security": 9043959,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4942493,
+        "Business Environment": 5514220,
+        "Infrastructure": 6822617,
+        "Economic Quality": 5001802,
+        "Living Conditions": 6322876,
+        "Health": 4446818,
+        "Education": 3908438,
+        "Natural Environment": 3105032
+      }
+    },
+    {
+      "id": "Union__KY",
+      "title": "Union",
+      "scores": {
+        "Safety and Security": 7265460,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4879369,
+        "Business Environment": 5646138,
+        "Infrastructure": 6278812,
+        "Economic Quality": 6142032,
+        "Living Conditions": 5233673,
+        "Health": 4247959,
+        "Education": 4817678,
+        "Natural Environment": 5244575
+      }
+    },
+    {
+      "id": "Warren__KY",
+      "title": "Warren",
+      "scores": {
+        "Safety and Security": 5457933,
+        "Personal Freedom": 5415181,
+        "Governance": 5561430,
+        "Social Capital": 4955895,
+        "Business Environment": 6031278,
+        "Infrastructure": 7176053,
+        "Economic Quality": 6427008,
+        "Living Conditions": 6854534,
+        "Health": 4965228,
+        "Education": 5869119,
+        "Natural Environment": 5019642
+      }
+    },
+    {
+      "id": "Washington__KY",
+      "title": "Washington",
+      "scores": {
+        "Safety and Security": 8415402,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5085618,
+        "Business Environment": 4632976,
+        "Infrastructure": 6372862,
+        "Economic Quality": 6493208,
+        "Living Conditions": 6165318,
+        "Health": 4700908,
+        "Education": 5224972,
+        "Natural Environment": 5264258
+      }
+    },
+    {
+      "id": "Wayne__KY",
+      "title": "Wayne",
+      "scores": {
+        "Safety and Security": 7873705,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4831484,
+        "Business Environment": 5525525,
+        "Infrastructure": 3751435,
+        "Economic Quality": 5671568,
+        "Living Conditions": 5824876,
+        "Health": 4125249,
+        "Education": 4001473,
+        "Natural Environment": 5759556
+      }
+    },
+    {
+      "id": "Webster__KY",
+      "title": "Webster",
+      "scores": {
+        "Safety and Security": 8881461,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4775354,
+        "Business Environment": 5547654,
+        "Infrastructure": 5587374,
+        "Economic Quality": 6147765,
+        "Living Conditions": 5181998,
+        "Health": 4479403,
+        "Education": 4416322,
+        "Natural Environment": 4357998
+      }
+    },
+    {
+      "id": "Whitley__KY",
+      "title": "Whitley",
+      "scores": {
+        "Safety and Security": 7469188,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4815104,
+        "Business Environment": 5499651,
+        "Infrastructure": 6642261,
+        "Economic Quality": 5538035,
+        "Living Conditions": 6102491,
+        "Health": 3779716,
+        "Education": 5499575,
+        "Natural Environment": 5521598
+      }
+    },
+    {
+      "id": "Wolfe__KY",
+      "title": "Wolfe",
+      "scores": {
+        "Safety and Security": 8843799,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 4701235,
+        "Business Environment": 5247916,
+        "Infrastructure": 6458156,
+        "Economic Quality": 4680496,
+        "Living Conditions": 5265367,
+        "Health": 3609491,
+        "Education": 4258388,
+        "Natural Environment": 5502437
+      }
+    },
+    {
+      "id": "Woodford__KY",
+      "title": "Woodford",
+      "scores": {
+        "Safety and Security": 7130980,
+        "Personal Freedom": 5441427,
+        "Governance": 5561430,
+        "Social Capital": 5258907,
+        "Business Environment": 5687111,
+        "Infrastructure": 7255705,
+        "Economic Quality": 7157459,
+        "Living Conditions": 7281288,
+        "Health": 5717726,
+        "Education": 5967423,
+        "Natural Environment": 5432381
+      }
+    }
+  ],
+  "derivatives": {
+    "Overall Prosperity": [
+      "Safety and Security",
+      "Personal Freedom",
+      "Governance",
+      "Social Capital",
+      "Business Environment",
+      "Infrastructure",
+      "Economic Quality",
+      "Living Conditions",
+      "Health",
+      "Education",
+      "Natural Environment"
+    ],
+    "Empowered People": [
+      "Living Conditions",
+      "Health",
+      "Education",
+      "Natural Environment"
+    ],
+    "Inclusive Societies": [
+      "Safety and Security",
+      "Personal Freedom",
+      "Governance",
+      "Social Capital"
+    ],
+    "Open Economies": [
+      "Business Environment",
+      "Infrastructure",
+      "Economic Quality"
+    ]
+  },
+  "weightingOptions": {
+    "Safety and Security": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Personal Freedom": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Governance": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Social Capital": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Business Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Infrastructure": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Economic Quality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Living Conditions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Health": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Natural Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

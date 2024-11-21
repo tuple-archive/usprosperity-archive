@@ -1,0 +1,7549 @@
+{
+  "regions": [
+    {
+      "id": "13001",
+      "title": "Appling, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13003",
+      "title": "Atkinson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13005",
+      "title": "Bacon, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13007",
+      "title": "Baker, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13009",
+      "title": "Baldwin, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13011",
+      "title": "Banks, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13013",
+      "title": "Barrow, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13015",
+      "title": "Bartow, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13017",
+      "title": "Ben Hill, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13019",
+      "title": "Berrien, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13021",
+      "title": "Bibb, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13023",
+      "title": "Bleckley, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13025",
+      "title": "Brantley, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13027",
+      "title": "Brooks, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13029",
+      "title": "Bryan, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13031",
+      "title": "Bulloch, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13033",
+      "title": "Burke, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13035",
+      "title": "Butts, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13037",
+      "title": "Calhoun, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13039",
+      "title": "Camden, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13043",
+      "title": "Candler, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13045",
+      "title": "Carroll, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13047",
+      "title": "Catoosa, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13049",
+      "title": "Charlton, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13051",
+      "title": "Chatham, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13053",
+      "title": "Chattahoochee, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13055",
+      "title": "Chattooga, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13057",
+      "title": "Cherokee, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13059",
+      "title": "Clarke, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13061",
+      "title": "Clay, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13063",
+      "title": "Clayton, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13065",
+      "title": "Clinch, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13067",
+      "title": "Cobb, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13069",
+      "title": "Coffee, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13071",
+      "title": "Colquitt, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13073",
+      "title": "Columbia, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13075",
+      "title": "Cook, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13077",
+      "title": "Coweta, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13079",
+      "title": "Crawford, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13081",
+      "title": "Crisp, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13083",
+      "title": "Dade, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13085",
+      "title": "Dawson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13087",
+      "title": "Decatur, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13089",
+      "title": "De Kalb, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13091",
+      "title": "Dodge, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13093",
+      "title": "Dooly, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13095",
+      "title": "Dougherty, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13097",
+      "title": "Douglas, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13099",
+      "title": "Early, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13101",
+      "title": "Echols, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13103",
+      "title": "Effingham, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13105",
+      "title": "Elbert, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13107",
+      "title": "Emanuel, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13109",
+      "title": "Evans, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13111",
+      "title": "Fannin, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13113",
+      "title": "Fayette, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13115",
+      "title": "Floyd, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13117",
+      "title": "Forsyth, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13119",
+      "title": "Franklin, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13121",
+      "title": "Fulton, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13123",
+      "title": "Gilmer, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13125",
+      "title": "Glascock, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13127",
+      "title": "Glynn, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13129",
+      "title": "Gordon, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13131",
+      "title": "Grady, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13133",
+      "title": "Greene, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13135",
+      "title": "Gwinnett, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13137",
+      "title": "Habersham, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13139",
+      "title": "Hall, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13141",
+      "title": "Hancock, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13143",
+      "title": "Haralson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13145",
+      "title": "Harris, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13147",
+      "title": "Hart, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13149",
+      "title": "Heard, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13151",
+      "title": "Henry, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13153",
+      "title": "Houston, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13155",
+      "title": "Irwin, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13157",
+      "title": "Jackson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13159",
+      "title": "Jasper, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13161",
+      "title": "Jeff Davis, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13163",
+      "title": "Jefferson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13165",
+      "title": "Jenkins, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13167",
+      "title": "Johnson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13169",
+      "title": "Jones, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13171",
+      "title": "Lamar, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13173",
+      "title": "Lanier, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13175",
+      "title": "Laurens, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13177",
+      "title": "Lee, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13179",
+      "title": "Liberty, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13181",
+      "title": "Lincoln, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13183",
+      "title": "Long, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13185",
+      "title": "Lowndes, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13187",
+      "title": "Lumpkin, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13189",
+      "title": "McDuffie, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13191",
+      "title": "McIntosh, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13193",
+      "title": "Macon, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13195",
+      "title": "Madison, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13197",
+      "title": "Marion, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13199",
+      "title": "Meriwether, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13201",
+      "title": "Miller, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13205",
+      "title": "Mitchell, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13207",
+      "title": "Monroe, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13209",
+      "title": "Montgomery, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13211",
+      "title": "Morgan, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13213",
+      "title": "Murray, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13215",
+      "title": "Muscogee, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13217",
+      "title": "Newton, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13219",
+      "title": "Oconee, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13221",
+      "title": "Oglethorpe, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13223",
+      "title": "Paulding, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13225",
+      "title": "Peach, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13227",
+      "title": "Pickens, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13229",
+      "title": "Pierce, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13231",
+      "title": "Pike, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13233",
+      "title": "Polk, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13235",
+      "title": "Pulaski, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13237",
+      "title": "Putnam, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13239",
+      "title": "Quitman, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13241",
+      "title": "Rabun, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13243",
+      "title": "Randolph, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13245",
+      "title": "Richmond, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13247",
+      "title": "Rockdale, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13249",
+      "title": "Schley, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13251",
+      "title": "Screven, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13253",
+      "title": "Seminole, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13255",
+      "title": "Spalding, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13257",
+      "title": "Stephens, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13259",
+      "title": "Stewart, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13261",
+      "title": "Sumter, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13263",
+      "title": "Talbot, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13265",
+      "title": "Taliaferro, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13267",
+      "title": "Tattnall, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13269",
+      "title": "Taylor, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13271",
+      "title": "Telfair, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13273",
+      "title": "Terrell, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13275",
+      "title": "Thomas, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13277",
+      "title": "Tift, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13279",
+      "title": "Toombs, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13281",
+      "title": "Towns, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13283",
+      "title": "Treutlen, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13285",
+      "title": "Troup, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13287",
+      "title": "Turner, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13289",
+      "title": "Twiggs, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13291",
+      "title": "Union, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13293",
+      "title": "Upson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13295",
+      "title": "Walker, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13297",
+      "title": "Walton, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13299",
+      "title": "Ware, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13301",
+      "title": "Warren, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13303",
+      "title": "Washington, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13305",
+      "title": "Wayne, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13307",
+      "title": "Webster, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13309",
+      "title": "Wheeler, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13311",
+      "title": "White, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13313",
+      "title": "Whitfield, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13315",
+      "title": "Wilcox, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13317",
+      "title": "Wilkes, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13319",
+      "title": "Wilkinson, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "13321",
+      "title": "Worth, GA",
+      "scores": {
+        "Political Accountability": 1878.2142857142856,
+        "Rule of Law": 682.5,
+        "Government Integrity": 1531.8087088023087
+      }
+    },
+    {
+      "id": "19001",
+      "title": "Adair, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19003",
+      "title": "Adams, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19005",
+      "title": "Allamakee, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19007",
+      "title": "Appanoose, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19009",
+      "title": "Audubon, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19011",
+      "title": "Benton, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19013",
+      "title": "Black Hawk, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19015",
+      "title": "Boone, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19017",
+      "title": "Bremer, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19019",
+      "title": "Buchanan, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19021",
+      "title": "Buena Vista, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19023",
+      "title": "Butler, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19025",
+      "title": "Calhoun, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19027",
+      "title": "Carroll, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19029",
+      "title": "Cass, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19031",
+      "title": "Cedar, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19033",
+      "title": "Cerro Gordo, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19035",
+      "title": "Cherokee, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19037",
+      "title": "Chickasaw, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19039",
+      "title": "Clarke, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19041",
+      "title": "Clay, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19043",
+      "title": "Clayton, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19045",
+      "title": "Clinton, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19047",
+      "title": "Crawford, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19049",
+      "title": "Dallas, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19051",
+      "title": "Davis, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19053",
+      "title": "Decatur, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19055",
+      "title": "Delaware, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19057",
+      "title": "Des Moines, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19059",
+      "title": "Dickinson, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19061",
+      "title": "Dubuque, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19063",
+      "title": "Emmet, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19065",
+      "title": "Fayette, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19067",
+      "title": "Floyd, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19069",
+      "title": "Franklin, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19071",
+      "title": "Fremont, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19073",
+      "title": "Greene, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19075",
+      "title": "Grundy, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19077",
+      "title": "Guthrie, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19079",
+      "title": "Hamilton, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19081",
+      "title": "Hancock, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19083",
+      "title": "Hardin, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19085",
+      "title": "Harrison, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19087",
+      "title": "Henry, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19089",
+      "title": "Howard, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19091",
+      "title": "Humboldt, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19093",
+      "title": "Ida, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19095",
+      "title": "Iowa, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19097",
+      "title": "Jackson, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19099",
+      "title": "Jasper, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19101",
+      "title": "Jefferson, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19103",
+      "title": "Johnson, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19105",
+      "title": "Jones, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19107",
+      "title": "Keokuk, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19109",
+      "title": "Kossuth, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19111",
+      "title": "Lee, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19113",
+      "title": "Linn, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19115",
+      "title": "Louisa, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19117",
+      "title": "Lucas, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19119",
+      "title": "Lyon, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19121",
+      "title": "Madison, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19123",
+      "title": "Mahaska, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19125",
+      "title": "Marion, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19127",
+      "title": "Marshall, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19129",
+      "title": "Mills, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19131",
+      "title": "Mitchell, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19133",
+      "title": "Monona, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19135",
+      "title": "Monroe, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19137",
+      "title": "Montgomery, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19139",
+      "title": "Muscatine, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19141",
+      "title": "O Brien, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19143",
+      "title": "Osceola, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19145",
+      "title": "Page, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19147",
+      "title": "Palo Alto, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19149",
+      "title": "Plymouth, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19151",
+      "title": "Pocahontas, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19153",
+      "title": "Polk, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19155",
+      "title": "Pottawattamie, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19157",
+      "title": "Poweshiek, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19159",
+      "title": "Ringgold, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19161",
+      "title": "Sac, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19163",
+      "title": "Scott, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19165",
+      "title": "Shelby, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19167",
+      "title": "Sioux, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19169",
+      "title": "Story, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19171",
+      "title": "Tama, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19173",
+      "title": "Taylor, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19175",
+      "title": "Union, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19177",
+      "title": "Van Buren, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19179",
+      "title": "Wapello, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19181",
+      "title": "Warren, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19183",
+      "title": "Washington, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19185",
+      "title": "Wayne, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19187",
+      "title": "Webster, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19189",
+      "title": "Winnebago, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19191",
+      "title": "Winneshiek, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19193",
+      "title": "Woodbury, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19195",
+      "title": "Worth, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "19197",
+      "title": "Wright, IA",
+      "scores": {
+        "Political Accountability": 1916.7857142857144,
+        "Rule of Law": 2030.0,
+        "Government Integrity": 2804.375937190646
+      }
+    },
+    {
+      "id": "30001",
+      "title": "Beaverhead, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30003",
+      "title": "Big Horn, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30005",
+      "title": "Blaine, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30007",
+      "title": "Broadwater, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30009",
+      "title": "Carbon, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30011",
+      "title": "Carter, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30013",
+      "title": "Cascade, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30015",
+      "title": "Chouteau, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30017",
+      "title": "Custer, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30019",
+      "title": "Daniels, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30021",
+      "title": "Dawson, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30023",
+      "title": "Deer Lodge, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30025",
+      "title": "Fallon, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30027",
+      "title": "Fergus, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30029",
+      "title": "Flathead, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30031",
+      "title": "Gallatin, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30033",
+      "title": "Garfield, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30035",
+      "title": "Glacier, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30037",
+      "title": "Golden Valley, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30039",
+      "title": "Granite, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30041",
+      "title": "Hill, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30043",
+      "title": "Jefferson, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30045",
+      "title": "Judith Basin, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30047",
+      "title": "Lake, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30049",
+      "title": "Lewis and Clark, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30051",
+      "title": "Liberty, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30053",
+      "title": "Lincoln, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30055",
+      "title": "McCone, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30057",
+      "title": "Madison, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30059",
+      "title": "Meagher, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30061",
+      "title": "Mineral, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30063",
+      "title": "Missoula, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30065",
+      "title": "Musselshell, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30067",
+      "title": "Park, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30069",
+      "title": "Petroleum, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30071",
+      "title": "Phillips, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30073",
+      "title": "Pondera, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30075",
+      "title": "Powder River, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30077",
+      "title": "Powell, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30079",
+      "title": "Prairie, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30081",
+      "title": "Ravalli, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30083",
+      "title": "Richland, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30085",
+      "title": "Roosevelt, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30087",
+      "title": "Rosebud, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30089",
+      "title": "Sanders, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30091",
+      "title": "Sheridan, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30093",
+      "title": "Silver Bow, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30095",
+      "title": "Stillwater, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30097",
+      "title": "Sweet Grass, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30099",
+      "title": "Teton, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30101",
+      "title": "Toole, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30103",
+      "title": "Treasure, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30105",
+      "title": "Valley, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30107",
+      "title": "Wheatland, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30109",
+      "title": "Wibaux, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "30111",
+      "title": "Yellowstone, MT",
+      "scores": {
+        "Political Accountability": 2343.214285714286,
+        "Rule of Law": 1225.0,
+        "Government Integrity": 2273.022432717741
+      }
+    },
+    {
+      "id": "36001",
+      "title": "Albany, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36003",
+      "title": "Allegany, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36005",
+      "title": "Bronx, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36007",
+      "title": "Broome, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36009",
+      "title": "Cattaraugus, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36011",
+      "title": "Cayuga, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36013",
+      "title": "Chautauqua, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36015",
+      "title": "Chemung, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36017",
+      "title": "Chenango, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36019",
+      "title": "Clinton, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36021",
+      "title": "Columbia, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36023",
+      "title": "Cortland, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36025",
+      "title": "Delaware, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36027",
+      "title": "Dutchess, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36029",
+      "title": "Erie, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36031",
+      "title": "Essex, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36033",
+      "title": "Franklin, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36035",
+      "title": "Fulton, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36037",
+      "title": "Genesee, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36039",
+      "title": "Greene, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36041",
+      "title": "Hamilton, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36043",
+      "title": "Herkimer, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36045",
+      "title": "Jefferson, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36047",
+      "title": "Kings, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36049",
+      "title": "Lewis, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36051",
+      "title": "Livingston, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36053",
+      "title": "Madison, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36055",
+      "title": "Monroe, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36057",
+      "title": "Montgomery, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36059",
+      "title": "Nassau, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36061",
+      "title": "New York, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36063",
+      "title": "Niagara, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36065",
+      "title": "Oneida, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36067",
+      "title": "Onondaga, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36069",
+      "title": "Ontario, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36071",
+      "title": "Orange, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36073",
+      "title": "Orleans, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36075",
+      "title": "Oswego, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36077",
+      "title": "Otsego, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36079",
+      "title": "Putnam, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36081",
+      "title": "Queens, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36083",
+      "title": "Rensselaer, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36085",
+      "title": "Richmond, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36087",
+      "title": "Rockland, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36089",
+      "title": "St Lawrence, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36091",
+      "title": "Saratoga, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36093",
+      "title": "Schenectady, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36095",
+      "title": "Schoharie, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36097",
+      "title": "Schuyler, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36099",
+      "title": "Seneca, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36101",
+      "title": "Steuben, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36103",
+      "title": "Suffolk, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36105",
+      "title": "Sullivan, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36107",
+      "title": "Tioga, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36109",
+      "title": "Tompkins, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36111",
+      "title": "Ulster, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36113",
+      "title": "Warren, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36115",
+      "title": "Washington, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36117",
+      "title": "Wayne, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36119",
+      "title": "Westchester, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36121",
+      "title": "Wyoming, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "36123",
+      "title": "Yates, NY",
+      "scores": {
+        "Political Accountability": 1683.214285714286,
+        "Rule of Law": 1522.5,
+        "Government Integrity": 1671.3667815295814
+      }
+    },
+    {
+      "id": "40001",
+      "title": "Adair, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40003",
+      "title": "Alfalfa, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40005",
+      "title": "Atoka, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40007",
+      "title": "Beaver, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40009",
+      "title": "Beckham, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40011",
+      "title": "Blaine, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40013",
+      "title": "Bryan, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40015",
+      "title": "Caddo, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40017",
+      "title": "Canadian, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40019",
+      "title": "Carter, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40021",
+      "title": "Cherokee, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40023",
+      "title": "Choctaw, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40025",
+      "title": "Cimarron, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40027",
+      "title": "Cleveland, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40029",
+      "title": "Coal, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40031",
+      "title": "Comanche, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40033",
+      "title": "Cotton, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40035",
+      "title": "Craig, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40037",
+      "title": "Creek, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40039",
+      "title": "Custer, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40041",
+      "title": "Delaware, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40043",
+      "title": "Dewey, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40045",
+      "title": "Ellis, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40047",
+      "title": "Garfield, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40049",
+      "title": "Garvin, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40051",
+      "title": "Grady, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40053",
+      "title": "Grant, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40055",
+      "title": "Greer, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40057",
+      "title": "Harmon, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40059",
+      "title": "Harper, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40061",
+      "title": "Haskell, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40063",
+      "title": "Hughes, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40065",
+      "title": "Jackson, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40067",
+      "title": "Jefferson, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40069",
+      "title": "Johnston, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40071",
+      "title": "Kay, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40073",
+      "title": "Kingfisher, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40075",
+      "title": "Kiowa, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40077",
+      "title": "Latimer, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40079",
+      "title": "Le Flore, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40081",
+      "title": "Lincoln, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40083",
+      "title": "Logan, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40085",
+      "title": "Love, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40087",
+      "title": "McClain, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40089",
+      "title": "McCurtain, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40091",
+      "title": "McIntosh, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40093",
+      "title": "Major, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40095",
+      "title": "Marshall, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40097",
+      "title": "Mayes, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40099",
+      "title": "Murray, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40101",
+      "title": "Muskogee, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40103",
+      "title": "Noble, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40105",
+      "title": "Nowata, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40107",
+      "title": "Okfuskee, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40109",
+      "title": "Oklahoma, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40111",
+      "title": "Okmulgee, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40113",
+      "title": "Osage, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40115",
+      "title": "Ottawa, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40117",
+      "title": "Pawnee, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40119",
+      "title": "Payne, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40121",
+      "title": "Pittsburg, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40123",
+      "title": "Pontotoc, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40125",
+      "title": "Pottawatomie, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40127",
+      "title": "Pushmataha, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40129",
+      "title": "Roger Mills, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40131",
+      "title": "Rogers, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40133",
+      "title": "Seminole, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40135",
+      "title": "Sequoyah, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40137",
+      "title": "Stephens, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40139",
+      "title": "Texas, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40141",
+      "title": "Tillman, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40143",
+      "title": "Tulsa, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40145",
+      "title": "Wagoner, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40147",
+      "title": "Washington, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40149",
+      "title": "Washita, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40151",
+      "title": "Woods, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "40153",
+      "title": "Woodward, OK",
+      "scores": {
+        "Political Accountability": 1901.7857142857138,
+        "Rule of Law": 367.5,
+        "Government Integrity": 1312.321051791447
+      }
+    },
+    {
+      "id": "48001",
+      "title": "Anderson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48003",
+      "title": "Andrews, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48005",
+      "title": "Angelina, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48007",
+      "title": "Aransas, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48009",
+      "title": "Archer, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48011",
+      "title": "Armstrong, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48013",
+      "title": "Atascosa, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48015",
+      "title": "Austin, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48017",
+      "title": "Bailey, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48019",
+      "title": "Bandera, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48021",
+      "title": "Bastrop, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48023",
+      "title": "Baylor, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48025",
+      "title": "Bee, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48027",
+      "title": "Bell, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48029",
+      "title": "Bexar, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48031",
+      "title": "Blanco, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48033",
+      "title": "Borden, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48035",
+      "title": "Bosque, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48037",
+      "title": "Bowie, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48039",
+      "title": "Brazoria, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48041",
+      "title": "Brazos, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48043",
+      "title": "Brewster, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48045",
+      "title": "Briscoe, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48047",
+      "title": "Brooks, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48049",
+      "title": "Brown, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48051",
+      "title": "Burleson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48053",
+      "title": "Burnet, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48055",
+      "title": "Caldwell, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48057",
+      "title": "Calhoun, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48059",
+      "title": "Callahan, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48061",
+      "title": "Cameron, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48063",
+      "title": "Camp, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48065",
+      "title": "Carson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48067",
+      "title": "Cass, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48069",
+      "title": "Castro, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48071",
+      "title": "Chambers, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48073",
+      "title": "Cherokee, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48075",
+      "title": "Childress, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48077",
+      "title": "Clay, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48079",
+      "title": "Cochran, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48081",
+      "title": "Coke, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48083",
+      "title": "Coleman, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48085",
+      "title": "Collin, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48087",
+      "title": "Collingsworth, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48089",
+      "title": "Colorado, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48091",
+      "title": "Comal, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48093",
+      "title": "Comanche, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48095",
+      "title": "Concho, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48097",
+      "title": "Cooke, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48099",
+      "title": "Coryell, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48101",
+      "title": "Cottle, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48103",
+      "title": "Crane, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48105",
+      "title": "Crockett, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48107",
+      "title": "Crosby, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48109",
+      "title": "Culberson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48111",
+      "title": "Dallam, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48113",
+      "title": "Dallas, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48115",
+      "title": "Dawson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48117",
+      "title": "Deaf Smith, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48119",
+      "title": "Delta, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48121",
+      "title": "Denton, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48123",
+      "title": "De Witt, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48125",
+      "title": "Dickens, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48127",
+      "title": "Dimmit, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48129",
+      "title": "Donley, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48131",
+      "title": "Duval, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48133",
+      "title": "Eastland, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48135",
+      "title": "Ector, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48137",
+      "title": "Edwards, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48139",
+      "title": "Ellis, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48141",
+      "title": "El Paso, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48143",
+      "title": "Erath, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48145",
+      "title": "Falls, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48147",
+      "title": "Fannin, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48149",
+      "title": "Fayette, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48151",
+      "title": "Fisher, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48153",
+      "title": "Floyd, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48155",
+      "title": "Foard, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48157",
+      "title": "Fort Bend, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48159",
+      "title": "Franklin, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48161",
+      "title": "Freestone, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48163",
+      "title": "Frio, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48165",
+      "title": "Gaines, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48167",
+      "title": "Galveston, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48169",
+      "title": "Garza, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48171",
+      "title": "Gillespie, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48173",
+      "title": "Glasscock, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48175",
+      "title": "Goliad, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48177",
+      "title": "Gonzales, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48179",
+      "title": "Gray, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48181",
+      "title": "Grayson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48183",
+      "title": "Gregg, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48185",
+      "title": "Grimes, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48187",
+      "title": "Guadalupe, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48189",
+      "title": "Hale, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48191",
+      "title": "Hall, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48193",
+      "title": "Hamilton, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48195",
+      "title": "Hansford, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48197",
+      "title": "Hardeman, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48199",
+      "title": "Hardin, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48201",
+      "title": "Harris, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48203",
+      "title": "Harrison, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48205",
+      "title": "Hartley, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48207",
+      "title": "Haskell, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48209",
+      "title": "Hays, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48211",
+      "title": "Hemphill, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48213",
+      "title": "Henderson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48215",
+      "title": "Hidalgo, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48217",
+      "title": "Hill, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48219",
+      "title": "Hockley, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48221",
+      "title": "Hood, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48223",
+      "title": "Hopkins, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48225",
+      "title": "Houston, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48227",
+      "title": "Howard, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48229",
+      "title": "Hudspeth, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48231",
+      "title": "Hunt, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48233",
+      "title": "Hutchinson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48235",
+      "title": "Irion, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48237",
+      "title": "Jack, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48239",
+      "title": "Jackson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48241",
+      "title": "Jasper, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48243",
+      "title": "Jeff Davis, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48245",
+      "title": "Jefferson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48247",
+      "title": "Jim Hogg, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48249",
+      "title": "Jim Wells, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48251",
+      "title": "Johnson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48253",
+      "title": "Jones, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48255",
+      "title": "Karnes, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48257",
+      "title": "Kaufman, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48259",
+      "title": "Kendall, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48261",
+      "title": "Kenedy, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48263",
+      "title": "Kent, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48265",
+      "title": "Kerr, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48267",
+      "title": "Kimble, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48269",
+      "title": "King, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48271",
+      "title": "Kinney, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48273",
+      "title": "Kleberg, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48275",
+      "title": "Knox, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48277",
+      "title": "Lamar, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48279",
+      "title": "Lamb, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48281",
+      "title": "Lampasas, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48283",
+      "title": "La Salle, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48285",
+      "title": "Lavaca, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48287",
+      "title": "Lee, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48289",
+      "title": "Leon, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48291",
+      "title": "Liberty, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48293",
+      "title": "Limestone, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48295",
+      "title": "Lipscomb, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48297",
+      "title": "Live Oak, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48299",
+      "title": "Llano, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48301",
+      "title": "Loving, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48303",
+      "title": "Lubbock, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48305",
+      "title": "Lynn, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48307",
+      "title": "McCulloch, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48309",
+      "title": "McLennan, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48311",
+      "title": "McMullen, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48313",
+      "title": "Madison, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48315",
+      "title": "Marion, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48317",
+      "title": "Martin, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48319",
+      "title": "Mason, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48321",
+      "title": "Matagorda, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48323",
+      "title": "Maverick, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48325",
+      "title": "Medina, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48327",
+      "title": "Menard, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48329",
+      "title": "Midland, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48331",
+      "title": "Milam, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48333",
+      "title": "Mills, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48335",
+      "title": "Mitchell, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48337",
+      "title": "Montague, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48339",
+      "title": "Montgomery, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48341",
+      "title": "Moore, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48343",
+      "title": "Morris, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48345",
+      "title": "Motley, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48347",
+      "title": "Nacogdoches, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48349",
+      "title": "Navarro, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48351",
+      "title": "Newton, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48353",
+      "title": "Nolan, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48355",
+      "title": "Nueces, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48357",
+      "title": "Ochiltree, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48359",
+      "title": "Oldham, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48361",
+      "title": "Orange, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48363",
+      "title": "Palo Pinto, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48365",
+      "title": "Panola, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48367",
+      "title": "Parker, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48369",
+      "title": "Parmer, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48371",
+      "title": "Pecos, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48373",
+      "title": "Polk, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48375",
+      "title": "Potter, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48377",
+      "title": "Presidio, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48379",
+      "title": "Rains, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48381",
+      "title": "Randall, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48383",
+      "title": "Reagan, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48385",
+      "title": "Real, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48387",
+      "title": "Red River, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48389",
+      "title": "Reeves, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48391",
+      "title": "Refugio, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48393",
+      "title": "Roberts, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48395",
+      "title": "Robertson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48397",
+      "title": "Rockwall, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48399",
+      "title": "Runnels, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48401",
+      "title": "Rusk, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48403",
+      "title": "Sabine, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48405",
+      "title": "San Augustine, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48407",
+      "title": "San Jacinto, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48409",
+      "title": "San Patricio, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48411",
+      "title": "San Saba, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48413",
+      "title": "Schleicher, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48415",
+      "title": "Scurry, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48417",
+      "title": "Shackelford, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48419",
+      "title": "Shelby, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48421",
+      "title": "Sherman, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48423",
+      "title": "Smith, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48425",
+      "title": "Somervell, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48427",
+      "title": "Starr, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48429",
+      "title": "Stephens, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48431",
+      "title": "Sterling, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48433",
+      "title": "Stonewall, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48435",
+      "title": "Sutton, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48437",
+      "title": "Swisher, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48439",
+      "title": "Tarrant, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48441",
+      "title": "Taylor, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48443",
+      "title": "Terrell, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48445",
+      "title": "Terry, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48447",
+      "title": "Throckmorton, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48449",
+      "title": "Titus, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48451",
+      "title": "Tom Green, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48453",
+      "title": "Travis, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48455",
+      "title": "Trinity, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48457",
+      "title": "Tyler, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48459",
+      "title": "Upshur, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48461",
+      "title": "Upton, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48463",
+      "title": "Uvalde, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48465",
+      "title": "Val Verde, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48467",
+      "title": "Van Zandt, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48469",
+      "title": "Victoria, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48471",
+      "title": "Walker, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48473",
+      "title": "Waller, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48475",
+      "title": "Ward, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48477",
+      "title": "Washington, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48479",
+      "title": "Webb, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48481",
+      "title": "Wharton, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48483",
+      "title": "Wheeler, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48485",
+      "title": "Wichita, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48487",
+      "title": "Wilbarger, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48489",
+      "title": "Willacy, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48491",
+      "title": "Williamson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48493",
+      "title": "Wilson, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48495",
+      "title": "Winkler, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48497",
+      "title": "Wise, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48499",
+      "title": "Wood, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48501",
+      "title": "Yoakum, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48503",
+      "title": "Young, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48505",
+      "title": "Zapata, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "48507",
+      "title": "Zavala, TX",
+      "scores": {
+        "Political Accountability": 1572.8571428571427,
+        "Rule of Law": 1820.0,
+        "Government Integrity": 1658.0682706273958
+      }
+    },
+    {
+      "id": "6001",
+      "title": "Alameda, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6003",
+      "title": "Alpine, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6005",
+      "title": "Amador, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6007",
+      "title": "Butte, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6009",
+      "title": "Calaveras, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6011",
+      "title": "Colusa, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6013",
+      "title": "Contra Costa, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6015",
+      "title": "Del Norte, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6017",
+      "title": "El Dorado, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6019",
+      "title": "Fresno, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6021",
+      "title": "Glenn, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6023",
+      "title": "Humboldt, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6025",
+      "title": "Imperial, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6027",
+      "title": "Inyo, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6029",
+      "title": "Kern, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6031",
+      "title": "Kings, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6033",
+      "title": "Lake, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6035",
+      "title": "Lassen, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6037",
+      "title": "Los Angeles, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6039",
+      "title": "Madera, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6041",
+      "title": "Marin, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6043",
+      "title": "Mariposa, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6045",
+      "title": "Mendocino, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6047",
+      "title": "Merced, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6049",
+      "title": "Modoc, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6051",
+      "title": "Mono, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6053",
+      "title": "Monterey, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6055",
+      "title": "Napa, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6057",
+      "title": "Nevada, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6059",
+      "title": "Orange, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6061",
+      "title": "Placer, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6063",
+      "title": "Plumas, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6065",
+      "title": "Riverside, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6067",
+      "title": "Sacramento, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6069",
+      "title": "San Benito, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6071",
+      "title": "San Bernardino, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6073",
+      "title": "San Diego, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6075",
+      "title": "San Francisco, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6077",
+      "title": "San Joaquin, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6079",
+      "title": "San Luis Obispo, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6081",
+      "title": "San Mateo, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6083",
+      "title": "Santa Barbara, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6085",
+      "title": "Santa Clara, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6087",
+      "title": "Santa Cruz, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6089",
+      "title": "Shasta, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6091",
+      "title": "Sierra, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6093",
+      "title": "Siskiyou, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6095",
+      "title": "Solano, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6097",
+      "title": "Sonoma, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6099",
+      "title": "Stanislaus, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6101",
+      "title": "Sutter, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6103",
+      "title": "Tehama, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6105",
+      "title": "Trinity, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6107",
+      "title": "Tulare, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6109",
+      "title": "Tuolumne, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6111",
+      "title": "Ventura, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6113",
+      "title": "Yolo, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "6115",
+      "title": "Yuba, CA",
+      "scores": {
+        "Political Accountability": 1912.5,
+        "Rule of Law": 2047.5000000000002,
+        "Government Integrity": 2209.2011320762103
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Adams, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Alamosa, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Arapahoe, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Archuleta, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Baca, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Bent, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Boulder, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Broomfield, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Chaffee, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Cheyenne, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Clear Creek, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Conejos, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Costilla, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Crowley, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Custer, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Delta, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Denver, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Dolores, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Douglas, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Eagle, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Elbert, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8041",
+      "title": "El Paso, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Fremont, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Garfield, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Gilpin, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Grand, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Gunnison, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Hinsdale, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Huerfano, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Jackson, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Jefferson, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Kiowa, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Kit Carson, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Lake, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8067",
+      "title": "La Plata, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Larimer, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Las Animas, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Lincoln, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Logan, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Mesa, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Mineral, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Moffat, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Montezuma, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Montrose, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Morgan, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Otero, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Ouray, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Park, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Phillips, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Pitkin, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Prowers, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Pueblo, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Rio Blanco, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Rio Grande, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Routt, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Saguache, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8111",
+      "title": "San Juan, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8113",
+      "title": "San Miguel, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Sedgwick, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Summit, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Teller, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Washington, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Weld, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    },
+    {
+      "id": "8125",
+      "title": "Yuma, CO",
+      "scores": {
+        "Political Accountability": 2522.1428571428573,
+        "Rule of Law": 2800.0,
+        "Government Integrity": 2248.4866651770053
+      }
+    }
+  ],
+  "derivatives": {
+    "Governance": [
+      "Political Accountability",
+      "Rule of Law",
+      "Government Integrity"
+    ]
+  },
+  "weightingOptions": {
+    "Political Accountability": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Rule of Law": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Government Integrity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

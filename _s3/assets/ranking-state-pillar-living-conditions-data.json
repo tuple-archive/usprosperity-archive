@@ -1,0 +1,778 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Material Resources": 180497542,
+        "Nutrition": 93140673,
+        "Water Services": 61233430,
+        "Shelter": 73114822,
+        "Connectedness": 121099999,
+        "Protection from Harm": 49031289
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Material Resources": 111443983,
+        "Nutrition": 65610501,
+        "Water Services": 129771290,
+        "Shelter": 125956478,
+        "Connectedness": 113811666,
+        "Protection from Harm": 69538036
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Material Resources": 106193671,
+        "Nutrition": 67237852,
+        "Water Services": 102797725,
+        "Shelter": 108271256,
+        "Connectedness": 101493333,
+        "Protection from Harm": 77984859
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Material Resources": 149986613,
+        "Nutrition": 96988244,
+        "Water Services": 99546630,
+        "Shelter": 71453438,
+        "Connectedness": 106950000,
+        "Protection from Harm": 83551529
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Material Resources": 177386080,
+        "Nutrition": 108481191,
+        "Water Services": 96922011,
+        "Shelter": 26674848,
+        "Connectedness": 135808333,
+        "Protection from Harm": 126807373
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Material Resources": 204858498,
+        "Nutrition": 106003134,
+        "Water Services": 109426743,
+        "Shelter": 92239220,
+        "Connectedness": 133000000,
+        "Protection from Harm": 70884084
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Material Resources": 197506920,
+        "Nutrition": 97764106,
+        "Water Services": 127717224,
+        "Shelter": 115067147,
+        "Connectedness": 138191666,
+        "Protection from Harm": 118818423
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Material Resources": 159609636,
+        "Nutrition": 113930250,
+        "Water Services": 52893744,
+        "Shelter": 90595379,
+        "Connectedness": 128588333,
+        "Protection from Harm": 128461485
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Material Resources": 185391541,
+        "Nutrition": 105865203,
+        "Water Services": 133874808,
+        "Shelter": 103705558,
+        "Connectedness": 140503333,
+        "Protection from Harm": 105541702
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Material Resources": 148855129,
+        "Nutrition": 99000000,
+        "Water Services": 123190458,
+        "Shelter": 83328236,
+        "Connectedness": 131511666,
+        "Protection from Harm": 92725563
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Material Resources": 144052083,
+        "Nutrition": 106420454,
+        "Water Services": 127654438,
+        "Shelter": 103828327,
+        "Connectedness": 129051666,
+        "Protection from Harm": 96171483
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Material Resources": 213179822,
+        "Nutrition": 113093652,
+        "Water Services": 87490102,
+        "Shelter": 36855573,
+        "Connectedness": 127109999,
+        "Protection from Harm": 110188004
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Material Resources": 188238976,
+        "Nutrition": 111991379,
+        "Water Services": 121113906,
+        "Shelter": 114130656,
+        "Connectedness": 122111666,
+        "Protection from Harm": 83941829
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Material Resources": 172736012,
+        "Nutrition": 119682993,
+        "Water Services": 99709275,
+        "Shelter": 97426226,
+        "Connectedness": 114611666,
+        "Protection from Harm": 68464354
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Material Resources": 174201643,
+        "Nutrition": 104995689,
+        "Water Services": 127833902,
+        "Shelter": 106713826,
+        "Connectedness": 118694999,
+        "Protection from Harm": 114155864
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Material Resources": 156796029,
+        "Nutrition": 92663793,
+        "Water Services": 114079221,
+        "Shelter": 112038303,
+        "Connectedness": 122736666,
+        "Protection from Harm": 91007384
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Material Resources": 167222125,
+        "Nutrition": 82102272,
+        "Water Services": 96992542,
+        "Shelter": 119066637,
+        "Connectedness": 122456666,
+        "Protection from Harm": 75883234
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Material Resources": 110279989,
+        "Nutrition": 79373824,
+        "Water Services": 112591733,
+        "Shelter": 125028398,
+        "Connectedness": 122293333,
+        "Protection from Harm": 72374840
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Material Resources": 82954631,
+        "Nutrition": 45925156,
+        "Water Services": 70808043,
+        "Shelter": 114113933,
+        "Connectedness": 108368333,
+        "Protection from Harm": 76012484
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Material Resources": 197922566,
+        "Nutrition": 131579153,
+        "Water Services": 123134793,
+        "Shelter": 115641635,
+        "Connectedness": 134440000,
+        "Protection from Harm": 118941298
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Material Resources": 208336979,
+        "Nutrition": 97722570,
+        "Water Services": 136114992,
+        "Shelter": 100562370,
+        "Connectedness": 139041666,
+        "Protection from Harm": 106988472
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Material Resources": 198730881,
+        "Nutrition": 94212382,
+        "Water Services": 107635234,
+        "Shelter": 129543725,
+        "Connectedness": 122505000,
+        "Protection from Harm": 61049617
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Material Resources": 163206501,
+        "Nutrition": 90635579,
+        "Water Services": 130576249,
+        "Shelter": 111833428,
+        "Connectedness": 124663333,
+        "Protection from Harm": 97253771
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Material Resources": 229498339,
+        "Nutrition": 120983934,
+        "Water Services": 139869174,
+        "Shelter": 108917193,
+        "Connectedness": 132991666,
+        "Protection from Harm": 82089619
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Material Resources": 158035468,
+        "Nutrition": 94684561,
+        "Water Services": 125269040,
+        "Shelter": 116545344,
+        "Connectedness": 116876666,
+        "Protection from Harm": 74121228
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Material Resources": 63019714,
+        "Nutrition": 54476489,
+        "Water Services": 106034798,
+        "Shelter": 121405070,
+        "Connectedness": 104056666,
+        "Protection from Harm": 37708935
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Material Resources": 166930075,
+        "Nutrition": 108959247,
+        "Water Services": 103924685,
+        "Shelter": 112120784,
+        "Connectedness": 114988333,
+        "Protection from Harm": 47387377
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Material Resources": 146377443,
+        "Nutrition": 92580721,
+        "Water Services": 130763295,
+        "Shelter": 111853840,
+        "Connectedness": 130489999,
+        "Protection from Harm": 76565342
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Material Resources": 185333521,
+        "Nutrition": 118144984,
+        "Water Services": 120154868,
+        "Shelter": 123743386,
+        "Connectedness": 130234999,
+        "Protection from Harm": 82253453
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Material Resources": 199396202,
+        "Nutrition": 99468260,
+        "Water Services": 103828854,
+        "Shelter": 117135536,
+        "Connectedness": 114799999,
+        "Protection from Harm": 85904005
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Material Resources": 233659250,
+        "Nutrition": 138579545,
+        "Water Services": 116530382,
+        "Shelter": 115312504,
+        "Connectedness": 131203333,
+        "Protection from Harm": 96135943
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Material Resources": 212827481,
+        "Nutrition": 130080721,
+        "Water Services": 111963845,
+        "Shelter": 96254179,
+        "Connectedness": 142035000,
+        "Protection from Harm": 136237356
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Material Resources": 91431231,
+        "Nutrition": 66579937,
+        "Water Services": 58483317,
+        "Shelter": 105133273,
+        "Connectedness": 96138333,
+        "Protection from Harm": 42174033
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Material Resources": 136636501,
+        "Nutrition": 72295062,
+        "Water Services": 102748417,
+        "Shelter": 60540562,
+        "Connectedness": 109276666,
+        "Protection from Harm": 104544358
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Material Resources": 176044846,
+        "Nutrition": 107246081,
+        "Water Services": 121407489,
+        "Shelter": 75811081,
+        "Connectedness": 131320000,
+        "Protection from Harm": 137338610
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Material Resources": 151581404,
+        "Nutrition": 80892241,
+        "Water Services": 114393778,
+        "Shelter": 118494000,
+        "Connectedness": 122616666,
+        "Protection from Harm": 91059339
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Material Resources": 115891717,
+        "Nutrition": 66410658,
+        "Water Services": 75527348,
+        "Shelter": 108342090,
+        "Connectedness": 113170000,
+        "Protection from Harm": 50405705
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Material Resources": 169411329,
+        "Nutrition": 112621081,
+        "Water Services": 99879473,
+        "Shelter": 61958173,
+        "Connectedness": 127398333,
+        "Protection from Harm": 78610390
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Material Resources": 183766723,
+        "Nutrition": 106215909,
+        "Water Services": 106757005,
+        "Shelter": 115179410,
+        "Connectedness": 120276666,
+        "Protection from Harm": 102637484
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Material Resources": 174043792,
+        "Nutrition": 119788793,
+        "Water Services": 109430153,
+        "Shelter": 127791478,
+        "Connectedness": 131749999,
+        "Protection from Harm": 99935826
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Material Resources": 142066445,
+        "Nutrition": 100130094,
+        "Water Services": 126320136,
+        "Shelter": 109299097,
+        "Connectedness": 121873333,
+        "Protection from Harm": 60715575
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Material Resources": 175396671,
+        "Nutrition": 100266065,
+        "Water Services": 103907216,
+        "Shelter": 124018769,
+        "Connectedness": 122074999,
+        "Protection from Harm": 48420101
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Material Resources": 122779606,
+        "Nutrition": 83258228,
+        "Water Services": 119177067,
+        "Shelter": 111774969,
+        "Connectedness": 121736666,
+        "Protection from Harm": 67961060
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Material Resources": 134754518,
+        "Nutrition": 81319357,
+        "Water Services": 103658714,
+        "Shelter": 74592855,
+        "Connectedness": 130758333,
+        "Protection from Harm": 97967753
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Material Resources": 205795252,
+        "Nutrition": 109380094,
+        "Water Services": 112991353,
+        "Shelter": 95379655,
+        "Connectedness": 127624999,
+        "Protection from Harm": 95171111
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Material Resources": 191531746,
+        "Nutrition": 113422413,
+        "Water Services": 131073214,
+        "Shelter": 112287008,
+        "Connectedness": 125158333,
+        "Protection from Harm": 105037452
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Material Resources": 203725100,
+        "Nutrition": 131736677,
+        "Water Services": 116727325,
+        "Shelter": 119835482,
+        "Connectedness": 115651666,
+        "Protection from Harm": 72622343
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Material Resources": 201709770,
+        "Nutrition": 115468260,
+        "Water Services": 117587101,
+        "Shelter": 77625776,
+        "Connectedness": 134100000,
+        "Protection from Harm": 95420208
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Material Resources": 191877736,
+        "Nutrition": 108684561,
+        "Water Services": 123482229,
+        "Shelter": 114201259,
+        "Connectedness": 118561666,
+        "Protection from Harm": 56365384
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Material Resources": 95099160,
+        "Nutrition": 63335815,
+        "Water Services": 83093616,
+        "Shelter": 135375978,
+        "Connectedness": 95565000,
+        "Protection from Harm": 38701338
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Material Resources": 178767343,
+        "Nutrition": 88288009,
+        "Water Services": 110991113,
+        "Shelter": 129440543,
+        "Connectedness": 121371666,
+        "Protection from Harm": 26826923
+      }
+    }
+  ],
+  "derivatives": {
+    "Living Conditions": [
+      "Material Resources",
+      "Nutrition",
+      "Water Services",
+      "Shelter",
+      "Connectedness",
+      "Protection from Harm"
+    ]
+  },
+  "weightingOptions": {
+    "Material Resources": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Nutrition": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Water Services": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Shelter": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Connectedness": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Protection from Harm": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

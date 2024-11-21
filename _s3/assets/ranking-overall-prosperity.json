@@ -1,0 +1,1180 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Health": 54.973099705460631233,
+        "Education": 39.873585589935903556,
+        "Governance": 60.429925559790000000,
+        "Social Capital": 52.496595044912017001,
+        "Economic Quality": 61.870707436162402364,
+        "Personal Freedom": 57.274999049117707744,
+        "Living Conditions": 60.099060595500000000,
+        "Natural Environment": 61.881469713886568343,
+        "Safety and Security": 42.519051352500000000,
+        "Business Environment": 38.087572792292217294,
+        "Market Access and Infrastructure": 35.281958986660193975
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Health": 39.098811791687254165,
+        "Education": 35.967054365998286423,
+        "Governance": 40.127251786875000000,
+        "Social Capital": 39.858378359667069904,
+        "Economic Quality": 51.033834116337324330,
+        "Personal Freedom": 42.803603532049679385,
+        "Living Conditions": 59.688976957000000000,
+        "Natural Environment": 37.263633582801716247,
+        "Safety and Security": 46.540384218937090273,
+        "Business Environment": 49.715104273590235731,
+        "Market Access and Infrastructure": 57.739521992024662571
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Health": 34.466096710612997936,
+        "Education": 38.445994637456003597,
+        "Governance": 48.827840909685000000,
+        "Social Capital": 33.444414491199427831,
+        "Economic Quality": 43.833983933703678254,
+        "Personal Freedom": 41.668981505981105739,
+        "Living Conditions": 55.364113721500000000,
+        "Natural Environment": 37.083179571224656401,
+        "Safety and Security": 45.241778670584877721,
+        "Business Environment": 38.923348011503180984,
+        "Market Access and Infrastructure": 42.610269029863927292
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Health": 59.258591118168433946,
+        "Education": 41.365422685020859302,
+        "Governance": 67.685572482200000000,
+        "Social Capital": 31.140711473126881518,
+        "Economic Quality": 52.383927710254528029,
+        "Personal Freedom": 54.623736170372407352,
+        "Living Conditions": 58.461893092000000000,
+        "Natural Environment": 58.118804743623638861,
+        "Safety and Security": 51.986164862574888041,
+        "Business Environment": 43.992696715226934615,
+        "Market Access and Infrastructure": 46.073326428401861262
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Health": 70.601946347269585352,
+        "Education": 44.700497922754695368,
+        "Governance": 61.692011322535000000,
+        "Social Capital": 35.102129874512784799,
+        "Economic Quality": 68.810537301991946489,
+        "Personal Freedom": 57.727244670505440453,
+        "Living Conditions": 64.868521933000000000,
+        "Natural Environment": 61.366566898117856299,
+        "Safety and Security": 52.362918998407814071,
+        "Business Environment": 48.618949618809130510,
+        "Market Access and Infrastructure": 53.222648163640500917
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Health": 67.684926281718303316,
+        "Education": 61.439007053251025077,
+        "Governance": 75.706295220465000000,
+        "Social Capital": 50.925034197298250280,
+        "Economic Quality": 58.408180690757577849,
+        "Personal Freedom": 65.231701084247099523,
+        "Living Conditions": 71.254008474000000000,
+        "Natural Environment": 63.826078972485731992,
+        "Safety and Security": 53.656949535028122275,
+        "Business Environment": 63.737008743155563450,
+        "Market Access and Infrastructure": 49.170906022852536935
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Health": 74.669743120611266912,
+        "Education": 63.652768365392008459,
+        "Governance": 80.033586892865000000,
+        "Social Capital": 45.200054653739389177,
+        "Economic Quality": 55.884873415681481706,
+        "Personal Freedom": 75.229753542744767360,
+        "Living Conditions": 79.803021922000000000,
+        "Natural Environment": 69.360452464945196375,
+        "Safety and Security": 72.392976370514621852,
+        "Business Environment": 60.563456160040038378,
+        "Market Access and Infrastructure": 65.351382023776097620
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Health": 62.275602800523642150,
+        "Education": 63.842315885108125638,
+        "Governance": 80.429138847100000000,
+        "Social Capital": 45.687408067913600851,
+        "Economic Quality": 67.648662146085383758,
+        "Personal Freedom": 71.087545435745733303,
+        "Living Conditions": 61.554488933500000000,
+        "Natural Environment": 55.427723612335540433,
+        "Safety and Security": 34.584240518865273958,
+        "Business Environment": 65.420393882175295120,
+        "Market Access and Infrastructure": 71.433791288672035110
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Health": 56.313830542031378266,
+        "Education": 51.566080796540275940,
+        "Governance": 64.221825497715000000,
+        "Social Capital": 43.835257516668501600,
+        "Economic Quality": 68.655214417681690087,
+        "Personal Freedom": 52.720232629761694804,
+        "Living Conditions": 77.546729940000000000,
+        "Natural Environment": 51.988179405590971030,
+        "Safety and Security": 56.676678311410354596,
+        "Business Environment": 54.201151867468192670,
+        "Market Access and Infrastructure": 63.704459007956231348
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Health": 55.822086317245499443,
+        "Education": 51.666378732833558822,
+        "Governance": 54.152198901695000000,
+        "Social Capital": 32.534694979902204563,
+        "Economic Quality": 59.509181074648683310,
+        "Personal Freedom": 60.184664798486785245,
+        "Living Conditions": 66.600106774000000000,
+        "Natural Environment": 60.741609909117316706,
+        "Safety and Security": 53.413636100520722778,
+        "Business Environment": 46.957058395920625981,
+        "Market Access and Infrastructure": 62.768902128795184081
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Health": 51.971601071631948812,
+        "Education": 47.274124141114075758,
+        "Governance": 40.925229948780000000,
+        "Social Capital": 34.499934389284581442,
+        "Economic Quality": 64.070500677312458398,
+        "Personal Freedom": 38.163922078236877371,
+        "Living Conditions": 68.791032820500000000,
+        "Natural Environment": 48.786108413321364586,
+        "Safety and Security": 55.477287325947943997,
+        "Business Environment": 54.533926273399138849,
+        "Market Access and Infrastructure": 59.151744815825490124
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Health": 77.976631478219823208,
+        "Education": 48.911373024702268532,
+        "Governance": 73.243556119450000000,
+        "Social Capital": 47.184135609032506486,
+        "Economic Quality": 50.576471329548897391,
+        "Personal Freedom": 60.674760641730926356,
+        "Living Conditions": 69.180103103000000000,
+        "Natural Environment": 63.972542482479188897,
+        "Safety and Security": 63.874033706250000000,
+        "Business Environment": 34.389180173690202444,
+        "Market Access and Infrastructure": 46.628888124115860208
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Health": 67.176921345638848855,
+        "Education": 58.143280616840706022,
+        "Governance": 67.511616512030000000,
+        "Social Capital": 53.263475395920459589,
+        "Economic Quality": 65.418647663521537083,
+        "Personal Freedom": 65.004325761281123933,
+        "Living Conditions": 74.061040539000000000,
+        "Natural Environment": 41.463721445265233195,
+        "Safety and Security": 70.462921474897363117,
+        "Business Environment": 44.934164529235148453,
+        "Market Access and Infrastructure": 61.631023850920540420
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Health": 58.436953748288424722,
+        "Education": 45.728602758285592785,
+        "Governance": 54.647783392355000000,
+        "Social Capital": 52.625818771823781923,
+        "Economic Quality": 61.155505696042646980,
+        "Personal Freedom": 53.952268924537752103,
+        "Living Conditions": 66.359779879000000000,
+        "Natural Environment": 50.571739681512373224,
+        "Safety and Security": 73.325553089507894353,
+        "Business Environment": 51.062520367111531774,
+        "Market Access and Infrastructure": 48.951288643258951480
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Health": 64.363263190902938906,
+        "Education": 54.819166349096790303,
+        "Governance": 63.112658173870000000,
+        "Social Capital": 42.369252512457217355,
+        "Economic Quality": 44.309686219564519028,
+        "Personal Freedom": 66.424434620226439502,
+        "Living Conditions": 72.629088791500000000,
+        "Natural Environment": 44.861996275372616629,
+        "Safety and Security": 54.679619242249432807,
+        "Business Environment": 62.069162468603061812,
+        "Market Access and Infrastructure": 63.848298031915809546
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Health": 48.109573076271218774,
+        "Education": 54.103372637413979316,
+        "Governance": 51.186220723270000000,
+        "Social Capital": 48.681813349186826516,
+        "Economic Quality": 58.432263103502564364,
+        "Personal Freedom": 54.937354255024026848,
+        "Living Conditions": 66.309638374000000000,
+        "Natural Environment": 36.202588106853980471,
+        "Safety and Security": 56.507176387981729363,
+        "Business Environment": 60.940034575744426431,
+        "Market Access and Infrastructure": 60.107584585858668319
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Health": 57.152851828163899596,
+        "Education": 52.682806340283382787,
+        "Governance": 44.208459949070000000,
+        "Social Capital": 51.502511697011121482,
+        "Economic Quality": 57.674142843235536435,
+        "Personal Freedom": 57.810811402455142820,
+        "Living Conditions": 64.450017179000000000,
+        "Natural Environment": 41.579981868861084801,
+        "Safety and Security": 53.294813959637007127,
+        "Business Environment": 60.866625048733711474,
+        "Market Access and Infrastructure": 54.870595938230604689
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Health": 40.374468869377439373,
+        "Education": 45.430463969164468467,
+        "Governance": 54.185373590085000000,
+        "Social Capital": 36.772868945978897397,
+        "Economic Quality": 40.554568407994389013,
+        "Personal Freedom": 50.431452604745872376,
+        "Living Conditions": 59.553967872000000000,
+        "Natural Environment": 38.327413164614438868,
+        "Safety and Security": 63.016598177554555092,
+        "Business Environment": 50.909278278194807626,
+        "Market Access and Infrastructure": 53.739509919540187682
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Health": 43.163665062952023678,
+        "Education": 35.437238819487440640,
+        "Governance": 38.489282292305000000,
+        "Social Capital": 32.672097835182051869,
+        "Economic Quality": 53.565420721927986451,
+        "Personal Freedom": 51.990976319914822730,
+        "Living Conditions": 49.621642696500000000,
+        "Natural Environment": 36.786682005815013327,
+        "Safety and Security": 38.844254401706244158,
+        "Business Environment": 40.570608681836252434,
+        "Market Access and Infrastructure": 43.732891143614002246
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Health": 73.101708670302383929,
+        "Education": 74.064732537890701845,
+        "Governance": 75.900796402990000000,
+        "Social Capital": 48.650243282022283449,
+        "Economic Quality": 62.565555801551292893,
+        "Personal Freedom": 74.602792122603594363,
+        "Living Conditions": 80.703008975000000000,
+        "Natural Environment": 68.013238148592188310,
+        "Safety and Security": 71.329940735442579565,
+        "Business Environment": 66.751688444003966388,
+        "Market Access and Infrastructure": 61.596409468503398519
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Health": 64.171412820148905025,
+        "Education": 59.819896896555444768,
+        "Governance": 69.396760514650000000,
+        "Social Capital": 42.392014562494215299,
+        "Economic Quality": 57.580055849161917811,
+        "Personal Freedom": 61.250357473546125950,
+        "Living Conditions": 79.176972748500000000,
+        "Natural Environment": 58.320485498717161042,
+        "Safety and Security": 53.714675155168385285,
+        "Business Environment": 54.131894503411739492,
+        "Market Access and Infrastructure": 62.230340687168657763
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Health": 59.007182288982439503,
+        "Education": 54.297438120828419379,
+        "Governance": 69.830159977680000000,
+        "Social Capital": 56.399199229172997853,
+        "Economic Quality": 50.366323811997643110,
+        "Personal Freedom": 65.770681927362055637,
+        "Living Conditions": 69.234288014000000000,
+        "Natural Environment": 64.086578024814424362,
+        "Safety and Security": 83.873790682511632745,
+        "Business Environment": 50.908635927746533206,
+        "Market Access and Infrastructure": 35.058815688581773809
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Health": 55.623363329471828922,
+        "Education": 54.890605217952468028,
+        "Governance": 67.687910888910000000,
+        "Social Capital": 45.203390189847197738,
+        "Economic Quality": 54.775814466081909888,
+        "Personal Freedom": 57.222927960470403394,
+        "Living Conditions": 69.750535299000000000,
+        "Natural Environment": 50.455562550600197913,
+        "Safety and Security": 55.202224971764943970,
+        "Business Environment": 54.009512621433370492,
+        "Market Access and Infrastructure": 47.805059782200789872
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Health": 73.278424084753993270,
+        "Education": 63.276192715785365590,
+        "Governance": 66.646723915405000000,
+        "Social Capital": 63.267436535655442080,
+        "Economic Quality": 60.940160614509470159,
+        "Personal Freedom": 60.175813097949406044,
+        "Living Conditions": 80.314562424000000000,
+        "Natural Environment": 57.697688992942395409,
+        "Safety and Security": 68.684457877891164286,
+        "Business Environment": 59.456158244552931204,
+        "Market Access and Infrastructure": 54.918326065210615580
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Health": 49.988291884696139465,
+        "Education": 51.281011311504658979,
+        "Governance": 51.378340152045000000,
+        "Social Capital": 45.804758668184218671,
+        "Economic Quality": 54.641648390113275631,
+        "Personal Freedom": 41.856565808702934847,
+        "Living Conditions": 68.264507142000000000,
+        "Natural Environment": 44.927774306903082724,
+        "Safety and Security": 46.286626931231031805,
+        "Business Environment": 62.660806321934169830,
+        "Market Access and Infrastructure": 56.162495087109635676
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Health": 34.197129680553095868,
+        "Education": 37.262937870555188812,
+        "Governance": 31.808167146310000000,
+        "Social Capital": 39.255546526935262222,
+        "Economic Quality": 35.857423281870077253,
+        "Personal Freedom": 48.181782598984724932,
+        "Living Conditions": 49.419396804000000000,
+        "Natural Environment": 40.426840257365481397,
+        "Safety and Security": 58.023930445883099314,
+        "Business Environment": 41.938672416027309412,
+        "Market Access and Infrastructure": 42.472702123925294598
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Health": 59.500789481052183705,
+        "Education": 52.607625199812068560,
+        "Governance": 58.412367188580000000,
+        "Social Capital": 53.766242828523005719,
+        "Economic Quality": 50.830541744464840943,
+        "Personal Freedom": 56.892314773020299690,
+        "Living Conditions": 65.466638273000000000,
+        "Natural Environment": 50.085749638051086515,
+        "Safety and Security": 60.555050577146279036,
+        "Business Environment": 55.384463497106140234,
+        "Market Access and Infrastructure": 44.110819205618518716
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Health": 55.879796675171961689,
+        "Education": 51.530063693358736002,
+        "Governance": 65.121198935005000000,
+        "Social Capital": 37.307129754720463239,
+        "Economic Quality": 58.168740170494866938,
+        "Personal Freedom": 45.798326922641584425,
+        "Living Conditions": 67.322709101000000000,
+        "Natural Environment": 48.780429233790227629,
+        "Safety and Security": 54.392447798810365989,
+        "Business Environment": 58.844617485323075290,
+        "Market Access and Infrastructure": 57.375491423940374629
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Health": 63.381486733644218822,
+        "Education": 53.840506805722472474,
+        "Governance": 54.939033202170000000,
+        "Social Capital": 57.753185343104250078,
+        "Economic Quality": 72.508244698476197821,
+        "Personal Freedom": 61.616903882590816520,
+        "Living Conditions": 75.512587743500000000,
+        "Natural Environment": 47.011270126780228685,
+        "Safety and Security": 65.546051101385279698,
+        "Business Environment": 49.258512831099584695,
+        "Market Access and Infrastructure": 66.223679116120334486
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Health": 68.663087620492229979,
+        "Education": 58.482607539799453687,
+        "Governance": 69.368689312015000000,
+        "Social Capital": 57.319019970060879604,
+        "Economic Quality": 61.345189764760678859,
+        "Personal Freedom": 55.337171638219217943,
+        "Living Conditions": 68.305651638000000000,
+        "Natural Environment": 41.456586060167421257,
+        "Safety and Security": 63.979768559522736080,
+        "Business Environment": 56.423236962334337752,
+        "Market Access and Infrastructure": 52.380918833464403817
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Health": 65.844528712983202240,
+        "Education": 63.724385995228083262,
+        "Governance": 55.194859989530000000,
+        "Social Capital": 55.885526514766926232,
+        "Economic Quality": 57.401650636527365532,
+        "Personal Freedom": 67.401788303895346122,
+        "Living Conditions": 79.736935519000000000,
+        "Natural Environment": 67.061688054476285952,
+        "Safety and Security": 81.883857533750000000,
+        "Business Environment": 61.891453485648271191,
+        "Market Access and Infrastructure": 52.471020731651766901
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Health": 66.778940239591011107,
+        "Education": 66.261445586545751586,
+        "Governance": 46.759990542855000000,
+        "Social Capital": 42.415550479542933186,
+        "Economic Quality": 51.934682805191187263,
+        "Personal Freedom": 65.058280492052554718,
+        "Living Conditions": 82.213930498000000000,
+        "Natural Environment": 62.278270134684029589,
+        "Safety and Security": 72.909186626774528933,
+        "Business Environment": 53.441061385511099973,
+        "Market Access and Infrastructure": 67.163913663471830774
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Health": 53.374481774308464372,
+        "Education": 31.326954261370386670,
+        "Governance": 67.423756620300000000,
+        "Social Capital": 30.748363729894691641,
+        "Economic Quality": 47.386207313733272961,
+        "Personal Freedom": 68.136573169112475245,
+        "Living Conditions": 42.258161345500000000,
+        "Natural Environment": 56.790945889145429661,
+        "Safety and Security": 36.525392484480474090,
+        "Business Environment": 42.239250125313475758,
+        "Market Access and Infrastructure": 36.404817192268748974
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Health": 51.133525908570799136,
+        "Education": 34.325472745226929823,
+        "Governance": 51.617813054080000000,
+        "Social Capital": 20.654469910747434526,
+        "Economic Quality": 55.922709100063372086,
+        "Personal Freedom": 47.767398865000091500,
+        "Living Conditions": 56.798132122500000000,
+        "Natural Environment": 62.944627142389711709,
+        "Safety and Security": 34.858228487087977316,
+        "Business Environment": 37.487274186652344623,
+        "Market Access and Infrastructure": 49.546154722552566086
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Health": 72.434349922332902410,
+        "Education": 54.572775840694182947,
+        "Governance": 48.770810677355000000,
+        "Social Capital": 35.860576466026471352,
+        "Economic Quality": 64.970170808078386734,
+        "Personal Freedom": 63.536961978322562614,
+        "Living Conditions": 74.149384332000000000,
+        "Natural Environment": 64.604028533981852481,
+        "Safety and Security": 68.928970782858740736,
+        "Business Environment": 68.632293393217638733,
+        "Market Access and Infrastructure": 61.011847558728972477
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Health": 50.248857745443995654,
+        "Education": 54.690824923547141586,
+        "Governance": 63.513395424675000000,
+        "Social Capital": 42.474323586739100496,
+        "Economic Quality": 54.304004550923256673,
+        "Personal Freedom": 43.469798664475849845,
+        "Living Conditions": 67.043102137500000000,
+        "Natural Environment": 38.923641246616319433,
+        "Safety and Security": 58.583826825082576499,
+        "Business Environment": 54.884394902569921930,
+        "Market Access and Infrastructure": 60.256195199879657533
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Health": 41.751836662509456878,
+        "Education": 42.448566364675800304,
+        "Governance": 35.816067666250000000,
+        "Social Capital": 35.677147381489276358,
+        "Economic Quality": 57.644675145671832060,
+        "Personal Freedom": 46.643123943372331605,
+        "Living Conditions": 50.022439428500000000,
+        "Natural Environment": 37.203804538533389870,
+        "Safety and Security": 49.758947844284306584,
+        "Business Environment": 47.515827969867587462,
+        "Market Access and Infrastructure": 42.091889913076704279
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Health": 62.385624111412852764,
+        "Education": 51.588128872746248391,
+        "Governance": 66.519080510570000000,
+        "Social Capital": 48.517912548298989293,
+        "Economic Quality": 60.830675289393560296,
+        "Personal Freedom": 60.663423428044979934,
+        "Living Conditions": 63.095109988000000000,
+        "Natural Environment": 59.868204117986445833,
+        "Safety and Security": 59.828967134587125464,
+        "Business Environment": 41.425366339761232877,
+        "Market Access and Infrastructure": 56.652525741724623458
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Health": 60.263333099856659007,
+        "Education": 59.246514678694230115,
+        "Governance": 40.080991316965000000,
+        "Social Capital": 45.363352676082851710,
+        "Economic Quality": 45.220837521060799582,
+        "Personal Freedom": 59.931500971150059441,
+        "Living Conditions": 73.061943632500000000,
+        "Natural Environment": 50.476204643510391671,
+        "Safety and Security": 63.550263877566982412,
+        "Business Environment": 68.787718466975986711,
+        "Market Access and Infrastructure": 63.684770381786962165
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Health": 67.780840057275963396,
+        "Education": 53.006200140559780707,
+        "Governance": 63.309014940465000000,
+        "Social Capital": 44.324211163126810289,
+        "Economic Quality": 49.208625893061216500,
+        "Personal Freedom": 70.488546546614337590,
+        "Living Conditions": 71.158215847500000000,
+        "Natural Environment": 68.428236747231179602,
+        "Safety and Security": 72.362307751296988737,
+        "Business Environment": 45.993561529913504480,
+        "Market Access and Infrastructure": 53.600619290662026590
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Health": 46.809342518566103989,
+        "Education": 45.887589533022022777,
+        "Governance": 44.092394575860000000,
+        "Social Capital": 44.464966469442923030,
+        "Economic Quality": 54.847544584683932450,
+        "Personal Freedom": 46.263291109063166211,
+        "Living Conditions": 64.461011816500000000,
+        "Natural Environment": 46.885216981210925454,
+        "Safety and Security": 45.024615763103779340,
+        "Business Environment": 47.019948154782687357,
+        "Market Access and Infrastructure": 54.476180530580725845
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Health": 64.526582447731758594,
+        "Education": 52.974856429763380070,
+        "Governance": 44.400349862875000000,
+        "Social Capital": 60.119916790148989932,
+        "Economic Quality": 61.209308869308248677,
+        "Personal Freedom": 46.523731108719803818,
+        "Living Conditions": 65.804375853500000000,
+        "Natural Environment": 50.858448719812509026,
+        "Safety and Security": 66.677125127500000000,
+        "Business Environment": 50.117422015910601016,
+        "Market Access and Infrastructure": 49.547137933376094203
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Health": 42.952834960440505457,
+        "Education": 47.047515781537469693,
+        "Governance": 63.730774876300000000,
+        "Social Capital": 35.266766940799285148,
+        "Economic Quality": 58.361525432979036486,
+        "Personal Freedom": 42.457782232791124534,
+        "Living Conditions": 61.419650528500000000,
+        "Natural Environment": 47.151876269063497213,
+        "Safety and Security": 45.749870759246853866,
+        "Business Environment": 54.630487126230205993,
+        "Market Access and Infrastructure": 54.493349288695175948
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Health": 53.637026895334951403,
+        "Education": 43.723900251554133929,
+        "Governance": 50.509254134240000000,
+        "Social Capital": 35.163892090375678948,
+        "Economic Quality": 74.415709432661526114,
+        "Personal Freedom": 44.613539640433543605,
+        "Living Conditions": 60.425131534500000000,
+        "Natural Environment": 46.766147101238838994,
+        "Safety and Security": 52.350485590891802433,
+        "Business Environment": 60.049030294827448696,
+        "Market Access and Infrastructure": 56.650596418268202354
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Health": 64.058704284390203886,
+        "Education": 57.949591525844304582,
+        "Governance": 60.541293052475000000,
+        "Social Capital": 69.715586388982090501,
+        "Economic Quality": 67.604922958280197379,
+        "Personal Freedom": 68.064842546385451189,
+        "Living Conditions": 75.449818825000000000,
+        "Natural Environment": 53.980370064137863766,
+        "Safety and Security": 65.922348662110293024,
+        "Business Environment": 62.057702458696388783,
+        "Market Access and Infrastructure": 52.121303217230910929
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Health": 63.754968110260462657,
+        "Education": 61.866221567742706265,
+        "Governance": 63.181723072805000000,
+        "Social Capital": 46.050442205147243680,
+        "Economic Quality": 53.625194941027963408,
+        "Personal Freedom": 52.197401678480448796,
+        "Living Conditions": 75.527073502500000000,
+        "Natural Environment": 53.023725466927357926,
+        "Safety and Security": 68.846309294146958650,
+        "Business Environment": 58.452576418768539728,
+        "Market Access and Infrastructure": 52.370797305254275858
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Health": 65.336209314647718717,
+        "Education": 65.594006929510037515,
+        "Governance": 55.824661648965000000,
+        "Social Capital": 60.645113296255490082,
+        "Economic Quality": 57.628318133698604844,
+        "Personal Freedom": 66.987804186901742513,
+        "Living Conditions": 73.083989787500000000,
+        "Natural Environment": 69.444707214039074390,
+        "Safety and Security": 79.969446366250000000,
+        "Business Environment": 53.616931789008855488,
+        "Market Access and Infrastructure": 45.227526266071261688
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Health": 67.758916223771941073,
+        "Education": 59.478566566848934496,
+        "Governance": 76.912842648470000000,
+        "Social Capital": 48.987784780225600192,
+        "Economic Quality": 70.617462229142647672,
+        "Personal Freedom": 65.376449999898269453,
+        "Living Conditions": 74.090470045000000000,
+        "Natural Environment": 64.521266637356388469,
+        "Safety and Security": 56.403225174936299728,
+        "Business Environment": 60.126036263269775738,
+        "Market Access and Infrastructure": 54.929816741847797755
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Health": 65.552263769605596589,
+        "Education": 57.426777083615677835,
+        "Governance": 71.835728802980000000,
+        "Social Capital": 59.429171375352524717,
+        "Economic Quality": 56.623724494661886363,
+        "Personal Freedom": 56.359762319732483400,
+        "Living Conditions": 71.362530376000000000,
+        "Natural Environment": 53.567907723951594537,
+        "Safety and Security": 68.118906154243612180,
+        "Business Environment": 61.797843592703949059,
+        "Market Access and Infrastructure": 52.900668096753690683
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Health": 30.710756744347144241,
+        "Education": 35.406209605043397166,
+        "Governance": 57.536605364040000000,
+        "Social Capital": 45.288211606072021684,
+        "Economic Quality": 45.843563006442385188,
+        "Personal Freedom": 47.028934023255648806,
+        "Living Conditions": 51.378467852500000000,
+        "Natural Environment": 38.953226619494497776,
+        "Safety and Security": 68.773835253286249240,
+        "Business Environment": 36.213462438574124265,
+        "Market Access and Infrastructure": 42.769166818512096998
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Health": 58.091300693650412402,
+        "Education": 55.161285147959449796,
+        "Governance": 40.517448460085000000,
+        "Social Capital": 50.039209916302426836,
+        "Economic Quality": 74.926298146064692113,
+        "Personal Freedom": 63.767090131870953003,
+        "Living Conditions": 66.167542974000000000,
+        "Natural Environment": 56.108299159185695480,
+        "Safety and Security": 72.314004033793783274,
+        "Business Environment": 45.263871173294545005,
+        "Market Access and Infrastructure": 41.275619088144003851
+      }
+    }
+  ],
+  "derivatives": {
+    "Overall Prosperity": [
+      "Business Environment",
+      "Economic Quality",
+      "Market Access and Infrastructure",
+      "Governance",
+      "Personal Freedom",
+      "Safety and Security",
+      "Social Capital",
+      "Education",
+      "Health",
+      "Living Conditions",
+      "Natural Environment"
+    ],
+    "Open Economies": [
+      "Business Environment",
+      "Economic Quality",
+      "Market Access and Infrastructure"
+    ],
+    "Inclusive Societies": [
+      "Governance",
+      "Personal Freedom",
+      "Safety and Security",
+      "Social Capital"
+    ],
+    "Empowered People": [
+      "Education",
+      "Health",
+      "Living Conditions",
+      "Natural Environment"
+    ]
+  },
+  "weightingOptions": {
+    "Health": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Governance": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Social Capital": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Economic Quality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Personal Freedom": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Living Conditions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Natural Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Safety and Security": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Business Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Market Access and Infrastructure": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "1x",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

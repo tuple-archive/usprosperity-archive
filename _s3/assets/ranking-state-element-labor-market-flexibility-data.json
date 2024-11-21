@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Collective bargaining agreement coverage": 83333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 130666,
+        "Minimum wage": 53999
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Collective bargaining agreement coverage": 248333,
+        "Employee health insurance cost": 37976,
+        "Workers compensation premium rate": 155333,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Collective bargaining agreement coverage": 328333,
+        "Employee health insurance cost": 63571,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 66666
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Collective bargaining agreement coverage": 308333,
+        "Employee health insurance cost": 23571,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Collective bargaining agreement coverage": 153333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 116666,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Collective bargaining agreement coverage": 216666,
+        "Employee health insurance cost": 25119,
+        "Workers compensation premium rate": 158666,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Collective bargaining agreement coverage": 138333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 124666,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Collective bargaining agreement coverage": 236666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Collective bargaining agreement coverage": 236666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 125333,
+        "Minimum wage": 116666
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Collective bargaining agreement coverage": 304999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 151333,
+        "Minimum wage": 162666
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Collective bargaining agreement coverage": 324999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 140666,
+        "Minimum wage": 333333
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Collective bargaining agreement coverage": 11666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 120666,
+        "Minimum wage": 59999
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Collective bargaining agreement coverage": 269999,
+        "Employee health insurance cost": 10119,
+        "Workers compensation premium rate": 145333,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Collective bargaining agreement coverage": 323333,
+        "Employee health insurance cost": 9761,
+        "Workers compensation premium rate": 144666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Collective bargaining agreement coverage": 171666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 149333,
+        "Minimum wage": 66666
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Collective bargaining agreement coverage": 261666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Collective bargaining agreement coverage": 248333,
+        "Employee health insurance cost": 19285,
+        "Workers compensation premium rate": 164666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Collective bargaining agreement coverage": 226666,
+        "Employee health insurance cost": 34523,
+        "Workers compensation premium rate": 164666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Collective bargaining agreement coverage": 319999,
+        "Employee health insurance cost": 28571,
+        "Workers compensation premium rate": 126666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Collective bargaining agreement coverage": 174999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 162666,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Collective bargaining agreement coverage": 216666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 164000,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Collective bargaining agreement coverage": 169999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 141333,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Collective bargaining agreement coverage": 161666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 164000,
+        "Minimum wage": 89999
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Collective bargaining agreement coverage": 149999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 142000,
+        "Minimum wage": 66666
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Collective bargaining agreement coverage": 239999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 140000,
+        "Minimum wage": 103333
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Collective bargaining agreement coverage": 298333,
+        "Employee health insurance cost": 56904,
+        "Workers compensation premium rate": 161333,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Collective bargaining agreement coverage": 183333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 138666,
+        "Minimum wage": 156666
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Collective bargaining agreement coverage": 333333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 156000,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Collective bargaining agreement coverage": 304999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Collective bargaining agreement coverage": 283333,
+        "Employee health insurance cost": 12619,
+        "Workers compensation premium rate": 150000,
+        "Minimum wage": 133333
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Collective bargaining agreement coverage": 223333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 153333,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Collective bargaining agreement coverage": 146666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 100000,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Collective bargaining agreement coverage": 279999,
+        "Employee health insurance cost": 27738,
+        "Workers compensation premium rate": 154666,
+        "Minimum wage": 133333
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Collective bargaining agreement coverage": 156666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 133333
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Collective bargaining agreement coverage": 14999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 113333,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Collective bargaining agreement coverage": 178333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 165333,
+        "Minimum wage": 153333
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Collective bargaining agreement coverage": 293333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 140000,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Collective bargaining agreement coverage": 171666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Collective bargaining agreement coverage": 193333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 144666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Collective bargaining agreement coverage": 108333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 127333,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Collective bargaining agreement coverage": 333333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 144666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Collective bargaining agreement coverage": 298333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 148000,
+        "Minimum wage": 113333
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Collective bargaining agreement coverage": 311666,
+        "Employee health insurance cost": 15952,
+        "Workers compensation premium rate": 166000,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Collective bargaining agreement coverage": 324999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Collective bargaining agreement coverage": 323333,
+        "Employee health insurance cost": 46904,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Collective bargaining agreement coverage": 324999,
+        "Employee health insurance cost": 4761,
+        "Workers compensation premium rate": 157333,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Collective bargaining agreement coverage": 223333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 114666,
+        "Minimum wage": 2666
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Collective bargaining agreement coverage": 74999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 146000,
+        "Minimum wage": 0
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Collective bargaining agreement coverage": 273333,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 136000,
+        "Minimum wage": 249999
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Collective bargaining agreement coverage": 236666,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 166666,
+        "Minimum wage": 149999
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Collective bargaining agreement coverage": 289999,
+        "Employee health insurance cost": 0,
+        "Workers compensation premium rate": 150000,
+        "Minimum wage": 333333
+      }
+    }
+  ],
+  "derivatives": {
+    "Labor Market Flexibility": [
+      "Collective bargaining agreement coverage",
+      "Employee health insurance cost",
+      "Workers compensation premium rate",
+      "Minimum wage"
+    ]
+  },
+  "weightingOptions": {
+    "Collective bargaining agreement coverage": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Employee health insurance cost": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Workers compensation premium rate": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Minimum wage": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

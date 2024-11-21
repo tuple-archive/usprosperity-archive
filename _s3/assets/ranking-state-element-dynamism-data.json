@@ -1,0 +1,778 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Startup concentration": 41790,
+        "Startup early job creation": 28529,
+        "Startup early survival rate": 157179,
+        "Opportunity-driven startups": 295883,
+        "Rate of new entrepreneurs": 485454,
+        "Patent applications": 65305
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Startup concentration": 23468,
+        "Startup early job creation": 102721,
+        "Startup early survival rate": 151468,
+        "Opportunity-driven startups": 359447,
+        "Rate of new entrepreneurs": 101818,
+        "Patent applications": 123829
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Startup concentration": 32531,
+        "Startup early job creation": 79941,
+        "Startup early survival rate": 81244,
+        "Opportunity-driven startups": 316349,
+        "Rate of new entrepreneurs": 267272,
+        "Patent applications": 172854
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Startup concentration": 86153,
+        "Startup early job creation": 90449,
+        "Startup early survival rate": 77681,
+        "Opportunity-driven startups": 332043,
+        "Rate of new entrepreneurs": 283636,
+        "Patent applications": 259974
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Startup concentration": 96727,
+        "Startup early job creation": 202225,
+        "Startup early survival rate": 147999,
+        "Opportunity-driven startups": 325949,
+        "Rate of new entrepreneurs": 447272,
+        "Patent applications": 363636
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Startup concentration": 92895,
+        "Startup early job creation": 220637,
+        "Startup early survival rate": 95719,
+        "Opportunity-driven startups": 296858,
+        "Rate of new entrepreneurs": 234545,
+        "Patent applications": 305582
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Startup concentration": 10853,
+        "Startup early job creation": 47446,
+        "Startup early survival rate": 0,
+        "Opportunity-driven startups": 146850,
+        "Rate of new entrepreneurs": 25454,
+        "Patent applications": 353552
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Startup concentration": 116400,
+        "Startup early job creation": 363636,
+        "Startup early survival rate": 57887,
+        "Opportunity-driven startups": 93149,
+        "Rate of new entrepreneurs": 129090,
+        "Patent applications": 262194
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Startup concentration": 61538,
+        "Startup early job creation": 114874,
+        "Startup early survival rate": 96367,
+        "Opportunity-driven startups": 349120,
+        "Rate of new entrepreneurs": 130909,
+        "Patent applications": 221199
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Startup concentration": 122097,
+        "Startup early job creation": 204007,
+        "Startup early survival rate": 79654,
+        "Opportunity-driven startups": 338414,
+        "Rate of new entrepreneurs": 534545,
+        "Patent applications": 200879
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Startup concentration": 76559,
+        "Startup early job creation": 172236,
+        "Startup early survival rate": 31852,
+        "Opportunity-driven startups": 340770,
+        "Rate of new entrepreneurs": 430909,
+        "Patent applications": 222226
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Startup concentration": 21398,
+        "Startup early job creation": 82629,
+        "Startup early survival rate": 52833,
+        "Opportunity-driven startups": 340261,
+        "Rate of new entrepreneurs": 290909,
+        "Patent applications": 107524
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Startup concentration": 0,
+        "Startup early job creation": 34918,
+        "Startup early survival rate": 149408,
+        "Opportunity-driven startups": 295810,
+        "Rate of new entrepreneurs": 252727,
+        "Patent applications": 248085
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Startup concentration": 70489,
+        "Startup early job creation": 230064,
+        "Startup early survival rate": 97150,
+        "Opportunity-driven startups": 323025,
+        "Rate of new entrepreneurs": 374545,
+        "Patent applications": 292178
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Startup concentration": 39468,
+        "Startup early job creation": 103754,
+        "Startup early survival rate": 99029,
+        "Opportunity-driven startups": 272741,
+        "Rate of new entrepreneurs": 170909,
+        "Patent applications": 279015
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Startup concentration": 18517,
+        "Startup early job creation": 35670,
+        "Startup early survival rate": 119153,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 143636,
+        "Patent applications": 252469
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Startup concentration": 27356,
+        "Startup early job creation": 62036,
+        "Startup early survival rate": 47124,
+        "Opportunity-driven startups": 336480,
+        "Rate of new entrepreneurs": 172727,
+        "Patent applications": 223827
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Startup concentration": 59608,
+        "Startup early job creation": 64245,
+        "Startup early survival rate": 117512,
+        "Opportunity-driven startups": 288567,
+        "Rate of new entrepreneurs": 147272,
+        "Patent applications": 168259
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Startup concentration": 27272,
+        "Startup early job creation": 129138,
+        "Startup early survival rate": 132051,
+        "Opportunity-driven startups": 111956,
+        "Rate of new entrepreneurs": 327272,
+        "Patent applications": 107146
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Startup concentration": 33146,
+        "Startup early job creation": 160881,
+        "Startup early survival rate": 181818,
+        "Opportunity-driven startups": 197920,
+        "Rate of new entrepreneurs": 127272,
+        "Patent applications": 363636
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Startup concentration": 37902,
+        "Startup early job creation": 90602,
+        "Startup early survival rate": 84581,
+        "Opportunity-driven startups": 299069,
+        "Rate of new entrepreneurs": 221818,
+        "Patent applications": 250919
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Startup concentration": 21930,
+        "Startup early job creation": 80135,
+        "Startup early survival rate": 99713,
+        "Opportunity-driven startups": 340407,
+        "Rate of new entrepreneurs": 350909,
+        "Patent applications": 164772
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Startup concentration": 26321,
+        "Startup early job creation": 73669,
+        "Startup early survival rate": 125448,
+        "Opportunity-driven startups": 255505,
+        "Rate of new entrepreneurs": 132727,
+        "Patent applications": 333070
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Startup concentration": 25790,
+        "Startup early job creation": 48241,
+        "Startup early survival rate": 130037,
+        "Opportunity-driven startups": 241352,
+        "Rate of new entrepreneurs": 12727,
+        "Patent applications": 338068
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Startup concentration": 113286,
+        "Startup early job creation": 142658,
+        "Startup early survival rate": 26151,
+        "Opportunity-driven startups": 229920,
+        "Rate of new entrepreneurs": 359999,
+        "Patent applications": 212223
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Startup concentration": 25398,
+        "Startup early job creation": 50554,
+        "Startup early survival rate": 130796,
+        "Opportunity-driven startups": 310967,
+        "Rate of new entrepreneurs": 272727,
+        "Patent applications": 68634
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Startup concentration": 37706,
+        "Startup early job creation": 144694,
+        "Startup early survival rate": 115116,
+        "Opportunity-driven startups": 299432,
+        "Rate of new entrepreneurs": 290909,
+        "Patent applications": 177786
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Startup concentration": 55104,
+        "Startup early job creation": 101614,
+        "Startup early survival rate": 114341,
+        "Opportunity-driven startups": 326749,
+        "Rate of new entrepreneurs": 143636,
+        "Patent applications": 252294
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Startup concentration": 83188,
+        "Startup early job creation": 94465,
+        "Startup early survival rate": 89719,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 378181,
+        "Patent applications": 170052
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Startup concentration": 18657,
+        "Startup early job creation": 125440,
+        "Startup early survival rate": 99853,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 169090,
+        "Patent applications": 184079
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Startup concentration": 9314,
+        "Startup early job creation": 45636,
+        "Startup early survival rate": 60691,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 187272,
+        "Patent applications": 332896
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Startup concentration": 59132,
+        "Startup early job creation": 171350,
+        "Startup early survival rate": 116252,
+        "Opportunity-driven startups": 289570,
+        "Rate of new entrepreneurs": 250909,
+        "Patent applications": 293664
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Startup concentration": 28531,
+        "Startup early job creation": 52214,
+        "Startup early survival rate": 93494,
+        "Opportunity-driven startups": 151098,
+        "Rate of new entrepreneurs": 416363,
+        "Patent applications": 209806
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Startup concentration": 149258,
+        "Startup early job creation": 203364,
+        "Startup early survival rate": 69969,
+        "Opportunity-driven startups": 256349,
+        "Rate of new entrepreneurs": 301818,
+        "Patent applications": 222075
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Startup concentration": 79048,
+        "Startup early job creation": 154877,
+        "Startup early survival rate": 111137,
+        "Opportunity-driven startups": 353629,
+        "Rate of new entrepreneurs": 227272,
+        "Patent applications": 288726
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Startup concentration": 6769,
+        "Startup early job creation": 42529,
+        "Startup early survival rate": 115007,
+        "Opportunity-driven startups": 157847,
+        "Rate of new entrepreneurs": 43636,
+        "Patent applications": 266197
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Startup concentration": 49986,
+        "Startup early job creation": 160378,
+        "Startup early survival rate": 121157,
+        "Opportunity-driven startups": 255592,
+        "Rate of new entrepreneurs": 396363,
+        "Patent applications": 158192
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Startup concentration": 61426,
+        "Startup early job creation": 107996,
+        "Startup early survival rate": 64865,
+        "Opportunity-driven startups": 363083,
+        "Rate of new entrepreneurs": 147272,
+        "Patent applications": 348152
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Startup concentration": 15664,
+        "Startup early job creation": 41101,
+        "Startup early survival rate": 119195,
+        "Opportunity-driven startups": 323869,
+        "Rate of new entrepreneurs": 52727,
+        "Patent applications": 242541
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Startup concentration": 14069,
+        "Startup early job creation": 60695,
+        "Startup early survival rate": 118116,
+        "Opportunity-driven startups": 275898,
+        "Rate of new entrepreneurs": 0,
+        "Patent applications": 262158
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Startup concentration": 51300,
+        "Startup early job creation": 207993,
+        "Startup early survival rate": 91274,
+        "Opportunity-driven startups": 288989,
+        "Rate of new entrepreneurs": 152727,
+        "Patent applications": 203212
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Startup concentration": 21202,
+        "Startup early job creation": 12538,
+        "Startup early survival rate": 125840,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 200000,
+        "Patent applications": 169639
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Startup concentration": 39916,
+        "Startup early job creation": 108850,
+        "Startup early survival rate": 109400,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 205454,
+        "Patent applications": 171562
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Startup concentration": 100531,
+        "Startup early job creation": 158123,
+        "Startup early survival rate": 117159,
+        "Opportunity-driven startups": 269861,
+        "Rate of new entrepreneurs": 421818,
+        "Patent applications": 266011
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Startup concentration": 100587,
+        "Startup early job creation": 175660,
+        "Startup early survival rate": 78340,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 127272,
+        "Patent applications": 304415
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Startup concentration": 52195,
+        "Startup early job creation": 130907,
+        "Startup early survival rate": 181818,
+        "Opportunity-driven startups": 268989,
+        "Rate of new entrepreneurs": 49090,
+        "Patent applications": 233327
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Startup concentration": 8279,
+        "Startup early job creation": 75276,
+        "Startup early survival rate": 84777,
+        "Opportunity-driven startups": 251723,
+        "Rate of new entrepreneurs": 307272,
+        "Patent applications": 295744
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Startup concentration": 74097,
+        "Startup early job creation": 108155,
+        "Startup early survival rate": 116011,
+        "Opportunity-driven startups": 333672,
+        "Rate of new entrepreneurs": 265454,
+        "Patent applications": 363636
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Startup concentration": 11580,
+        "Startup early job creation": 48586,
+        "Startup early survival rate": 92993,
+        "Opportunity-driven startups": 282269,
+        "Rate of new entrepreneurs": 90909,
+        "Patent applications": 279699
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Startup concentration": 0,
+        "Startup early job creation": 13884,
+        "Startup early survival rate": 119669,
+        "Opportunity-driven startups": 295200,
+        "Rate of new entrepreneurs": 7272,
+        "Patent applications": 87428
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Startup concentration": 44531,
+        "Startup early job creation": 131077,
+        "Startup early survival rate": 119458,
+        "Opportunity-driven startups": 363636,
+        "Rate of new entrepreneurs": 396363,
+        "Patent applications": 183438
+      }
+    }
+  ],
+  "derivatives": {
+    "Dynamism": [
+      "Startup concentration",
+      "Startup early job creation",
+      "Startup early survival rate",
+      "Opportunity-driven startups",
+      "Rate of new entrepreneurs",
+      "Patent applications"
+    ]
+  },
+  "weightingOptions": {
+    "Startup concentration": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Startup early job creation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Startup early survival rate": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Opportunity-driven startups": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Rate of new entrepreneurs": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Patent applications": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

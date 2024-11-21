@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 178086,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 3021,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 138305,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Free speech in public places": 199999,
+        "Right-to-work": 0,
+        "Press suppression": 14235,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Free speech in public places": 100000,
+        "Right-to-work": 0,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Free speech in public places": 199999,
+        "Right-to-work": 0,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 258588,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 173949,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 110340,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 133168,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 233382,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 267709,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Free speech in public places": 100000,
+        "Right-to-work": 0,
+        "Press suppression": 169443,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 250460,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 149496,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 251231,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 172651,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Free speech in public places": 600000,
+        "Right-to-work": 0,
+        "Press suppression": 283112,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 86357,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 13216,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 197376,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 186956,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Free speech in public places": 199999,
+        "Right-to-work": 0,
+        "Press suppression": 100520,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 158105,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 271253,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 169315,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 248911,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 207688,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 125389,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 59363,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 0,
+        "Press suppression": 27046,
+        "Invasive cell phone surveillance": 150000
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 0,
+        "Invasive cell phone surveillance": 0
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Free speech in public places": 0,
+        "Right-to-work": 300000,
+        "Press suppression": 300000,
+        "Invasive cell phone surveillance": 300000
+      }
+    }
+  ],
+  "derivatives": {
+    "Freedom of Association and Speech": [
+      "Free speech in public places",
+      "Right-to-work",
+      "Press suppression",
+      "Invasive cell phone surveillance"
+    ]
+  },
+  "weightingOptions": {
+    "Free speech in public places": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Right-to-work": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Press suppression": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Invasive cell phone surveillance": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

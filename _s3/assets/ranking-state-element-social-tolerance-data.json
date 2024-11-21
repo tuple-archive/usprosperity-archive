@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Hate group concentration": 871809,
+        "Ethnic slur google traffic": 827777,
+        "Same sex marriage support": 500000,
+        "LGBT non-discrimination law support": 112500
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Hate group concentration": 658982,
+        "Ethnic slur google traffic": 312962,
+        "Same sex marriage support": 181818,
+        "LGBT non-discrimination law support": 175000
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Hate group concentration": 620217,
+        "Ethnic slur google traffic": 253703,
+        "Same sex marriage support": 254545,
+        "LGBT non-discrimination law support": 200000
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Hate group concentration": 699644,
+        "Ethnic slur google traffic": 462962,
+        "Same sex marriage support": 281818,
+        "LGBT non-discrimination law support": 262500
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Hate group concentration": 832039,
+        "Ethnic slur google traffic": 503703,
+        "Same sex marriage support": 409090,
+        "LGBT non-discrimination law support": 325000
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Hate group concentration": 743256,
+        "Ethnic slur google traffic": 598148,
+        "Same sex marriage support": 445454,
+        "LGBT non-discrimination law support": 337500
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Hate group concentration": 844124,
+        "Ethnic slur google traffic": 598148,
+        "Same sex marriage support": 309090,
+        "LGBT non-discrimination law support": 337500
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Hate group concentration": 0,
+        "Ethnic slur google traffic": 927777,
+        "Same sex marriage support": 389898,
+        "LGBT non-discrimination law support": 297222
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Hate group concentration": 734555,
+        "Ethnic slur google traffic": 698148,
+        "Same sex marriage support": 272727,
+        "LGBT non-discrimination law support": 287500
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Hate group concentration": 727773,
+        "Ethnic slur google traffic": 503703,
+        "Same sex marriage support": 327272,
+        "LGBT non-discrimination law support": 275000
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Hate group concentration": 760373,
+        "Ethnic slur google traffic": 398148,
+        "Same sex marriage support": 281818,
+        "LGBT non-discrimination law support": 225000
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Hate group concentration": 749792,
+        "Ethnic slur google traffic": 794444,
+        "Same sex marriage support": 327272,
+        "LGBT non-discrimination law support": 287500
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Hate group concentration": 909401,
+        "Ethnic slur google traffic": 444444,
+        "Same sex marriage support": 290909,
+        "LGBT non-discrimination law support": 237500
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Hate group concentration": 675629,
+        "Ethnic slur google traffic": 653703,
+        "Same sex marriage support": 163636,
+        "LGBT non-discrimination law support": 262500
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Hate group concentration": 859418,
+        "Ethnic slur google traffic": 444444,
+        "Same sex marriage support": 381818,
+        "LGBT non-discrimination law support": 300000
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Hate group concentration": 752144,
+        "Ethnic slur google traffic": 346296,
+        "Same sex marriage support": 290909,
+        "LGBT non-discrimination law support": 287500
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Hate group concentration": 933614,
+        "Ethnic slur google traffic": 509259,
+        "Same sex marriage support": 163636,
+        "LGBT non-discrimination law support": 275000
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Hate group concentration": 745081,
+        "Ethnic slur google traffic": 159259,
+        "Same sex marriage support": 163636,
+        "LGBT non-discrimination law support": 175000
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Hate group concentration": 704027,
+        "Ethnic slur google traffic": 525925,
+        "Same sex marriage support": 290909,
+        "LGBT non-discrimination law support": 162500
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Hate group concentration": 839519,
+        "Ethnic slur google traffic": 712962,
+        "Same sex marriage support": 427272,
+        "LGBT non-discrimination law support": 350000
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Hate group concentration": 778701,
+        "Ethnic slur google traffic": 518518,
+        "Same sex marriage support": 345454,
+        "LGBT non-discrimination law support": 300000
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Hate group concentration": 799348,
+        "Ethnic slur google traffic": 650000,
+        "Same sex marriage support": 427272,
+        "LGBT non-discrimination law support": 325000
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Hate group concentration": 776185,
+        "Ethnic slur google traffic": 529629,
+        "Same sex marriage support": 336363,
+        "LGBT non-discrimination law support": 275000
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Hate group concentration": 822324,
+        "Ethnic slur google traffic": 681481,
+        "Same sex marriage support": 436363,
+        "LGBT non-discrimination law support": 275000
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Hate group concentration": 730839,
+        "Ethnic slur google traffic": 374074,
+        "Same sex marriage support": 290909,
+        "LGBT non-discrimination law support": 250000
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Hate group concentration": 735055,
+        "Ethnic slur google traffic": 262962,
+        "Same sex marriage support": 154545,
+        "LGBT non-discrimination law support": 225000
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Hate group concentration": 558357,
+        "Ethnic slur google traffic": 314814,
+        "Same sex marriage support": 354545,
+        "LGBT non-discrimination law support": 150000
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Hate group concentration": 758180,
+        "Ethnic slur google traffic": 370370,
+        "Same sex marriage support": 290909,
+        "LGBT non-discrimination law support": 212500
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Hate group concentration": 877193,
+        "Ethnic slur google traffic": 653703,
+        "Same sex marriage support": 227272,
+        "LGBT non-discrimination law support": 262500
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Hate group concentration": 618483,
+        "Ethnic slur google traffic": 642592,
+        "Same sex marriage support": 354545,
+        "LGBT non-discrimination law support": 287500
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Hate group concentration": 635947,
+        "Ethnic slur google traffic": 687037,
+        "Same sex marriage support": 472727,
+        "LGBT non-discrimination law support": 312500
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Hate group concentration": 834373,
+        "Ethnic slur google traffic": 672222,
+        "Same sex marriage support": 336363,
+        "LGBT non-discrimination law support": 300000
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Hate group concentration": 953616,
+        "Ethnic slur google traffic": 562962,
+        "Same sex marriage support": 427272,
+        "LGBT non-discrimination law support": 225000
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Hate group concentration": 676195,
+        "Ethnic slur google traffic": 470370,
+        "Same sex marriage support": 454545,
+        "LGBT non-discrimination law support": 237500
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Hate group concentration": 824916,
+        "Ethnic slur google traffic": 709259,
+        "Same sex marriage support": 354545,
+        "LGBT non-discrimination law support": 312500
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Hate group concentration": 834831,
+        "Ethnic slur google traffic": 390740,
+        "Same sex marriage support": 327272,
+        "LGBT non-discrimination law support": 262500
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Hate group concentration": 736522,
+        "Ethnic slur google traffic": 418518,
+        "Same sex marriage support": 327272,
+        "LGBT non-discrimination law support": 162500
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Hate group concentration": 769410,
+        "Ethnic slur google traffic": 672222,
+        "Same sex marriage support": 390909,
+        "LGBT non-discrimination law support": 250000
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Hate group concentration": 751876,
+        "Ethnic slur google traffic": 440740,
+        "Same sex marriage support": 354545,
+        "LGBT non-discrimination law support": 287500
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Hate group concentration": 826725,
+        "Ethnic slur google traffic": 872222,
+        "Same sex marriage support": 227272,
+        "LGBT non-discrimination law support": 325000
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Hate group concentration": 675538,
+        "Ethnic slur google traffic": 446296,
+        "Same sex marriage support": 209090,
+        "LGBT non-discrimination law support": 225000
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Hate group concentration": 893823,
+        "Ethnic slur google traffic": 48148,
+        "Same sex marriage support": 327272,
+        "LGBT non-discrimination law support": 225000
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Hate group concentration": 598746,
+        "Ethnic slur google traffic": 79629,
+        "Same sex marriage support": 318181,
+        "LGBT non-discrimination law support": 187500
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Hate group concentration": 831169,
+        "Ethnic slur google traffic": 503703,
+        "Same sex marriage support": 345454,
+        "LGBT non-discrimination law support": 250000
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Hate group concentration": 883923,
+        "Ethnic slur google traffic": 750000,
+        "Same sex marriage support": 245454,
+        "LGBT non-discrimination law support": 300000
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Hate group concentration": 674919,
+        "Ethnic slur google traffic": 544444,
+        "Same sex marriage support": 354545,
+        "LGBT non-discrimination law support": 262500
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Hate group concentration": 851214,
+        "Ethnic slur google traffic": 820370,
+        "Same sex marriage support": 363636,
+        "LGBT non-discrimination law support": 262500
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Hate group concentration": 748501,
+        "Ethnic slur google traffic": 618518,
+        "Same sex marriage support": 381818,
+        "LGBT non-discrimination law support": 300000
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Hate group concentration": 798788,
+        "Ethnic slur google traffic": 620370,
+        "Same sex marriage support": 372727,
+        "LGBT non-discrimination law support": 287500
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Hate group concentration": 797780,
+        "Ethnic slur google traffic": 244444,
+        "Same sex marriage support": 336363,
+        "LGBT non-discrimination law support": 175000
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Hate group concentration": 841523,
+        "Ethnic slur google traffic": 792592,
+        "Same sex marriage support": 409090,
+        "LGBT non-discrimination law support": 175000
+      }
+    }
+  ],
+  "derivatives": {
+    "Social Tolerance": [
+      "Hate group concentration",
+      "Ethnic slur google traffic",
+      "Same sex marriage support",
+      "LGBT non-discrimination law support"
+    ]
+  },
+  "weightingOptions": {
+    "Hate group concentration": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Ethnic slur google traffic": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Same sex marriage support": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "LGBT non-discrimination law support": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Subsidies to the private sector": 445754,
+        "Corporate Tax Score": 324615
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Subsidies to the private sector": 435646,
+        "Corporate Tax Score": 341538
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Subsidies to the private sector": 448465,
+        "Corporate Tax Score": 280000
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Subsidies to the private sector": 353183,
+        "Corporate Tax Score": 349230
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Subsidies to the private sector": 287206,
+        "Corporate Tax Score": 295384
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Subsidies to the private sector": 362580,
+        "Corporate Tax Score": 430769
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Subsidies to the private sector": 362264,
+        "Corporate Tax Score": 323076
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Subsidies to the private sector": 0,
+        "Corporate Tax Score": 386153
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Subsidies to the private sector": 361439,
+        "Corporate Tax Score": 0
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Subsidies to the private sector": 348077,
+        "Corporate Tax Score": 452307
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Subsidies to the private sector": 435651,
+        "Corporate Tax Score": 450769
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Subsidies to the private sector": 261102,
+        "Corporate Tax Score": 376923
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Subsidies to the private sector": 477302,
+        "Corporate Tax Score": 158461
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Subsidies to the private sector": 360594,
+        "Corporate Tax Score": 295384
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Subsidies to the private sector": 401208,
+        "Corporate Tax Score": 250769
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Subsidies to the private sector": 479374,
+        "Corporate Tax Score": 406153
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Subsidies to the private sector": 475401,
+        "Corporate Tax Score": 287692
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Subsidies to the private sector": 451782,
+        "Corporate Tax Score": 376923
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Subsidies to the private sector": 479873,
+        "Corporate Tax Score": 270769
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Subsidies to the private sector": 359202,
+        "Corporate Tax Score": 240000
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Subsidies to the private sector": 284777,
+        "Corporate Tax Score": 287692
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Subsidies to the private sector": 344429,
+        "Corporate Tax Score": 243076
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Subsidies to the private sector": 436244,
+        "Corporate Tax Score": 370769
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Subsidies to the private sector": 455044,
+        "Corporate Tax Score": 179999
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Subsidies to the private sector": 429231,
+        "Corporate Tax Score": 500000
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Subsidies to the private sector": 440477,
+        "Corporate Tax Score": 401538
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Subsidies to the private sector": 345525,
+        "Corporate Tax Score": 358461
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Subsidies to the private sector": 418062,
+        "Corporate Tax Score": 475384
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Subsidies to the private sector": 478210,
+        "Corporate Tax Score": 440000
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Subsidies to the private sector": 482809,
+        "Corporate Tax Score": 287692
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Subsidies to the private sector": 423872,
+        "Corporate Tax Score": 216923
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Subsidies to the private sector": 396366,
+        "Corporate Tax Score": 113846
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Subsidies to the private sector": 353029,
+        "Corporate Tax Score": 438461
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Subsidies to the private sector": 356110,
+        "Corporate Tax Score": 327692
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Subsidies to the private sector": 361522,
+        "Corporate Tax Score": 393846
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Subsidies to the private sector": 468438,
+        "Corporate Tax Score": 213846
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Subsidies to the private sector": 471694,
+        "Corporate Tax Score": 429230
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Subsidies to the private sector": 312762,
+        "Corporate Tax Score": 29230
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Subsidies to the private sector": 366629,
+        "Corporate Tax Score": 184615
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Subsidies to the private sector": 282231,
+        "Corporate Tax Score": 238461
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Subsidies to the private sector": 396384,
+        "Corporate Tax Score": 464615
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Subsidies to the private sector": 500000,
+        "Corporate Tax Score": 500000
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Subsidies to the private sector": 437038,
+        "Corporate Tax Score": 327692
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Subsidies to the private sector": 500000,
+        "Corporate Tax Score": 146153
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Subsidies to the private sector": 379597,
+        "Corporate Tax Score": 398461
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Subsidies to the private sector": 332749,
+        "Corporate Tax Score": 389230
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Subsidies to the private sector": 412500,
+        "Corporate Tax Score": 181538
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Subsidies to the private sector": 363369,
+        "Corporate Tax Score": 220000
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Subsidies to the private sector": 414112,
+        "Corporate Tax Score": 290769
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Subsidies to the private sector": 455926,
+        "Corporate Tax Score": 378461
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Subsidies to the private sector": 431698,
+        "Corporate Tax Score": 500000
+      }
+    }
+  ],
+  "derivatives": {
+    "Price Distortions": [
+      "Subsidies to the private sector",
+      "Corporate Tax Score"
+    ]
+  },
+  "weightingOptions": {
+    "Subsidies to the private sector": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Corporate Tax Score": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

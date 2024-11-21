@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Food security": 362068,
+        "Borderline food security": 301724,
+        "Fruit consumption": 98863,
+        "Vegetable consumption": 168750
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Food security": 251724,
+        "Borderline food security": 215517,
+        "Fruit consumption": 61363,
+        "Vegetable consumption": 127499
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Food security": 255172,
+        "Borderline food security": 224137,
+        "Fruit consumption": 56818,
+        "Vegetable consumption": 136250
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Food security": 327586,
+        "Borderline food security": 362068,
+        "Fruit consumption": 147727,
+        "Vegetable consumption": 132500
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Food security": 389655,
+        "Borderline food security": 413793,
+        "Fruit consumption": 173863,
+        "Vegetable consumption": 107500
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Food security": 379310,
+        "Borderline food security": 353448,
+        "Fruit consumption": 164772,
+        "Vegetable consumption": 162500
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Food security": 286206,
+        "Borderline food security": 336206,
+        "Fruit consumption": 197727,
+        "Vegetable consumption": 157500
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Food security": 379310,
+        "Borderline food security": 379310,
+        "Fruit consumption": 180681,
+        "Vegetable consumption": 200000
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Food security": 379310,
+        "Borderline food security": 362068,
+        "Fruit consumption": 164772,
+        "Vegetable consumption": 152500
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Food security": 355172,
+        "Borderline food security": 344827,
+        "Fruit consumption": 150000,
+        "Vegetable consumption": 140000
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Food security": 386206,
+        "Borderline food security": 413793,
+        "Fruit consumption": 95454,
+        "Vegetable consumption": 168750
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Food security": 441379,
+        "Borderline food security": 431034,
+        "Fruit consumption": 127272,
+        "Vegetable consumption": 131250
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Food security": 458620,
+        "Borderline food security": 413793,
+        "Fruit consumption": 125000,
+        "Vegetable consumption": 122500
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Food security": 400000,
+        "Borderline food security": 431034,
+        "Fruit consumption": 167045,
+        "Vegetable consumption": 198750
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Food security": 389655,
+        "Borderline food security": 396551,
+        "Fruit consumption": 150000,
+        "Vegetable consumption": 113750
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Food security": 303448,
+        "Borderline food security": 370689,
+        "Fruit consumption": 112500,
+        "Vegetable consumption": 140000
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Food security": 300000,
+        "Borderline food security": 250000,
+        "Fruit consumption": 114772,
+        "Vegetable consumption": 156250
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Food security": 258620,
+        "Borderline food security": 310344,
+        "Fruit consumption": 64772,
+        "Vegetable consumption": 160000
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Food security": 203448,
+        "Borderline food security": 120689,
+        "Fruit consumption": 48863,
+        "Vegetable consumption": 86250
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Food security": 441379,
+        "Borderline food security": 448275,
+        "Fruit consumption": 213636,
+        "Vegetable consumption": 212500
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Food security": 382758,
+        "Borderline food security": 293103,
+        "Fruit consumption": 161363,
+        "Vegetable consumption": 140000
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Food security": 317241,
+        "Borderline food security": 189655,
+        "Fruit consumption": 185227,
+        "Vegetable consumption": 250000
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Food security": 310344,
+        "Borderline food security": 318965,
+        "Fruit consumption": 129545,
+        "Vegetable consumption": 147500
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Food security": 444827,
+        "Borderline food security": 431034,
+        "Fruit consumption": 185227,
+        "Vegetable consumption": 148749
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Food security": 327586,
+        "Borderline food security": 344827,
+        "Fruit consumption": 105681,
+        "Vegetable consumption": 168750
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Food security": 189655,
+        "Borderline food security": 189655,
+        "Fruit consumption": 45454,
+        "Vegetable consumption": 120000
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Food security": 386206,
+        "Borderline food security": 387931,
+        "Fruit consumption": 120454,
+        "Vegetable consumption": 195000
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Food security": 279310,
+        "Borderline food security": 301724,
+        "Fruit consumption": 152272,
+        "Vegetable consumption": 192500
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Food security": 444827,
+        "Borderline food security": 482758,
+        "Fruit consumption": 123863,
+        "Vegetable consumption": 130000
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Food security": 358620,
+        "Borderline food security": 353448,
+        "Fruit consumption": 136363,
+        "Vegetable consumption": 146250
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Food security": 500000,
+        "Borderline food security": 500000,
+        "Fruit consumption": 179545,
+        "Vegetable consumption": 206250
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Food security": 465517,
+        "Borderline food security": 465517,
+        "Fruit consumption": 202272,
+        "Vegetable consumption": 167500
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Food security": 210344,
+        "Borderline food security": 250000,
+        "Fruit consumption": 95454,
+        "Vegetable consumption": 110000
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Food security": 289655,
+        "Borderline food security": 250000,
+        "Fruit consumption": 92045,
+        "Vegetable consumption": 91250
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Food security": 358620,
+        "Borderline food security": 387931,
+        "Fruit consumption": 190909,
+        "Vegetable consumption": 135000
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Food security": 296551,
+        "Borderline food security": 258620,
+        "Fruit consumption": 100000,
+        "Vegetable consumption": 153750
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Food security": 224137,
+        "Borderline food security": 267241,
+        "Fruit consumption": 35227,
+        "Vegetable consumption": 137500
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Food security": 393103,
+        "Borderline food security": 353448,
+        "Fruit consumption": 178409,
+        "Vegetable consumption": 201250
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Food security": 379310,
+        "Borderline food security": 370689,
+        "Fruit consumption": 153409,
+        "Vegetable consumption": 158750
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Food security": 417241,
+        "Borderline food security": 456896,
+        "Fruit consumption": 175000,
+        "Vegetable consumption": 148749
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Food security": 355172,
+        "Borderline food security": 379310,
+        "Fruit consumption": 94318,
+        "Vegetable consumption": 172500
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Food security": 355172,
+        "Borderline food security": 318965,
+        "Fruit consumption": 139772,
+        "Vegetable consumption": 188750
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Food security": 300000,
+        "Borderline food security": 267241,
+        "Fruit consumption": 96590,
+        "Vegetable consumption": 168750
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Food security": 279310,
+        "Borderline food security": 301724,
+        "Fruit consumption": 115909,
+        "Vegetable consumption": 116250
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Food security": 362068,
+        "Borderline food security": 422413,
+        "Fruit consumption": 169318,
+        "Vegetable consumption": 140000
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Food security": 413793,
+        "Borderline food security": 387931,
+        "Fruit consumption": 150000,
+        "Vegetable consumption": 182500
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Food security": 400000,
+        "Borderline food security": 448275,
+        "Fruit consumption": 221590,
+        "Vegetable consumption": 247500
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Food security": 389655,
+        "Borderline food security": 422413,
+        "Fruit consumption": 173863,
+        "Vegetable consumption": 168750
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Food security": 382758,
+        "Borderline food security": 439655,
+        "Fruit consumption": 143181,
+        "Vegetable consumption": 121249
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Food security": 200000,
+        "Borderline food security": 215517,
+        "Fruit consumption": 59090,
+        "Vegetable consumption": 158750
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Food security": 310344,
+        "Borderline food security": 293103,
+        "Fruit consumption": 105681,
+        "Vegetable consumption": 173749
+      }
+    }
+  ],
+  "derivatives": {
+    "Nutrition": [
+      "Food security",
+      "Borderline food security",
+      "Fruit consumption",
+      "Vegetable consumption"
+    ]
+  },
+  "weightingOptions": {
+    "Food security": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Borderline food security": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Fruit consumption": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Vegetable consumption": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

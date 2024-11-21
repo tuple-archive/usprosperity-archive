@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Fiscal Sustainability": 179527301,
+        "Productivity and Competitiveness": 178571428,
+        "Dynamism": 107414217,
+        "Labor Force Engagement": 106917733
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Fiscal Sustainability": 135017456,
+        "Productivity and Competitiveness": 82653767,
+        "Dynamism": 86275362,
+        "Labor Force Engagement": 164172857
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Fiscal Sustainability": 124664189,
+        "Productivity and Competitiveness": 50684985,
+        "Dynamism": 95019405,
+        "Labor Force Engagement": 147071867
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Fiscal Sustainability": 141775818,
+        "Productivity and Competitiveness": 97147411,
+        "Dynamism": 112993910,
+        "Labor Force Engagement": 119319171
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Fiscal Sustainability": 147155340,
+        "Productivity and Competitiveness": 209558467,
+        "Dynamism": 158381012,
+        "Labor Force Engagement": 64663807
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Fiscal Sustainability": 64319722,
+        "Productivity and Competitiveness": 121264313,
+        "Dynamism": 124623863,
+        "Labor Force Engagement": 109591666
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Fiscal Sustainability": 153019656,
+        "Productivity and Competitiveness": 212864522,
+        "Dynamism": 58415752,
+        "Labor Force Engagement": 91307524
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Fiscal Sustainability": 214597288,
+        "Productivity and Competitiveness": 142857142,
+        "Dynamism": 102235900,
+        "Labor Force Engagement": 126987309
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Fiscal Sustainability": 181594762,
+        "Productivity and Competitiveness": 198286935,
+        "Dynamism": 97400903,
+        "Labor Force Engagement": 96629472
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Fiscal Sustainability": 160098128,
+        "Productivity and Competitiveness": 81403842,
+        "Dynamism": 147959886,
+        "Labor Force Engagement": 98013463
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Fiscal Sustainability": 146823819,
+        "Productivity and Competitiveness": 136485062,
+        "Dynamism": 127455589,
+        "Labor Force Engagement": 118555088
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Fiscal Sustainability": 77553707,
+        "Productivity and Competitiveness": 76176147,
+        "Dynamism": 89555710,
+        "Labor Force Engagement": 45540799
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Fiscal Sustainability": 178573305,
+        "Productivity and Competitiveness": 117896882,
+        "Dynamism": 98095012,
+        "Labor Force Engagement": 190948814
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Fiscal Sustainability": 185235230,
+        "Productivity and Competitiveness": 43497559,
+        "Dynamism": 138745336,
+        "Labor Force Engagement": 172913699
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Fiscal Sustainability": 6235190,
+        "Productivity and Competitiveness": 176237244,
+        "Dynamism": 96491998,
+        "Labor Force Engagement": 93445113
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Fiscal Sustainability": 146652684,
+        "Productivity and Competitiveness": 120023024,
+        "Dynamism": 93308365,
+        "Labor Force Engagement": 137837957
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Fiscal Sustainability": 139627847,
+        "Productivity and Competitiveness": 135060227,
+        "Dynamism": 86955251,
+        "Labor Force Engagement": 160554070
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Fiscal Sustainability": 38174889,
+        "Productivity and Competitiveness": 98886561,
+        "Dynamism": 84546608,
+        "Labor Force Engagement": 130027962
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Fiscal Sustainability": 128150503,
+        "Productivity and Competitiveness": 190735425,
+        "Dynamism": 83483872,
+        "Labor Force Engagement": 93654207
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Fiscal Sustainability": 73317781,
+        "Productivity and Competitiveness": 193722794,
+        "Dynamism": 106467591,
+        "Labor Force Engagement": 97500404
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Fiscal Sustainability": 133791511,
+        "Productivity and Competitiveness": 136715749,
+        "Dynamism": 98489280,
+        "Labor Force Engagement": 132265711
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Fiscal Sustainability": 156995475,
+        "Productivity and Competitiveness": 48558527,
+        "Dynamism": 105786795,
+        "Labor Force Engagement": 169736810
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Fiscal Sustainability": 140442697,
+        "Productivity and Competitiveness": 130506335,
+        "Dynamism": 94674217,
+        "Labor Force Engagement": 81441982
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Fiscal Sustainability": 154830491,
+        "Productivity and Competitiveness": 136366385,
+        "Dynamism": 79621886,
+        "Labor Force Engagement": 180769629
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Fiscal Sustainability": 131301531,
+        "Productivity and Competitiveness": 84344000,
+        "Dynamism": 108424065,
+        "Labor Force Engagement": 179236001
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Fiscal Sustainability": 116404669,
+        "Productivity and Competitiveness": 71000730,
+        "Dynamism": 85907779,
+        "Labor Force Engagement": 81273208
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Fiscal Sustainability": 149957121,
+        "Productivity and Competitiveness": 50148941,
+        "Dynamism": 106564523,
+        "Labor Force Engagement": 163409153
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Fiscal Sustainability": 181844856,
+        "Productivity and Competitiveness": 108165184,
+        "Dynamism": 99374091,
+        "Labor Force Engagement": 115578976
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Fiscal Sustainability": 195014355,
+        "Productivity and Competitiveness": 182785365,
+        "Dynamism": 117924510,
+        "Labor Force Engagement": 222310195
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Fiscal Sustainability": 137149906,
+        "Productivity and Competitiveness": 124958350,
+        "Dynamism": 96075797,
+        "Labor Force Engagement": 227554984
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Fiscal Sustainability": 124049946,
+        "Productivity and Competitiveness": 125747867,
+        "Dynamism": 99944802,
+        "Labor Force Engagement": 171602246
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Fiscal Sustainability": 25178135,
+        "Productivity and Competitiveness": 182812269,
+        "Dynamism": 118087986,
+        "Labor Force Engagement": 85289797
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Fiscal Sustainability": 172037949,
+        "Productivity and Competitiveness": 69994527,
+        "Dynamism": 95150846,
+        "Labor Force Engagement": 70120324
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Fiscal Sustainability": 155039343,
+        "Productivity and Competitiveness": 86098537,
+        "Dynamism": 120283636,
+        "Labor Force Engagement": 63153877
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Fiscal Sustainability": 113709840,
+        "Productivity and Competitiveness": 197038508,
+        "Dynamism": 121469331,
+        "Labor Force Engagement": 63983471
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Fiscal Sustainability": 104112008,
+        "Productivity and Competitiveness": 136835196,
+        "Dynamism": 63198808,
+        "Labor Force Engagement": 110853018
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Fiscal Sustainability": 162740611,
+        "Productivity and Competitiveness": 96995883,
+        "Dynamism": 114167030,
+        "Labor Force Engagement": 166930067
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Fiscal Sustainability": 182937533,
+        "Productivity and Competitiveness": 136110097,
+        "Dynamism": 109279742,
+        "Labor Force Engagement": 93791222
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Fiscal Sustainability": 71726128,
+        "Productivity and Competitiveness": 143090246,
+        "Dynamism": 79510029,
+        "Labor Force Engagement": 102911284
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Fiscal Sustainability": 119412473,
+        "Productivity and Competitiveness": 110350629,
+        "Dynamism": 73093724,
+        "Labor Force Engagement": 88743441
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Fiscal Sustainability": 154603431,
+        "Productivity and Competitiveness": 103361214,
+        "Dynamism": 99549861,
+        "Labor Force Engagement": 126301789
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Fiscal Sustainability": 190174569,
+        "Productivity and Competitiveness": 63360595,
+        "Dynamism": 89285767,
+        "Labor Force Engagement": 215176750
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Fiscal Sustainability": 176520497,
+        "Productivity and Competitiveness": 106228130,
+        "Dynamism": 99882108,
+        "Labor Force Engagement": 111165893
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Fiscal Sustainability": 194479875,
+        "Productivity and Competitiveness": 231358362,
+        "Dynamism": 133350588,
+        "Labor Force Engagement": 115489439
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Fiscal Sustainability": 182294157,
+        "Productivity and Competitiveness": 127859411,
+        "Dynamism": 114991315,
+        "Labor Force Engagement": 197270312
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Fiscal Sustainability": 148930127,
+        "Productivity and Competitiveness": 114006905,
+        "Dynamism": 91632824,
+        "Labor Force Engagement": 149125625
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Fiscal Sustainability": 132252095,
+        "Productivity and Competitiveness": 78776682,
+        "Dynamism": 102307525,
+        "Labor Force Engagement": 181034466
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Fiscal Sustainability": 162026794,
+        "Productivity and Competitiveness": 243579200,
+        "Dynamism": 126102934,
+        "Labor Force Engagement": 89354617
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Fiscal Sustainability": 181873245,
+        "Productivity and Competitiveness": 107880647,
+        "Dynamism": 80603857,
+        "Labor Force Engagement": 157606099
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Fiscal Sustainability": 158061257,
+        "Productivity and Competitiveness": 110771005,
+        "Dynamism": 52345522,
+        "Labor Force Engagement": 74038935
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Fiscal Sustainability": 171218796,
+        "Productivity and Competitiveness": 168896029,
+        "Dynamism": 123850585,
+        "Labor Force Engagement": 167913018
+      }
+    }
+  ],
+  "derivatives": {
+    "Economic Quality": [
+      "Fiscal Sustainability",
+      "Productivity and Competitiveness",
+      "Dynamism",
+      "Labor Force Engagement"
+    ]
+  },
+  "weightingOptions": {
+    "Fiscal Sustainability": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Productivity and Competitiveness": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Dynamism": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Labor Force Engagement": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

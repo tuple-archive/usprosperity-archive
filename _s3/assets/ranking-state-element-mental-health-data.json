@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Suicide": 19799,
+        "Drug overdose deaths": 107988,
+        "Serious mental illness": 116211,
+        "Disability weighted prevalence from mental illness": 190690,
+        "Self-reported mental health not good": 194444
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Suicide": 183253,
+        "Drug overdose deaths": 113750,
+        "Serious mental illness": 107131,
+        "Disability weighted prevalence from mental illness": 237137,
+        "Self-reported mental health not good": 41666
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Suicide": 160413,
+        "Drug overdose deaths": 124805,
+        "Serious mental illness": 134127,
+        "Disability weighted prevalence from mental illness": 111194,
+        "Self-reported mental health not good": 33333
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Suicide": 151426,
+        "Drug overdose deaths": 72150,
+        "Serious mental illness": 141174,
+        "Disability weighted prevalence from mental illness": 133612,
+        "Self-reported mental health not good": 127777
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Suicide": 257746,
+        "Drug overdose deaths": 119134,
+        "Serious mental illness": 223976,
+        "Disability weighted prevalence from mental illness": 262147,
+        "Self-reported mental health not good": 197222
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Suicide": 106013,
+        "Drug overdose deaths": 107146,
+        "Serious mental illness": 141330,
+        "Disability weighted prevalence from mental illness": 131368,
+        "Self-reported mental health not good": 186111
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Suicide": 248559,
+        "Drug overdose deaths": 41031,
+        "Serious mental illness": 251693,
+        "Disability weighted prevalence from mental illness": 271289,
+        "Self-reported mental health not good": 213888
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Suicide": 317626,
+        "Drug overdose deaths": 6964,
+        "Serious mental illness": 172719,
+        "Disability weighted prevalence from mental illness": 274928,
+        "Self-reported mental health not good": 208333
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Suicide": 249679,
+        "Drug overdose deaths": 0,
+        "Serious mental illness": 118463,
+        "Disability weighted prevalence from mental illness": 159326,
+        "Self-reported mental health not good": 152777
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Suicide": 206333,
+        "Drug overdose deaths": 77289,
+        "Serious mental illness": 242469,
+        "Disability weighted prevalence from mental illness": 181972,
+        "Self-reported mental health not good": 144444
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Suicide": 204893,
+        "Drug overdose deaths": 126682,
+        "Serious mental illness": 225235,
+        "Disability weighted prevalence from mental illness": 192898,
+        "Self-reported mental health not good": 99999
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Suicide": 192799,
+        "Drug overdose deaths": 115547,
+        "Serious mental illness": 268496,
+        "Disability weighted prevalence from mental illness": 200003,
+        "Self-reported mental health not good": 219444
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Suicide": 177986,
+        "Drug overdose deaths": 132920,
+        "Serious mental illness": 155441,
+        "Disability weighted prevalence from mental illness": 229549,
+        "Self-reported mental health not good": 186111
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Suicide": 128199,
+        "Drug overdose deaths": 118630,
+        "Serious mental illness": 174531,
+        "Disability weighted prevalence from mental illness": 116314,
+        "Self-reported mental health not good": 152777
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Suicide": 255119,
+        "Drug overdose deaths": 91694,
+        "Serious mental illness": 250413,
+        "Disability weighted prevalence from mental illness": 246329,
+        "Self-reported mental health not good": 183333
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Suicide": 210893,
+        "Drug overdose deaths": 72873,
+        "Serious mental illness": 150783,
+        "Disability weighted prevalence from mental illness": 147594,
+        "Self-reported mental health not good": 130555
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Suicide": 157799,
+        "Drug overdose deaths": 121976,
+        "Serious mental illness": 128871,
+        "Disability weighted prevalence from mental illness": 179312,
+        "Self-reported mental health not good": 141666
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Suicide": 179773,
+        "Drug overdose deaths": 49563,
+        "Serious mental illness": 92277,
+        "Disability weighted prevalence from mental illness": 163630,
+        "Self-reported mental health not good": 49999
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Suicide": 199586,
+        "Drug overdose deaths": 66130,
+        "Serious mental illness": 146186,
+        "Disability weighted prevalence from mental illness": 234103,
+        "Self-reported mental health not good": 13888
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Suicide": 284106,
+        "Drug overdose deaths": 51238,
+        "Serious mental illness": 178747,
+        "Disability weighted prevalence from mental illness": 183348,
+        "Self-reported mental health not good": 180555
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Suicide": 262479,
+        "Drug overdose deaths": 27123,
+        "Serious mental illness": 252199,
+        "Disability weighted prevalence from mental illness": 211831,
+        "Self-reported mental health not good": 199999
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Suicide": 141479,
+        "Drug overdose deaths": 59853,
+        "Serious mental illness": 90848,
+        "Disability weighted prevalence from mental illness": 173436,
+        "Self-reported mental health not good": 133333
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Suicide": 209586,
+        "Drug overdose deaths": 81603,
+        "Serious mental illness": 181353,
+        "Disability weighted prevalence from mental illness": 168490,
+        "Self-reported mental health not good": 77777
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Suicide": 208106,
+        "Drug overdose deaths": 122051,
+        "Serious mental illness": 210278,
+        "Disability weighted prevalence from mental illness": 199535,
+        "Self-reported mental health not good": 205555
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Suicide": 157559,
+        "Drug overdose deaths": 71940,
+        "Serious mental illness": 128637,
+        "Disability weighted prevalence from mental illness": 197619,
+        "Self-reported mental health not good": 113888
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Suicide": 207959,
+        "Drug overdose deaths": 124472,
+        "Serious mental illness": 134430,
+        "Disability weighted prevalence from mental illness": 207742,
+        "Self-reported mental health not good": 47222
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Suicide": 51053,
+        "Drug overdose deaths": 122563,
+        "Serious mental illness": 168913,
+        "Disability weighted prevalence from mental illness": 146870,
+        "Self-reported mental health not good": 141666
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Suicide": 233039,
+        "Drug overdose deaths": 90182,
+        "Serious mental illness": 194271,
+        "Disability weighted prevalence from mental illness": 260747,
+        "Self-reported mental health not good": 144444
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Suicide": 158199,
+        "Drug overdose deaths": 133496,
+        "Serious mental illness": 203326,
+        "Disability weighted prevalence from mental illness": 266583,
+        "Self-reported mental health not good": 213888
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Suicide": 185213,
+        "Drug overdose deaths": 144059,
+        "Serious mental illness": 210918,
+        "Disability weighted prevalence from mental illness": 224243,
+        "Self-reported mental health not good": 213888
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Suicide": 166466,
+        "Drug overdose deaths": 51484,
+        "Serious mental illness": 213072,
+        "Disability weighted prevalence from mental illness": 142333,
+        "Self-reported mental health not good": 141666
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Suicide": 292999,
+        "Drug overdose deaths": 52702,
+        "Serious mental illness": 279431,
+        "Disability weighted prevalence from mental illness": 231345,
+        "Self-reported mental health not good": 213888
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Suicide": 79693,
+        "Drug overdose deaths": 58916,
+        "Serious mental illness": 148160,
+        "Disability weighted prevalence from mental illness": 110821,
+        "Self-reported mental health not good": 116666
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Suicide": 136493,
+        "Drug overdose deaths": 98825,
+        "Serious mental illness": 107478,
+        "Disability weighted prevalence from mental illness": 170014,
+        "Self-reported mental health not good": 113888
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Suicide": 289573,
+        "Drug overdose deaths": 106238,
+        "Serious mental illness": 249158,
+        "Disability weighted prevalence from mental illness": 209008,
+        "Self-reported mental health not good": 199999
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Suicide": 198133,
+        "Drug overdose deaths": 26682,
+        "Serious mental illness": 57116,
+        "Disability weighted prevalence from mental illness": 179585,
+        "Self-reported mental health not good": 74999
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Suicide": 127319,
+        "Drug overdose deaths": 112444,
+        "Serious mental illness": 137974,
+        "Disability weighted prevalence from mental illness": 142382,
+        "Self-reported mental health not good": 94444
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Suicide": 128426,
+        "Drug overdose deaths": 123142,
+        "Serious mental illness": 115956,
+        "Disability weighted prevalence from mental illness": 242841,
+        "Self-reported mental health not good": 136111
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Suicide": 212933,
+        "Drug overdose deaths": 37130,
+        "Serious mental illness": 194308,
+        "Disability weighted prevalence from mental illness": 200560,
+        "Self-reported mental health not good": 147222
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Suicide": 257906,
+        "Drug overdose deaths": 61313,
+        "Serious mental illness": 190095,
+        "Disability weighted prevalence from mental illness": 116166,
+        "Self-reported mental health not good": 141666
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Suicide": 184253,
+        "Drug overdose deaths": 88575,
+        "Serious mental illness": 179110,
+        "Disability weighted prevalence from mental illness": 176074,
+        "Self-reported mental health not good": 166666
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Suicide": 120986,
+        "Drug overdose deaths": 137015,
+        "Serious mental illness": 166417,
+        "Disability weighted prevalence from mental illness": 289266,
+        "Self-reported mental health not good": 233333
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Suicide": 170266,
+        "Drug overdose deaths": 54845,
+        "Serious mental illness": 142592,
+        "Disability weighted prevalence from mental illness": 126429,
+        "Self-reported mental health not good": 88888
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Suicide": 221506,
+        "Drug overdose deaths": 135781,
+        "Serious mental illness": 252567,
+        "Disability weighted prevalence from mental illness": 228710,
+        "Self-reported mental health not good": 188888
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Suicide": 117893,
+        "Drug overdose deaths": 103384,
+        "Serious mental illness": 64098,
+        "Disability weighted prevalence from mental illness": 39848,
+        "Self-reported mental health not good": 133333
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Suicide": 229159,
+        "Drug overdose deaths": 105976,
+        "Serious mental illness": 230684,
+        "Disability weighted prevalence from mental illness": 175704,
+        "Self-reported mental health not good": 174999
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Suicide": 186746,
+        "Drug overdose deaths": 84281,
+        "Serious mental illness": 120332,
+        "Disability weighted prevalence from mental illness": 172846,
+        "Self-reported mental health not good": 138888
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Suicide": 188373,
+        "Drug overdose deaths": 115706,
+        "Serious mental illness": 127788,
+        "Disability weighted prevalence from mental illness": 152358,
+        "Self-reported mental health not good": 149999
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Suicide": 213893,
+        "Drug overdose deaths": 94674,
+        "Serious mental illness": 162934,
+        "Disability weighted prevalence from mental illness": 183729,
+        "Self-reported mental health not good": 174999
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Suicide": 153519,
+        "Drug overdose deaths": 0,
+        "Serious mental illness": 92527,
+        "Disability weighted prevalence from mental illness": 109759,
+        "Self-reported mental health not good": 0
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Suicide": 8919,
+        "Drug overdose deaths": 122567,
+        "Serious mental illness": 164224,
+        "Disability weighted prevalence from mental illness": 154167,
+        "Self-reported mental health not good": 177777
+      }
+    }
+  ],
+  "derivatives": {
+    "Mental Health": [
+      "Suicide",
+      "Drug overdose deaths",
+      "Serious mental illness",
+      "Disability weighted prevalence from mental illness",
+      "Self-reported mental health not good"
+    ]
+  },
+  "weightingOptions": {
+    "Suicide": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Drug overdose deaths": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Serious mental illness": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Disability weighted prevalence from mental illness": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Self-reported mental health not good": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Unemployment": 311111,
+        "Youth unemployment": 0,
+        "Employee engagement": 277777,
+        "Underemployment": 247172,
+        "Labor force participation": 233115
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Unemployment": 451851,
+        "Youth unemployment": 320000,
+        "Employee engagement": 333333,
+        "Underemployment": 443332,
+        "Labor force participation": 93210
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Unemployment": 437037,
+        "Youth unemployment": 246666,
+        "Employee engagement": 277777,
+        "Underemployment": 409137,
+        "Labor force participation": 100100
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Unemployment": 303703,
+        "Youth unemployment": 0,
+        "Employee engagement": 333333,
+        "Underemployment": 234227,
+        "Labor force participation": 321927
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Unemployment": 140740,
+        "Youth unemployment": 0,
+        "Employee engagement": 249999,
+        "Underemployment": 75286,
+        "Labor force participation": 180610
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Unemployment": 348148,
+        "Youth unemployment": 0,
+        "Employee engagement": 222222,
+        "Underemployment": 55384,
+        "Labor force participation": 470161
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Unemployment": 303703,
+        "Youth unemployment": 0,
+        "Employee engagement": 27777,
+        "Underemployment": 150031,
+        "Labor force participation": 431561
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Unemployment": 296296,
+        "Youth unemployment": 0,
+        "Employee engagement": 55555,
+        "Underemployment": 409137,
+        "Labor force participation": 508884
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Unemployment": 311111,
+        "Youth unemployment": 0,
+        "Employee engagement": 111111,
+        "Underemployment": 173022,
+        "Labor force participation": 371049
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Unemployment": 318518,
+        "Youth unemployment": 20000,
+        "Employee engagement": 305555,
+        "Underemployment": 150031,
+        "Labor force participation": 186028
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Unemployment": 407407,
+        "Youth unemployment": 140000,
+        "Employee engagement": 277777,
+        "Underemployment": 161428,
+        "Labor force participation": 198937
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Unemployment": 29629,
+        "Youth unemployment": 0,
+        "Employee engagement": 166666,
+        "Underemployment": 0,
+        "Labor force participation": 259111
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Unemployment": 496296,
+        "Youth unemployment": 313333,
+        "Employee engagement": 222222,
+        "Underemployment": 345596,
+        "Labor force participation": 532039
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Unemployment": 488888,
+        "Youth unemployment": 346666,
+        "Employee engagement": 277777,
+        "Underemployment": 234227,
+        "Labor force participation": 381576
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Unemployment": 185185,
+        "Youth unemployment": 0,
+        "Employee engagement": 166666,
+        "Underemployment": 247172,
+        "Labor force participation": 335426
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Unemployment": 362962,
+        "Youth unemployment": 166666,
+        "Employee engagement": 194444,
+        "Underemployment": 315962,
+        "Labor force participation": 338343
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Unemployment": 451851,
+        "Youth unemployment": 226666,
+        "Employee engagement": 166666,
+        "Underemployment": 273843,
+        "Labor force participation": 486512
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Unemployment": 400000,
+        "Youth unemployment": 46666,
+        "Employee engagement": 333333,
+        "Underemployment": 443332,
+        "Labor force participation": 76946
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Unemployment": 274074,
+        "Youth unemployment": 13333,
+        "Employee engagement": 305555,
+        "Underemployment": 234227,
+        "Labor force participation": 109351
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Unemployment": 229629,
+        "Youth unemployment": 0,
+        "Employee engagement": 138888,
+        "Underemployment": 234227,
+        "Labor force participation": 372257
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Unemployment": 385185,
+        "Youth unemployment": 0,
+        "Employee engagement": 194444,
+        "Underemployment": 330615,
+        "Labor force participation": 412412
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Unemployment": 488888,
+        "Youth unemployment": 286666,
+        "Employee engagement": 249999,
+        "Underemployment": 247172,
+        "Labor force participation": 424639
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Unemployment": 155555,
+        "Youth unemployment": 0,
+        "Employee engagement": 222222,
+        "Underemployment": 221528,
+        "Labor force participation": 215113
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Unemployment": 429629,
+        "Youth unemployment": 306666,
+        "Employee engagement": 166666,
+        "Underemployment": 315962,
+        "Labor force participation": 588770
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Unemployment": 437037,
+        "Youth unemployment": 406666,
+        "Employee engagement": 277777,
+        "Underemployment": 315962,
+        "Labor force participation": 354916
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Unemployment": 288888,
+        "Youth unemployment": 0,
+        "Employee engagement": 249999,
+        "Underemployment": 273843,
+        "Labor force participation": 0
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Unemployment": 451851,
+        "Youth unemployment": 246666,
+        "Employee engagement": 333333,
+        "Underemployment": 184822,
+        "Labor force participation": 417417
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Unemployment": 348148,
+        "Youth unemployment": 126666,
+        "Employee engagement": 222222,
+        "Underemployment": 247172,
+        "Labor force participation": 211579
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Unemployment": 511111,
+        "Youth unemployment": 420000,
+        "Employee engagement": 194444,
+        "Underemployment": 498158,
+        "Labor force participation": 599388
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Unemployment": 577777,
+        "Youth unemployment": 400000,
+        "Employee engagement": 249999,
+        "Underemployment": 409137,
+        "Labor force participation": 638634
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Unemployment": 392592,
+        "Youth unemployment": 140000,
+        "Employee engagement": 222222,
+        "Underemployment": 426015,
+        "Labor force participation": 535192
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Unemployment": 162962,
+        "Youth unemployment": 0,
+        "Employee engagement": 111111,
+        "Underemployment": 209067,
+        "Labor force participation": 369756
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Unemployment": 266666,
+        "Youth unemployment": 0,
+        "Employee engagement": 249999,
+        "Underemployment": 95801,
+        "Labor force participation": 88735
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Unemployment": 0,
+        "Youth unemployment": 0,
+        "Employee engagement": 277777,
+        "Underemployment": 106300,
+        "Labor force participation": 247460
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Unemployment": 148148,
+        "Youth unemployment": 0,
+        "Employee engagement": 111111,
+        "Underemployment": 184822,
+        "Labor force participation": 195753
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Unemployment": 288888,
+        "Youth unemployment": 0,
+        "Employee engagement": 194444,
+        "Underemployment": 301624,
+        "Labor force participation": 323571
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Unemployment": 437037,
+        "Youth unemployment": 386666,
+        "Employee engagement": 277777,
+        "Underemployment": 345596,
+        "Labor force participation": 222222
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Unemployment": 325925,
+        "Youth unemployment": 0,
+        "Employee engagement": 138888,
+        "Underemployment": 150031,
+        "Labor force participation": 323065
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Unemployment": 214814,
+        "Youth unemployment": 20000,
+        "Employee engagement": 166666,
+        "Underemployment": 260374,
+        "Labor force participation": 367256
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Unemployment": 192592,
+        "Youth unemployment": 0,
+        "Employee engagement": 138888,
+        "Underemployment": 150031,
+        "Labor force participation": 405921
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Unemployment": 429629,
+        "Youth unemployment": 86666,
+        "Employee engagement": 249999,
+        "Underemployment": 287589,
+        "Labor force participation": 209132
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Unemployment": 548148,
+        "Youth unemployment": 346666,
+        "Employee engagement": 277777,
+        "Underemployment": 443332,
+        "Labor force participation": 535842
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Unemployment": 333333,
+        "Youth unemployment": 6666,
+        "Employee engagement": 305555,
+        "Underemployment": 221528,
+        "Labor force participation": 244574
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Unemployment": 325925,
+        "Youth unemployment": 113333,
+        "Employee engagement": 305555,
+        "Underemployment": 138827,
+        "Labor force participation": 271252
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Unemployment": 540740,
+        "Youth unemployment": 473333,
+        "Employee engagement": 194444,
+        "Underemployment": 345596,
+        "Labor force participation": 418587
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Unemployment": 429629,
+        "Youth unemployment": 160000,
+        "Employee engagement": 222222,
+        "Underemployment": 273843,
+        "Labor force participation": 405561
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Unemployment": 474074,
+        "Youth unemployment": 333333,
+        "Employee engagement": 249999,
+        "Underemployment": 315962,
+        "Labor force participation": 436974
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Unemployment": 266666,
+        "Youth unemployment": 0,
+        "Employee engagement": 166666,
+        "Underemployment": 95801,
+        "Labor force participation": 364411
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Unemployment": 422222,
+        "Youth unemployment": 266666,
+        "Employee engagement": 166666,
+        "Underemployment": 260374,
+        "Labor force participation": 460130
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Unemployment": 274074,
+        "Youth unemployment": 13333,
+        "Employee engagement": 166666,
+        "Underemployment": 221528,
+        "Labor force participation": 64786
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Unemployment": 459259,
+        "Youth unemployment": 273333,
+        "Employee engagement": 249999,
+        "Underemployment": 260374,
+        "Labor force participation": 436162
+      }
+    }
+  ],
+  "derivatives": {
+    "Labor Force Engagement": [
+      "Unemployment",
+      "Youth unemployment",
+      "Employee engagement",
+      "Underemployment",
+      "Labor force participation"
+    ]
+  },
+  "weightingOptions": {
+    "Unemployment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Youth unemployment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Employee engagement": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Underemployment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Labor force participation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

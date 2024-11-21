@@ -1,0 +1,470 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Justice Index": 840000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Justice Index": 315000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Justice Index": 1207500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Justice Index": 1312500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Justice Index": 2047500,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Justice Index": 2362500,
+        "Judicial integrity": 437500
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Justice Index": 2415000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Justice Index": 2625000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Justice Index": 1837500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Justice Index": 997500,
+        "Judicial integrity": 437500
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Justice Index": 682500,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Justice Index": 2520000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Justice Index": 1155000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Justice Index": 1102500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Justice Index": 2257500,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Justice Index": 210000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Justice Index": 525000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Justice Index": 1365000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Justice Index": 472499,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Justice Index": 2572500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Justice Index": 2467499,
+        "Judicial integrity": 437500
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Justice Index": 1942500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Justice Index": 1785000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Justice Index": 2310000,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Justice Index": 735000,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Justice Index": 0,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Justice Index": 787500,
+        "Judicial integrity": 437500
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Justice Index": 1680000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Justice Index": 262500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Justice Index": 1260000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Justice Index": 1050000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Justice Index": 1470000,
+        "Judicial integrity": 437500
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Justice Index": 2152500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Justice Index": 105000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Justice Index": 1522500,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Justice Index": 892500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Justice Index": 367500,
+        "Judicial integrity": 437500
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Justice Index": 1995000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Justice Index": 630000,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Justice Index": 1627499,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Justice Index": 577500,
+        "Judicial integrity": 0
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Justice Index": 157500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Justice Index": 2205000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Justice Index": 944999,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Justice Index": 1575000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Justice Index": 1417500,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Justice Index": 420000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Justice Index": 1889999,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Justice Index": 2100000,
+        "Judicial integrity": 875000
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Justice Index": 1732500,
+        "Judicial integrity": 437500
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Justice Index": 52500,
+        "Judicial integrity": 875000
+      }
+    }
+  ],
+  "derivatives": {
+    "Rule of Law": [
+      "Justice Index",
+      "Judicial integrity"
+    ]
+  },
+  "weightingOptions": {
+    "Justice Index": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Judicial integrity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

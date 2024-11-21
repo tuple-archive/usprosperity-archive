@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Clean and safe water": 216883,
+        "Public drinking water violations": 395450,
+        "Complete kitchen and plumbing facilities": 0
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Clean and safe water": 236189,
+        "Public drinking water violations": 582200,
+        "Complete kitchen and plumbing facilities": 479322
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Clean and safe water": 218011,
+        "Public drinking water violations": 454317,
+        "Complete kitchen and plumbing facilities": 355648
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Clean and safe water": 127165,
+        "Public drinking water violations": 518043,
+        "Complete kitchen and plumbing facilities": 350257
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Clean and safe water": 181271,
+        "Public drinking water violations": 516186,
+        "Complete kitchen and plumbing facilities": 271762
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Clean and safe water": 218670,
+        "Public drinking water violations": 436023,
+        "Complete kitchen and plumbing facilities": 439573
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Clean and safe water": 239845,
+        "Public drinking water violations": 531505,
+        "Complete kitchen and plumbing facilities": 505820
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Clean and safe water": 22478,
+        "Public drinking water violations": 0,
+        "Complete kitchen and plumbing facilities": 506458
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Clean and safe water": 208829,
+        "Public drinking water violations": 570017,
+        "Complete kitchen and plumbing facilities": 559901
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Clean and safe water": 165764,
+        "Public drinking water violations": 583625,
+        "Complete kitchen and plumbing facilities": 482513
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Clean and safe water": 227805,
+        "Public drinking water violations": 564427,
+        "Complete kitchen and plumbing facilities": 484311
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Clean and safe water": 255664,
+        "Public drinking water violations": 577523,
+        "Complete kitchen and plumbing facilities": 41712
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Clean and safe water": 262097,
+        "Public drinking water violations": 557484,
+        "Complete kitchen and plumbing facilities": 391557
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Clean and safe water": 232106,
+        "Public drinking water violations": 483763,
+        "Complete kitchen and plumbing facilities": 281223
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Clean and safe water": 224123,
+        "Public drinking water violations": 593453,
+        "Complete kitchen and plumbing facilities": 460762
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Clean and safe water": 212870,
+        "Public drinking water violations": 467904,
+        "Complete kitchen and plumbing facilities": 460017
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Clean and safe water": 214847,
+        "Public drinking water violations": 449398,
+        "Complete kitchen and plumbing facilities": 305679
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Clean and safe water": 196644,
+        "Public drinking water violations": 520107,
+        "Complete kitchen and plumbing facilities": 409165
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Clean and safe water": 92777,
+        "Public drinking water violations": 161863,
+        "Complete kitchen and plumbing facilities": 453438
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Clean and safe water": 235600,
+        "Public drinking water violations": 546056,
+        "Complete kitchen and plumbing facilities": 449690
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Clean and safe water": 231343,
+        "Public drinking water violations": 596920,
+        "Complete kitchen and plumbing facilities": 532886
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Clean and safe water": 259579,
+        "Public drinking water violations": 522132,
+        "Complete kitchen and plumbing facilities": 294639
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Clean and safe water": 264573,
+        "Public drinking water violations": 597096,
+        "Complete kitchen and plumbing facilities": 444091
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Clean and safe water": 300000,
+        "Public drinking water violations": 597688,
+        "Complete kitchen and plumbing facilities": 501003
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Clean and safe water": 267031,
+        "Public drinking water violations": 563581,
+        "Complete kitchen and plumbing facilities": 422077
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Clean and safe water": 108800,
+        "Public drinking water violations": 548098,
+        "Complete kitchen and plumbing facilities": 403448
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Clean and safe water": 169412,
+        "Public drinking water violations": 551767,
+        "Complete kitchen and plumbing facilities": 318066
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Clean and safe water": 204651,
+        "Public drinking water violations": 591804,
+        "Complete kitchen and plumbing facilities": 511176
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Clean and safe water": 173479,
+        "Public drinking water violations": 576676,
+        "Complete kitchen and plumbing facilities": 451392
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Clean and safe water": 237075,
+        "Public drinking water violations": 473951,
+        "Complete kitchen and plumbing facilities": 327261
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Clean and safe water": 242361,
+        "Public drinking water violations": 512530,
+        "Complete kitchen and plumbing facilities": 410411
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Clean and safe water": 167251,
+        "Public drinking water violations": 497108,
+        "Complete kitchen and plumbing facilities": 455279
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Clean and safe water": 140206,
+        "Public drinking water violations": 230269,
+        "Complete kitchen and plumbing facilities": 214356
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Clean and safe water": 98381,
+        "Public drinking water violations": 480540,
+        "Complete kitchen and plumbing facilities": 448562
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Clean and safe water": 200581,
+        "Public drinking water violations": 586122,
+        "Complete kitchen and plumbing facilities": 427371
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Clean and safe water": 231334,
+        "Public drinking water violations": 559987,
+        "Complete kitchen and plumbing facilities": 352614
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Clean and safe water": 56704,
+        "Public drinking water violations": 316820,
+        "Complete kitchen and plumbing facilities": 381747
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Clean and safe water": 261359,
+        "Public drinking water violations": 554501,
+        "Complete kitchen and plumbing facilities": 182933
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Clean and safe water": 226969,
+        "Public drinking water violations": 479147,
+        "Complete kitchen and plumbing facilities": 361452
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Clean and safe water": 140421,
+        "Public drinking water violations": 573266,
+        "Complete kitchen and plumbing facilities": 380613
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Clean and safe water": 225243,
+        "Public drinking water violations": 588408,
+        "Complete kitchen and plumbing facilities": 449549
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Clean and safe water": 249791,
+        "Public drinking water violations": 492432,
+        "Complete kitchen and plumbing facilities": 296847
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Clean and safe water": 234537,
+        "Public drinking water violations": 535217,
+        "Complete kitchen and plumbing facilities": 422015
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Clean and safe water": 151927,
+        "Public drinking water violations": 503940,
+        "Complete kitchen and plumbing facilities": 380718
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Clean and safe water": 276136,
+        "Public drinking water violations": 348118,
+        "Complete kitchen and plumbing facilities": 505658
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Clean and safe water": 234823,
+        "Public drinking water violations": 577167,
+        "Complete kitchen and plumbing facilities": 498741
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Clean and safe water": 247063,
+        "Public drinking water violations": 565023,
+        "Complete kitchen and plumbing facilities": 355185
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Clean and safe water": 267228,
+        "Public drinking water violations": 581917,
+        "Complete kitchen and plumbing facilities": 326725
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Clean and safe water": 269955,
+        "Public drinking water violations": 586121,
+        "Complete kitchen and plumbing facilities": 378744
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Clean and safe water": 84714,
+        "Public drinking water violations": 293260,
+        "Complete kitchen and plumbing facilities": 452961
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Clean and safe water": 250482,
+        "Public drinking water violations": 451202,
+        "Complete kitchen and plumbing facilities": 408226
+      }
+    }
+  ],
+  "derivatives": {
+    "Water Services": [
+      "Clean and safe water",
+      "Public drinking water violations",
+      "Complete kitchen and plumbing facilities"
+    ]
+  },
+  "weightingOptions": {
+    "Clean and safe water": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Public drinking water violations": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Complete kitchen and plumbing facilities": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

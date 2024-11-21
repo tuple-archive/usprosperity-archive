@@ -1,0 +1,470 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Fatal unintentional injuries": 99447,
+        "Traffic deaths": 390865
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Fatal unintentional injuries": 439226,
+        "Traffic deaths": 256153
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Fatal unintentional injuries": 459944,
+        "Traffic deaths": 319903
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Fatal unintentional injuries": 368784,
+        "Traffic deaths": 466730
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Fatal unintentional injuries": 704419,
+        "Traffic deaths": 563653
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Fatal unintentional injuries": 174033,
+        "Traffic deaths": 534807
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Fatal unintentional injuries": 534530,
+        "Traffic deaths": 653653
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Fatal unintentional injuries": 617403,
+        "Traffic deaths": 667211
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Fatal unintentional injuries": 588397,
+        "Traffic deaths": 467019
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Fatal unintentional injuries": 505524,
+        "Traffic deaths": 421730
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Fatal unintentional injuries": 522099,
+        "Traffic deaths": 439615
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Fatal unintentional injuries": 509668,
+        "Traffic deaths": 592211
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Fatal unintentional injuries": 306629,
+        "Traffic deaths": 532788
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Fatal unintentional injuries": 277624,
+        "Traffic deaths": 407019
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Fatal unintentional injuries": 538674,
+        "Traffic deaths": 602884
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Fatal unintentional injuries": 430939,
+        "Traffic deaths": 479134
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Fatal unintentional injuries": 302486,
+        "Traffic deaths": 456346
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Fatal unintentional injuries": 352209,
+        "Traffic deaths": 371538
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Fatal unintentional injuries": 410220,
+        "Traffic deaths": 349903
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Fatal unintentional injuries": 480662,
+        "Traffic deaths": 708750
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Fatal unintentional injuries": 476519,
+        "Traffic deaths": 593365
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Fatal unintentional injuries": 95303,
+        "Traffic deaths": 515192
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Fatal unintentional injuries": 414364,
+        "Traffic deaths": 558173
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Fatal unintentional injuries": 190607,
+        "Traffic deaths": 630288
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Fatal unintentional injuries": 335635,
+        "Traffic deaths": 405576
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Fatal unintentional injuries": 252762,
+        "Traffic deaths": 124326
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Fatal unintentional injuries": 145027,
+        "Traffic deaths": 328846
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Fatal unintentional injuries": 343922,
+        "Traffic deaths": 421730
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Fatal unintentional injuries": 368784,
+        "Traffic deaths": 453749
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Fatal unintentional injuries": 397790,
+        "Traffic deaths": 461250
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Fatal unintentional injuries": 314917,
+        "Traffic deaths": 646442
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Fatal unintentional injuries": 691988,
+        "Traffic deaths": 670384
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Fatal unintentional injuries": 136740,
+        "Traffic deaths": 285000
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Fatal unintentional injuries": 468232,
+        "Traffic deaths": 577211
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Fatal unintentional injuries": 671270,
+        "Traffic deaths": 702115
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Fatal unintentional injuries": 360497,
+        "Traffic deaths": 550096
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Fatal unintentional injuries": 140883,
+        "Traffic deaths": 363173
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Fatal unintentional injuries": 285911,
+        "Traffic deaths": 500192
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Fatal unintentional injuries": 410220,
+        "Traffic deaths": 616153
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Fatal unintentional injuries": 323204,
+        "Traffic deaths": 676153
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Fatal unintentional injuries": 327348,
+        "Traffic deaths": 279807
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Fatal unintentional injuries": 74585,
+        "Traffic deaths": 409615
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Fatal unintentional injuries": 306629,
+        "Traffic deaths": 372980
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Fatal unintentional injuries": 513812,
+        "Traffic deaths": 465865
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Fatal unintentional injuries": 343922,
+        "Traffic deaths": 607788
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Fatal unintentional injuries": 480662,
+        "Traffic deaths": 569711
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Fatal unintentional injuries": 120165,
+        "Traffic deaths": 606057
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Fatal unintentional injuries": 339779,
+        "Traffic deaths": 614423
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Fatal unintentional injuries": 0,
+        "Traffic deaths": 563653
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Fatal unintentional injuries": 41436,
+        "Traffic deaths": 345576
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Fatal unintentional injuries": 0,
+        "Traffic deaths": 268269
+      }
+    }
+  ],
+  "derivatives": {
+    "Protection from Harm": [
+      "Fatal unintentional injuries",
+      "Traffic deaths"
+    ]
+  },
+  "weightingOptions": {
+    "Fatal unintentional injuries": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Traffic deaths": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

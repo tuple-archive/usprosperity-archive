@@ -1,0 +1,7549 @@
+{
+  "regions": [
+    {
+      "id": "13001",
+      "title": "Appling, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3110.519173291495,
+        "Property Crime": 1137.840567651977
+      }
+    },
+    {
+      "id": "13003",
+      "title": "Atkinson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3872.0196197523537,
+        "Property Crime": 2674.2621760297197
+      }
+    },
+    {
+      "id": "13005",
+      "title": "Bacon, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1145.4797217212242,
+        "Property Crime": 427.7168785550215
+      }
+    },
+    {
+      "id": "13007",
+      "title": "Baker, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4122.467326566474,
+        "Property Crime": 2323.2454011477957
+      }
+    },
+    {
+      "id": "13009",
+      "title": "Baldwin, GA",
+      "scores": {
+        "Terror-related Crime": 1109.5893067974366,
+        "Violent Crime": 1557.6982546402614,
+        "Property Crime": 1417.9686935528598
+      }
+    },
+    {
+      "id": "13011",
+      "title": "Banks, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3136.5523111839216,
+        "Property Crime": 1537.1337891172957
+      }
+    },
+    {
+      "id": "13013",
+      "title": "Barrow, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2104.9946562024884,
+        "Property Crime": 1571.6761521474841
+      }
+    },
+    {
+      "id": "13015",
+      "title": "Bartow, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2873.8374103733063,
+        "Property Crime": 1127.48544765342
+      }
+    },
+    {
+      "id": "13017",
+      "title": "Ben Hill, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2059.3700713664466,
+        "Property Crime": 987.2341445433638
+      }
+    },
+    {
+      "id": "13019",
+      "title": "Berrien, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3025.8103814253263,
+        "Property Crime": 1717.2810741604217
+      }
+    },
+    {
+      "id": "13021",
+      "title": "Bibb, GA",
+      "scores": {
+        "Terror-related Crime": 1016.7441824178188,
+        "Violent Crime": 1755.9748165328167,
+        "Property Crime": 428.67060760806856
+      }
+    },
+    {
+      "id": "13023",
+      "title": "Bleckley, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1789.3397946034654,
+        "Property Crime": 1348.2360514016189
+      }
+    },
+    {
+      "id": "13025",
+      "title": "Brantley, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3194.255612515558,
+        "Property Crime": 1655.368070122898
+      }
+    },
+    {
+      "id": "13027",
+      "title": "Brooks, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3077.1295386455863,
+        "Property Crime": 1523.0255634746793
+      }
+    },
+    {
+      "id": "13029",
+      "title": "Bryan, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2373.414582402552,
+        "Property Crime": 2347.878668487404
+      }
+    },
+    {
+      "id": "13031",
+      "title": "Bulloch, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2760.5596509747243,
+        "Property Crime": 1701.3531749008741
+      }
+    },
+    {
+      "id": "13033",
+      "title": "Burke, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1526.208628753369,
+        "Property Crime": 1092.6311895703375
+      }
+    },
+    {
+      "id": "13035",
+      "title": "Butts, GA",
+      "scores": {
+        "Terror-related Crime": 803.9346568666919,
+        "Violent Crime": 2665.9307366377407,
+        "Property Crime": 1900.099372710602
+      }
+    },
+    {
+      "id": "13037",
+      "title": "Calhoun, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3673.18968251093,
+        "Property Crime": 3084.044522785704
+      }
+    },
+    {
+      "id": "13039",
+      "title": "Camden, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3843.8120284814545,
+        "Property Crime": 2053.2942057797795
+      }
+    },
+    {
+      "id": "13043",
+      "title": "Candler, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 893.8274633819285,
+        "Property Crime": 1197.0085129725198
+      }
+    },
+    {
+      "id": "13045",
+      "title": "Carroll, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2404.810614822937,
+        "Property Crime": 1387.7332005669086
+      }
+    },
+    {
+      "id": "13047",
+      "title": "Catoosa, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3044.2460383740477,
+        "Property Crime": 1901.4637684530146
+      }
+    },
+    {
+      "id": "13049",
+      "title": "Charlton, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3895.2536580992246,
+        "Property Crime": 2027.7557204841942
+      }
+    },
+    {
+      "id": "13051",
+      "title": "Chatham, GA",
+      "scores": {
+        "Terror-related Crime": 1134.8489445081907,
+        "Violent Crime": 1722.7715413220885,
+        "Property Crime": 1116.7931614763852
+      }
+    },
+    {
+      "id": "13053",
+      "title": "Chattahoochee, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3000.0
+      }
+    },
+    {
+      "id": "13055",
+      "title": "Chattooga, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4021.770026516501,
+        "Property Crime": 2169.793347698716
+      }
+    },
+    {
+      "id": "13057",
+      "title": "Cherokee, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3181.0513142367095,
+        "Property Crime": 2741.183247790088
+      }
+    },
+    {
+      "id": "13059",
+      "title": "Clarke, GA",
+      "scores": {
+        "Terror-related Crime": 1333.7602046738418,
+        "Violent Crime": 2052.94710711085,
+        "Property Crime": 1281.3242038263236
+      }
+    },
+    {
+      "id": "13061",
+      "title": "Clay, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4084.7903985143075,
+        "Property Crime": 3182.8636157577184
+      }
+    },
+    {
+      "id": "13063",
+      "title": "Clayton, GA",
+      "scores": {
+        "Terror-related Crime": 1390.2457478327235,
+        "Violent Crime": 1115.739776281158,
+        "Property Crime": 695.8245688425064
+      }
+    },
+    {
+      "id": "13065",
+      "title": "Clinch, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3515.458907504341,
+        "Property Crime": 1407.809716375167
+      }
+    },
+    {
+      "id": "13067",
+      "title": "Cobb, GA",
+      "scores": {
+        "Terror-related Crime": 1452.0826316999248,
+        "Violent Crime": 2779.6517524798746,
+        "Property Crime": 1698.6179584277295
+      }
+    },
+    {
+      "id": "13069",
+      "title": "Coffee, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2684.2781272278194,
+        "Property Crime": 1519.05986898899
+      }
+    },
+    {
+      "id": "13071",
+      "title": "Colquitt, GA",
+      "scores": {
+        "Terror-related Crime": 907.2366144054962,
+        "Violent Crime": 1497.5741922154525,
+        "Property Crime": 575.6169129821504
+      }
+    },
+    {
+      "id": "13073",
+      "title": "Columbia, GA",
+      "scores": {
+        "Terror-related Crime": 1218.665449262754,
+        "Violent Crime": 3622.4735046514793,
+        "Property Crime": 2856.0244326157463
+      }
+    },
+    {
+      "id": "13075",
+      "title": "Cook, GA",
+      "scores": {
+        "Terror-related Crime": 882.2189608210431,
+        "Violent Crime": 2769.111268229223,
+        "Property Crime": 1373.8234049935504
+      }
+    },
+    {
+      "id": "13077",
+      "title": "Coweta, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3015.999389072894,
+        "Property Crime": 2010.3332478154784
+      }
+    },
+    {
+      "id": "13079",
+      "title": "Crawford, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3502.310935763228,
+        "Property Crime": 1590.1156555310076
+      }
+    },
+    {
+      "id": "13081",
+      "title": "Crisp, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2633.8270735654287,
+        "Property Crime": 1260.1882429847444
+      }
+    },
+    {
+      "id": "13083",
+      "title": "Dade, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3182.8636157577184
+      }
+    },
+    {
+      "id": "13085",
+      "title": "Dawson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3741.939171881317,
+        "Property Crime": 2020.0474997463843
+      }
+    },
+    {
+      "id": "13087",
+      "title": "Decatur, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2199.3783477648203,
+        "Property Crime": 1591.7645228323106
+      }
+    },
+    {
+      "id": "13089",
+      "title": "De Kalb, GA",
+      "scores": {
+        "Terror-related Crime": 1320.8229557879508,
+        "Violent Crime": 1727.4762936740512,
+        "Property Crime": 661.9167117337681
+      }
+    },
+    {
+      "id": "13091",
+      "title": "Dodge, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3050.5592124012946,
+        "Property Crime": 1265.1169288561744
+      }
+    },
+    {
+      "id": "13093",
+      "title": "Dooly, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3937.473528389378,
+        "Property Crime": 2725.2821479521604
+      }
+    },
+    {
+      "id": "13095",
+      "title": "Dougherty, GA",
+      "scores": {
+        "Terror-related Crime": 1069.325189495878,
+        "Violent Crime": 1226.5352922745838,
+        "Property Crime": 822.4928014275729
+      }
+    },
+    {
+      "id": "13097",
+      "title": "Douglas, GA",
+      "scores": {
+        "Terror-related Crime": 1143.9343054465844,
+        "Violent Crime": 2156.4238910222434,
+        "Property Crime": 1368.6373368383959
+      }
+    },
+    {
+      "id": "13099",
+      "title": "Early, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2877.0399745244054,
+        "Property Crime": 2101.9582618066606
+      }
+    },
+    {
+      "id": "13101",
+      "title": "Echols, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4069.8517530697472,
+        "Property Crime": 2746.3854678327107
+      }
+    },
+    {
+      "id": "13103",
+      "title": "Effingham, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3629.167876355075,
+        "Property Crime": 2227.153086062028
+      }
+    },
+    {
+      "id": "13105",
+      "title": "Elbert, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2444.3943031875724,
+        "Property Crime": 1336.0510402538068
+      }
+    },
+    {
+      "id": "13107",
+      "title": "Emanuel, GA",
+      "scores": {
+        "Terror-related Crime": 1261.22494626777,
+        "Violent Crime": 1915.564854594487,
+        "Property Crime": 1320.4358604011372
+      }
+    },
+    {
+      "id": "13109",
+      "title": "Evans, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3899.7509317533763,
+        "Property Crime": 2312.4218273776837
+      }
+    },
+    {
+      "id": "13111",
+      "title": "Fannin, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4088.7746125280855,
+        "Property Crime": 2262.1224043112543
+      }
+    },
+    {
+      "id": "13113",
+      "title": "Fayette, GA",
+      "scores": {
+        "Terror-related Crime": 1228.12266767334,
+        "Violent Crime": 4014.110834775406,
+        "Property Crime": 2600.518311485745
+      }
+    },
+    {
+      "id": "13115",
+      "title": "Floyd, GA",
+      "scores": {
+        "Terror-related Crime": 1225.4941269525798,
+        "Violent Crime": 2238.703051572024,
+        "Property Crime": 1456.8040624147588
+      }
+    },
+    {
+      "id": "13117",
+      "title": "Forsyth, GA",
+      "scores": {
+        "Terror-related Crime": 1248.3398849839884,
+        "Violent Crime": 3983.013026518792,
+        "Property Crime": 2985.0050681440143
+      }
+    },
+    {
+      "id": "13119",
+      "title": "Franklin, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2790.3716409651197,
+        "Property Crime": 2234.53049983255
+      }
+    },
+    {
+      "id": "13121",
+      "title": "Fulton, GA",
+      "scores": {
+        "Terror-related Crime": 1126.0752343131749,
+        "Violent Crime": 1470.8978932834832,
+        "Property Crime": 781.8863504470663
+      }
+    },
+    {
+      "id": "13123",
+      "title": "Gilmer, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2563.2622441500457,
+        "Property Crime": 2155.5665354259936
+      }
+    },
+    {
+      "id": "13125",
+      "title": "Glascock, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4239.632162336844,
+        "Property Crime": 2666.1718825947
+      }
+    },
+    {
+      "id": "13127",
+      "title": "Glynn, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2208.7876908874136,
+        "Property Crime": 1370.6202105122115
+      }
+    },
+    {
+      "id": "13129",
+      "title": "Gordon, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2483.3074068367578,
+        "Property Crime": 1697.7599039302447
+      }
+    },
+    {
+      "id": "13131",
+      "title": "Grady, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3901.044284916141,
+        "Property Crime": 2044.3019086529307
+      }
+    },
+    {
+      "id": "13133",
+      "title": "Greene, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3676.742717969027,
+        "Property Crime": 2280.5672371712853
+      }
+    },
+    {
+      "id": "13135",
+      "title": "Gwinnett, GA",
+      "scores": {
+        "Terror-related Crime": 1357.0765843288398,
+        "Violent Crime": 2755.643144310542,
+        "Property Crime": 1778.2095442083964
+      }
+    },
+    {
+      "id": "13137",
+      "title": "Habersham, GA",
+      "scores": {
+        "Terror-related Crime": 1004.3706554157833,
+        "Violent Crime": 2836.2447851881343,
+        "Property Crime": 2265.209016309947
+      }
+    },
+    {
+      "id": "13139",
+      "title": "Hall, GA",
+      "scores": {
+        "Terror-related Crime": 1202.3779332657534,
+        "Violent Crime": 2302.268943045507,
+        "Property Crime": 1010.7250319176906
+      }
+    },
+    {
+      "id": "13141",
+      "title": "Hancock, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3602.86518814369,
+        "Property Crime": 2056.647671652379
+      }
+    },
+    {
+      "id": "13143",
+      "title": "Haralson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2548.444113635749,
+        "Property Crime": 1114.1878015210143
+      }
+    },
+    {
+      "id": "13145",
+      "title": "Harris, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3942.8094802479955,
+        "Property Crime": 2366.6400224750405
+      }
+    },
+    {
+      "id": "13147",
+      "title": "Hart, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3213.537177423106,
+        "Property Crime": 1615.4577635746407
+      }
+    },
+    {
+      "id": "13149",
+      "title": "Heard, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3799.3291448911364,
+        "Property Crime": 2140.3743513302275
+      }
+    },
+    {
+      "id": "13151",
+      "title": "Henry, GA",
+      "scores": {
+        "Terror-related Crime": 1269.9837316751377,
+        "Violent Crime": 2843.8540568112435,
+        "Property Crime": 1497.125478414845
+      }
+    },
+    {
+      "id": "13153",
+      "title": "Houston, GA",
+      "scores": {
+        "Terror-related Crime": 1365.3223298137052,
+        "Violent Crime": 2228.022372511122,
+        "Property Crime": 1070.5400742954582
+      }
+    },
+    {
+      "id": "13155",
+      "title": "Irwin, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2097.2859657711806,
+        "Property Crime": 1736.495810706014
+      }
+    },
+    {
+      "id": "13157",
+      "title": "Jackson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2877.4038547130554,
+        "Property Crime": 2205.9579374707555
+      }
+    },
+    {
+      "id": "13159",
+      "title": "Jasper, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3492.043439291739,
+        "Property Crime": 1997.9116504783265
+      }
+    },
+    {
+      "id": "13161",
+      "title": "Jeff Davis, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2413.2654633800043,
+        "Property Crime": 1717.682677231031
+      }
+    },
+    {
+      "id": "13163",
+      "title": "Jefferson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1798.397905321388,
+        "Property Crime": 1643.6898708438719
+      }
+    },
+    {
+      "id": "13165",
+      "title": "Jenkins, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3750.0,
+        "Property Crime": 918.3580200829351
+      }
+    },
+    {
+      "id": "13167",
+      "title": "Johnson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3367.399849113723,
+        "Property Crime": 1716.0872120120866
+      }
+    },
+    {
+      "id": "13169",
+      "title": "Jones, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3494.2398190722715,
+        "Property Crime": 1943.1868308020703
+      }
+    },
+    {
+      "id": "13171",
+      "title": "Lamar, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2518.839188135247,
+        "Property Crime": 1857.1783523604538
+      }
+    },
+    {
+      "id": "13173",
+      "title": "Lanier, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1599.831038189897,
+        "Property Crime": 2014.7426952604044
+      }
+    },
+    {
+      "id": "13175",
+      "title": "Laurens, GA",
+      "scores": {
+        "Terror-related Crime": 1308.3260497612403,
+        "Violent Crime": 2073.4982364595626,
+        "Property Crime": 1282.0833943640564
+      }
+    },
+    {
+      "id": "13177",
+      "title": "Lee, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3679.851395800497,
+        "Property Crime": 2016.547733740985
+      }
+    },
+    {
+      "id": "13179",
+      "title": "Liberty, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2208.173645072133,
+        "Property Crime": 1658.3236346990823
+      }
+    },
+    {
+      "id": "13181",
+      "title": "Lincoln, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1518.5777311277839,
+        "Property Crime": 1684.3552695946548
+      }
+    },
+    {
+      "id": "13183",
+      "title": "Long, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3888.7354877860594,
+        "Property Crime": 2294.5844514501673
+      }
+    },
+    {
+      "id": "13185",
+      "title": "Lowndes, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2459.0175896514493,
+        "Property Crime": 1266.8274768800852
+      }
+    },
+    {
+      "id": "13187",
+      "title": "Lumpkin, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3645.547338193896,
+        "Property Crime": 2444.780873086866
+      }
+    },
+    {
+      "id": "13189",
+      "title": "McDuffie, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3641.1060732481983,
+        "Property Crime": 2332.495701587784
+      }
+    },
+    {
+      "id": "13191",
+      "title": "McIntosh, GA",
+      "scores": {
+        "Terror-related Crime": 1215.7474599136951,
+        "Violent Crime": 3337.855438463738,
+        "Property Crime": 1650.5295450378196
+      }
+    },
+    {
+      "id": "13193",
+      "title": "Macon, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3725.7579675463553,
+        "Property Crime": 2187.618818143857
+      }
+    },
+    {
+      "id": "13195",
+      "title": "Madison, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3360.0791889894886,
+        "Property Crime": 2163.6764315166074
+      }
+    },
+    {
+      "id": "13197",
+      "title": "Marion, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4539.138186628756,
+        "Property Crime": 2327.1217162301864
+      }
+    },
+    {
+      "id": "13199",
+      "title": "Meriwether, GA",
+      "scores": {
+        "Terror-related Crime": 1197.1453585147744,
+        "Violent Crime": 2232.524038072141,
+        "Property Crime": 1719.1004109074383
+      }
+    },
+    {
+      "id": "13201",
+      "title": "Miller, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4012.9033572108965,
+        "Property Crime": 2664.8046140459983
+      }
+    },
+    {
+      "id": "13205",
+      "title": "Mitchell, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2863.16034006698,
+        "Property Crime": 1654.0032443958007
+      }
+    },
+    {
+      "id": "13207",
+      "title": "Monroe, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3852.7179369267087,
+        "Property Crime": 1958.7229970683547
+      }
+    },
+    {
+      "id": "13209",
+      "title": "Montgomery, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3750.0,
+        "Property Crime": 756.8963923841876
+      }
+    },
+    {
+      "id": "13211",
+      "title": "Morgan, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2324.103141406418,
+        "Property Crime": 1109.581695781119
+      }
+    },
+    {
+      "id": "13213",
+      "title": "Murray, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2340.9100046345297,
+        "Property Crime": 1708.5276062419648
+      }
+    },
+    {
+      "id": "13215",
+      "title": "Muscogee, GA",
+      "scores": {
+        "Terror-related Crime": 1130.638320828538,
+        "Violent Crime": 1563.9486673305732,
+        "Property Crime": 572.5832550561825
+      }
+    },
+    {
+      "id": "13217",
+      "title": "Newton, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2113.4757990551807,
+        "Property Crime": 1647.8610454675813
+      }
+    },
+    {
+      "id": "13219",
+      "title": "Oconee, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3420.0554372418737,
+        "Property Crime": 2534.922823540842
+      }
+    },
+    {
+      "id": "13221",
+      "title": "Oglethorpe, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3158.6195108938746,
+        "Property Crime": 2033.0867386952016
+      }
+    },
+    {
+      "id": "13223",
+      "title": "Paulding, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3645.1336086851134,
+        "Property Crime": 2055.5173576009192
+      }
+    },
+    {
+      "id": "13225",
+      "title": "Peach, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1856.0835183694683,
+        "Property Crime": 1238.6835409689684
+      }
+    },
+    {
+      "id": "13227",
+      "title": "Pickens, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3559.54479952173,
+        "Property Crime": 2069.0496280610128
+      }
+    },
+    {
+      "id": "13229",
+      "title": "Pierce, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1821.602733424674,
+        "Property Crime": 2055.0232171635953
+      }
+    },
+    {
+      "id": "13231",
+      "title": "Pike, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4513.2978485119165,
+        "Property Crime": 2514.4971522821975
+      }
+    },
+    {
+      "id": "13233",
+      "title": "Polk, GA",
+      "scores": {
+        "Terror-related Crime": 1004.3436831477943,
+        "Violent Crime": 2121.3216416382593,
+        "Property Crime": 1123.6215263866552
+      }
+    },
+    {
+      "id": "13235",
+      "title": "Pulaski, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3400.435163461065,
+        "Property Crime": 1770.1327841023017
+      }
+    },
+    {
+      "id": "13237",
+      "title": "Putnam, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2813.401789034346,
+        "Property Crime": 1782.1552085471637
+      }
+    },
+    {
+      "id": "13239",
+      "title": "Quitman, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4048.178345313656,
+        "Property Crime": 2135.0345821345427
+      }
+    },
+    {
+      "id": "13241",
+      "title": "Rabun, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4077.776699395094,
+        "Property Crime": 1994.1638099835131
+      }
+    },
+    {
+      "id": "13243",
+      "title": "Randolph, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3717.716593283367,
+        "Property Crime": 2308.757549438447
+      }
+    },
+    {
+      "id": "13245",
+      "title": "Richmond, GA",
+      "scores": {
+        "Terror-related Crime": 1393.484734277314,
+        "Violent Crime": 1861.7211846258392,
+        "Property Crime": 1035.3813748321934
+      }
+    },
+    {
+      "id": "13247",
+      "title": "Rockdale, GA",
+      "scores": {
+        "Terror-related Crime": 1015.9454073665743,
+        "Violent Crime": 2413.725694423443,
+        "Property Crime": 1542.0570123962186
+      }
+    },
+    {
+      "id": "13249",
+      "title": "Schley, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3930.5444016780193,
+        "Property Crime": 2942.8099861445216
+      }
+    },
+    {
+      "id": "13251",
+      "title": "Screven, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2686.462437484694,
+        "Property Crime": 1915.974262165577
+      }
+    },
+    {
+      "id": "13253",
+      "title": "Seminole, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3335.0326133904546,
+        "Property Crime": 2431.9758281526824
+      }
+    },
+    {
+      "id": "13255",
+      "title": "Spalding, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1933.4838641189574,
+        "Property Crime": 904.3561745448544
+      }
+    },
+    {
+      "id": "13257",
+      "title": "Stephens, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2088.890725600935,
+        "Property Crime": 1657.4843880740762
+      }
+    },
+    {
+      "id": "13259",
+      "title": "Stewart, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3000.0
+      }
+    },
+    {
+      "id": "13261",
+      "title": "Sumter, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1295.2397364061467,
+        "Property Crime": 1046.7605828775793
+      }
+    },
+    {
+      "id": "13263",
+      "title": "Talbot, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4097.48474786576,
+        "Property Crime": 1996.5743428650499
+      }
+    },
+    {
+      "id": "13265",
+      "title": "Taliaferro, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3976.1333763770367,
+        "Property Crime": 1383.2748535067487
+      }
+    },
+    {
+      "id": "13267",
+      "title": "Tattnall, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2913.9521225427247,
+        "Property Crime": 2341.499208400578
+      }
+    },
+    {
+      "id": "13269",
+      "title": "Taylor, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4266.321546450052,
+        "Property Crime": 2211.2771181349012
+      }
+    },
+    {
+      "id": "13271",
+      "title": "Telfair, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4044.450879378515,
+        "Property Crime": 2366.1872185300035
+      }
+    },
+    {
+      "id": "13273",
+      "title": "Terrell, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2396.6110218135977,
+        "Property Crime": 1611.9340507638701
+      }
+    },
+    {
+      "id": "13275",
+      "title": "Thomas, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3407.840590394464,
+        "Property Crime": 1224.1629389918558
+      }
+    },
+    {
+      "id": "13277",
+      "title": "Tift, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1717.5551763920212,
+        "Property Crime": 1064.0155400576423
+      }
+    },
+    {
+      "id": "13279",
+      "title": "Toombs, GA",
+      "scores": {
+        "Terror-related Crime": 1272.3849609870626,
+        "Violent Crime": 2246.2228884876545,
+        "Property Crime": 714.6199000987307
+      }
+    },
+    {
+      "id": "13281",
+      "title": "Towns, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2813.860089165586,
+        "Property Crime": 2150.031891079886
+      }
+    },
+    {
+      "id": "13283",
+      "title": "Treutlen, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4556.634141578273,
+        "Property Crime": 2257.777642268259
+      }
+    },
+    {
+      "id": "13285",
+      "title": "Troup, GA",
+      "scores": {
+        "Terror-related Crime": 1011.4648356794008,
+        "Violent Crime": 2165.9670614946945,
+        "Property Crime": 1210.1026274004416
+      }
+    },
+    {
+      "id": "13287",
+      "title": "Turner, GA",
+      "scores": {
+        "Terror-related Crime": 750.9902965862591,
+        "Violent Crime": 2559.5905124892342,
+        "Property Crime": 1372.3447043351885
+      }
+    },
+    {
+      "id": "13289",
+      "title": "Twiggs, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2122.738297768475,
+        "Property Crime": 1803.057169728154
+      }
+    },
+    {
+      "id": "13291",
+      "title": "Union, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3831.4108289766614,
+        "Property Crime": 2613.311382728923
+      }
+    },
+    {
+      "id": "13293",
+      "title": "Upson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3081.7025155962983,
+        "Property Crime": 1477.2493492503124
+      }
+    },
+    {
+      "id": "13295",
+      "title": "Walker, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3275.8823792941484,
+        "Property Crime": 1831.8833124285945
+      }
+    },
+    {
+      "id": "13297",
+      "title": "Walton, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2894.7778144727545,
+        "Property Crime": 1678.878868781623
+      }
+    },
+    {
+      "id": "13299",
+      "title": "Ware, GA",
+      "scores": {
+        "Terror-related Crime": 1015.6597042013257,
+        "Violent Crime": 1549.126147460383,
+        "Property Crime": 1109.4238999120466
+      }
+    },
+    {
+      "id": "13301",
+      "title": "Warren, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3179.934892415382,
+        "Property Crime": 1998.392811082232
+      }
+    },
+    {
+      "id": "13303",
+      "title": "Washington, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2963.5276364373317,
+        "Property Crime": 1917.7585121400848
+      }
+    },
+    {
+      "id": "13305",
+      "title": "Wayne, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1465.7422660507295,
+        "Property Crime": 941.6044134207649
+      }
+    },
+    {
+      "id": "13307",
+      "title": "Webster, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4683.514175672331,
+        "Property Crime": 3182.8636157577184
+      }
+    },
+    {
+      "id": "13309",
+      "title": "Wheeler, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3462.4513050987657,
+        "Property Crime": 3145.3900123679027
+      }
+    },
+    {
+      "id": "13311",
+      "title": "White, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3709.527507639581,
+        "Property Crime": 1911.956883353303
+      }
+    },
+    {
+      "id": "13313",
+      "title": "Whitfield, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2963.6624360393675,
+        "Property Crime": 1807.8702200281157
+      }
+    },
+    {
+      "id": "13315",
+      "title": "Wilcox, GA",
+      "scores": {
+        "Terror-related Crime": 816.0873723646125,
+        "Violent Crime": 3558.7831367208964,
+        "Property Crime": 2035.57254909179
+      }
+    },
+    {
+      "id": "13317",
+      "title": "Wilkes, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2109.201668180001,
+        "Property Crime": 3182.8636157577184
+      }
+    },
+    {
+      "id": "13319",
+      "title": "Wilkinson, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2396.7461949345866,
+        "Property Crime": 2771.976081717005
+      }
+    },
+    {
+      "id": "13321",
+      "title": "Worth, GA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2134.220506703927,
+        "Property Crime": 1386.0589376258042
+      }
+    },
+    {
+      "id": "19001",
+      "title": "Adair, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3547.5325009834955,
+        "Property Crime": 2894.6094698271486
+      }
+    },
+    {
+      "id": "19003",
+      "title": "Adams, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3200.1383241033336
+      }
+    },
+    {
+      "id": "19005",
+      "title": "Allamakee, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4406.103061155795,
+        "Property Crime": 3264.326261414927
+      }
+    },
+    {
+      "id": "19007",
+      "title": "Appanoose, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3734.2215126252654,
+        "Property Crime": 1485.8469784219774
+      }
+    },
+    {
+      "id": "19009",
+      "title": "Audubon, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4307.654439867626,
+        "Property Crime": 3403.2903242846323
+      }
+    },
+    {
+      "id": "19011",
+      "title": "Benton, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3975.082494558447,
+        "Property Crime": 3194.6349578178792
+      }
+    },
+    {
+      "id": "19013",
+      "title": "Black Hawk, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1969.0145658910405,
+        "Property Crime": 1919.4759516552915
+      }
+    },
+    {
+      "id": "19015",
+      "title": "Boone, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3838.9827461723307,
+        "Property Crime": 2976.5605592374777
+      }
+    },
+    {
+      "id": "19017",
+      "title": "Bremer, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3112.2264101839237,
+        "Property Crime": 3362.9679244102363
+      }
+    },
+    {
+      "id": "19019",
+      "title": "Buchanan, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3818.399657485655,
+        "Property Crime": 2720.6334637708806
+      }
+    },
+    {
+      "id": "19021",
+      "title": "Buena Vista, IA",
+      "scores": {
+        "Terror-related Crime": 1333.3333333333335,
+        "Violent Crime": 3137.193651500701,
+        "Property Crime": 2382.5050227151933
+      }
+    },
+    {
+      "id": "19023",
+      "title": "Butler, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4982.061867965987,
+        "Property Crime": 3419.314107990074
+      }
+    },
+    {
+      "id": "19025",
+      "title": "Calhoun, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4577.1990258880205,
+        "Property Crime": 2697.842778313
+      }
+    },
+    {
+      "id": "19027",
+      "title": "Carroll, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4673.867360240158,
+        "Property Crime": 2814.688770902416
+      }
+    },
+    {
+      "id": "19029",
+      "title": "Cass, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3125.5720495737064,
+        "Property Crime": 3123.4531626603243
+      }
+    },
+    {
+      "id": "19031",
+      "title": "Cedar, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3851.7890802335332,
+        "Property Crime": 3416.679010796568
+      }
+    },
+    {
+      "id": "19033",
+      "title": "Cerro Gordo, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3006.51485407541,
+        "Property Crime": 1570.4012530882662
+      }
+    },
+    {
+      "id": "19035",
+      "title": "Cherokee, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3781.5320648652582,
+        "Property Crime": 3243.820637915632
+      }
+    },
+    {
+      "id": "19037",
+      "title": "Chickasaw, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3577.9476087609296,
+        "Property Crime": 3341.1540333232574
+      }
+    },
+    {
+      "id": "19039",
+      "title": "Clarke, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4016.5537093351936,
+        "Property Crime": 2462.679308112258
+      }
+    },
+    {
+      "id": "19041",
+      "title": "Clay, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3422.9346683998856,
+        "Property Crime": 2573.499105322661
+      }
+    },
+    {
+      "id": "19043",
+      "title": "Clayton, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4722.3565331994305,
+        "Property Crime": 3419.314107990074
+      }
+    },
+    {
+      "id": "19045",
+      "title": "Clinton, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2649.769721202508,
+        "Property Crime": 1562.9428691053063
+      }
+    },
+    {
+      "id": "19047",
+      "title": "Crawford, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4395.5045343488,
+        "Property Crime": 3419.314107990074
+      }
+    },
+    {
+      "id": "19049",
+      "title": "Dallas, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2648.687480704761,
+        "Property Crime": 2517.992874773044
+      }
+    },
+    {
+      "id": "19051",
+      "title": "Davis, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4619.216543080258,
+        "Property Crime": 3419.314107990074
+      }
+    },
+    {
+      "id": "19053",
+      "title": "Decatur, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2599.793458382014,
+        "Property Crime": 3367.882261303091
+      }
+    },
+    {
+      "id": "19055",
+      "title": "Delaware, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3198.4632325492926,
+        "Property Crime": 2812.5723384307103
+      }
+    },
+    {
+      "id": "19057",
+      "title": "Des Moines, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1515.9957668044942,
+        "Property Crime": 1248.5175437866042
+      }
+    },
+    {
+      "id": "19059",
+      "title": "Dickinson, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3240.398929049027,
+        "Property Crime": 3170.9928288403007
+      }
+    },
+    {
+      "id": "19061",
+      "title": "Dubuque, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2482.464344702046,
+        "Property Crime": 2139.39010708052
+      }
+    },
+    {
+      "id": "19063",
+      "title": "Emmet, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3201.770279400081,
+        "Property Crime": 2485.2202880513196
+      }
+    },
+    {
+      "id": "19065",
+      "title": "Fayette, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3336.8997683904004,
+        "Property Crime": 2996.4750136539906
+      }
+    },
+    {
+      "id": "19067",
+      "title": "Floyd, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3382.5683166177478,
+        "Property Crime": 3028.1221808872087
+      }
+    },
+    {
+      "id": "19069",
+      "title": "Franklin, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3580.229089553336,
+        "Property Crime": 3171.5230707775945
+      }
+    },
+    {
+      "id": "19071",
+      "title": "Fremont, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3021.195750073022,
+        "Property Crime": 2526.1383192762814
+      }
+    },
+    {
+      "id": "19073",
+      "title": "Greene, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4323.875253219576,
+        "Property Crime": 2518.7646288292035
+      }
+    },
+    {
+      "id": "19075",
+      "title": "Grundy, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4414.931469015137,
+        "Property Crime": 3301.164394932811
+      }
+    },
+    {
+      "id": "19077",
+      "title": "Guthrie, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3302.385139712902
+      }
+    },
+    {
+      "id": "19079",
+      "title": "Hamilton, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3734.7535345236024,
+        "Property Crime": 3165.878063652359
+      }
+    },
+    {
+      "id": "19081",
+      "title": "Hancock, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3384.205502047503,
+        "Property Crime": 2597.5992702012277
+      }
+    },
+    {
+      "id": "19083",
+      "title": "Hardin, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3896.3406701744902,
+        "Property Crime": 2398.3735691676975
+      }
+    },
+    {
+      "id": "19085",
+      "title": "Harrison, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4645.017834392886,
+        "Property Crime": 3189.060818177494
+      }
+    },
+    {
+      "id": "19087",
+      "title": "Henry, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3788.2787501960465,
+        "Property Crime": 2402.0534088440654
+      }
+    },
+    {
+      "id": "19089",
+      "title": "Howard, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4538.70841485473,
+        "Property Crime": 2737.535402073282
+      }
+    },
+    {
+      "id": "19091",
+      "title": "Humboldt, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4750.646517498098,
+        "Property Crime": 2987.995937796029
+      }
+    },
+    {
+      "id": "19093",
+      "title": "Ida, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3547.22989596914,
+        "Property Crime": 3249.971982032138
+      }
+    },
+    {
+      "id": "19095",
+      "title": "Iowa, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4148.403359744548,
+        "Property Crime": 3294.5989108093604
+      }
+    },
+    {
+      "id": "19097",
+      "title": "Jackson, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2901.5981401352765,
+        "Property Crime": 2795.178712226177
+      }
+    },
+    {
+      "id": "19099",
+      "title": "Jasper, IA",
+      "scores": {
+        "Terror-related Crime": 1333.3333333333335,
+        "Violent Crime": 2528.591901564238,
+        "Property Crime": 1950.3994652777642
+      }
+    },
+    {
+      "id": "19101",
+      "title": "Jefferson, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3137.2795491699676,
+        "Property Crime": 1961.6777704006672
+      }
+    },
+    {
+      "id": "19103",
+      "title": "Johnson, IA",
+      "scores": {
+        "Terror-related Crime": 1286.3760137625081,
+        "Violent Crime": 2830.750991471803,
+        "Property Crime": 2363.9507095972895
+      }
+    },
+    {
+      "id": "19105",
+      "title": "Jones, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3337.093664852862,
+        "Property Crime": 2706.929546043385
+      }
+    },
+    {
+      "id": "19107",
+      "title": "Keokuk, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4110.78122405779,
+        "Property Crime": 2910.381451070905
+      }
+    },
+    {
+      "id": "19109",
+      "title": "Kossuth, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3685.784621378491,
+        "Property Crime": 3357.9931096794844
+      }
+    },
+    {
+      "id": "19111",
+      "title": "Lee, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2136.260532784274,
+        "Property Crime": 1608.1826188461712
+      }
+    },
+    {
+      "id": "19113",
+      "title": "Linn, IA",
+      "scores": {
+        "Terror-related Crime": 1302.7029974972802,
+        "Violent Crime": 2577.45790626571,
+        "Property Crime": 1539.2778670666032
+      }
+    },
+    {
+      "id": "19115",
+      "title": "Louisa, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3401.091026873486,
+        "Property Crime": 2850.223009686974
+      }
+    },
+    {
+      "id": "19117",
+      "title": "Lucas, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3886.108465342511,
+        "Property Crime": 1942.482529890578
+      }
+    },
+    {
+      "id": "19119",
+      "title": "Lyon, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3828.8275556601534,
+        "Property Crime": 3120.3700893946793
+      }
+    },
+    {
+      "id": "19121",
+      "title": "Madison, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4330.605915090395,
+        "Property Crime": 2837.8626600387547
+      }
+    },
+    {
+      "id": "19123",
+      "title": "Mahaska, IA",
+      "scores": {
+        "Terror-related Crime": 1333.3333333333335,
+        "Violent Crime": 2993.6611677387136,
+        "Property Crime": 2175.583922692196
+      }
+    },
+    {
+      "id": "19125",
+      "title": "Marion, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3065.4586637093353,
+        "Property Crime": 2979.1530980706066
+      }
+    },
+    {
+      "id": "19127",
+      "title": "Marshall, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2195.360458038985,
+        "Property Crime": 1924.973593557399
+      }
+    },
+    {
+      "id": "19129",
+      "title": "Mills, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2688.8658783245924,
+        "Property Crime": 2307.592925182678
+      }
+    },
+    {
+      "id": "19131",
+      "title": "Mitchell, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4299.191456617751,
+        "Property Crime": 3359.9980513366986
+      }
+    },
+    {
+      "id": "19133",
+      "title": "Monona, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3272.3335318462377,
+        "Property Crime": 2606.634599092407
+      }
+    },
+    {
+      "id": "19135",
+      "title": "Monroe, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3749.124970501557,
+        "Property Crime": 2358.7774042497435
+      }
+    },
+    {
+      "id": "19137",
+      "title": "Montgomery, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2599.996559957885,
+        "Property Crime": 1405.994459764908
+      }
+    },
+    {
+      "id": "19139",
+      "title": "Muscatine, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2760.184666624548,
+        "Property Crime": 2521.430706151538
+      }
+    },
+    {
+      "id": "19141",
+      "title": "O Brien, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3588.2021329556123,
+        "Property Crime": 3156.4237311714096
+      }
+    },
+    {
+      "id": "19143",
+      "title": "Osceola, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3599.1364557242955,
+        "Property Crime": 2905.2581507289333
+      }
+    },
+    {
+      "id": "19145",
+      "title": "Page, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3399.6325128484755,
+        "Property Crime": 2294.8897377459753
+      }
+    },
+    {
+      "id": "19147",
+      "title": "Palo Alto, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3234.2543220117855,
+        "Property Crime": 2925.1420418481553
+      }
+    },
+    {
+      "id": "19149",
+      "title": "Plymouth, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3458.8258936253924,
+        "Property Crime": 2855.4277351837513
+      }
+    },
+    {
+      "id": "19151",
+      "title": "Pocahontas, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3979.4796286607643,
+        "Property Crime": 3113.080547206275
+      }
+    },
+    {
+      "id": "19153",
+      "title": "Polk, IA",
+      "scores": {
+        "Terror-related Crime": 1283.466535765617,
+        "Violent Crime": 1978.8167935367665,
+        "Property Crime": 1606.506506529605
+      }
+    },
+    {
+      "id": "19155",
+      "title": "Pottawattamie, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2308.9735171721886,
+        "Property Crime": 1419.2365628306693
+      }
+    },
+    {
+      "id": "19157",
+      "title": "Poweshiek, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2778.3139504748933,
+        "Property Crime": 2527.6616797707547
+      }
+    },
+    {
+      "id": "19159",
+      "title": "Ringgold, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4483.763314767153,
+        "Property Crime": 2730.7115614043964
+      }
+    },
+    {
+      "id": "19161",
+      "title": "Sac, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4564.752032480437,
+        "Property Crime": 3201.250168730562
+      }
+    },
+    {
+      "id": "19163",
+      "title": "Scott, IA",
+      "scores": {
+        "Terror-related Crime": 1372.4850441281658,
+        "Violent Crime": 1802.4719028252275,
+        "Property Crime": 1374.3721027073834
+      }
+    },
+    {
+      "id": "19165",
+      "title": "Shelby, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4970.992803919933,
+        "Property Crime": 3419.314107990074
+      }
+    },
+    {
+      "id": "19167",
+      "title": "Sioux, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4547.794719207407,
+        "Property Crime": 3278.9617894614908
+      }
+    },
+    {
+      "id": "19169",
+      "title": "Story, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2943.860591003013,
+        "Property Crime": 2665.992506521325
+      }
+    },
+    {
+      "id": "19171",
+      "title": "Tama, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3420.195652613983,
+        "Property Crime": 2428.8722370329237
+      }
+    },
+    {
+      "id": "19173",
+      "title": "Taylor, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4389.807447558595,
+        "Property Crime": 3305.9774124056526
+      }
+    },
+    {
+      "id": "19175",
+      "title": "Union, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3751.2321895028826,
+        "Property Crime": 2751.675142868402
+      }
+    },
+    {
+      "id": "19177",
+      "title": "Van Buren, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4351.489653310917,
+        "Property Crime": 3373.8157591935924
+      }
+    },
+    {
+      "id": "19179",
+      "title": "Wapello, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1935.1396190251176,
+        "Property Crime": 1418.9919530409961
+      }
+    },
+    {
+      "id": "19181",
+      "title": "Warren, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2319.0798983176874,
+        "Property Crime": 2597.0369472310063
+      }
+    },
+    {
+      "id": "19183",
+      "title": "Washington, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2872.707472045361,
+        "Property Crime": 3092.5193899285396
+      }
+    },
+    {
+      "id": "19185",
+      "title": "Wayne, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4084.9088232462277,
+        "Property Crime": 2494.5016594862345
+      }
+    },
+    {
+      "id": "19187",
+      "title": "Webster, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1831.5510249516997,
+        "Property Crime": 2005.6341901141402
+      }
+    },
+    {
+      "id": "19189",
+      "title": "Winnebago, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4191.870790210296,
+        "Property Crime": 3419.314107990074
+      }
+    },
+    {
+      "id": "19191",
+      "title": "Winneshiek, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3393.6120627532773,
+        "Property Crime": 3396.2624221881365
+      }
+    },
+    {
+      "id": "19193",
+      "title": "Woodbury, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2547.9697698582795,
+        "Property Crime": 1511.176420742727
+      }
+    },
+    {
+      "id": "19195",
+      "title": "Worth, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4669.3409510812135,
+        "Property Crime": 3419.314107990074
+      }
+    },
+    {
+      "id": "19197",
+      "title": "Wright, IA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4048.5540362882653,
+        "Property Crime": 2831.3613320231184
+      }
+    },
+    {
+      "id": "30001",
+      "title": "Beaverhead, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4368.877719943496,
+        "Property Crime": 3316.817177243051
+      }
+    },
+    {
+      "id": "30003",
+      "title": "Big Horn, MT",
+      "scores": {
+        "Terror-related Crime": 786.5372566535372,
+        "Violent Crime": 1971.0809189615545,
+        "Property Crime": 2366.3696500733445
+      }
+    },
+    {
+      "id": "30005",
+      "title": "Blaine, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3859.893330839629,
+        "Property Crime": 3317.1199098092247
+      }
+    },
+    {
+      "id": "30007",
+      "title": "Broadwater, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3757.2891701155727,
+        "Property Crime": 3079.4473848900075
+      }
+    },
+    {
+      "id": "30009",
+      "title": "Carbon, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2315.02055185685,
+        "Property Crime": 2751.125108782575
+      }
+    },
+    {
+      "id": "30011",
+      "title": "Carter, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3317.1199098092247
+      }
+    },
+    {
+      "id": "30013",
+      "title": "Cascade, MT",
+      "scores": {
+        "Terror-related Crime": 1115.1460204617263,
+        "Violent Crime": 2439.4565557259016,
+        "Property Crime": 1515.9009930399834
+      }
+    },
+    {
+      "id": "30015",
+      "title": "Chouteau, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3280.272640727671,
+        "Property Crime": 2662.6180661343424
+      }
+    },
+    {
+      "id": "30017",
+      "title": "Custer, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3162.9360273687416,
+        "Property Crime": 2671.8361778048584
+      }
+    },
+    {
+      "id": "30019",
+      "title": "Daniels, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3247.735853632879
+      }
+    },
+    {
+      "id": "30021",
+      "title": "Dawson, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3792.6776431782373,
+        "Property Crime": 2122.676414345598
+      }
+    },
+    {
+      "id": "30023",
+      "title": "Deer Lodge, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2010.832447658094,
+        "Property Crime": 1198.3018064465232
+      }
+    },
+    {
+      "id": "30025",
+      "title": "Fallon, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4180.964723058373,
+        "Property Crime": 3237.874057290835
+      }
+    },
+    {
+      "id": "30027",
+      "title": "Fergus, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2323.8419512487253,
+        "Property Crime": 2934.5759485762746
+      }
+    },
+    {
+      "id": "30029",
+      "title": "Flathead, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2407.7200943761254,
+        "Property Crime": 1845.7132022495182
+      }
+    },
+    {
+      "id": "30031",
+      "title": "Gallatin, MT",
+      "scores": {
+        "Terror-related Crime": 958.2618597061831,
+        "Violent Crime": 2296.3751887286144,
+        "Property Crime": 2421.9802347788627
+      }
+    },
+    {
+      "id": "30033",
+      "title": "Garfield, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4443.450703808838,
+        "Property Crime": 3207.4332965908566
+      }
+    },
+    {
+      "id": "30035",
+      "title": "Glacier, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3438.957367861729,
+        "Property Crime": 3175.048681429361
+      }
+    },
+    {
+      "id": "30037",
+      "title": "Golden Valley, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4011.1307471718255,
+        "Property Crime": 2546.94648572872
+      }
+    },
+    {
+      "id": "30039",
+      "title": "Granite, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3660.029329227753,
+        "Property Crime": 2333.438160309037
+      }
+    },
+    {
+      "id": "30041",
+      "title": "Hill, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2532.464549931072,
+        "Property Crime": 1707.456429999781
+      }
+    },
+    {
+      "id": "30043",
+      "title": "Jefferson, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3880.380296937379,
+        "Property Crime": 3042.605985881231
+      }
+    },
+    {
+      "id": "30045",
+      "title": "Judith Basin, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4318.323205501685,
+        "Property Crime": 3126.2991759284205
+      }
+    },
+    {
+      "id": "30047",
+      "title": "Lake, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1758.9894331088963,
+        "Property Crime": 1764.390420716802
+      }
+    },
+    {
+      "id": "30049",
+      "title": "Lewis and Clark, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1533.9079543184941,
+        "Property Crime": 1981.4708241787457
+      }
+    },
+    {
+      "id": "30051",
+      "title": "Liberty, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2194.990237838409,
+        "Property Crime": 3317.1199098092247
+      }
+    },
+    {
+      "id": "30053",
+      "title": "Lincoln, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2795.479945229462,
+        "Property Crime": 2753.715536348693
+      }
+    },
+    {
+      "id": "30055",
+      "title": "McCone, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4271.964344188429,
+        "Property Crime": 2939.675603775986
+      }
+    },
+    {
+      "id": "30057",
+      "title": "Madison, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4335.230873289388,
+        "Property Crime": 3302.8625432474932
+      }
+    },
+    {
+      "id": "30059",
+      "title": "Meagher, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4302.5291579263385,
+        "Property Crime": 3166.0524460657643
+      }
+    },
+    {
+      "id": "30061",
+      "title": "Mineral, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4359.633235144461,
+        "Property Crime": 3317.1199098092247
+      }
+    },
+    {
+      "id": "30063",
+      "title": "Missoula, MT",
+      "scores": {
+        "Terror-related Crime": 1254.8638443586563,
+        "Violent Crime": 2641.8607872145853,
+        "Property Crime": 1566.2910677289606
+      }
+    },
+    {
+      "id": "30065",
+      "title": "Musselshell, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1536.8589126498339,
+        "Property Crime": 2301.4577630037993
+      }
+    },
+    {
+      "id": "30067",
+      "title": "Park, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3285.1717497644386,
+        "Property Crime": 2574.566875938497
+      }
+    },
+    {
+      "id": "30069",
+      "title": "Petroleum, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3839.893219998308,
+        "Property Crime": 3317.1199098092247
+      }
+    },
+    {
+      "id": "30071",
+      "title": "Phillips, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3508.338823807216,
+        "Property Crime": 3217.966783361584
+      }
+    },
+    {
+      "id": "30073",
+      "title": "Pondera, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3613.655635691226,
+        "Property Crime": 3204.162671350639
+      }
+    },
+    {
+      "id": "30075",
+      "title": "Powder River, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3249.051690161192
+      }
+    },
+    {
+      "id": "30077",
+      "title": "Powell, MT",
+      "scores": {
+        "Terror-related Crime": 1000.0000000000001,
+        "Violent Crime": 3140.339603910391,
+        "Property Crime": 2313.342433106419
+      }
+    },
+    {
+      "id": "30079",
+      "title": "Prairie, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3989.8416197703355,
+        "Property Crime": 2995.6259523576796
+      }
+    },
+    {
+      "id": "30081",
+      "title": "Ravalli, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3447.6206749766284,
+        "Property Crime": 3209.5970366617676
+      }
+    },
+    {
+      "id": "30083",
+      "title": "Richland, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3060.1533326579397,
+        "Property Crime": 2271.0560244406993
+      }
+    },
+    {
+      "id": "30085",
+      "title": "Roosevelt, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1761.2393898093278,
+        "Property Crime": 3055.1246576109916
+      }
+    },
+    {
+      "id": "30087",
+      "title": "Rosebud, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4093.582667071448,
+        "Property Crime": 3233.593600719717
+      }
+    },
+    {
+      "id": "30089",
+      "title": "Sanders, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3053.4505221158493,
+        "Property Crime": 3083.4792042760855
+      }
+    },
+    {
+      "id": "30091",
+      "title": "Sheridan, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4166.608044990808,
+        "Property Crime": 3019.122775537653
+      }
+    },
+    {
+      "id": "30093",
+      "title": "Silver Bow, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3227.8116628758185,
+        "Property Crime": 1159.7598358369803
+      }
+    },
+    {
+      "id": "30095",
+      "title": "Stillwater, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3091.2149184462523,
+        "Property Crime": 3010.176256325893
+      }
+    },
+    {
+      "id": "30097",
+      "title": "Sweet Grass, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2677.8005640947395,
+        "Property Crime": 3251.5061813546263
+      }
+    },
+    {
+      "id": "30099",
+      "title": "Teton, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3099.4007097340746,
+        "Property Crime": 2580.643086503391
+      }
+    },
+    {
+      "id": "30101",
+      "title": "Toole, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2977.4743976335835,
+        "Property Crime": 2838.7487059028745
+      }
+    },
+    {
+      "id": "30103",
+      "title": "Treasure, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3132.2697143474215
+      }
+    },
+    {
+      "id": "30105",
+      "title": "Valley, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2270.919405573236,
+        "Property Crime": 3259.135828897696
+      }
+    },
+    {
+      "id": "30107",
+      "title": "Wheatland, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3022.4794770744347,
+        "Property Crime": 3269.2345296638996
+      }
+    },
+    {
+      "id": "30109",
+      "title": "Wibaux, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3317.1199098092247
+      }
+    },
+    {
+      "id": "30111",
+      "title": "Yellowstone, MT",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2790.6417048662965,
+        "Property Crime": 1398.1504502376217
+      }
+    },
+    {
+      "id": "36001",
+      "title": "Albany, NY",
+      "scores": {
+        "Terror-related Crime": 1322.3844000076735,
+        "Violent Crime": 2521.946411242498,
+        "Property Crime": 2219.3688441524705
+      }
+    },
+    {
+      "id": "36003",
+      "title": "Allegany, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3353.692701872814,
+        "Property Crime": 2776.4623078799746
+      }
+    },
+    {
+      "id": "36005",
+      "title": "Bronx, NY",
+      "scores": {
+        "Terror-related Crime": 1264.2541226538942,
+        "Violent Crime": 2093.444009297443,
+        "Property Crime": 2806.3590856931396
+      }
+    },
+    {
+      "id": "36007",
+      "title": "Broome, NY",
+      "scores": {
+        "Terror-related Crime": 1392.1021308792365,
+        "Violent Crime": 2204.841230534704,
+        "Property Crime": 1990.0230614092197
+      }
+    },
+    {
+      "id": "36009",
+      "title": "Cattaraugus, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3154.37137997794,
+        "Property Crime": 2524.984106360146
+      }
+    },
+    {
+      "id": "36011",
+      "title": "Cayuga, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2557.57702433431,
+        "Property Crime": 2459.5102548859113
+      }
+    },
+    {
+      "id": "36013",
+      "title": "Chautauqua, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2247.068572098955,
+        "Property Crime": 1953.2717702742393
+      }
+    },
+    {
+      "id": "36015",
+      "title": "Chemung, NY",
+      "scores": {
+        "Terror-related Crime": 1331.2907010883346,
+        "Violent Crime": 2598.4422560988196,
+        "Property Crime": 2203.5228620569724
+      }
+    },
+    {
+      "id": "36017",
+      "title": "Chenango, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3038.0542795872448,
+        "Property Crime": 2323.0165834841614
+      }
+    },
+    {
+      "id": "36019",
+      "title": "Clinton, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3252.5249631614797,
+        "Property Crime": 2616.435371326647
+      }
+    },
+    {
+      "id": "36021",
+      "title": "Columbia, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3270.1294131965005,
+        "Property Crime": 2890.0146037731474
+      }
+    },
+    {
+      "id": "36023",
+      "title": "Cortland, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3251.0894798214003,
+        "Property Crime": 2450.877240157333
+      }
+    },
+    {
+      "id": "36025",
+      "title": "Delaware, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2997.3138735916564,
+        "Property Crime": 2638.4284827852866
+      }
+    },
+    {
+      "id": "36027",
+      "title": "Dutchess, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2861.9190827911643,
+        "Property Crime": 3138.4094281967896
+      }
+    },
+    {
+      "id": "36029",
+      "title": "Erie, NY",
+      "scores": {
+        "Terror-related Crime": 1242.7600703130977,
+        "Violent Crime": 2064.3985188824454,
+        "Property Crime": 1912.40030335722
+      }
+    },
+    {
+      "id": "36031",
+      "title": "Essex, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3367.7786819211074,
+        "Property Crime": 2810.561670317982
+      }
+    },
+    {
+      "id": "36033",
+      "title": "Franklin, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3061.9406336843267,
+        "Property Crime": 2977.724859293313
+      }
+    },
+    {
+      "id": "36035",
+      "title": "Fulton, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2293.3875139674806,
+        "Property Crime": 2362.0937992801205
+      }
+    },
+    {
+      "id": "36037",
+      "title": "Genesee, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3050.099222394687,
+        "Property Crime": 2177.5317898699122
+      }
+    },
+    {
+      "id": "36039",
+      "title": "Greene, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3088.674793376238,
+        "Property Crime": 2853.2049242945154
+      }
+    },
+    {
+      "id": "36041",
+      "title": "Hamilton, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3752.823257604834,
+        "Property Crime": 2638.870579794274
+      }
+    },
+    {
+      "id": "36043",
+      "title": "Herkimer, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3155.995853187462,
+        "Property Crime": 2811.306221614917
+      }
+    },
+    {
+      "id": "36045",
+      "title": "Jefferson, NY",
+      "scores": {
+        "Terror-related Crime": 1347.3684179759668,
+        "Violent Crime": 2499.1703065409224,
+        "Property Crime": 2531.879455079783
+      }
+    },
+    {
+      "id": "36047",
+      "title": "Kings, NY",
+      "scores": {
+        "Terror-related Crime": 1279.920513139928,
+        "Violent Crime": 2092.7737699624113,
+        "Property Crime": 2805.725523496428
+      }
+    },
+    {
+      "id": "36049",
+      "title": "Lewis, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3029.6948621205374,
+        "Property Crime": 2801.2582667473216
+      }
+    },
+    {
+      "id": "36051",
+      "title": "Livingston, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2536.570731942899,
+        "Property Crime": 3007.0063069899425
+      }
+    },
+    {
+      "id": "36053",
+      "title": "Madison, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2781.8377327470866,
+        "Property Crime": 2992.0314343350756
+      }
+    },
+    {
+      "id": "36055",
+      "title": "Monroe, NY",
+      "scores": {
+        "Terror-related Crime": 1221.1213878754827,
+        "Violent Crime": 2129.786147230482,
+        "Property Crime": 2135.7195376495883
+      }
+    },
+    {
+      "id": "36057",
+      "title": "Montgomery, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2726.2087456569466,
+        "Property Crime": 2341.7293084329413
+      }
+    },
+    {
+      "id": "36059",
+      "title": "Nassau, NY",
+      "scores": {
+        "Terror-related Crime": 1469.2346435314134,
+        "Violent Crime": 3663.7869302997983,
+        "Property Crime": 3074.532651389312
+      }
+    },
+    {
+      "id": "36061",
+      "title": "New York, NY",
+      "scores": {
+        "Terror-related Crime": 940.559209781059,
+        "Violent Crime": 2089.7149789454156,
+        "Property Crime": 2806.4882688242988
+      }
+    },
+    {
+      "id": "36063",
+      "title": "Niagara, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2463.7605950760167,
+        "Property Crime": 1812.2834329819518
+      }
+    },
+    {
+      "id": "36065",
+      "title": "Oneida, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2404.284710803711,
+        "Property Crime": 2372.912400590756
+      }
+    },
+    {
+      "id": "36067",
+      "title": "Onondaga, NY",
+      "scores": {
+        "Terror-related Crime": 1352.6530933214506,
+        "Violent Crime": 2095.439846475459,
+        "Property Crime": 2230.912643065357
+      }
+    },
+    {
+      "id": "36069",
+      "title": "Ontario, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2960.3720591525143,
+        "Property Crime": 2583.3669324454886
+      }
+    },
+    {
+      "id": "36071",
+      "title": "Orange, NY",
+      "scores": {
+        "Terror-related Crime": 1242.065837095677,
+        "Violent Crime": 2522.400319962569,
+        "Property Crime": 2726.916637444963
+      }
+    },
+    {
+      "id": "36073",
+      "title": "Orleans, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3160.6229406052676,
+        "Property Crime": 2404.8065903144707
+      }
+    },
+    {
+      "id": "36075",
+      "title": "Oswego, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2965.753867066023,
+        "Property Crime": 2400.686249791122
+      }
+    },
+    {
+      "id": "36077",
+      "title": "Otsego, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3315.4405022215783,
+        "Property Crime": 2987.0978101403853
+      }
+    },
+    {
+      "id": "36079",
+      "title": "Putnam, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4524.623334644414,
+        "Property Crime": 3130.8165643948564
+      }
+    },
+    {
+      "id": "36081",
+      "title": "Queens, NY",
+      "scores": {
+        "Terror-related Crime": 1420.4952821265654,
+        "Violent Crime": 2091.419626939242,
+        "Property Crime": 2806.9704518454137
+      }
+    },
+    {
+      "id": "36083",
+      "title": "Rensselaer, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2444.3088033663807,
+        "Property Crime": 2185.5484991274734
+      }
+    },
+    {
+      "id": "36085",
+      "title": "Richmond, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2082.810032338229,
+        "Property Crime": 2807.0032665649906
+      }
+    },
+    {
+      "id": "36087",
+      "title": "Rockland, NY",
+      "scores": {
+        "Terror-related Crime": 1378.2373159096335,
+        "Violent Crime": 3618.0753208176247,
+        "Property Crime": 3114.9869889079646
+      }
+    },
+    {
+      "id": "36089",
+      "title": "St Lawrence, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2931.0012968683727,
+        "Property Crime": 2885.246593693646
+      }
+    },
+    {
+      "id": "36091",
+      "title": "Saratoga, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3334.342286870554,
+        "Property Crime": 3186.4222439106265
+      }
+    },
+    {
+      "id": "36093",
+      "title": "Schenectady, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1962.987658094946,
+        "Property Crime": 1967.9890383306076
+      }
+    },
+    {
+      "id": "36095",
+      "title": "Schoharie, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3606.084385459438,
+        "Property Crime": 2997.2314203067854
+      }
+    },
+    {
+      "id": "36097",
+      "title": "Schuyler, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4111.51460514185,
+        "Property Crime": 3200.3998075010313
+      }
+    },
+    {
+      "id": "36099",
+      "title": "Seneca, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3182.673681849869,
+        "Property Crime": 2519.6655223499574
+      }
+    },
+    {
+      "id": "36101",
+      "title": "Steuben, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2777.155242203894,
+        "Property Crime": 2702.484540100532
+      }
+    },
+    {
+      "id": "36103",
+      "title": "Suffolk, NY",
+      "scores": {
+        "Terror-related Crime": 1396.588773378589,
+        "Violent Crime": 3369.60746124851,
+        "Property Crime": 2834.6447454148583
+      }
+    },
+    {
+      "id": "36105",
+      "title": "Sullivan, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1979.7743283683835,
+        "Property Crime": 2487.6325613290555
+      }
+    },
+    {
+      "id": "36107",
+      "title": "Tioga, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2942.898686572968,
+        "Property Crime": 3306.7688496076494
+      }
+    },
+    {
+      "id": "36109",
+      "title": "Tompkins, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2413.2123167987693,
+        "Property Crime": 2329.4204784765043
+      }
+    },
+    {
+      "id": "36111",
+      "title": "Ulster, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2786.9857374080857,
+        "Property Crime": 2946.701434081632
+      }
+    },
+    {
+      "id": "36113",
+      "title": "Warren, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2554.606065025397,
+        "Property Crime": 2906.575840635697
+      }
+    },
+    {
+      "id": "36115",
+      "title": "Washington, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3283.0935368287223,
+        "Property Crime": 3410.791124174871
+      }
+    },
+    {
+      "id": "36117",
+      "title": "Wayne, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2657.8813571511264,
+        "Property Crime": 2445.370293990735
+      }
+    },
+    {
+      "id": "36119",
+      "title": "Westchester, NY",
+      "scores": {
+        "Terror-related Crime": 1376.6334448750129,
+        "Violent Crime": 2996.947657689146,
+        "Property Crime": 3042.944032240611
+      }
+    },
+    {
+      "id": "36121",
+      "title": "Wyoming, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3097.3068335483167,
+        "Property Crime": 3200.3998075010313
+      }
+    },
+    {
+      "id": "36123",
+      "title": "Yates, NY",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4009.3258000543906,
+        "Property Crime": 2738.5657265171044
+      }
+    },
+    {
+      "id": "40001",
+      "title": "Adair, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1801.973732326524,
+        "Property Crime": 1738.4756598195845
+      }
+    },
+    {
+      "id": "40003",
+      "title": "Alfalfa, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3626.300491570145,
+        "Property Crime": 3160.029369409573
+      }
+    },
+    {
+      "id": "40005",
+      "title": "Atoka, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4157.909729461922,
+        "Property Crime": 2440.3312648373467
+      }
+    },
+    {
+      "id": "40007",
+      "title": "Beaver, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4592.251593496152,
+        "Property Crime": 2965.219775065699
+      }
+    },
+    {
+      "id": "40009",
+      "title": "Beckham, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2874.0182228710205,
+        "Property Crime": 1891.9479908836163
+      }
+    },
+    {
+      "id": "40011",
+      "title": "Blaine, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3805.947012958375,
+        "Property Crime": 2469.78213607732
+      }
+    },
+    {
+      "id": "40013",
+      "title": "Bryan, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2985.267406253406,
+        "Property Crime": 1107.5708560206817
+      }
+    },
+    {
+      "id": "40015",
+      "title": "Caddo, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2251.8563073671376,
+        "Property Crime": 2025.1092823648291
+      }
+    },
+    {
+      "id": "40017",
+      "title": "Canadian, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1916.1144052557465,
+        "Property Crime": 1765.300098339913
+      }
+    },
+    {
+      "id": "40019",
+      "title": "Carter, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1537.0267160476537,
+        "Property Crime": 1242.1189625869379
+      }
+    },
+    {
+      "id": "40021",
+      "title": "Cherokee, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3359.9790381821485,
+        "Property Crime": 2111.102525331815
+      }
+    },
+    {
+      "id": "40023",
+      "title": "Choctaw, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3688.6475587845985,
+        "Property Crime": 2092.81725296666
+      }
+    },
+    {
+      "id": "40025",
+      "title": "Cimarron, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3591.100804252411,
+        "Property Crime": 2831.5618304863956
+      }
+    },
+    {
+      "id": "40027",
+      "title": "Cleveland, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2009.8637677072152,
+        "Property Crime": 1429.8079658245363
+      }
+    },
+    {
+      "id": "40029",
+      "title": "Coal, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3787.1845581969965,
+        "Property Crime": 2637.95875507399
+      }
+    },
+    {
+      "id": "40031",
+      "title": "Comanche, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1763.5535373543287,
+        "Property Crime": 1234.3524958312792
+      }
+    },
+    {
+      "id": "40033",
+      "title": "Cotton, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4727.631991225884,
+        "Property Crime": 2652.7981207815333
+      }
+    },
+    {
+      "id": "40035",
+      "title": "Craig, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3587.8245470112333,
+        "Property Crime": 2516.734327869794
+      }
+    },
+    {
+      "id": "40037",
+      "title": "Creek, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2287.170117038637,
+        "Property Crime": 2034.258991451323
+      }
+    },
+    {
+      "id": "40039",
+      "title": "Custer, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3528.9816932761787,
+        "Property Crime": 2274.992610324558
+      }
+    },
+    {
+      "id": "40041",
+      "title": "Delaware, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3464.7663553177304,
+        "Property Crime": 2484.194687304541
+      }
+    },
+    {
+      "id": "40043",
+      "title": "Dewey, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4521.76166638058,
+        "Property Crime": 2668.8497826337825
+      }
+    },
+    {
+      "id": "40045",
+      "title": "Ellis, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4356.731134339131,
+        "Property Crime": 2439.0728622565607
+      }
+    },
+    {
+      "id": "40047",
+      "title": "Garfield, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2136.057532223946,
+        "Property Crime": 1303.3601849443849
+      }
+    },
+    {
+      "id": "40049",
+      "title": "Garvin, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2417.440331575093,
+        "Property Crime": 1454.3865310114563
+      }
+    },
+    {
+      "id": "40051",
+      "title": "Grady, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2885.5242340841814,
+        "Property Crime": 1952.4552215238627
+      }
+    },
+    {
+      "id": "40053",
+      "title": "Grant, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4117.680367006813,
+        "Property Crime": 2434.6475900309497
+      }
+    },
+    {
+      "id": "40055",
+      "title": "Greer, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3764.488652179223,
+        "Property Crime": 2754.851553970556
+      }
+    },
+    {
+      "id": "40057",
+      "title": "Harmon, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3866.614821085625,
+        "Property Crime": 1228.0737369885885
+      }
+    },
+    {
+      "id": "40059",
+      "title": "Harper, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3260.63778386818
+      }
+    },
+    {
+      "id": "40061",
+      "title": "Haskell, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3520.415067176312,
+        "Property Crime": 2308.381293609105
+      }
+    },
+    {
+      "id": "40063",
+      "title": "Hughes, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3366.9883188310146,
+        "Property Crime": 1988.1030138938565
+      }
+    },
+    {
+      "id": "40065",
+      "title": "Jackson, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1964.5544315521547,
+        "Property Crime": 1545.3497476325908
+      }
+    },
+    {
+      "id": "40067",
+      "title": "Jefferson, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3276.379795746054,
+        "Property Crime": 2734.2156082654146
+      }
+    },
+    {
+      "id": "40069",
+      "title": "Johnston, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3407.410167674156,
+        "Property Crime": 2150.616237450151
+      }
+    },
+    {
+      "id": "40071",
+      "title": "Kay, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2290.914906179466,
+        "Property Crime": 1547.1584177729626
+      }
+    },
+    {
+      "id": "40073",
+      "title": "Kingfisher, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3808.187648076259,
+        "Property Crime": 3189.209417520269
+      }
+    },
+    {
+      "id": "40075",
+      "title": "Kiowa, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4346.675797885086,
+        "Property Crime": 2295.0807897552463
+      }
+    },
+    {
+      "id": "40077",
+      "title": "Latimer, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4040.76832742143,
+        "Property Crime": 2476.560349403196
+      }
+    },
+    {
+      "id": "40079",
+      "title": "Le Flore, OK",
+      "scores": {
+        "Terror-related Crime": 1107.0359162327845,
+        "Violent Crime": 1938.9523072148088,
+        "Property Crime": 1691.4385219753033
+      }
+    },
+    {
+      "id": "40081",
+      "title": "Lincoln, OK",
+      "scores": {
+        "Terror-related Crime": 1032.2016722909175,
+        "Violent Crime": 2458.2620605780294,
+        "Property Crime": 2294.533022313821
+      }
+    },
+    {
+      "id": "40083",
+      "title": "Logan, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2634.273538726943,
+        "Property Crime": 1951.5179482603955
+      }
+    },
+    {
+      "id": "40085",
+      "title": "Love, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3718.0715795149454,
+        "Property Crime": 2722.194993091156
+      }
+    },
+    {
+      "id": "40087",
+      "title": "McClain, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2550.2062839831015,
+        "Property Crime": 1827.5960917929008
+      }
+    },
+    {
+      "id": "40089",
+      "title": "McCurtain, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2463.7126634198216,
+        "Property Crime": 1367.1837052342817
+      }
+    },
+    {
+      "id": "40091",
+      "title": "McIntosh, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2109.4406101357126,
+        "Property Crime": 1759.3844042563685
+      }
+    },
+    {
+      "id": "40093",
+      "title": "Major, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4577.09755990308,
+        "Property Crime": 2426.1359879462384
+      }
+    },
+    {
+      "id": "40095",
+      "title": "Marshall, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3964.59491200457,
+        "Property Crime": 1857.2859709568818
+      }
+    },
+    {
+      "id": "40097",
+      "title": "Mayes, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2713.0535410605544,
+        "Property Crime": 2241.2034234410116
+      }
+    },
+    {
+      "id": "40099",
+      "title": "Murray, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3097.360243872039,
+        "Property Crime": 2254.141381749948
+      }
+    },
+    {
+      "id": "40101",
+      "title": "Muskogee, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2233.0808957394083,
+        "Property Crime": 1442.9570388993475
+      }
+    },
+    {
+      "id": "40103",
+      "title": "Noble, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2286.712468072426,
+        "Property Crime": 2063.9837987387086
+      }
+    },
+    {
+      "id": "40105",
+      "title": "Nowata, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3605.2803801738996,
+        "Property Crime": 2260.8168539576286
+      }
+    },
+    {
+      "id": "40107",
+      "title": "Okfuskee, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3623.7671132188098,
+        "Property Crime": 1715.4304716658362
+      }
+    },
+    {
+      "id": "40109",
+      "title": "Oklahoma, OK",
+      "scores": {
+        "Terror-related Crime": 1243.5401476396933,
+        "Violent Crime": 1448.481146344407,
+        "Property Crime": 1261.928819770566
+      }
+    },
+    {
+      "id": "40111",
+      "title": "Okmulgee, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1648.890238143088,
+        "Property Crime": 1490.1705503121561
+      }
+    },
+    {
+      "id": "40113",
+      "title": "Osage, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2296.010119340078,
+        "Property Crime": 1708.1853014911605
+      }
+    },
+    {
+      "id": "40115",
+      "title": "Ottawa, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2307.311847415638,
+        "Property Crime": 2102.330864117594
+      }
+    },
+    {
+      "id": "40117",
+      "title": "Pawnee, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3174.400686805531,
+        "Property Crime": 2424.039299403221
+      }
+    },
+    {
+      "id": "40119",
+      "title": "Payne, OK",
+      "scores": {
+        "Terror-related Crime": 1342.2099575036548,
+        "Violent Crime": 2175.984366527043,
+        "Property Crime": 1469.978808090246
+      }
+    },
+    {
+      "id": "40121",
+      "title": "Pittsburg, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1825.544264055423,
+        "Property Crime": 1374.2353180729006
+      }
+    },
+    {
+      "id": "40123",
+      "title": "Pontotoc, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2779.24760117312,
+        "Property Crime": 1741.7367711986237
+      }
+    },
+    {
+      "id": "40125",
+      "title": "Pottawatomie, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1907.9446592299312,
+        "Property Crime": 1463.3850355837426
+      }
+    },
+    {
+      "id": "40127",
+      "title": "Pushmataha, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3810.9805192310846,
+        "Property Crime": 2408.9445326483196
+      }
+    },
+    {
+      "id": "40129",
+      "title": "Roger Mills, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4066.103414620536,
+        "Property Crime": 2470.1525804524363
+      }
+    },
+    {
+      "id": "40131",
+      "title": "Rogers, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2660.5545646441824,
+        "Property Crime": 2097.971317348105
+      }
+    },
+    {
+      "id": "40133",
+      "title": "Seminole, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2003.387759452243,
+        "Property Crime": 1773.6862170661122
+      }
+    },
+    {
+      "id": "40135",
+      "title": "Sequoyah, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2250.391271147197,
+        "Property Crime": 1582.5262752000795
+      }
+    },
+    {
+      "id": "40137",
+      "title": "Stephens, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3277.1715608511486,
+        "Property Crime": 1377.537643208915
+      }
+    },
+    {
+      "id": "40139",
+      "title": "Texas, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3532.0380611816063,
+        "Property Crime": 2578.8042947044128
+      }
+    },
+    {
+      "id": "40141",
+      "title": "Tillman, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3284.073738934957,
+        "Property Crime": 1413.3214670712587
+      }
+    },
+    {
+      "id": "40143",
+      "title": "Tulsa, OK",
+      "scores": {
+        "Terror-related Crime": 1285.124661165775,
+        "Violent Crime": 1065.0042487593676,
+        "Property Crime": 882.8706047508609
+      }
+    },
+    {
+      "id": "40145",
+      "title": "Wagoner, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2439.1694293816818,
+        "Property Crime": 1857.6503650510278
+      }
+    },
+    {
+      "id": "40147",
+      "title": "Washington, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2114.974761944761,
+        "Property Crime": 1514.1303678173153
+      }
+    },
+    {
+      "id": "40149",
+      "title": "Washita, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1893.0171231932022,
+        "Property Crime": 2395.75279008336
+      }
+    },
+    {
+      "id": "40151",
+      "title": "Woods, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4249.526252830604,
+        "Property Crime": 2376.6806482304823
+      }
+    },
+    {
+      "id": "40153",
+      "title": "Woodward, OK",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3477.755305847951,
+        "Property Crime": 1872.8234702538036
+      }
+    },
+    {
+      "id": "48001",
+      "title": "Anderson, TX",
+      "scores": {
+        "Terror-related Crime": 1130.0090463357526,
+        "Violent Crime": 1797.7957719157607,
+        "Property Crime": 2358.1681905407495
+      }
+    },
+    {
+      "id": "48003",
+      "title": "Andrews, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1688.7217676706123,
+        "Property Crime": 2065.529782929142
+      }
+    },
+    {
+      "id": "48005",
+      "title": "Angelina, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2713.22534774513,
+        "Property Crime": 1769.5828102454336
+      }
+    },
+    {
+      "id": "48007",
+      "title": "Aransas, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1728.1270638278365,
+        "Property Crime": 1120.999773893861
+      }
+    },
+    {
+      "id": "48009",
+      "title": "Archer, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3446.3381860492846,
+        "Property Crime": 2811.981314693569
+      }
+    },
+    {
+      "id": "48011",
+      "title": "Armstrong, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4180.480327706947,
+        "Property Crime": 2982.8454371610246
+      }
+    },
+    {
+      "id": "48013",
+      "title": "Atascosa, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2559.9686980107313,
+        "Property Crime": 1542.9051918129217
+      }
+    },
+    {
+      "id": "48015",
+      "title": "Austin, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3438.81373378069,
+        "Property Crime": 2157.4109688913763
+      }
+    },
+    {
+      "id": "48017",
+      "title": "Bailey, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4182.929506712067,
+        "Property Crime": 2380.4761696363344
+      }
+    },
+    {
+      "id": "48019",
+      "title": "Bandera, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3292.9933742190506,
+        "Property Crime": 2430.766697759332
+      }
+    },
+    {
+      "id": "48021",
+      "title": "Bastrop, TX",
+      "scores": {
+        "Terror-related Crime": 1117.4841652567616,
+        "Violent Crime": 1398.6926667510784,
+        "Property Crime": 1899.360090292337
+      }
+    },
+    {
+      "id": "48023",
+      "title": "Baylor, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3525.990998774474,
+        "Property Crime": 2248.9398061759894
+      }
+    },
+    {
+      "id": "48025",
+      "title": "Bee, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2464.62083336188,
+        "Property Crime": 2579.2462660884644
+      }
+    },
+    {
+      "id": "48027",
+      "title": "Bell, TX",
+      "scores": {
+        "Terror-related Crime": 1225.8725992992572,
+        "Violent Crime": 1635.1329244256835,
+        "Property Crime": 1513.174600677704
+      }
+    },
+    {
+      "id": "48029",
+      "title": "Bexar, TX",
+      "scores": {
+        "Terror-related Crime": 1278.9896833094515,
+        "Violent Crime": 1370.8287673435793,
+        "Property Crime": 965.9402963280806
+      }
+    },
+    {
+      "id": "48031",
+      "title": "Blanco, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2292.477138399623,
+        "Property Crime": 3055.5354932498685
+      }
+    },
+    {
+      "id": "48033",
+      "title": "Borden, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3750.0,
+        "Property Crime": 2349.562208319996
+      }
+    },
+    {
+      "id": "48035",
+      "title": "Bosque, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4490.50019072433,
+        "Property Crime": 2537.7798429708873
+      }
+    },
+    {
+      "id": "48037",
+      "title": "Bowie, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1802.318836651809,
+        "Property Crime": 1595.0644487210984
+      }
+    },
+    {
+      "id": "48039",
+      "title": "Brazoria, TX",
+      "scores": {
+        "Terror-related Crime": 1326.4816390988894,
+        "Violent Crime": 2761.14541231108,
+        "Property Crime": 2268.0372844930207
+      }
+    },
+    {
+      "id": "48041",
+      "title": "Brazos, TX",
+      "scores": {
+        "Terror-related Crime": 1403.0610391835671,
+        "Violent Crime": 2244.7315301852536,
+        "Property Crime": 1881.8759295026662
+      }
+    },
+    {
+      "id": "48043",
+      "title": "Brewster, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2374.6136459243735,
+        "Property Crime": 2594.8007718994168
+      }
+    },
+    {
+      "id": "48045",
+      "title": "Briscoe, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 2660.914062284968
+      }
+    },
+    {
+      "id": "48047",
+      "title": "Brooks, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3804.6953361269248,
+        "Property Crime": 1952.2765079701153
+      }
+    },
+    {
+      "id": "48049",
+      "title": "Brown, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2014.4190207555848,
+        "Property Crime": 2023.7659447257372
+      }
+    },
+    {
+      "id": "48051",
+      "title": "Burleson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3115.7283672202807,
+        "Property Crime": 2550.02459666526
+      }
+    },
+    {
+      "id": "48053",
+      "title": "Burnet, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3032.554462043068,
+        "Property Crime": 2240.4869532155894
+      }
+    },
+    {
+      "id": "48055",
+      "title": "Caldwell, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2438.819008240363,
+        "Property Crime": 2317.3944731764022
+      }
+    },
+    {
+      "id": "48057",
+      "title": "Calhoun, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1196.9399283687092,
+        "Property Crime": 1390.6381569225098
+      }
+    },
+    {
+      "id": "48059",
+      "title": "Callahan, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4331.413104708532,
+        "Property Crime": 2571.5763954001404
+      }
+    },
+    {
+      "id": "48061",
+      "title": "Cameron, TX",
+      "scores": {
+        "Terror-related Crime": 1429.1607617009195,
+        "Violent Crime": 2329.843207735927,
+        "Property Crime": 1584.9571546253997
+      }
+    },
+    {
+      "id": "48063",
+      "title": "Camp, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2285.1643380705395,
+        "Property Crime": 2211.962286419008
+      }
+    },
+    {
+      "id": "48065",
+      "title": "Carson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3757.5496074196108,
+        "Property Crime": 2902.529917825828
+      }
+    },
+    {
+      "id": "48067",
+      "title": "Cass, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2093.639318309846,
+        "Property Crime": 1811.1195020742834
+      }
+    },
+    {
+      "id": "48069",
+      "title": "Castro, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4182.561575773931,
+        "Property Crime": 1855.3288875869498
+      }
+    },
+    {
+      "id": "48071",
+      "title": "Chambers, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1754.8246499889462,
+        "Property Crime": 1619.8144033455674
+      }
+    },
+    {
+      "id": "48073",
+      "title": "Cherokee, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1774.8502199961101,
+        "Property Crime": 1784.2145503108363
+      }
+    },
+    {
+      "id": "48075",
+      "title": "Childress, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 2212.8758786593835
+      }
+    },
+    {
+      "id": "48077",
+      "title": "Clay, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2241.127843437687,
+        "Property Crime": 2602.9722874556815
+      }
+    },
+    {
+      "id": "48079",
+      "title": "Cochran, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3104.3535451780417,
+        "Property Crime": 1651.5820716989026
+      }
+    },
+    {
+      "id": "48081",
+      "title": "Coke, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4755.988376139286,
+        "Property Crime": 2453.1453959832206
+      }
+    },
+    {
+      "id": "48083",
+      "title": "Coleman, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3221.649058075094,
+        "Property Crime": 2001.0067651736697
+      }
+    },
+    {
+      "id": "48085",
+      "title": "Collin, TX",
+      "scores": {
+        "Terror-related Crime": 1293.9556321859743,
+        "Violent Crime": 2968.0244220223153,
+        "Property Crime": 2310.188242637282
+      }
+    },
+    {
+      "id": "48087",
+      "title": "Collingsworth, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3940.9521480681647,
+        "Property Crime": 3105.704352913277
+      }
+    },
+    {
+      "id": "48089",
+      "title": "Colorado, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3145.9267092508408,
+        "Property Crime": 2645.7175311663455
+      }
+    },
+    {
+      "id": "48091",
+      "title": "Comal, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2602.40566512904,
+        "Property Crime": 2215.582276436396
+      }
+    },
+    {
+      "id": "48093",
+      "title": "Comanche, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3159.487417225898,
+        "Property Crime": 1941.1990546668803
+      }
+    },
+    {
+      "id": "48095",
+      "title": "Concho, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4839.283717916165,
+        "Property Crime": 3060.5172223412283
+      }
+    },
+    {
+      "id": "48097",
+      "title": "Cooke, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2738.862919122903,
+        "Property Crime": 2196.1640428767405
+      }
+    },
+    {
+      "id": "48099",
+      "title": "Coryell, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2577.985713049971,
+        "Property Crime": 2318.2866691517897
+      }
+    },
+    {
+      "id": "48101",
+      "title": "Cottle, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4460.262577106338,
+        "Property Crime": 2770.9502608615458
+      }
+    },
+    {
+      "id": "48103",
+      "title": "Crane, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4112.720445899983,
+        "Property Crime": 3102.5564864682315
+      }
+    },
+    {
+      "id": "48105",
+      "title": "Crockett, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4412.563641568812,
+        "Property Crime": 2564.4720235772097
+      }
+    },
+    {
+      "id": "48107",
+      "title": "Crosby, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4504.29057987213,
+        "Property Crime": 2859.479029768617
+      }
+    },
+    {
+      "id": "48109",
+      "title": "Culberson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48111",
+      "title": "Dallam, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2567.851550304056,
+        "Property Crime": 1426.3852297861356
+      }
+    },
+    {
+      "id": "48113",
+      "title": "Dallas, TX",
+      "scores": {
+        "Terror-related Crime": 1115.4808289187736,
+        "Violent Crime": 1742.0366533911072,
+        "Property Crime": 1202.3661510010616
+      }
+    },
+    {
+      "id": "48115",
+      "title": "Dawson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1611.24610188966,
+        "Property Crime": 1445.394657278052
+      }
+    },
+    {
+      "id": "48117",
+      "title": "Deaf Smith, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3459.0073739574705,
+        "Property Crime": 1763.9339468660423
+      }
+    },
+    {
+      "id": "48119",
+      "title": "Delta, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 2737.0702026958684
+      }
+    },
+    {
+      "id": "48121",
+      "title": "Denton, TX",
+      "scores": {
+        "Terror-related Crime": 1353.2765176540756,
+        "Violent Crime": 2843.9146969303397,
+        "Property Crime": 2222.4991630457703
+      }
+    },
+    {
+      "id": "48123",
+      "title": "De Witt, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2042.4147079749976,
+        "Property Crime": 2209.640266684165
+      }
+    },
+    {
+      "id": "48125",
+      "title": "Dickens, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3405.473165702137,
+        "Property Crime": 2177.227964418253
+      }
+    },
+    {
+      "id": "48127",
+      "title": "Dimmit, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4824.667316521575,
+        "Property Crime": 2431.88253094469
+      }
+    },
+    {
+      "id": "48129",
+      "title": "Donley, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3892.5801375922483,
+        "Property Crime": 2763.4214720811506
+      }
+    },
+    {
+      "id": "48131",
+      "title": "Duval, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2261.081784189013,
+        "Property Crime": 1962.2634132280446
+      }
+    },
+    {
+      "id": "48133",
+      "title": "Eastland, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2553.7715155580636,
+        "Property Crime": 2138.3877676267844
+      }
+    },
+    {
+      "id": "48135",
+      "title": "Ector, TX",
+      "scores": {
+        "Terror-related Crime": 972.0265292831779,
+        "Violent Crime": 1677.1313964459428,
+        "Property Crime": 1240.268023018964
+      }
+    },
+    {
+      "id": "48137",
+      "title": "Edwards, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4059.91429265461,
+        "Property Crime": 2858.194207132109
+      }
+    },
+    {
+      "id": "48139",
+      "title": "Ellis, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2765.392426596586,
+        "Property Crime": 2087.2329392406673
+      }
+    },
+    {
+      "id": "48141",
+      "title": "El Paso, TX",
+      "scores": {
+        "Terror-related Crime": 1116.7482878647018,
+        "Violent Crime": 2245.6017181858883,
+        "Property Crime": 2526.6579915654
+      }
+    },
+    {
+      "id": "48143",
+      "title": "Erath, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3355.2668753423086,
+        "Property Crime": 2407.5953947564158
+      }
+    },
+    {
+      "id": "48145",
+      "title": "Falls, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3146.95416074157,
+        "Property Crime": 2642.862441659504
+      }
+    },
+    {
+      "id": "48147",
+      "title": "Fannin, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3631.133105593728,
+        "Property Crime": 2741.2281135060553
+      }
+    },
+    {
+      "id": "48149",
+      "title": "Fayette, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2377.0081854866417,
+        "Property Crime": 2649.9245170569393
+      }
+    },
+    {
+      "id": "48151",
+      "title": "Fisher, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3888.1636095433655,
+        "Property Crime": 2317.4980914470552
+      }
+    },
+    {
+      "id": "48153",
+      "title": "Floyd, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1476.4512286579575,
+        "Property Crime": 2111.3881899734088
+      }
+    },
+    {
+      "id": "48155",
+      "title": "Foard, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48157",
+      "title": "Fort Bend, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2546.8711492478087,
+        "Property Crime": 2278.622717703101
+      }
+    },
+    {
+      "id": "48159",
+      "title": "Franklin, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2006.5298392100094,
+        "Property Crime": 2464.487939183617
+      }
+    },
+    {
+      "id": "48161",
+      "title": "Freestone, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3564.100988576704,
+        "Property Crime": 2428.171872098757
+      }
+    },
+    {
+      "id": "48163",
+      "title": "Frio, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3730.160980766359,
+        "Property Crime": 2097.68292525781
+      }
+    },
+    {
+      "id": "48165",
+      "title": "Gaines, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3867.285020753009,
+        "Property Crime": 2733.6662451724324
+      }
+    },
+    {
+      "id": "48167",
+      "title": "Galveston, TX",
+      "scores": {
+        "Terror-related Crime": 586.4620881444773,
+        "Violent Crime": 1973.7257000469906,
+        "Property Crime": 1557.2273956567942
+      }
+    },
+    {
+      "id": "48169",
+      "title": "Garza, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3276.9751786971246,
+        "Property Crime": 3043.5545916938495
+      }
+    },
+    {
+      "id": "48171",
+      "title": "Gillespie, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4476.452727691937,
+        "Property Crime": 3038.2782137317454
+      }
+    },
+    {
+      "id": "48173",
+      "title": "Glasscock, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 2268.0735333238117
+      }
+    },
+    {
+      "id": "48175",
+      "title": "Goliad, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3327.504220022989,
+        "Property Crime": 2543.263732039039
+      }
+    },
+    {
+      "id": "48177",
+      "title": "Gonzales, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2469.0514437743836,
+        "Property Crime": 2207.54448905893
+      }
+    },
+    {
+      "id": "48179",
+      "title": "Gray, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2102.619317597342,
+        "Property Crime": 1136.0220802841395
+      }
+    },
+    {
+      "id": "48181",
+      "title": "Grayson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2303.053575186238,
+        "Property Crime": 1937.1798501253807
+      }
+    },
+    {
+      "id": "48183",
+      "title": "Gregg, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1424.6192332187022,
+        "Property Crime": 1259.557110426724
+      }
+    },
+    {
+      "id": "48185",
+      "title": "Grimes, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1952.9953788928144,
+        "Property Crime": 2184.157584303287
+      }
+    },
+    {
+      "id": "48187",
+      "title": "Guadalupe, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2460.0886713819377,
+        "Property Crime": 2122.8374419413717
+      }
+    },
+    {
+      "id": "48189",
+      "title": "Hale, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3242.028708246063,
+        "Property Crime": 1698.1414082453023
+      }
+    },
+    {
+      "id": "48191",
+      "title": "Hall, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3573.7487031218243,
+        "Property Crime": 2512.0024149481583
+      }
+    },
+    {
+      "id": "48193",
+      "title": "Hamilton, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3224.199454822863,
+        "Property Crime": 1985.7571470409553
+      }
+    },
+    {
+      "id": "48195",
+      "title": "Hansford, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4206.917621479672,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48197",
+      "title": "Hardeman, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4565.515868830405,
+        "Property Crime": 2470.1443121522025
+      }
+    },
+    {
+      "id": "48199",
+      "title": "Hardin, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2792.5457566792174,
+        "Property Crime": 2464.186599701422
+      }
+    },
+    {
+      "id": "48201",
+      "title": "Harris, TX",
+      "scores": {
+        "Terror-related Crime": 1172.3971036240664,
+        "Violent Crime": 1514.0708107208106,
+        "Property Crime": 1159.5083363723274
+      }
+    },
+    {
+      "id": "48203",
+      "title": "Harrison, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2196.4787061940156,
+        "Property Crime": 1847.3570997927538
+      }
+    },
+    {
+      "id": "48205",
+      "title": "Hartley, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3249.2702482432173,
+        "Property Crime": 1863.5868584412317
+      }
+    },
+    {
+      "id": "48207",
+      "title": "Haskell, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4000.8362203063803,
+        "Property Crime": 2667.387577242515
+      }
+    },
+    {
+      "id": "48209",
+      "title": "Hays, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2510.3831924534143,
+        "Property Crime": 2075.539995820676
+      }
+    },
+    {
+      "id": "48211",
+      "title": "Hemphill, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3018.234157127053,
+        "Property Crime": 3089.315536286723
+      }
+    },
+    {
+      "id": "48213",
+      "title": "Henderson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1978.3991663620284,
+        "Property Crime": 1766.2688311433158
+      }
+    },
+    {
+      "id": "48215",
+      "title": "Hidalgo, TX",
+      "scores": {
+        "Terror-related Crime": 1375.492670539906,
+        "Violent Crime": 2347.6853538092337,
+        "Property Crime": 1706.1882222163129
+      }
+    },
+    {
+      "id": "48217",
+      "title": "Hill, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3374.6744648102867,
+        "Property Crime": 2168.860323736441
+      }
+    },
+    {
+      "id": "48219",
+      "title": "Hockley, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2481.629307231088,
+        "Property Crime": 1633.8088784579802
+      }
+    },
+    {
+      "id": "48221",
+      "title": "Hood, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3432.366020105148,
+        "Property Crime": 2543.4705857951053
+      }
+    },
+    {
+      "id": "48223",
+      "title": "Hopkins, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3553.7582898894016,
+        "Property Crime": 3009.610182345941
+      }
+    },
+    {
+      "id": "48225",
+      "title": "Houston, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3239.124040352654,
+        "Property Crime": 2081.2073872645847
+      }
+    },
+    {
+      "id": "48227",
+      "title": "Howard, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1870.7206070481548,
+        "Property Crime": 1043.2493186386882
+      }
+    },
+    {
+      "id": "48229",
+      "title": "Hudspeth, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4272.831333041672,
+        "Property Crime": 3199.879908551896
+      }
+    },
+    {
+      "id": "48231",
+      "title": "Hunt, TX",
+      "scores": {
+        "Terror-related Crime": 1119.0872467401152,
+        "Violent Crime": 1987.8675255538542,
+        "Property Crime": 1713.0104999232994
+      }
+    },
+    {
+      "id": "48233",
+      "title": "Hutchinson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2788.359920827611,
+        "Property Crime": 1356.6878973812052
+      }
+    },
+    {
+      "id": "48235",
+      "title": "Irion, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4492.380594841502,
+        "Property Crime": 2116.8949485590597
+      }
+    },
+    {
+      "id": "48237",
+      "title": "Jack, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3167.64815063718,
+        "Property Crime": 2404.729523094376
+      }
+    },
+    {
+      "id": "48239",
+      "title": "Jackson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3084.0068410282493,
+        "Property Crime": 2581.0799046453703
+      }
+    },
+    {
+      "id": "48241",
+      "title": "Jasper, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2709.739924270344,
+        "Property Crime": 1862.1314475217844
+      }
+    },
+    {
+      "id": "48243",
+      "title": "Jeff Davis, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3824.468228733879,
+        "Property Crime": 2678.0587152739836
+      }
+    },
+    {
+      "id": "48245",
+      "title": "Jefferson, TX",
+      "scores": {
+        "Terror-related Crime": 1073.849810781507,
+        "Violent Crime": 1399.181890393984,
+        "Property Crime": 1223.0514294408943
+      }
+    },
+    {
+      "id": "48247",
+      "title": "Jim Hogg, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4678.577476245012,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48249",
+      "title": "Jim Wells, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2497.860820079618,
+        "Property Crime": 933.6557478913328
+      }
+    },
+    {
+      "id": "48251",
+      "title": "Johnson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2813.5195229538967,
+        "Property Crime": 2166.1442346606004
+      }
+    },
+    {
+      "id": "48253",
+      "title": "Jones, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2227.500141487973,
+        "Property Crime": 2052.7530385029186
+      }
+    },
+    {
+      "id": "48255",
+      "title": "Karnes, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2198.8582940396677,
+        "Property Crime": 1921.3677490672728
+      }
+    },
+    {
+      "id": "48257",
+      "title": "Kaufman, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2796.3097428400056,
+        "Property Crime": 2073.551021478454
+      }
+    },
+    {
+      "id": "48259",
+      "title": "Kendall, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3772.3256374098696,
+        "Property Crime": 2700.5299842131208
+      }
+    },
+    {
+      "id": "48261",
+      "title": "Kenedy, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2500.0,
+        "Property Crime": 1891.1910613791001
+      }
+    },
+    {
+      "id": "48263",
+      "title": "Kent, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3833.889030280707,
+        "Property Crime": 2304.852702906718
+      }
+    },
+    {
+      "id": "48265",
+      "title": "Kerr, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1767.8198244786988,
+        "Property Crime": 2312.32300124085
+      }
+    },
+    {
+      "id": "48267",
+      "title": "Kimble, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4365.95303792711,
+        "Property Crime": 2962.9831783872396
+      }
+    },
+    {
+      "id": "48269",
+      "title": "King, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48271",
+      "title": "Kinney, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4564.656801730567,
+        "Property Crime": 2390.0313096507944
+      }
+    },
+    {
+      "id": "48273",
+      "title": "Kleberg, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2109.501705114502,
+        "Property Crime": 1417.0846352419528
+      }
+    },
+    {
+      "id": "48275",
+      "title": "Knox, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2634.1617673307414,
+        "Property Crime": 2051.953108111752
+      }
+    },
+    {
+      "id": "48277",
+      "title": "Lamar, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2479.48712547368,
+        "Property Crime": 1655.5609755857324
+      }
+    },
+    {
+      "id": "48279",
+      "title": "Lamb, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2867.069377378845,
+        "Property Crime": 2039.5116424974312
+      }
+    },
+    {
+      "id": "48281",
+      "title": "Lampasas, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4333.875782226809,
+        "Property Crime": 1650.9203863943114
+      }
+    },
+    {
+      "id": "48283",
+      "title": "La Salle, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4167.238766341599,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48285",
+      "title": "Lavaca, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3615.083982276269,
+        "Property Crime": 2582.0088882976784
+      }
+    },
+    {
+      "id": "48287",
+      "title": "Lee, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3168.850477749339,
+        "Property Crime": 2728.8993081631234
+      }
+    },
+    {
+      "id": "48289",
+      "title": "Leon, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3904.9412579645727,
+        "Property Crime": 2308.690540619194
+      }
+    },
+    {
+      "id": "48291",
+      "title": "Liberty, TX",
+      "scores": {
+        "Terror-related Crime": 1121.4950868775522,
+        "Violent Crime": 1909.4906334290297,
+        "Property Crime": 1747.262029575005
+      }
+    },
+    {
+      "id": "48293",
+      "title": "Limestone, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2017.7397515092714,
+        "Property Crime": 1931.2107259027982
+      }
+    },
+    {
+      "id": "48295",
+      "title": "Lipscomb, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4300.329754588196,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48297",
+      "title": "Live Oak, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2085.2534224423907,
+        "Property Crime": 2178.364628743927
+      }
+    },
+    {
+      "id": "48299",
+      "title": "Llano, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3032.451809223667,
+        "Property Crime": 2680.674188635736
+      }
+    },
+    {
+      "id": "48301",
+      "title": "Loving, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 1901.544928421653
+      }
+    },
+    {
+      "id": "48303",
+      "title": "Lubbock, TX",
+      "scores": {
+        "Terror-related Crime": 1273.9194142462063,
+        "Violent Crime": 1813.5242900610067,
+        "Property Crime": 979.1947178029696
+      }
+    },
+    {
+      "id": "48305",
+      "title": "Lynn, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1959.5996603004203,
+        "Property Crime": 2200.925939790216
+      }
+    },
+    {
+      "id": "48307",
+      "title": "McCulloch, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3502.5759188694183,
+        "Property Crime": 2624.661749642169
+      }
+    },
+    {
+      "id": "48309",
+      "title": "McLennan, TX",
+      "scores": {
+        "Terror-related Crime": 1047.6162780830305,
+        "Violent Crime": 1965.9302040151467,
+        "Property Crime": 1478.534377060545
+      }
+    },
+    {
+      "id": "48311",
+      "title": "McMullen, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4273.912141550372,
+        "Property Crime": 1422.128427029893
+      }
+    },
+    {
+      "id": "48313",
+      "title": "Madison, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2893.749509196412,
+        "Property Crime": 1954.2543169898331
+      }
+    },
+    {
+      "id": "48315",
+      "title": "Marion, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2567.028855362587,
+        "Property Crime": 1791.4804451474404
+      }
+    },
+    {
+      "id": "48317",
+      "title": "Martin, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3313.3302821548837,
+        "Property Crime": 1987.4971541764478
+      }
+    },
+    {
+      "id": "48319",
+      "title": "Mason, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4589.024861073431,
+        "Property Crime": 2392.222629065726
+      }
+    },
+    {
+      "id": "48321",
+      "title": "Matagorda, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1895.3511615046725,
+        "Property Crime": 1416.3656173540517
+      }
+    },
+    {
+      "id": "48323",
+      "title": "Maverick, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3137.683392463565,
+        "Property Crime": 2122.537660444678
+      }
+    },
+    {
+      "id": "48325",
+      "title": "Medina, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2156.549960206734,
+        "Property Crime": 1991.7581023858208
+      }
+    },
+    {
+      "id": "48327",
+      "title": "Menard, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48329",
+      "title": "Midland, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2851.669539343516,
+        "Property Crime": 1790.9739338010027
+      }
+    },
+    {
+      "id": "48331",
+      "title": "Milam, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3283.0831825830805,
+        "Property Crime": 2144.2720357680855
+      }
+    },
+    {
+      "id": "48333",
+      "title": "Mills, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4657.733465264476,
+        "Property Crime": 3055.0540735351874
+      }
+    },
+    {
+      "id": "48335",
+      "title": "Mitchell, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3996.6441362318237,
+        "Property Crime": 2408.872578349898
+      }
+    },
+    {
+      "id": "48337",
+      "title": "Montague, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3589.8417193261243,
+        "Property Crime": 1969.8893836990087
+      }
+    },
+    {
+      "id": "48339",
+      "title": "Montgomery, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2968.3922395054424,
+        "Property Crime": 2307.4124512777807
+      }
+    },
+    {
+      "id": "48341",
+      "title": "Moore, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3739.347355286526,
+        "Property Crime": 2411.0832186337234
+      }
+    },
+    {
+      "id": "48343",
+      "title": "Morris, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1861.8419704103453,
+        "Property Crime": 1693.949014262141
+      }
+    },
+    {
+      "id": "48345",
+      "title": "Motley, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3010.6796027860078
+      }
+    },
+    {
+      "id": "48347",
+      "title": "Nacogdoches, TX",
+      "scores": {
+        "Terror-related Crime": 1168.4880543066174,
+        "Violent Crime": 2398.697265585535,
+        "Property Crime": 2224.460457995532
+      }
+    },
+    {
+      "id": "48349",
+      "title": "Navarro, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2595.805710151915,
+        "Property Crime": 1611.5099875573155
+      }
+    },
+    {
+      "id": "48351",
+      "title": "Newton, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4401.240930877464,
+        "Property Crime": 2187.9340078712817
+      }
+    },
+    {
+      "id": "48353",
+      "title": "Nolan, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2103.0965698488103,
+        "Property Crime": 895.9434614446451
+      }
+    },
+    {
+      "id": "48355",
+      "title": "Nueces, TX",
+      "scores": {
+        "Terror-related Crime": 1219.2833919816578,
+        "Violent Crime": 1315.9847500343083,
+        "Property Crime": 1300.7261188147158
+      }
+    },
+    {
+      "id": "48357",
+      "title": "Ochiltree, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3690.8334998474215,
+        "Property Crime": 2755.810255740412
+      }
+    },
+    {
+      "id": "48359",
+      "title": "Oldham, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4201.483801450673,
+        "Property Crime": 2930.099439521858
+      }
+    },
+    {
+      "id": "48361",
+      "title": "Orange, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2526.2283649601086,
+        "Property Crime": 1718.1830868226632
+      }
+    },
+    {
+      "id": "48363",
+      "title": "Palo Pinto, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3857.822186968478,
+        "Property Crime": 1631.9509109990065
+      }
+    },
+    {
+      "id": "48365",
+      "title": "Panola, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3580.6315671822686,
+        "Property Crime": 1758.0084022356175
+      }
+    },
+    {
+      "id": "48367",
+      "title": "Parker, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3249.002494294133,
+        "Property Crime": 2407.696099873815
+      }
+    },
+    {
+      "id": "48369",
+      "title": "Parmer, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4056.6914168105704,
+        "Property Crime": 2604.032828512013
+      }
+    },
+    {
+      "id": "48371",
+      "title": "Pecos, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2134.6375968352904,
+        "Property Crime": 2196.721767043487
+      }
+    },
+    {
+      "id": "48373",
+      "title": "Polk, TX",
+      "scores": {
+        "Terror-related Crime": 1112.9111317212762,
+        "Violent Crime": 2404.5885851298444,
+        "Property Crime": 2186.33878845985
+      }
+    },
+    {
+      "id": "48375",
+      "title": "Potter, TX",
+      "scores": {
+        "Terror-related Crime": 1303.3682768723538,
+        "Violent Crime": 1384.1777585932355,
+        "Property Crime": 1041.4048039037318
+      }
+    },
+    {
+      "id": "48377",
+      "title": "Presidio, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4521.617776447272,
+        "Property Crime": 2795.5864889060726
+      }
+    },
+    {
+      "id": "48379",
+      "title": "Rains, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4254.952168746387,
+        "Property Crime": 2664.9576775764826
+      }
+    },
+    {
+      "id": "48381",
+      "title": "Randall, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1720.5713863326139,
+        "Property Crime": 1230.381942746553
+      }
+    },
+    {
+      "id": "48383",
+      "title": "Reagan, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4325.313075741963,
+        "Property Crime": 2484.302055126286
+      }
+    },
+    {
+      "id": "48385",
+      "title": "Real, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4118.948528058645,
+        "Property Crime": 2394.1139761850927
+      }
+    },
+    {
+      "id": "48387",
+      "title": "Red River, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3475.4017823556105,
+        "Property Crime": 2339.272121658654
+      }
+    },
+    {
+      "id": "48389",
+      "title": "Reeves, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1611.1452220267888,
+        "Property Crime": 2406.9570404377764
+      }
+    },
+    {
+      "id": "48391",
+      "title": "Refugio, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3302.508953955731,
+        "Property Crime": 2945.9889662973246
+      }
+    },
+    {
+      "id": "48393",
+      "title": "Roberts, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3152.906536664569
+      }
+    },
+    {
+      "id": "48395",
+      "title": "Robertson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2963.372953327989,
+        "Property Crime": 2517.9907156208687
+      }
+    },
+    {
+      "id": "48397",
+      "title": "Rockwall, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3353.8814591260852,
+        "Property Crime": 2785.9519613653474
+      }
+    },
+    {
+      "id": "48399",
+      "title": "Runnels, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3497.6113321623934,
+        "Property Crime": 1821.7033727773328
+      }
+    },
+    {
+      "id": "48401",
+      "title": "Rusk, TX",
+      "scores": {
+        "Terror-related Crime": 1089.2091276098572,
+        "Violent Crime": 1818.5597427707587,
+        "Property Crime": 1694.191109429716
+      }
+    },
+    {
+      "id": "48403",
+      "title": "Sabine, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3244.7716177307298,
+        "Property Crime": 2043.6914802714618
+      }
+    },
+    {
+      "id": "48405",
+      "title": "San Augustine, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1542.576816197616,
+        "Property Crime": 2296.670758788681
+      }
+    },
+    {
+      "id": "48407",
+      "title": "San Jacinto, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2572.7688187866443,
+        "Property Crime": 2254.4081153596308
+      }
+    },
+    {
+      "id": "48409",
+      "title": "San Patricio, TX",
+      "scores": {
+        "Terror-related Crime": 1082.2873990586663,
+        "Violent Crime": 2229.8682181449844,
+        "Property Crime": 1598.4922663651666
+      }
+    },
+    {
+      "id": "48411",
+      "title": "San Saba, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4203.342046186887,
+        "Property Crime": 2963.517815355634
+      }
+    },
+    {
+      "id": "48413",
+      "title": "Schleicher, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 2392.522735792459
+      }
+    },
+    {
+      "id": "48415",
+      "title": "Scurry, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3834.389728176142,
+        "Property Crime": 2047.67984645965
+      }
+    },
+    {
+      "id": "48417",
+      "title": "Shackelford, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4172.470705616133,
+        "Property Crime": 2713.632163167506
+      }
+    },
+    {
+      "id": "48419",
+      "title": "Shelby, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2384.372597969342,
+        "Property Crime": 2219.6147457984616
+      }
+    },
+    {
+      "id": "48421",
+      "title": "Sherman, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3846.1332467135358,
+        "Property Crime": 3302.2005821779167
+      }
+    },
+    {
+      "id": "48423",
+      "title": "Smith, TX",
+      "scores": {
+        "Terror-related Crime": 1235.1905965941805,
+        "Violent Crime": 2317.732251840569,
+        "Property Crime": 1452.181481430853
+      }
+    },
+    {
+      "id": "48425",
+      "title": "Somervell, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3997.6917333735246,
+        "Property Crime": 2611.039974528497
+      }
+    },
+    {
+      "id": "48427",
+      "title": "Starr, TX",
+      "scores": {
+        "Terror-related Crime": 1115.4093396226385,
+        "Violent Crime": 2229.8362282350263,
+        "Property Crime": 2717.6462954832405
+      }
+    },
+    {
+      "id": "48429",
+      "title": "Stephens, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3238.9566680785438,
+        "Property Crime": 2254.3780016483956
+      }
+    },
+    {
+      "id": "48431",
+      "title": "Sterling, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3175.1423583955534
+      }
+    },
+    {
+      "id": "48433",
+      "title": "Stonewall, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4204.636214554814,
+        "Property Crime": 2761.3759278636826
+      }
+    },
+    {
+      "id": "48435",
+      "title": "Sutton, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4181.888395655046,
+        "Property Crime": 2662.658179295887
+      }
+    },
+    {
+      "id": "48437",
+      "title": "Swisher, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2249.633905431379,
+        "Property Crime": 1767.551416959273
+      }
+    },
+    {
+      "id": "48439",
+      "title": "Tarrant, TX",
+      "scores": {
+        "Terror-related Crime": 1354.3105645237667,
+        "Violent Crime": 1865.5058308989044,
+        "Property Crime": 1442.587690789743
+      }
+    },
+    {
+      "id": "48441",
+      "title": "Taylor, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1841.612713201203,
+        "Property Crime": 1452.0166711006104
+      }
+    },
+    {
+      "id": "48443",
+      "title": "Terrell, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3125.0,
+        "Property Crime": 2434.8315843320847
+      }
+    },
+    {
+      "id": "48445",
+      "title": "Terry, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2301.3856530493836,
+        "Property Crime": 2088.0767007764803
+      }
+    },
+    {
+      "id": "48447",
+      "title": "Throckmorton, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48449",
+      "title": "Titus, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2020.4671501270896,
+        "Property Crime": 1862.0960731933917
+      }
+    },
+    {
+      "id": "48451",
+      "title": "Tom Green, TX",
+      "scores": {
+        "Terror-related Crime": 1363.7961728435248,
+        "Violent Crime": 1947.9112775470026,
+        "Property Crime": 1010.2219292215472
+      }
+    },
+    {
+      "id": "48453",
+      "title": "Travis, TX",
+      "scores": {
+        "Terror-related Crime": 1219.2655644201664,
+        "Violent Crime": 1951.9237591547114,
+        "Property Crime": 1515.9307275294848
+      }
+    },
+    {
+      "id": "48455",
+      "title": "Trinity, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3563.2419036935516,
+        "Property Crime": 2295.69646677745
+      }
+    },
+    {
+      "id": "48457",
+      "title": "Tyler, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1642.0628072926245,
+        "Property Crime": 2212.5908217744836
+      }
+    },
+    {
+      "id": "48459",
+      "title": "Upshur, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2802.8695255792277,
+        "Property Crime": 2152.0455823404473
+      }
+    },
+    {
+      "id": "48461",
+      "title": "Upton, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3577.112071684678,
+        "Property Crime": 3303.8379519108366
+      }
+    },
+    {
+      "id": "48463",
+      "title": "Uvalde, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2097.301018282089,
+        "Property Crime": 1900.7256150351577
+      }
+    },
+    {
+      "id": "48465",
+      "title": "Val Verde, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3265.1121577169597,
+        "Property Crime": 2077.0337782621004
+      }
+    },
+    {
+      "id": "48467",
+      "title": "Van Zandt, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3794.8406017970065,
+        "Property Crime": 2683.1583239425954
+      }
+    },
+    {
+      "id": "48469",
+      "title": "Victoria, TX",
+      "scores": {
+        "Terror-related Crime": 1333.3333333333335,
+        "Violent Crime": 1751.0034069824208,
+        "Property Crime": 1612.0795368493511
+      }
+    },
+    {
+      "id": "48471",
+      "title": "Walker, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2104.5953268182584,
+        "Property Crime": 2493.662813277059
+      }
+    },
+    {
+      "id": "48473",
+      "title": "Waller, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2268.238471101989,
+        "Property Crime": 2150.8699831800777
+      }
+    },
+    {
+      "id": "48475",
+      "title": "Ward, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2436.6922931325735,
+        "Property Crime": 1712.888607339852
+      }
+    },
+    {
+      "id": "48477",
+      "title": "Washington, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2524.07036840388,
+        "Property Crime": 2352.9784440747662
+      }
+    },
+    {
+      "id": "48479",
+      "title": "Webb, TX",
+      "scores": {
+        "Terror-related Crime": 1308.4646156837011,
+        "Violent Crime": 2007.3513577859203,
+        "Property Crime": 1898.6851351001833
+      }
+    },
+    {
+      "id": "48481",
+      "title": "Wharton, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2157.0416775744684,
+        "Property Crime": 1789.7302445095506
+      }
+    },
+    {
+      "id": "48483",
+      "title": "Wheeler, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3909.6462832789734,
+        "Property Crime": 2662.2262481177677
+      }
+    },
+    {
+      "id": "48485",
+      "title": "Wichita, TX",
+      "scores": {
+        "Terror-related Crime": 1252.9208112782994,
+        "Violent Crime": 1649.9301918772928,
+        "Property Crime": 1175.0411851551803
+      }
+    },
+    {
+      "id": "48487",
+      "title": "Wilbarger, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2540.204960836453,
+        "Property Crime": 1623.2782111798322
+      }
+    },
+    {
+      "id": "48489",
+      "title": "Willacy, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2395.304198819795,
+        "Property Crime": 1731.496285325707
+      }
+    },
+    {
+      "id": "48491",
+      "title": "Williamson, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3037.736691484202,
+        "Property Crime": 2359.6161096645915
+      }
+    },
+    {
+      "id": "48493",
+      "title": "Wilson, TX",
+      "scores": {
+        "Terror-related Crime": 707.0072589748494,
+        "Violent Crime": 3417.7665318332324,
+        "Property Crime": 2712.675419755676
+      }
+    },
+    {
+      "id": "48495",
+      "title": "Winkler, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4467.197912312757,
+        "Property Crime": 2683.4543573906585
+      }
+    },
+    {
+      "id": "48497",
+      "title": "Wise, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3106.5842846583396,
+        "Property Crime": 2687.6235090274668
+      }
+    },
+    {
+      "id": "48499",
+      "title": "Wood, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2773.100456407299,
+        "Property Crime": 2486.43819584926
+      }
+    },
+    {
+      "id": "48501",
+      "title": "Yoakum, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3417.364070245929,
+        "Property Crime": 2602.6616291180694
+      }
+    },
+    {
+      "id": "48503",
+      "title": "Young, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3700.249830523607,
+        "Property Crime": 2632.92452503582
+      }
+    },
+    {
+      "id": "48505",
+      "title": "Zapata, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3411.735897046683,
+        "Property Crime": 2845.0875455824785
+      }
+    },
+    {
+      "id": "48507",
+      "title": "Zavala, TX",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3658.433411543087,
+        "Property Crime": 2407.4929650866848
+      }
+    },
+    {
+      "id": "6001",
+      "title": "Alameda, CA",
+      "scores": {
+        "Terror-related Crime": 1228.6748672943922,
+        "Violent Crime": 1810.335233364966,
+        "Property Crime": 1335.56758297468
+      }
+    },
+    {
+      "id": "6003",
+      "title": "Alpine, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3750.0,
+        "Property Crime": 1450.1657656399952
+      }
+    },
+    {
+      "id": "6005",
+      "title": "Amador, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3303.6417791449153,
+        "Property Crime": 1890.5231100850308
+      }
+    },
+    {
+      "id": "6007",
+      "title": "Butte, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2314.2016447286137,
+        "Property Crime": 1288.7759743805084
+      }
+    },
+    {
+      "id": "6009",
+      "title": "Calaveras, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1760.2801119993755,
+        "Property Crime": 2191.2441208519413
+      }
+    },
+    {
+      "id": "6011",
+      "title": "Colusa, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3354.3608328261826,
+        "Property Crime": 1998.7237743634118
+      }
+    },
+    {
+      "id": "6013",
+      "title": "Contra Costa, CA",
+      "scores": {
+        "Terror-related Crime": 1301.6009825388755,
+        "Violent Crime": 2315.851875805332,
+        "Property Crime": 1737.84707771179
+      }
+    },
+    {
+      "id": "6015",
+      "title": "Del Norte, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2259.5417835969406,
+        "Property Crime": 1478.326210166777
+      }
+    },
+    {
+      "id": "6017",
+      "title": "El Dorado, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2858.8432530235095,
+        "Property Crime": 2177.065602212411
+      }
+    },
+    {
+      "id": "6019",
+      "title": "Fresno, CA",
+      "scores": {
+        "Terror-related Crime": 1042.0309633198083,
+        "Violent Crime": 1794.9715415094367,
+        "Property Crime": 1189.1242880633113
+      }
+    },
+    {
+      "id": "6021",
+      "title": "Glenn, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2361.9469752764517,
+        "Property Crime": 1911.4404130720136
+      }
+    },
+    {
+      "id": "6023",
+      "title": "Humboldt, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1630.1180593361248,
+        "Property Crime": 1422.6076189750067
+      }
+    },
+    {
+      "id": "6025",
+      "title": "Imperial, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2655.3837293494553,
+        "Property Crime": 1457.3841036236142
+      }
+    },
+    {
+      "id": "6027",
+      "title": "Inyo, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1755.6974309673847,
+        "Property Crime": 1903.490379993292
+      }
+    },
+    {
+      "id": "6029",
+      "title": "Kern, CA",
+      "scores": {
+        "Terror-related Crime": 1231.644938264049,
+        "Violent Crime": 1614.1046287306092,
+        "Property Crime": 929.7174346561513
+      }
+    },
+    {
+      "id": "6031",
+      "title": "Kings, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1774.7417740203775,
+        "Property Crime": 1949.9167571375488
+      }
+    },
+    {
+      "id": "6033",
+      "title": "Lake, CA",
+      "scores": {
+        "Terror-related Crime": 894.5520291215249,
+        "Violent Crime": 1698.0269390496837,
+        "Property Crime": 1332.3697548854213
+      }
+    },
+    {
+      "id": "6035",
+      "title": "Lassen, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1991.195205744414,
+        "Property Crime": 2024.952445101194
+      }
+    },
+    {
+      "id": "6037",
+      "title": "Los Angeles, CA",
+      "scores": {
+        "Terror-related Crime": 1258.1976752590224,
+        "Violent Crime": 1810.603715492843,
+        "Property Crime": 1568.29524071851
+      }
+    },
+    {
+      "id": "6039",
+      "title": "Madera, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1920.8186465328047,
+        "Property Crime": 1653.3005794154205
+      }
+    },
+    {
+      "id": "6041",
+      "title": "Marin, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3184.389576409085,
+        "Property Crime": 1986.5446482177038
+      }
+    },
+    {
+      "id": "6043",
+      "title": "Mariposa, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2732.384549249402,
+        "Property Crime": 2414.7682750447602
+      }
+    },
+    {
+      "id": "6045",
+      "title": "Mendocino, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1325.4112072981884,
+        "Property Crime": 2049.6810359816477
+      }
+    },
+    {
+      "id": "6047",
+      "title": "Merced, CA",
+      "scores": {
+        "Terror-related Crime": 1244.225387390562,
+        "Violent Crime": 2263.087408746644,
+        "Property Crime": 1463.1058019194315
+      }
+    },
+    {
+      "id": "6049",
+      "title": "Modoc, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1419.6847328669044,
+        "Property Crime": 1957.7226626697318
+      }
+    },
+    {
+      "id": "6051",
+      "title": "Mono, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1731.8883895979632,
+        "Property Crime": 2581.945291492857
+      }
+    },
+    {
+      "id": "6053",
+      "title": "Monterey, CA",
+      "scores": {
+        "Terror-related Crime": 1264.4128802488203,
+        "Violent Crime": 1655.2789635176186,
+        "Property Crime": 1992.2091910047527
+      }
+    },
+    {
+      "id": "6055",
+      "title": "Napa, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2559.456099987369,
+        "Property Crime": 2069.4108789372845
+      }
+    },
+    {
+      "id": "6057",
+      "title": "Nevada, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2853.4010507389035,
+        "Property Crime": 1955.7127157935947
+      }
+    },
+    {
+      "id": "6059",
+      "title": "Orange, CA",
+      "scores": {
+        "Terror-related Crime": 1463.5615935343412,
+        "Violent Crime": 2839.2918509769825,
+        "Property Crime": 1862.5434204279827
+      }
+    },
+    {
+      "id": "6061",
+      "title": "Placer, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3254.4287952857408,
+        "Property Crime": 2106.435986094765
+      }
+    },
+    {
+      "id": "6063",
+      "title": "Plumas, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1417.093781546807,
+        "Property Crime": 1780.9792117512784
+      }
+    },
+    {
+      "id": "6065",
+      "title": "Riverside, CA",
+      "scores": {
+        "Terror-related Crime": 1318.3513956434185,
+        "Violent Crime": 2466.310442822086,
+        "Property Crime": 1506.9518088001728
+      }
+    },
+    {
+      "id": "6067",
+      "title": "Sacramento, CA",
+      "scores": {
+        "Terror-related Crime": 1261.0951871465065,
+        "Violent Crime": 2040.9729086700308,
+        "Property Crime": 1597.0282322248624
+      }
+    },
+    {
+      "id": "6069",
+      "title": "San Benito, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2702.981747100541,
+        "Property Crime": 2558.925710645343
+      }
+    },
+    {
+      "id": "6071",
+      "title": "San Bernardino, CA",
+      "scores": {
+        "Terror-related Crime": 1010.0041667059204,
+        "Violent Crime": 1927.3204544639327,
+        "Property Crime": 1503.9404413443694
+      }
+    },
+    {
+      "id": "6073",
+      "title": "San Diego, CA",
+      "scores": {
+        "Terror-related Crime": 1356.7095348295388,
+        "Violent Crime": 2380.7193003633215,
+        "Property Crime": 2138.9782343652546
+      }
+    },
+    {
+      "id": "6075",
+      "title": "San Francisco, CA",
+      "scores": {
+        "Terror-related Crime": 1171.0872067541436,
+        "Violent Crime": 1739.1985249548945,
+        "Property Crime": 880.2604643737128
+      }
+    },
+    {
+      "id": "6077",
+      "title": "San Joaquin, CA",
+      "scores": {
+        "Terror-related Crime": 1117.049369715661,
+        "Violent Crime": 1611.6241885651189,
+        "Property Crime": 1335.2980870742397
+      }
+    },
+    {
+      "id": "6079",
+      "title": "San Luis Obispo, CA",
+      "scores": {
+        "Terror-related Crime": 1390.1467386419076,
+        "Violent Crime": 2508.164187559634,
+        "Property Crime": 1919.051447500734
+      }
+    },
+    {
+      "id": "6081",
+      "title": "San Mateo, CA",
+      "scores": {
+        "Terror-related Crime": 1355.4629668376112,
+        "Violent Crime": 2910.2862751166126,
+        "Property Crime": 1956.0382082971475
+      }
+    },
+    {
+      "id": "6083",
+      "title": "Santa Barbara, CA",
+      "scores": {
+        "Terror-related Crime": 902.9558047953401,
+        "Violent Crime": 2197.922787667666,
+        "Property Crime": 1975.4506617664433
+      }
+    },
+    {
+      "id": "6085",
+      "title": "Santa Clara, CA",
+      "scores": {
+        "Terror-related Crime": 1329.7236594921355,
+        "Violent Crime": 2486.1460620751254,
+        "Property Crime": 1847.90167632277
+      }
+    },
+    {
+      "id": "6087",
+      "title": "Santa Cruz, CA",
+      "scores": {
+        "Terror-related Crime": 1416.9123285740188,
+        "Violent Crime": 2338.5107073738263,
+        "Property Crime": 1519.4956428084672
+      }
+    },
+    {
+      "id": "6089",
+      "title": "Shasta, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1366.373338777629,
+        "Property Crime": 1427.235336961987
+      }
+    },
+    {
+      "id": "6091",
+      "title": "Sierra, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3763.132725622097,
+        "Property Crime": 2722.789409296398
+      }
+    },
+    {
+      "id": "6093",
+      "title": "Siskiyou, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2123.1556828044104,
+        "Property Crime": 1757.407209225181
+      }
+    },
+    {
+      "id": "6095",
+      "title": "Solano, CA",
+      "scores": {
+        "Terror-related Crime": 1070.084205582476,
+        "Violent Crime": 1887.006351260133,
+        "Property Crime": 1366.2990466784602
+      }
+    },
+    {
+      "id": "6097",
+      "title": "Sonoma, CA",
+      "scores": {
+        "Terror-related Crime": 1436.5138856527808,
+        "Violent Crime": 2268.2029770681347,
+        "Property Crime": 2357.3414416809633
+      }
+    },
+    {
+      "id": "6099",
+      "title": "Stanislaus, CA",
+      "scores": {
+        "Terror-related Crime": 1177.7908481357092,
+        "Violent Crime": 1745.036255104094,
+        "Property Crime": 1316.1892899149527
+      }
+    },
+    {
+      "id": "6101",
+      "title": "Sutter, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1886.4487833318399,
+        "Property Crime": 1495.746469002649
+      }
+    },
+    {
+      "id": "6103",
+      "title": "Tehama, CA",
+      "scores": {
+        "Terror-related Crime": 877.2822173281195,
+        "Violent Crime": 1783.4063647933451,
+        "Property Crime": 1199.7143602824121
+      }
+    },
+    {
+      "id": "6105",
+      "title": "Trinity, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1475.2990228331303,
+        "Property Crime": 1563.761145156732
+      }
+    },
+    {
+      "id": "6107",
+      "title": "Tulare, CA",
+      "scores": {
+        "Terror-related Crime": 1400.721941101178,
+        "Violent Crime": 2060.4871036379413,
+        "Property Crime": 1659.6093013872417
+      }
+    },
+    {
+      "id": "6109",
+      "title": "Tuolumne, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2154.1637232515077,
+        "Property Crime": 1495.6388980485297
+      }
+    },
+    {
+      "id": "6111",
+      "title": "Ventura, CA",
+      "scores": {
+        "Terror-related Crime": 1225.1004220960244,
+        "Violent Crime": 2484.1553534620866,
+        "Property Crime": 2088.768344643965
+      }
+    },
+    {
+      "id": "6113",
+      "title": "Yolo, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2678.3622399956744,
+        "Property Crime": 1797.683481229438
+      }
+    },
+    {
+      "id": "6115",
+      "title": "Yuba, CA",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2124.2243397994685,
+        "Property Crime": 1612.8356994982937
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Adams, CO",
+      "scores": {
+        "Terror-related Crime": 1346.3622232019811,
+        "Violent Crime": 1846.0298967710785,
+        "Property Crime": 1571.4739100098434
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Alamosa, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3858.2455007786534,
+        "Property Crime": 3154.256103325001
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Arapahoe, CO",
+      "scores": {
+        "Terror-related Crime": 1323.6826114027235,
+        "Violent Crime": 2021.4548955339076,
+        "Property Crime": 1738.507838359464
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Archuleta, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3455.6152426273293,
+        "Property Crime": 2614.7127624333452
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Baca, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4546.9208062691105,
+        "Property Crime": 3055.4013125609986
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Bent, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3543.758643023586,
+        "Property Crime": 1565.0618211679898
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Boulder, CO",
+      "scores": {
+        "Terror-related Crime": 1427.08040353927,
+        "Violent Crime": 2843.6557756352668,
+        "Property Crime": 2082.790394884619
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Broomfield, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4231.521212325176,
+        "Property Crime": 1953.482799721632
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Chaffee, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4366.662408175437,
+        "Property Crime": 2725.932447986551
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Cheyenne, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4554.5750796641105,
+        "Property Crime": 3242.7991353146
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Clear Creek, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1286.6436286229664,
+        "Property Crime": 2480.041253141193
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Conejos, CO",
+      "scores": {
+        "Terror-related Crime": 784.7514039121124,
+        "Violent Crime": 4181.687589201844,
+        "Property Crime": 2107.3259474666497
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Costilla, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4039.8632502955716,
+        "Property Crime": 2691.5435277889283
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Crowley, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2774.9925185098527,
+        "Property Crime": 2183.74554608449
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Custer, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3751.454186603981,
+        "Property Crime": 1902.8467225326071
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Delta, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3713.161124020394,
+        "Property Crime": 2123.611255018942
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Denver, CO",
+      "scores": {
+        "Terror-related Crime": 1110.0313855760237,
+        "Violent Crime": 1326.1352884421312,
+        "Property Crime": 1221.5539670611715
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Dolores, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3724.6061262455128,
+        "Property Crime": 2513.620521152411
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Douglas, CO",
+      "scores": {
+        "Terror-related Crime": 1222.455560501742,
+        "Violent Crime": 3182.9748809601724,
+        "Property Crime": 2742.8122486859716
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Eagle, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3544.0489386611985,
+        "Property Crime": 2821.87662263852
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Elbert, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3163.9532283853523
+      }
+    },
+    {
+      "id": "8041",
+      "title": "El Paso, CO",
+      "scores": {
+        "Terror-related Crime": 1010.3001700763558,
+        "Violent Crime": 1798.4083515128348,
+        "Property Crime": 1629.1310649821369
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Fremont, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3517.1733721632036,
+        "Property Crime": 2391.2898416146186
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Garfield, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2455.6532899039257,
+        "Property Crime": 2502.4317419391996
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Gilpin, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2945.125357787496,
+        "Property Crime": 1572.452907666423
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Grand, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4499.0445803629245,
+        "Property Crime": 3242.7991353146
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Gunnison, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3573.453971615232,
+        "Property Crime": 2967.0424904327488
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Hinsdale, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2634.8163546360142,
+        "Property Crime": 2859.3077573367973
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Huerfano, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2532.681613072126,
+        "Property Crime": 976.5033146282633
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Jackson, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3140.489725258642
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Jefferson, CO",
+      "scores": {
+        "Terror-related Crime": 1397.3168801665827,
+        "Violent Crime": 2516.3134382158696,
+        "Property Crime": 1601.373069085771
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Kiowa, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3242.7991353146
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Kit Carson, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2570.7807642281496,
+        "Property Crime": 2446.6497130025973
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Lake, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2355.4230328508265,
+        "Property Crime": 3010.6293626579363
+      }
+    },
+    {
+      "id": "8067",
+      "title": "La Plata, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2845.4701261404375,
+        "Property Crime": 2302.8719140681187
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Larimer, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2669.3891778460775,
+        "Property Crime": 2241.312384042849
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Las Animas, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3392.916187151309,
+        "Property Crime": 1148.5163885707973
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Lincoln, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4253.943242624483,
+        "Property Crime": 2651.925840765585
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Logan, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2806.172574283182,
+        "Property Crime": 1571.7522990406505
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Mesa, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1849.2045271323725,
+        "Property Crime": 1721.6597663011753
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Mineral, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3242.7991353146
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Moffat, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3230.700968218692,
+        "Property Crime": 2451.4260113520936
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Montezuma, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4051.92165827494,
+        "Property Crime": 2689.2182285033414
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Montrose, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3836.236404131634,
+        "Property Crime": 1787.229914733349
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Morgan, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3133.8448251337377,
+        "Property Crime": 2232.6852479266927
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Otero, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2467.4457470860307,
+        "Property Crime": 1563.3896509682952
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Ouray, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3180.8414388463884
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Park, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3222.941417973371,
+        "Property Crime": 2962.604493604864
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Phillips, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3724.9453669848185,
+        "Property Crime": 3182.5794585349113
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Pitkin, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4168.4282715627805,
+        "Property Crime": 2471.102681922513
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Prowers, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4867.417006459345,
+        "Property Crime": 2522.244937029557
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Pueblo, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1325.1989483157079,
+        "Property Crime": 605.9840890657628
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Rio Blanco, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3910.2393260945128,
+        "Property Crime": 3164.250123227994
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Rio Grande, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3309.593118725052,
+        "Property Crime": 1672.5987249172595
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Routt, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3208.837247030695,
+        "Property Crime": 2779.706557817231
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Saguache, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1839.6097449628207,
+        "Property Crime": 2286.4221321322216
+      }
+    },
+    {
+      "id": "8111",
+      "title": "San Juan, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 2892.247234346797
+      }
+    },
+    {
+      "id": "8113",
+      "title": "San Miguel, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 4084.0166336977254,
+        "Property Crime": 3242.7991353146
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Sedgwick, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 1943.9042270590996,
+        "Property Crime": 3242.7991353146
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Summit, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2994.5021518627686,
+        "Property Crime": 2149.348459565901
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Teller, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3453.838649813686,
+        "Property Crime": 2760.902524195533
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Washington, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 3557.6539780004064,
+        "Property Crime": 2143.8722683989877
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Weld, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 2672.040740970377,
+        "Property Crime": 2105.294214826626
+      }
+    },
+    {
+      "id": "8125",
+      "title": "Yuma, CO",
+      "scores": {
+        "Terror-related Crime": 1500.0,
+        "Violent Crime": 5000.0,
+        "Property Crime": 3242.7991353146
+      }
+    }
+  ],
+  "derivatives": {
+    "Safety and Security": [
+      "Terror-related Crime",
+      "Violent Crime",
+      "Property Crime"
+    ]
+  },
+  "weightingOptions": {
+    "Terror-related Crime": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Violent Crime": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Property Crime": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

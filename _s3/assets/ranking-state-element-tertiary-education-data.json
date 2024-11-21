@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "College enrollment": 273469,
+        "College graduation rate": 75324,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 309693
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "College enrollment": 338775,
+        "College graduation rate": 394805,
+        "University quality for enrolled students": 90977,
+        "Community college graduation rate": 84183
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "College enrollment": 438775,
+        "College graduation rate": 329870,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 118367
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "College enrollment": 281632,
+        "College graduation rate": 184415,
+        "University quality for enrolled students": 320083,
+        "Community college graduation rate": 114285
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "College enrollment": 459183,
+        "College graduation rate": 525974,
+        "University quality for enrolled students": 275853,
+        "Community college graduation rate": 144897
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "College enrollment": 420408,
+        "College graduation rate": 351948,
+        "University quality for enrolled students": 327392,
+        "Community college graduation rate": 264795
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "College enrollment": 551020,
+        "College graduation rate": 588311,
+        "University quality for enrolled students": 189854,
+        "Community college graduation rate": 75510
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "College enrollment": 216326,
+        "College graduation rate": 659740,
+        "University quality for enrolled students": 385067,
+        "Community college graduation rate": 325510
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "College enrollment": 322448,
+        "College graduation rate": 376623,
+        "University quality for enrolled students": 292252,
+        "Community college graduation rate": 246938
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "College enrollment": 251020,
+        "College graduation rate": 350649,
+        "University quality for enrolled students": 184112,
+        "Community college graduation rate": 249489
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "College enrollment": 395918,
+        "College graduation rate": 276623,
+        "University quality for enrolled students": 229997,
+        "Community college graduation rate": 151020
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "College enrollment": 320408,
+        "College graduation rate": 336363,
+        "University quality for enrolled students": 490448,
+        "Community college graduation rate": 79081
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "College enrollment": 355102,
+        "College graduation rate": 570129,
+        "University quality for enrolled students": 188436,
+        "Community college graduation rate": 137755
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "College enrollment": 408163,
+        "College graduation rate": 311688,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 115816
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "College enrollment": 277551,
+        "College graduation rate": 505194,
+        "University quality for enrolled students": 272971,
+        "Community college graduation rate": 120918
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "College enrollment": 206122,
+        "College graduation rate": 485714,
+        "University quality for enrolled students": 547643,
+        "Community college graduation rate": 109183
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "College enrollment": 587755,
+        "College graduation rate": 379220,
+        "University quality for enrolled students": 119271,
+        "Community college graduation rate": 134183
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "College enrollment": 432653,
+        "College graduation rate": 354545,
+        "University quality for enrolled students": 76251,
+        "Community college graduation rate": 127040
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "College enrollment": 369387,
+        "College graduation rate": 372727,
+        "University quality for enrolled students": 102593,
+        "Community college graduation rate": 78061
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "College enrollment": 418367,
+        "College graduation rate": 655844,
+        "University quality for enrolled students": 465485,
+        "Community college graduation rate": 61734
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "College enrollment": 304081,
+        "College graduation rate": 597402,
+        "University quality for enrolled students": 271970,
+        "Community college graduation rate": 78571
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "College enrollment": 346938,
+        "College graduation rate": 455844,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 89285
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "College enrollment": 128571,
+        "College graduation rate": 433766,
+        "University quality for enrolled students": 446821,
+        "Community college graduation rate": 53571
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "College enrollment": 412244,
+        "College graduation rate": 541558,
+        "University quality for enrolled students": 221066,
+        "Community college graduation rate": 114795
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "College enrollment": 493877,
+        "College graduation rate": 433766,
+        "University quality for enrolled students": 194809,
+        "Community college graduation rate": 105102
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "College enrollment": 291836,
+        "College graduation rate": 385714,
+        "University quality for enrolled students": 48702,
+        "Community college graduation rate": 138265
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "College enrollment": 308163,
+        "College graduation rate": 298701,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 109693
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "College enrollment": 373469,
+        "College graduation rate": 511688,
+        "University quality for enrolled students": 301640,
+        "Community college graduation rate": 106122
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "College enrollment": 253061,
+        "College graduation rate": 389610,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 176530
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "College enrollment": 332653,
+        "College graduation rate": 440259,
+        "University quality for enrolled students": 171383,
+        "Community college graduation rate": 133163
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "College enrollment": 367346,
+        "College graduation rate": 516883,
+        "University quality for enrolled students": 98763,
+        "Community college graduation rate": 104591
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "College enrollment": 389795,
+        "College graduation rate": 580519,
+        "University quality for enrolled students": 286335,
+        "Community college graduation rate": 98469
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "College enrollment": 467346,
+        "College graduation rate": 279220,
+        "University quality for enrolled students": 180739,
+        "Community college graduation rate": 84183
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "College enrollment": 222448,
+        "College graduation rate": 220779,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 259693
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "College enrollment": 271428,
+        "College graduation rate": 524675,
+        "University quality for enrolled students": 361874,
+        "Community college graduation rate": 115816
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "College enrollment": 255102,
+        "College graduation rate": 415584,
+        "University quality for enrolled students": 364502,
+        "Community college graduation rate": 142346
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "College enrollment": 569387,
+        "College graduation rate": 322077,
+        "University quality for enrolled students": 120162,
+        "Community college graduation rate": 141326
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "College enrollment": 397959,
+        "College graduation rate": 512987,
+        "University quality for enrolled students": 175215,
+        "Community college graduation rate": 91326
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "College enrollment": 230612,
+        "College graduation rate": 567532,
+        "University quality for enrolled students": 552078,
+        "Community college graduation rate": 130102
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "College enrollment": 248979,
+        "College graduation rate": 616883,
+        "University quality for enrolled students": 226153,
+        "Community college graduation rate": 64285
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "College enrollment": 234693,
+        "College graduation rate": 438961,
+        "University quality for enrolled students": 161003,
+        "Community college graduation rate": 57142
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "College enrollment": 228571,
+        "College graduation rate": 348051,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 282653
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "College enrollment": 238775,
+        "College graduation rate": 402597,
+        "University quality for enrolled students": 116294,
+        "Community college graduation rate": 157653
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "College enrollment": 261224,
+        "College graduation rate": 358441,
+        "University quality for enrolled students": 198151,
+        "Community college graduation rate": 108673
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "College enrollment": 300000,
+        "College graduation rate": 293506,
+        "University quality for enrolled students": 165439,
+        "Community college graduation rate": 103061
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "College enrollment": 381632,
+        "College graduation rate": 551948,
+        "University quality for enrolled students": 255264,
+        "Community college graduation rate": 116836
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "College enrollment": 591836,
+        "College graduation rate": 580519,
+        "University quality for enrolled students": 230854,
+        "Community college graduation rate": 27551
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "College enrollment": 200000,
+        "College graduation rate": 424675,
+        "University quality for enrolled students": 478537,
+        "Community college graduation rate": 204081
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "College enrollment": 353061,
+        "College graduation rate": 502597,
+        "University quality for enrolled students": 246484,
+        "Community college graduation rate": 149999
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "College enrollment": 263265,
+        "College graduation rate": 288311,
+        "University quality for enrolled students": 0,
+        "Community college graduation rate": 140816
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "College enrollment": 300000,
+        "College graduation rate": 451948,
+        "University quality for enrolled students": 132393,
+        "Community college graduation rate": 169387
+      }
+    }
+  ],
+  "derivatives": {
+    "Tertiary Education": [
+      "College enrollment",
+      "College graduation rate",
+      "University quality for enrolled students",
+      "Community college graduation rate"
+    ]
+  },
+  "weightingOptions": {
+    "College enrollment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "College graduation rate": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "University quality for enrolled students": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Community college graduation rate": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

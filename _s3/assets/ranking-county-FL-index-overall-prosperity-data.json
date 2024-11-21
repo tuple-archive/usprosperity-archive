@@ -1,0 +1,1452 @@
+{
+  "regions": [
+    {
+      "id": "Alachua__FL",
+      "title": "Alachua",
+      "scores": {
+        "Safety and Security": 4837524,
+        "Personal Freedom": 6206746,
+        "Governance": 5544630,
+        "Social Capital": 5275105,
+        "Business Environment": 5946104,
+        "Infrastructure": 7365695,
+        "Economic Quality": 6432038,
+        "Living Conditions": 5832872,
+        "Health": 5434909,
+        "Education": 6543545,
+        "Natural Environment": 5708744
+      }
+    },
+    {
+      "id": "Baker__FL",
+      "title": "Baker",
+      "scores": {
+        "Safety and Security": 6184714,
+        "Personal Freedom": 6210044,
+        "Governance": 5544630,
+        "Social Capital": 4697972,
+        "Business Environment": 4950100,
+        "Infrastructure": 7293734,
+        "Economic Quality": 6047382,
+        "Living Conditions": 6813314,
+        "Health": 4789861,
+        "Education": 4934336,
+        "Natural Environment": 5906894
+      }
+    },
+    {
+      "id": "Bay__FL",
+      "title": "Bay",
+      "scores": {
+        "Safety and Security": 4576681,
+        "Personal Freedom": 6294959,
+        "Governance": 5544630,
+        "Social Capital": 4733736,
+        "Business Environment": 5558025,
+        "Infrastructure": 7668324,
+        "Economic Quality": 7026985,
+        "Living Conditions": 6986262,
+        "Health": 4336942,
+        "Education": 5492669,
+        "Natural Environment": 5362583
+      }
+    },
+    {
+      "id": "Bradford__FL",
+      "title": "Bradford",
+      "scores": {
+        "Safety and Security": 5700030,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4580658,
+        "Business Environment": 4807598,
+        "Infrastructure": 6736035,
+        "Economic Quality": 6032737,
+        "Living Conditions": 6273188,
+        "Health": 4415064,
+        "Education": 4150722,
+        "Natural Environment": 5773517
+      }
+    },
+    {
+      "id": "Brevard__FL",
+      "title": "Brevard",
+      "scores": {
+        "Safety and Security": 4984766,
+        "Personal Freedom": 6254606,
+        "Governance": 5544630,
+        "Social Capital": 3709600,
+        "Business Environment": 5698391,
+        "Infrastructure": 7994451,
+        "Economic Quality": 6965808,
+        "Living Conditions": 6745131,
+        "Health": 5191365,
+        "Education": 6128277,
+        "Natural Environment": 5777567
+      }
+    },
+    {
+      "id": "Broward__FL",
+      "title": "Broward",
+      "scores": {
+        "Safety and Security": 4612449,
+        "Personal Freedom": 5992472,
+        "Governance": 5544630,
+        "Social Capital": 4830395,
+        "Business Environment": 6604133,
+        "Infrastructure": 8816514,
+        "Economic Quality": 6721480,
+        "Living Conditions": 7138683,
+        "Health": 6301132,
+        "Education": 6039940,
+        "Natural Environment": 5562148
+      }
+    },
+    {
+      "id": "Calhoun__FL",
+      "title": "Calhoun",
+      "scores": {
+        "Safety and Security": 7330075,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4798870,
+        "Business Environment": 4894749,
+        "Infrastructure": 3647105,
+        "Economic Quality": 6225856,
+        "Living Conditions": 6333831,
+        "Health": 4579385,
+        "Education": 5086080,
+        "Natural Environment": 6155216
+      }
+    },
+    {
+      "id": "Charlotte__FL",
+      "title": "Charlotte",
+      "scores": {
+        "Safety and Security": 6674051,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 6536178,
+        "Business Environment": 5408349,
+        "Infrastructure": 7546510,
+        "Economic Quality": 6306659,
+        "Living Conditions": 6669522,
+        "Health": 5458425,
+        "Education": 5799089,
+        "Natural Environment": 6420349
+      }
+    },
+    {
+      "id": "Citrus__FL",
+      "title": "Citrus",
+      "scores": {
+        "Safety and Security": 6368447,
+        "Personal Freedom": 6214823,
+        "Governance": 5544630,
+        "Social Capital": 4618321,
+        "Business Environment": 5253899,
+        "Infrastructure": 7393573,
+        "Economic Quality": 5589828,
+        "Living Conditions": 6751755,
+        "Health": 4740519,
+        "Education": 5652147,
+        "Natural Environment": 4470285
+      }
+    },
+    {
+      "id": "Clay__FL",
+      "title": "Clay",
+      "scores": {
+        "Safety and Security": 5818244,
+        "Personal Freedom": 6210044,
+        "Governance": 5544630,
+        "Social Capital": 4838014,
+        "Business Environment": 5200859,
+        "Infrastructure": 7855818,
+        "Economic Quality": 6210870,
+        "Living Conditions": 7334057,
+        "Health": 5358436,
+        "Education": 5908218,
+        "Natural Environment": 5972644
+      }
+    },
+    {
+      "id": "Collier__FL",
+      "title": "Collier",
+      "scores": {
+        "Safety and Security": 6620997,
+        "Personal Freedom": 6246021,
+        "Governance": 5544630,
+        "Social Capital": 5528054,
+        "Business Environment": 5871049,
+        "Infrastructure": 7900739,
+        "Economic Quality": 6114539,
+        "Living Conditions": 7305631,
+        "Health": 6138731,
+        "Education": 6085532,
+        "Natural Environment": 5989789
+      }
+    },
+    {
+      "id": "Columbia__FL",
+      "title": "Columbia",
+      "scores": {
+        "Safety and Security": 4820448,
+        "Personal Freedom": 6174641,
+        "Governance": 5544630,
+        "Social Capital": 4643454,
+        "Business Environment": 5139620,
+        "Infrastructure": 7238820,
+        "Economic Quality": 6665459,
+        "Living Conditions": 6332666,
+        "Health": 4292306,
+        "Education": 4982060,
+        "Natural Environment": 5960110
+      }
+    },
+    {
+      "id": "De_Soto__FL",
+      "title": "De Soto",
+      "scores": {
+        "Safety and Security": 4874388,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4607323,
+        "Business Environment": 5346096,
+        "Infrastructure": 5634806,
+        "Economic Quality": 6777211,
+        "Living Conditions": 5988107,
+        "Health": 4968940,
+        "Education": 3322300,
+        "Natural Environment": 5991191
+      }
+    },
+    {
+      "id": "Dixie__FL",
+      "title": "Dixie",
+      "scores": {
+        "Safety and Security": 4714738,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4645492,
+        "Business Environment": 4102274,
+        "Infrastructure": 5805342,
+        "Economic Quality": 6342880,
+        "Living Conditions": 4919207,
+        "Health": 4204739,
+        "Education": 4715559,
+        "Natural Environment": 6152664
+      }
+    },
+    {
+      "id": "Duval__FL",
+      "title": "Duval",
+      "scores": {
+        "Safety and Security": 3680285,
+        "Personal Freedom": 5597352,
+        "Governance": 5544630,
+        "Social Capital": 4668155,
+        "Business Environment": 6695605,
+        "Infrastructure": 8425236,
+        "Economic Quality": 6416058,
+        "Living Conditions": 6995807,
+        "Health": 5040487,
+        "Education": 5606837,
+        "Natural Environment": 4473042
+      }
+    },
+    {
+      "id": "Escambia__FL",
+      "title": "Escambia",
+      "scores": {
+        "Safety and Security": 3558624,
+        "Personal Freedom": 6241328,
+        "Governance": 5544630,
+        "Social Capital": 4078464,
+        "Business Environment": 6005406,
+        "Infrastructure": 7354121,
+        "Economic Quality": 6071426,
+        "Living Conditions": 6906485,
+        "Health": 4732654,
+        "Education": 5355417,
+        "Natural Environment": 4365456
+      }
+    },
+    {
+      "id": "Flagler__FL",
+      "title": "Flagler",
+      "scores": {
+        "Safety and Security": 6948999,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4533296,
+        "Business Environment": 5304178,
+        "Infrastructure": 7771042,
+        "Economic Quality": 6344914,
+        "Living Conditions": 6468079,
+        "Health": 5408660,
+        "Education": 5869599,
+        "Natural Environment": 6288260
+      }
+    },
+    {
+      "id": "Franklin__FL",
+      "title": "Franklin",
+      "scores": {
+        "Safety and Security": 7473614,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 5003496,
+        "Business Environment": 5187487,
+        "Infrastructure": 7681241,
+        "Economic Quality": 6215600,
+        "Living Conditions": 5651253,
+        "Health": 4516728,
+        "Education": 4211127,
+        "Natural Environment": 5275337
+      }
+    },
+    {
+      "id": "Gadsden__FL",
+      "title": "Gadsden",
+      "scores": {
+        "Safety and Security": 5736328,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4432771,
+        "Business Environment": 4727586,
+        "Infrastructure": 6414671,
+        "Economic Quality": 5755986,
+        "Living Conditions": 5543195,
+        "Health": 4405541,
+        "Education": 4596767,
+        "Natural Environment": 5500718
+      }
+    },
+    {
+      "id": "Gilchrist__FL",
+      "title": "Gilchrist",
+      "scores": {
+        "Safety and Security": 9375689,
+        "Personal Freedom": 6241862,
+        "Governance": 5544630,
+        "Social Capital": 5107371,
+        "Business Environment": 4765785,
+        "Infrastructure": 6343026,
+        "Economic Quality": 5789017,
+        "Living Conditions": 5843547,
+        "Health": 4641549,
+        "Education": 5322543,
+        "Natural Environment": 6122225
+      }
+    },
+    {
+      "id": "Glades__FL",
+      "title": "Glades",
+      "scores": {
+        "Safety and Security": 7331629,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4781011,
+        "Business Environment": 4091400,
+        "Infrastructure": 5788217,
+        "Economic Quality": 5580921,
+        "Living Conditions": 5474303,
+        "Health": 4671116,
+        "Education": 4372809,
+        "Natural Environment": 5328305
+      }
+    },
+    {
+      "id": "Gulf__FL",
+      "title": "Gulf",
+      "scores": {
+        "Safety and Security": 6310477,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4762883,
+        "Business Environment": 5089227,
+        "Infrastructure": 7653349,
+        "Economic Quality": 6131744,
+        "Living Conditions": 6232581,
+        "Health": 4805171,
+        "Education": 4983225,
+        "Natural Environment": 6240452
+      }
+    },
+    {
+      "id": "Hamilton__FL",
+      "title": "Hamilton",
+      "scores": {
+        "Safety and Security": 6251100,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4544013,
+        "Business Environment": 4692678,
+        "Infrastructure": 6440278,
+        "Economic Quality": 6510350,
+        "Living Conditions": 5295458,
+        "Health": 4181407,
+        "Education": 3418679,
+        "Natural Environment": 4689383
+      }
+    },
+    {
+      "id": "Hardee__FL",
+      "title": "Hardee",
+      "scores": {
+        "Safety and Security": 5942569,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4754607,
+        "Business Environment": 5133911,
+        "Infrastructure": 5773807,
+        "Economic Quality": 6823575,
+        "Living Conditions": 5854368,
+        "Health": 4725176,
+        "Education": 4464725,
+        "Natural Environment": 5361508
+      }
+    },
+    {
+      "id": "Hendry__FL",
+      "title": "Hendry",
+      "scores": {
+        "Safety and Security": 4604422,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4499473,
+        "Business Environment": 4984175,
+        "Infrastructure": 6753369,
+        "Economic Quality": 7094658,
+        "Living Conditions": 4570200,
+        "Health": 4806296,
+        "Education": 3648459,
+        "Natural Environment": 4527577
+      }
+    },
+    {
+      "id": "Hernando__FL",
+      "title": "Hernando",
+      "scores": {
+        "Safety and Security": 5919253,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4795963,
+        "Business Environment": 5277954,
+        "Infrastructure": 7374984,
+        "Economic Quality": 6022647,
+        "Living Conditions": 6802528,
+        "Health": 5008257,
+        "Education": 5310317,
+        "Natural Environment": 5838271
+      }
+    },
+    {
+      "id": "Highlands__FL",
+      "title": "Highlands",
+      "scores": {
+        "Safety and Security": 5144870,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4720189,
+        "Business Environment": 5064194,
+        "Infrastructure": 5892031,
+        "Economic Quality": 5696947,
+        "Living Conditions": 5835412,
+        "Health": 4847012,
+        "Education": 4831398,
+        "Natural Environment": 5831346
+      }
+    },
+    {
+      "id": "Hillsborough__FL",
+      "title": "Hillsborough",
+      "scores": {
+        "Safety and Security": 5397120,
+        "Personal Freedom": 5863301,
+        "Governance": 5544630,
+        "Social Capital": 4824384,
+        "Business Environment": 6786899,
+        "Infrastructure": 7859215,
+        "Economic Quality": 6915991,
+        "Living Conditions": 6472307,
+        "Health": 5639059,
+        "Education": 5751904,
+        "Natural Environment": 4933571
+      }
+    },
+    {
+      "id": "Holmes__FL",
+      "title": "Holmes",
+      "scores": {
+        "Safety and Security": 6409743,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4723362,
+        "Business Environment": 5177441,
+        "Infrastructure": 5950382,
+        "Economic Quality": 5990738,
+        "Living Conditions": 5852850,
+        "Health": 4206463,
+        "Education": 4586674,
+        "Natural Environment": 5969035
+      }
+    },
+    {
+      "id": "Indian_River__FL",
+      "title": "Indian River",
+      "scores": {
+        "Safety and Security": 6250278,
+        "Personal Freedom": 6217717,
+        "Governance": 5544630,
+        "Social Capital": 4908929,
+        "Business Environment": 5706449,
+        "Infrastructure": 7811383,
+        "Economic Quality": 6638825,
+        "Living Conditions": 7131846,
+        "Health": 5601697,
+        "Education": 5662921,
+        "Natural Environment": 5936177
+      }
+    },
+    {
+      "id": "Jackson__FL",
+      "title": "Jackson",
+      "scores": {
+        "Safety and Security": 5800533,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4634512,
+        "Business Environment": 5083470,
+        "Infrastructure": 5838261,
+        "Economic Quality": 6484169,
+        "Living Conditions": 5563707,
+        "Health": 4348227,
+        "Education": 4809010,
+        "Natural Environment": 5603664
+      }
+    },
+    {
+      "id": "Jefferson__FL",
+      "title": "Jefferson",
+      "scores": {
+        "Safety and Security": 4734642,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4849401,
+        "Business Environment": 4795465,
+        "Infrastructure": 5380761,
+        "Economic Quality": 5962933,
+        "Living Conditions": 5930559,
+        "Health": 5047692,
+        "Education": 4102987,
+        "Natural Environment": 5405075
+      }
+    },
+    {
+      "id": "Lafayette__FL",
+      "title": "Lafayette",
+      "scores": {
+        "Safety and Security": 7974540,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 5122450,
+        "Business Environment": 4101900,
+        "Infrastructure": 6223825,
+        "Economic Quality": 5977569,
+        "Living Conditions": 6176572,
+        "Health": 4332659,
+        "Education": 4998935,
+        "Natural Environment": 6069008
+      }
+    },
+    {
+      "id": "Lake__FL",
+      "title": "Lake",
+      "scores": {
+        "Safety and Security": 5854046,
+        "Personal Freedom": 6244916,
+        "Governance": 5544630,
+        "Social Capital": 4793428,
+        "Business Environment": 5362462,
+        "Infrastructure": 7456114,
+        "Economic Quality": 6539796,
+        "Living Conditions": 6915292,
+        "Health": 5217923,
+        "Education": 5465136,
+        "Natural Environment": 6089343
+      }
+    },
+    {
+      "id": "Lee__FL",
+      "title": "Lee",
+      "scores": {
+        "Safety and Security": 5656322,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4755822,
+        "Business Environment": 5941086,
+        "Infrastructure": 8076154,
+        "Economic Quality": 6138796,
+        "Living Conditions": 7053744,
+        "Health": 5713711,
+        "Education": 5671034,
+        "Natural Environment": 6070859
+      }
+    },
+    {
+      "id": "Leon__FL",
+      "title": "Leon",
+      "scores": {
+        "Safety and Security": 3229545,
+        "Personal Freedom": 5547290,
+        "Governance": 5544630,
+        "Social Capital": 4683359,
+        "Business Environment": 5955855,
+        "Infrastructure": 7367808,
+        "Economic Quality": 6539553,
+        "Living Conditions": 6795884,
+        "Health": 5576344,
+        "Education": 6962375,
+        "Natural Environment": 6179933
+      }
+    },
+    {
+      "id": "Levy__FL",
+      "title": "Levy",
+      "scores": {
+        "Safety and Security": 5164479,
+        "Personal Freedom": 6241862,
+        "Governance": 5544630,
+        "Social Capital": 5252883,
+        "Business Environment": 5007530,
+        "Infrastructure": 5727403,
+        "Economic Quality": 6247408,
+        "Living Conditions": 4388501,
+        "Health": 4533510,
+        "Education": 4800931,
+        "Natural Environment": 5916521
+      }
+    },
+    {
+      "id": "Liberty__FL",
+      "title": "Liberty",
+      "scores": {
+        "Safety and Security": 8148908,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4544711,
+        "Business Environment": 4091292,
+        "Infrastructure": 3476710,
+        "Economic Quality": 6447448,
+        "Living Conditions": 6208402,
+        "Health": 4381989,
+        "Education": 4656582,
+        "Natural Environment": 5455720
+      }
+    },
+    {
+      "id": "Madison__FL",
+      "title": "Madison",
+      "scores": {
+        "Safety and Security": 3880160,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4609259,
+        "Business Environment": 4948600,
+        "Infrastructure": 6111107,
+        "Economic Quality": 6164120,
+        "Living Conditions": 5554861,
+        "Health": 4195052,
+        "Education": 4271356,
+        "Natural Environment": 5749195
+      }
+    },
+    {
+      "id": "Manatee__FL",
+      "title": "Manatee",
+      "scores": {
+        "Safety and Security": 5323780,
+        "Personal Freedom": 6226930,
+        "Governance": 5544630,
+        "Social Capital": 4764722,
+        "Business Environment": 5613235,
+        "Infrastructure": 7733929,
+        "Economic Quality": 6464943,
+        "Living Conditions": 6815891,
+        "Health": 5927854,
+        "Education": 5792838,
+        "Natural Environment": 5588980
+      }
+    },
+    {
+      "id": "Marion__FL",
+      "title": "Marion",
+      "scores": {
+        "Safety and Security": 5001699,
+        "Personal Freedom": 6244816,
+        "Governance": 5544630,
+        "Social Capital": 4536478,
+        "Business Environment": 5378899,
+        "Infrastructure": 7149619,
+        "Economic Quality": 6342866,
+        "Living Conditions": 5747643,
+        "Health": 4765124,
+        "Education": 5096213,
+        "Natural Environment": 6068291
+      }
+    },
+    {
+      "id": "Martin__FL",
+      "title": "Martin",
+      "scores": {
+        "Safety and Security": 6036031,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 5088737,
+        "Business Environment": 5823702,
+        "Infrastructure": 7684097,
+        "Economic Quality": 7173241,
+        "Living Conditions": 6641205,
+        "Health": 6057414,
+        "Education": 6321399,
+        "Natural Environment": 5560520
+      }
+    },
+    {
+      "id": "Miami-Dade__FL",
+      "title": "Miami-Dade",
+      "scores": {
+        "Safety and Security": 4355969,
+        "Personal Freedom": 6285802,
+        "Governance": 5544630,
+        "Social Capital": 4824625,
+        "Business Environment": 6583113,
+        "Infrastructure": 8731390,
+        "Economic Quality": 6528501,
+        "Living Conditions": 6994382,
+        "Health": 6463676,
+        "Education": 5797035,
+        "Natural Environment": 5844184
+      }
+    },
+    {
+      "id": "Monroe__FL",
+      "title": "Monroe",
+      "scores": {
+        "Safety and Security": 5191057,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 5094229,
+        "Business Environment": 5490423,
+        "Infrastructure": 7311955,
+        "Economic Quality": 6876686,
+        "Living Conditions": 6842196,
+        "Health": 5830801,
+        "Education": 5951583,
+        "Natural Environment": 5856211
+      }
+    },
+    {
+      "id": "Nassau__FL",
+      "title": "Nassau",
+      "scores": {
+        "Safety and Security": 5697203,
+        "Personal Freedom": 6210044,
+        "Governance": 5544630,
+        "Social Capital": 4980017,
+        "Business Environment": 5128287,
+        "Infrastructure": 7923290,
+        "Economic Quality": 6573989,
+        "Living Conditions": 7253072,
+        "Health": 5476500,
+        "Education": 6297477,
+        "Natural Environment": 4655363
+      }
+    },
+    {
+      "id": "Okaloosa__FL",
+      "title": "Okaloosa",
+      "scores": {
+        "Safety and Security": 5242112,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4885541,
+        "Business Environment": 5704757,
+        "Infrastructure": 6798854,
+        "Economic Quality": 7302513,
+        "Living Conditions": 7353041,
+        "Health": 5228002,
+        "Education": 6104569,
+        "Natural Environment": 5959397
+      }
+    },
+    {
+      "id": "Okeechobee__FL",
+      "title": "Okeechobee",
+      "scores": {
+        "Safety and Security": 4401006,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4706073,
+        "Business Environment": 5328768,
+        "Infrastructure": 6907755,
+        "Economic Quality": 6597458,
+        "Living Conditions": 5477060,
+        "Health": 4466497,
+        "Education": 3968979,
+        "Natural Environment": 5537278
+      }
+    },
+    {
+      "id": "Orange__FL",
+      "title": "Orange",
+      "scores": {
+        "Safety and Security": 3120933,
+        "Personal Freedom": 6237614,
+        "Governance": 5544630,
+        "Social Capital": 4850903,
+        "Business Environment": 6513857,
+        "Infrastructure": 8913788,
+        "Economic Quality": 6926630,
+        "Living Conditions": 6599549,
+        "Health": 5905636,
+        "Education": 5974550,
+        "Natural Environment": 5434836
+      }
+    },
+    {
+      "id": "Osceola__FL",
+      "title": "Osceola",
+      "scores": {
+        "Safety and Security": 5232383,
+        "Personal Freedom": 6245464,
+        "Governance": 5544630,
+        "Social Capital": 4749739,
+        "Business Environment": 4986479,
+        "Infrastructure": 8047914,
+        "Economic Quality": 6407984,
+        "Living Conditions": 6306322,
+        "Health": 5514573,
+        "Education": 5307672,
+        "Natural Environment": 5698536
+      }
+    },
+    {
+      "id": "Palm_Beach__FL",
+      "title": "Palm Beach",
+      "scores": {
+        "Safety and Security": 4505304,
+        "Personal Freedom": 6265504,
+        "Governance": 5544630,
+        "Social Capital": 4900121,
+        "Business Environment": 6421937,
+        "Infrastructure": 8360916,
+        "Economic Quality": 6972038,
+        "Living Conditions": 6566949,
+        "Health": 6233597,
+        "Education": 6312848,
+        "Natural Environment": 5492055
+      }
+    },
+    {
+      "id": "Pasco__FL",
+      "title": "Pasco",
+      "scores": {
+        "Safety and Security": 5765302,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4851418,
+        "Business Environment": 5388165,
+        "Infrastructure": 7475139,
+        "Economic Quality": 6338432,
+        "Living Conditions": 6345073,
+        "Health": 5192314,
+        "Education": 5583889,
+        "Natural Environment": 5897619
+      }
+    },
+    {
+      "id": "Pinellas__FL",
+      "title": "Pinellas",
+      "scores": {
+        "Safety and Security": 4856026,
+        "Personal Freedom": 5729245,
+        "Governance": 5544630,
+        "Social Capital": 4880778,
+        "Business Environment": 7100587,
+        "Infrastructure": 7940723,
+        "Economic Quality": 7127809,
+        "Living Conditions": 7137177,
+        "Health": 5535984,
+        "Education": 5809149,
+        "Natural Environment": 5423961
+      }
+    },
+    {
+      "id": "Polk__FL",
+      "title": "Polk",
+      "scores": {
+        "Safety and Security": 5040422,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4669974,
+        "Business Environment": 5642025,
+        "Infrastructure": 7116887,
+        "Economic Quality": 6472566,
+        "Living Conditions": 6315150,
+        "Health": 4869984,
+        "Education": 4902799,
+        "Natural Environment": 5040785
+      }
+    },
+    {
+      "id": "Putnam__FL",
+      "title": "Putnam",
+      "scores": {
+        "Safety and Security": 4434056,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4538313,
+        "Business Environment": 4968959,
+        "Infrastructure": 7067138,
+        "Economic Quality": 6129540,
+        "Living Conditions": 4823910,
+        "Health": 3576929,
+        "Education": 4332016,
+        "Natural Environment": 4297278
+      }
+    },
+    {
+      "id": "Santa_Rosa__FL",
+      "title": "Santa Rosa",
+      "scores": {
+        "Safety and Security": 6554964,
+        "Personal Freedom": 6223523,
+        "Governance": 5544630,
+        "Social Capital": 4286305,
+        "Business Environment": 5134741,
+        "Infrastructure": 8840843,
+        "Economic Quality": 6095937,
+        "Living Conditions": 7581240,
+        "Health": 4963906,
+        "Education": 6136981,
+        "Natural Environment": 5522862
+      }
+    },
+    {
+      "id": "Sarasota__FL",
+      "title": "Sarasota",
+      "scores": {
+        "Safety and Security": 6387302,
+        "Personal Freedom": 6248631,
+        "Governance": 5544630,
+        "Social Capital": 4908405,
+        "Business Environment": 6387651,
+        "Infrastructure": 7649627,
+        "Economic Quality": 6088690,
+        "Living Conditions": 6828921,
+        "Health": 6245754,
+        "Education": 6443130,
+        "Natural Environment": 6365079
+      }
+    },
+    {
+      "id": "Seminole__FL",
+      "title": "Seminole",
+      "scores": {
+        "Safety and Security": 5155221,
+        "Personal Freedom": 6217000,
+        "Governance": 5544630,
+        "Social Capital": 4950958,
+        "Business Environment": 6746830,
+        "Infrastructure": 8626660,
+        "Economic Quality": 7145124,
+        "Living Conditions": 6984018,
+        "Health": 5938405,
+        "Education": 6799868,
+        "Natural Environment": 5947038
+      }
+    },
+    {
+      "id": "St_Johns__FL",
+      "title": "St Johns",
+      "scores": {
+        "Safety and Security": 6772874,
+        "Personal Freedom": 6210044,
+        "Governance": 5544630,
+        "Social Capital": 5059917,
+        "Business Environment": 5881534,
+        "Infrastructure": 7995784,
+        "Economic Quality": 6536941,
+        "Living Conditions": 7825083,
+        "Health": 6398695,
+        "Education": 7336571,
+        "Natural Environment": 6190721
+      }
+    },
+    {
+      "id": "St_Lucie__FL",
+      "title": "St Lucie",
+      "scores": {
+        "Safety and Security": 5731758,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4762176,
+        "Business Environment": 5187423,
+        "Infrastructure": 7681863,
+        "Economic Quality": 6312727,
+        "Living Conditions": 6537929,
+        "Health": 5460245,
+        "Education": 5186141,
+        "Natural Environment": 5370029
+      }
+    },
+    {
+      "id": "Sumter__FL",
+      "title": "Sumter",
+      "scores": {
+        "Safety and Security": 7382664,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4761004,
+        "Business Environment": 5295375,
+        "Infrastructure": 7368707,
+        "Economic Quality": 5985759,
+        "Living Conditions": 6610470,
+        "Health": 5485168,
+        "Education": 5867962,
+        "Natural Environment": 5658092
+      }
+    },
+    {
+      "id": "Suwannee__FL",
+      "title": "Suwannee",
+      "scores": {
+        "Safety and Security": 4990627,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4638131,
+        "Business Environment": 4948815,
+        "Infrastructure": 7009503,
+        "Economic Quality": 7060285,
+        "Living Conditions": 5404668,
+        "Health": 4433976,
+        "Education": 5109818,
+        "Natural Environment": 4570830
+      }
+    },
+    {
+      "id": "Taylor__FL",
+      "title": "Taylor",
+      "scores": {
+        "Safety and Security": 4002943,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4829786,
+        "Business Environment": 4810792,
+        "Infrastructure": 5555864,
+        "Economic Quality": 7132573,
+        "Living Conditions": 5542954,
+        "Health": 4328091,
+        "Education": 4499178,
+        "Natural Environment": 4408053
+      }
+    },
+    {
+      "id": "Union__FL",
+      "title": "Union",
+      "scores": {
+        "Safety and Security": 7002928,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4581937,
+        "Business Environment": 4531283,
+        "Infrastructure": 6599486,
+        "Economic Quality": 6256558,
+        "Living Conditions": 5505162,
+        "Health": 3782535,
+        "Education": 4609396,
+        "Natural Environment": 6177830
+      }
+    },
+    {
+      "id": "Volusia__FL",
+      "title": "Volusia",
+      "scores": {
+        "Safety and Security": 4991106,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4505847,
+        "Business Environment": 5634113,
+        "Infrastructure": 7917183,
+        "Economic Quality": 6589405,
+        "Living Conditions": 6355865,
+        "Health": 5094412,
+        "Education": 5656794,
+        "Natural Environment": 5600562
+      }
+    },
+    {
+      "id": "Wakulla__FL",
+      "title": "Wakulla",
+      "scores": {
+        "Safety and Security": 6505552,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4746450,
+        "Business Environment": 5065481,
+        "Infrastructure": 7063920,
+        "Economic Quality": 6228315,
+        "Living Conditions": 6630373,
+        "Health": 5199929,
+        "Education": 5412278,
+        "Natural Environment": 5520348
+      }
+    },
+    {
+      "id": "Walton__FL",
+      "title": "Walton",
+      "scores": {
+        "Safety and Security": 5618577,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4870083,
+        "Business Environment": 5253544,
+        "Infrastructure": 7219329,
+        "Economic Quality": 6813084,
+        "Living Conditions": 5940174,
+        "Health": 5225068,
+        "Education": 6064403,
+        "Natural Environment": 6206305
+      }
+    },
+    {
+      "id": "Washington__FL",
+      "title": "Washington",
+      "scores": {
+        "Safety and Security": 7048835,
+        "Personal Freedom": 6271683,
+        "Governance": 5544630,
+        "Social Capital": 4610037,
+        "Business Environment": 4937700,
+        "Infrastructure": 5546874,
+        "Economic Quality": 5952110,
+        "Living Conditions": 5090956,
+        "Health": 4006058,
+        "Education": 4922024,
+        "Natural Environment": 6162372
+      }
+    }
+  ],
+  "derivatives": {
+    "Overall Prosperity": [
+      "Safety and Security",
+      "Personal Freedom",
+      "Governance",
+      "Social Capital",
+      "Business Environment",
+      "Infrastructure",
+      "Economic Quality",
+      "Living Conditions",
+      "Health",
+      "Education",
+      "Natural Environment"
+    ],
+    "Empowered People": [
+      "Living Conditions",
+      "Health",
+      "Education",
+      "Natural Environment"
+    ],
+    "Inclusive Societies": [
+      "Safety and Security",
+      "Personal Freedom",
+      "Governance",
+      "Social Capital"
+    ],
+    "Open Economies": [
+      "Business Environment",
+      "Infrastructure",
+      "Economic Quality"
+    ]
+  },
+  "weightingOptions": {
+    "Safety and Security": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Personal Freedom": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Governance": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Social Capital": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Business Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Infrastructure": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Economic Quality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Living Conditions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Health": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Natural Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

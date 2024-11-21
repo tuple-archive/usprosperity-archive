@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Life years lost from air pollution": 806548,
+        "Toxic air releases": 471560,
+        "PM2.5 emissions": 385726,
+        "Lead emissions": 487245
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Life years lost from air pollution": 658520,
+        "Toxic air releases": 117556,
+        "PM2.5 emissions": 270876,
+        "Lead emissions": 323020
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Life years lost from air pollution": 623799,
+        "Toxic air releases": 153900,
+        "PM2.5 emissions": 224825,
+        "Lead emissions": 322592
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Life years lost from air pollution": 826626,
+        "Toxic air releases": 322277,
+        "PM2.5 emissions": 384530,
+        "Lead emissions": 363082
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Life years lost from air pollution": 764396,
+        "Toxic air releases": 267574,
+        "PM2.5 emissions": 215530,
+        "Lead emissions": 300866
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Life years lost from air pollution": 889025,
+        "Toxic air releases": 319072,
+        "PM2.5 emissions": 386272,
+        "Lead emissions": 411149
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Life years lost from air pollution": 907972,
+        "Toxic air releases": 200458,
+        "PM2.5 emissions": 244712,
+        "Lead emissions": 208162
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Life years lost from air pollution": 740293,
+        "Toxic air releases": 351845,
+        "PM2.5 emissions": 0,
+        "Lead emissions": 358036
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Life years lost from air pollution": 763157,
+        "Toxic air releases": 162822,
+        "PM2.5 emissions": 242429,
+        "Lead emissions": 84926
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Life years lost from air pollution": 918672,
+        "Toxic air releases": 154542,
+        "PM2.5 emissions": 194916,
+        "Lead emissions": 198922
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Life years lost from air pollution": 686014,
+        "Toxic air releases": 117956,
+        "PM2.5 emissions": 240976,
+        "Lead emissions": 352373
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Life years lost from air pollution": 1000000,
+        "Toxic air releases": 160510,
+        "PM2.5 emissions": 339394,
+        "Lead emissions": 185485
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Life years lost from air pollution": 792319,
+        "Toxic air releases": 141372,
+        "PM2.5 emissions": 328093,
+        "Lead emissions": 409240
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Life years lost from air pollution": 863446,
+        "Toxic air releases": 249228,
+        "PM2.5 emissions": 240639,
+        "Lead emissions": 440871
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Life years lost from air pollution": 729112,
+        "Toxic air releases": 139619,
+        "PM2.5 emissions": 184771,
+        "Lead emissions": 281585
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Life years lost from air pollution": 630586,
+        "Toxic air releases": 102065,
+        "PM2.5 emissions": 272572,
+        "Lead emissions": 166111
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Life years lost from air pollution": 791793,
+        "Toxic air releases": 212419,
+        "PM2.5 emissions": 235034,
+        "Lead emissions": 420563
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Life years lost from air pollution": 633983,
+        "Toxic air releases": 132052,
+        "PM2.5 emissions": 282523,
+        "Lead emissions": 389344
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Life years lost from air pollution": 710631,
+        "Toxic air releases": 73469,
+        "PM2.5 emissions": 216545,
+        "Lead emissions": 413054
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Life years lost from air pollution": 955785,
+        "Toxic air releases": 232565,
+        "PM2.5 emissions": 203009,
+        "Lead emissions": 65945
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Life years lost from air pollution": 781442,
+        "Toxic air releases": 177519,
+        "PM2.5 emissions": 208378,
+        "Lead emissions": 202525
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Life years lost from air pollution": 994671,
+        "Toxic air releases": 215991,
+        "PM2.5 emissions": 372178,
+        "Lead emissions": 416063
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Life years lost from air pollution": 736252,
+        "Toxic air releases": 181363,
+        "PM2.5 emissions": 327591,
+        "Lead emissions": 364314
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Life years lost from air pollution": 919439,
+        "Toxic air releases": 218263,
+        "PM2.5 emissions": 301318,
+        "Lead emissions": 380920
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Life years lost from air pollution": 700585,
+        "Toxic air releases": 198023,
+        "PM2.5 emissions": 173609,
+        "Lead emissions": 377602
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Life years lost from air pollution": 673068,
+        "Toxic air releases": 154812,
+        "PM2.5 emissions": 265480,
+        "Lead emissions": 394406
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Life years lost from air pollution": 886657,
+        "Toxic air releases": 345476,
+        "PM2.5 emissions": 282327,
+        "Lead emissions": 467332
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Life years lost from air pollution": 773840,
+        "Toxic air releases": 132538,
+        "PM2.5 emissions": 308005,
+        "Lead emissions": 327608
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Life years lost from air pollution": 914431,
+        "Toxic air releases": 151967,
+        "PM2.5 emissions": 343527,
+        "Lead emissions": 445753
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Life years lost from air pollution": 829379,
+        "Toxic air releases": 242178,
+        "PM2.5 emissions": 345564,
+        "Lead emissions": 440650
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Life years lost from air pollution": 976115,
+        "Toxic air releases": 328937,
+        "PM2.5 emissions": 331828,
+        "Lead emissions": 280182
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Life years lost from air pollution": 836043,
+        "Toxic air releases": 171663,
+        "PM2.5 emissions": 199550,
+        "Lead emissions": 84663
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Life years lost from air pollution": 909685,
+        "Toxic air releases": 372327,
+        "PM2.5 emissions": 421372,
+        "Lead emissions": 477259
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Life years lost from air pollution": 774909,
+        "Toxic air releases": 374087,
+        "PM2.5 emissions": 427145,
+        "Lead emissions": 431374
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Life years lost from air pollution": 868304,
+        "Toxic air releases": 226068,
+        "PM2.5 emissions": 324307,
+        "Lead emissions": 312720
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Life years lost from air pollution": 642053,
+        "Toxic air releases": 92888,
+        "PM2.5 emissions": 260443,
+        "Lead emissions": 186869
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Life years lost from air pollution": 624434,
+        "Toxic air releases": 166124,
+        "PM2.5 emissions": 222761,
+        "Lead emissions": 396916
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Life years lost from air pollution": 886691,
+        "Toxic air releases": 210695,
+        "PM2.5 emissions": 202431,
+        "Lead emissions": 428824
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Life years lost from air pollution": 722037,
+        "Toxic air releases": 155020,
+        "PM2.5 emissions": 275690,
+        "Lead emissions": 200551
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Life years lost from air pollution": 908443,
+        "Toxic air releases": 192975,
+        "PM2.5 emissions": 195711,
+        "Lead emissions": 149301
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Life years lost from air pollution": 737431,
+        "Toxic air releases": 108009,
+        "PM2.5 emissions": 253916,
+        "Lead emissions": 308796
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Life years lost from air pollution": 881301,
+        "Toxic air releases": 316458,
+        "PM2.5 emissions": 372647,
+        "Lead emissions": 474637
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Life years lost from air pollution": 712220,
+        "Toxic air releases": 119813,
+        "PM2.5 emissions": 281730,
+        "Lead emissions": 336079
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Life years lost from air pollution": 723783,
+        "Toxic air releases": 182218,
+        "PM2.5 emissions": 325601,
+        "Lead emissions": 393875
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Life years lost from air pollution": 801699,
+        "Toxic air releases": 206507,
+        "PM2.5 emissions": 391522,
+        "Lead emissions": 384296
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Life years lost from air pollution": 848293,
+        "Toxic air releases": 141455,
+        "PM2.5 emissions": 291995,
+        "Lead emissions": 269396
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Life years lost from air pollution": 995118,
+        "Toxic air releases": 382990,
+        "PM2.5 emissions": 332945,
+        "Lead emissions": 414900
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Life years lost from air pollution": 928805,
+        "Toxic air releases": 216892,
+        "PM2.5 emissions": 222421,
+        "Lead emissions": 333063
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Life years lost from air pollution": 817675,
+        "Toxic air releases": 197422,
+        "PM2.5 emissions": 329138,
+        "Lead emissions": 342220
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Life years lost from air pollution": 775296,
+        "Toxic air releases": 125663,
+        "PM2.5 emissions": 297710,
+        "Lead emissions": 414555
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Life years lost from air pollution": 953315,
+        "Toxic air releases": 308649,
+        "PM2.5 emissions": 391551,
+        "Lead emissions": 467955
+      }
+    }
+  ],
+  "derivatives": {
+    "Exposure to Air Pollution": [
+      "Life years lost from air pollution",
+      "Toxic air releases",
+      "PM2.5 emissions",
+      "Lead emissions"
+    ]
+  },
+  "weightingOptions": {
+    "Life years lost from air pollution": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Toxic air releases": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "PM2.5 emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Lead emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6694 @@
+{
+  "regions": [
+    {
+      "id": "13001",
+      "title": "Appling, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.805944127534266,
+        "Fine particulate matter exposure": 4.532441666666666
+      }
+    },
+    {
+      "id": "13003",
+      "title": "Atkinson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.036006261767634,
+        "Fine particulate matter exposure": 4.837933333333333
+      }
+    },
+    {
+      "id": "13005",
+      "title": "Bacon, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.060543932318367,
+        "Fine particulate matter exposure": 4.6882
+      }
+    },
+    {
+      "id": "13007",
+      "title": "Baker, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.055490665639233,
+        "Fine particulate matter exposure": 5.004391666666668
+      }
+    },
+    {
+      "id": "13009",
+      "title": "Baldwin, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.3683056247981344,
+        "Fine particulate matter exposure": 3.7303916666666677
+      }
+    },
+    {
+      "id": "13011",
+      "title": "Banks, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.8463821979335995,
+        "Fine particulate matter exposure": 4.813575000000001
+      }
+    },
+    {
+      "id": "13013",
+      "title": "Barrow, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.076234291870267,
+        "Fine particulate matter exposure": 4.188716666666667
+      }
+    },
+    {
+      "id": "13015",
+      "title": "Bartow, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.056963693878068,
+        "Fine particulate matter exposure": 4.14825
+      }
+    },
+    {
+      "id": "13017",
+      "title": "Ben Hill, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.7106534048449005,
+        "Fine particulate matter exposure": 4.185958333333335
+      }
+    },
+    {
+      "id": "13019",
+      "title": "Berrien, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.036006261767634,
+        "Fine particulate matter exposure": 4.767083333333334
+      }
+    },
+    {
+      "id": "13021",
+      "title": "Bibb, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.4810566301037342,
+        "Fine particulate matter exposure": 3.340058333333334
+      }
+    },
+    {
+      "id": "13023",
+      "title": "Bleckley, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 4.056425000000001
+      }
+    },
+    {
+      "id": "13025",
+      "title": "Brantley, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.8196439538497,
+        "Fine particulate matter exposure": 5.096125000000001
+      }
+    },
+    {
+      "id": "13027",
+      "title": "Brooks, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.339357348102734,
+        "Fine particulate matter exposure": 5.101675
+      }
+    },
+    {
+      "id": "13029",
+      "title": "Bryan, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.138902706330533,
+        "Fine particulate matter exposure": 4.537525
+      }
+    },
+    {
+      "id": "13031",
+      "title": "Bulloch, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.8113305910061,
+        "Fine particulate matter exposure": 4.1422
+      }
+    },
+    {
+      "id": "13033",
+      "title": "Burke, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.219006840319234,
+        "Fine particulate matter exposure": 4.381008333333334
+      }
+    },
+    {
+      "id": "13035",
+      "title": "Butts, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.997700501569567,
+        "Fine particulate matter exposure": 3.9004916666666674
+      }
+    },
+    {
+      "id": "13037",
+      "title": "Calhoun, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.73585
+      }
+    },
+    {
+      "id": "13039",
+      "title": "Camden, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.060543932318367,
+        "Fine particulate matter exposure": 5.214191666666667
+      }
+    },
+    {
+      "id": "13043",
+      "title": "Candler, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.582290477703168,
+        "Fine particulate matter exposure": 4.347316666666667
+      }
+    },
+    {
+      "id": "13045",
+      "title": "Carroll, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.813476551808133,
+        "Fine particulate matter exposure": 3.8566833333333332
+      }
+    },
+    {
+      "id": "13047",
+      "title": "Catoosa, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.324708189729234,
+        "Fine particulate matter exposure": 4.324883333333334
+      }
+    },
+    {
+      "id": "13049",
+      "title": "Charlton, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.060543932318367,
+        "Fine particulate matter exposure": 5.390191666666667
+      }
+    },
+    {
+      "id": "13051",
+      "title": "Chatham, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.333295010377569,
+        "Fine particulate matter exposure": 4.279183333333334
+      }
+    },
+    {
+      "id": "13053",
+      "title": "Chattahoochee, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.420518026433232,
+        "Fine particulate matter exposure": 4.066550000000001
+      }
+    },
+    {
+      "id": "13055",
+      "title": "Chattooga, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.782750936296099,
+        "Fine particulate matter exposure": 4.454933333333333
+      }
+    },
+    {
+      "id": "13057",
+      "title": "Cherokee, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.315406525604434,
+        "Fine particulate matter exposure": 4.069025000000001
+      }
+    },
+    {
+      "id": "13059",
+      "title": "Clarke, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.5446346001991,
+        "Fine particulate matter exposure": 4.016758333333334
+      }
+    },
+    {
+      "id": "13061",
+      "title": "Clay, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.780925000000001
+      }
+    },
+    {
+      "id": "13063",
+      "title": "Clayton, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.1728309974146334,
+        "Fine particulate matter exposure": 3.2989166666666674
+      }
+    },
+    {
+      "id": "13065",
+      "title": "Clinch, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.036006261767634,
+        "Fine particulate matter exposure": 5.15305
+      }
+    },
+    {
+      "id": "13067",
+      "title": "Cobb, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.718871075320533,
+        "Fine particulate matter exposure": 3.580316666666666
+      }
+    },
+    {
+      "id": "13069",
+      "title": "Coffee, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.7106534048449005,
+        "Fine particulate matter exposure": 4.508575
+      }
+    },
+    {
+      "id": "13071",
+      "title": "Colquitt, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7967088619682,
+        "Fine particulate matter exposure": 4.684575000000001
+      }
+    },
+    {
+      "id": "13073",
+      "title": "Columbia, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.061832416113168,
+        "Fine particulate matter exposure": 3.859091666666667
+      }
+    },
+    {
+      "id": "13075",
+      "title": "Cook, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.036006261767634,
+        "Fine particulate matter exposure": 4.744791666666667
+      }
+    },
+    {
+      "id": "13077",
+      "title": "Coweta, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.138090737443266,
+        "Fine particulate matter exposure": 3.658191666666667
+      }
+    },
+    {
+      "id": "13079",
+      "title": "Crawford, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.478830597195868,
+        "Fine particulate matter exposure": 4.079325
+      }
+    },
+    {
+      "id": "13081",
+      "title": "Crisp, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.610025505450733,
+        "Fine particulate matter exposure": 4.117283333333334
+      }
+    },
+    {
+      "id": "13083",
+      "title": "Dade, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.8125985562445335,
+        "Fine particulate matter exposure": 4.7495
+      }
+    },
+    {
+      "id": "13085",
+      "title": "Dawson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.056963693878068,
+        "Fine particulate matter exposure": 4.779633333333334
+      }
+    },
+    {
+      "id": "13087",
+      "title": "Decatur, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.506185930640235,
+        "Fine particulate matter exposure": 5.020666666666667
+      }
+    },
+    {
+      "id": "13089",
+      "title": "De Kalb, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.0270267633508,
+        "Fine particulate matter exposure": 3.378158333333333
+      }
+    },
+    {
+      "id": "13091",
+      "title": "Dodge, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.815608918547333,
+        "Fine particulate matter exposure": 4.23715
+      }
+    },
+    {
+      "id": "13093",
+      "title": "Dooly, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 4.253141666666667
+      }
+    },
+    {
+      "id": "13095",
+      "title": "Dougherty, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.055490665639233,
+        "Fine particulate matter exposure": 3.851133333333333
+      }
+    },
+    {
+      "id": "13097",
+      "title": "Douglas, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.399904549073668,
+        "Fine particulate matter exposure": 3.562058333333334
+      }
+    },
+    {
+      "id": "13099",
+      "title": "Early, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.890316666666667
+      }
+    },
+    {
+      "id": "13101",
+      "title": "Echols, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.339357348102734,
+        "Fine particulate matter exposure": 5.380208333333334
+      }
+    },
+    {
+      "id": "13103",
+      "title": "Effingham, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.138902706330533,
+        "Fine particulate matter exposure": 4.400133333333334
+      }
+    },
+    {
+      "id": "13105",
+      "title": "Elbert, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.690283333333333
+      }
+    },
+    {
+      "id": "13107",
+      "title": "Emanuel, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.582290477703168,
+        "Fine particulate matter exposure": 4.254666666666667
+      }
+    },
+    {
+      "id": "13109",
+      "title": "Evans, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.805944127534266,
+        "Fine particulate matter exposure": 4.377491666666667
+      }
+    },
+    {
+      "id": "13111",
+      "title": "Fannin, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.066416755140056,
+        "Fine particulate matter exposure": 5.374833333333334
+      }
+    },
+    {
+      "id": "13113",
+      "title": "Fayette, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.5149157482717674,
+        "Fine particulate matter exposure": 3.5090666666666666
+      }
+    },
+    {
+      "id": "13115",
+      "title": "Floyd, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.7630704481979675,
+        "Fine particulate matter exposure": 3.8426333333333336
+      }
+    },
+    {
+      "id": "13117",
+      "title": "Forsyth, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.639438628741024,
+        "Fine particulate matter exposure": 4.2283333333333335
+      }
+    },
+    {
+      "id": "13119",
+      "title": "Franklin, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.8463821979335995,
+        "Fine particulate matter exposure": 4.872208333333334
+      }
+    },
+    {
+      "id": "13121",
+      "title": "Fulton, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.149056709477467,
+        "Fine particulate matter exposure": 3.434758333333334
+      }
+    },
+    {
+      "id": "13123",
+      "title": "Gilmer, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.511540323962633,
+        "Fine particulate matter exposure": 5.381458333333334
+      }
+    },
+    {
+      "id": "13125",
+      "title": "Glascock, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.405349999999999
+      }
+    },
+    {
+      "id": "13127",
+      "title": "Glynn, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.8196439538497,
+        "Fine particulate matter exposure": 4.900041666666667
+      }
+    },
+    {
+      "id": "13129",
+      "title": "Gordon, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.511540323962633,
+        "Fine particulate matter exposure": 4.632558333333334
+      }
+    },
+    {
+      "id": "13131",
+      "title": "Grady, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.506185930640235,
+        "Fine particulate matter exposure": 5.005958333333334
+      }
+    },
+    {
+      "id": "13133",
+      "title": "Greene, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.259350000000001
+      }
+    },
+    {
+      "id": "13135",
+      "title": "Gwinnett, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.4577931618308,
+        "Fine particulate matter exposure": 3.8104999999999998
+      }
+    },
+    {
+      "id": "13137",
+      "title": "Habersham, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.414990371904276,
+        "Fine particulate matter exposure": 4.954766666666667
+      }
+    },
+    {
+      "id": "13139",
+      "title": "Hall, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.605783132080568,
+        "Fine particulate matter exposure": 4.402691666666667
+      }
+    },
+    {
+      "id": "13141",
+      "title": "Hancock, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.247333333333334
+      }
+    },
+    {
+      "id": "13143",
+      "title": "Haralson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.1851409645319,
+        "Fine particulate matter exposure": 4.062858333333333
+      }
+    },
+    {
+      "id": "13145",
+      "title": "Harris, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.7238662414481345,
+        "Fine particulate matter exposure": 4.169291666666666
+      }
+    },
+    {
+      "id": "13147",
+      "title": "Hart, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.8463821979335995,
+        "Fine particulate matter exposure": 4.771216666666667
+      }
+    },
+    {
+      "id": "13149",
+      "title": "Heard, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.813476551808133,
+        "Fine particulate matter exposure": 4.1441083333333335
+      }
+    },
+    {
+      "id": "13151",
+      "title": "Henry, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.426993795276333,
+        "Fine particulate matter exposure": 3.459333333333333
+      }
+    },
+    {
+      "id": "13153",
+      "title": "Houston, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.480767896055267,
+        "Fine particulate matter exposure": 3.589916666666667
+      }
+    },
+    {
+      "id": "13155",
+      "title": "Irwin, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.036006261767634,
+        "Fine particulate matter exposure": 4.605525
+      }
+    },
+    {
+      "id": "13157",
+      "title": "Jackson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.8463821979335995,
+        "Fine particulate matter exposure": 4.448958333333334
+      }
+    },
+    {
+      "id": "13159",
+      "title": "Jasper, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.997700501569567,
+        "Fine particulate matter exposure": 4.0803416666666665
+      }
+    },
+    {
+      "id": "13161",
+      "title": "Jeff Davis, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.815608918547333,
+        "Fine particulate matter exposure": 4.396283333333335
+      }
+    },
+    {
+      "id": "13163",
+      "title": "Jefferson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 4.324141666666668
+      }
+    },
+    {
+      "id": "13165",
+      "title": "Jenkins, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.582290477703168,
+        "Fine particulate matter exposure": 4.383366666666667
+      }
+    },
+    {
+      "id": "13167",
+      "title": "Johnson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 4.220066666666667
+      }
+    },
+    {
+      "id": "13169",
+      "title": "Jones, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.997700501569567,
+        "Fine particulate matter exposure": 4.092550000000001
+      }
+    },
+    {
+      "id": "13171",
+      "title": "Lamar, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.478830597195868,
+        "Fine particulate matter exposure": 3.9110500000000004
+      }
+    },
+    {
+      "id": "13173",
+      "title": "Lanier, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.339357348102734,
+        "Fine particulate matter exposure": 4.9286
+      }
+    },
+    {
+      "id": "13175",
+      "title": "Laurens, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.582290477703168,
+        "Fine particulate matter exposure": 3.97085
+      }
+    },
+    {
+      "id": "13177",
+      "title": "Lee, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.608857939956234,
+        "Fine particulate matter exposure": 4.196750000000001
+      }
+    },
+    {
+      "id": "13179",
+      "title": "Liberty, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.105058618287301,
+        "Fine particulate matter exposure": 4.463566666666667
+      }
+    },
+    {
+      "id": "13181",
+      "title": "Lincoln, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.544150000000001
+      }
+    },
+    {
+      "id": "13183",
+      "title": "Long, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.105058618287301,
+        "Fine particulate matter exposure": 4.618283333333334
+      }
+    },
+    {
+      "id": "13185",
+      "title": "Lowndes, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.339357348102734,
+        "Fine particulate matter exposure": 4.8100000000000005
+      }
+    },
+    {
+      "id": "13187",
+      "title": "Lumpkin, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.414990371904276,
+        "Fine particulate matter exposure": 4.993858333333334
+      }
+    },
+    {
+      "id": "13189",
+      "title": "McDuffie, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.061832416113168,
+        "Fine particulate matter exposure": 4.259216666666667
+      }
+    },
+    {
+      "id": "13191",
+      "title": "McIntosh, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.105058618287301,
+        "Fine particulate matter exposure": 5.036475000000001
+      }
+    },
+    {
+      "id": "13193",
+      "title": "Macon, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 4.221225000000001
+      }
+    },
+    {
+      "id": "13195",
+      "title": "Madison, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.389534586076234,
+        "Fine particulate matter exposure": 4.5874
+      }
+    },
+    {
+      "id": "13197",
+      "title": "Marion, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.420518026433232,
+        "Fine particulate matter exposure": 4.4352083333333345
+      }
+    },
+    {
+      "id": "13199",
+      "title": "Meriwether, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.7238662414481345,
+        "Fine particulate matter exposure": 4.164391666666667
+      }
+    },
+    {
+      "id": "13201",
+      "title": "Miller, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.960475
+      }
+    },
+    {
+      "id": "13205",
+      "title": "Mitchell, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.506185930640235,
+        "Fine particulate matter exposure": 4.7730250000000005
+      }
+    },
+    {
+      "id": "13207",
+      "title": "Monroe, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.478830597195868,
+        "Fine particulate matter exposure": 3.9744916666666663
+      }
+    },
+    {
+      "id": "13209",
+      "title": "Montgomery, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 4.3478
+      }
+    },
+    {
+      "id": "13211",
+      "title": "Morgan, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.3683056247981344,
+        "Fine particulate matter exposure": 4.270266666666667
+      }
+    },
+    {
+      "id": "13213",
+      "title": "Murray, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.1831295197034,
+        "Fine particulate matter exposure": 5.021133333333333
+      }
+    },
+    {
+      "id": "13215",
+      "title": "Muscogee, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.420518026433232,
+        "Fine particulate matter exposure": 3.576383333333334
+      }
+    },
+    {
+      "id": "13217",
+      "title": "Newton, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.046470765247167,
+        "Fine particulate matter exposure": 3.7086
+      }
+    },
+    {
+      "id": "13219",
+      "title": "Oconee, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.389534586076234,
+        "Fine particulate matter exposure": 4.1916416666666665
+      }
+    },
+    {
+      "id": "13221",
+      "title": "Oglethorpe, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.389534586076234,
+        "Fine particulate matter exposure": 4.539741666666666
+      }
+    },
+    {
+      "id": "13223",
+      "title": "Paulding, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.1851409645319,
+        "Fine particulate matter exposure": 3.8418666666666663
+      }
+    },
+    {
+      "id": "13225",
+      "title": "Peach, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 3.8677
+      }
+    },
+    {
+      "id": "13227",
+      "title": "Pickens, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.056963693878068,
+        "Fine particulate matter exposure": 4.948833333333334
+      }
+    },
+    {
+      "id": "13229",
+      "title": "Pierce, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.805944127534266,
+        "Fine particulate matter exposure": 4.820241666666668
+      }
+    },
+    {
+      "id": "13231",
+      "title": "Pike, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.478830597195868,
+        "Fine particulate matter exposure": 4.013658333333334
+      }
+    },
+    {
+      "id": "13233",
+      "title": "Polk, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.7539700819910347,
+        "Fine particulate matter exposure": 4.129683333333333
+      }
+    },
+    {
+      "id": "13235",
+      "title": "Pulaski, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.815608918547333,
+        "Fine particulate matter exposure": 4.140483333333333
+      }
+    },
+    {
+      "id": "13237",
+      "title": "Putnam, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.3683056247981344,
+        "Fine particulate matter exposure": 4.060316666666666
+      }
+    },
+    {
+      "id": "13239",
+      "title": "Quitman, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.60775
+      }
+    },
+    {
+      "id": "13241",
+      "title": "Rabun, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.066416755140056,
+        "Fine particulate matter exposure": 5.388833333333334
+      }
+    },
+    {
+      "id": "13243",
+      "title": "Randolph, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.5849
+      }
+    },
+    {
+      "id": "13245",
+      "title": "Richmond, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.219006840319234,
+        "Fine particulate matter exposure": 3.6563083333333335
+      }
+    },
+    {
+      "id": "13247",
+      "title": "Rockdale, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.302647119308367,
+        "Fine particulate matter exposure": 3.605925
+      }
+    },
+    {
+      "id": "13249",
+      "title": "Schley, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 4.369633333333334
+      }
+    },
+    {
+      "id": "13251",
+      "title": "Screven, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.582290477703168,
+        "Fine particulate matter exposure": 4.522475
+      }
+    },
+    {
+      "id": "13253",
+      "title": "Seminole, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 5.041533333333334
+      }
+    },
+    {
+      "id": "13255",
+      "title": "Spalding, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.7238662414481345,
+        "Fine particulate matter exposure": 3.6476
+      }
+    },
+    {
+      "id": "13257",
+      "title": "Stephens, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.8463821979335995,
+        "Fine particulate matter exposure": 4.89455
+      }
+    },
+    {
+      "id": "13259",
+      "title": "Stewart, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.551150000000001
+      }
+    },
+    {
+      "id": "13261",
+      "title": "Sumter, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.610025505450733,
+        "Fine particulate matter exposure": 4.221683333333334
+      }
+    },
+    {
+      "id": "13263",
+      "title": "Talbot, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 4.348683333333334
+      }
+    },
+    {
+      "id": "13265",
+      "title": "Taliaferro, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.644550000000001
+      }
+    },
+    {
+      "id": "13267",
+      "title": "Tattnall, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.805944127534266,
+        "Fine particulate matter exposure": 4.409400000000001
+      }
+    },
+    {
+      "id": "13269",
+      "title": "Taylor, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 4.3195250000000005
+      }
+    },
+    {
+      "id": "13271",
+      "title": "Telfair, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.815608918547333,
+        "Fine particulate matter exposure": 4.322508333333333
+      }
+    },
+    {
+      "id": "13273",
+      "title": "Terrell, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.608857939956234,
+        "Fine particulate matter exposure": 4.509925
+      }
+    },
+    {
+      "id": "13275",
+      "title": "Thomas, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.506185930640235,
+        "Fine particulate matter exposure": 4.851058333333334
+      }
+    },
+    {
+      "id": "13277",
+      "title": "Tift, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7967088619682,
+        "Fine particulate matter exposure": 4.359566666666668
+      }
+    },
+    {
+      "id": "13279",
+      "title": "Toombs, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.815608918547333,
+        "Fine particulate matter exposure": 4.227733333333334
+      }
+    },
+    {
+      "id": "13281",
+      "title": "Towns, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.066416755140056,
+        "Fine particulate matter exposure": 5.350983333333334
+      }
+    },
+    {
+      "id": "13283",
+      "title": "Treutlen, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 4.318475
+      }
+    },
+    {
+      "id": "13285",
+      "title": "Troup, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.889581180890435,
+        "Fine particulate matter exposure": 3.8480250000000007
+      }
+    },
+    {
+      "id": "13287",
+      "title": "Turner, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.036006261767634,
+        "Fine particulate matter exposure": 4.476508333333334
+      }
+    },
+    {
+      "id": "13289",
+      "title": "Twiggs, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.997700501569567,
+        "Fine particulate matter exposure": 4.157333333333333
+      }
+    },
+    {
+      "id": "13291",
+      "title": "Union, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.066416755140056,
+        "Fine particulate matter exposure": 5.354466666666667
+      }
+    },
+    {
+      "id": "13293",
+      "title": "Upson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 4.012466666666667
+      }
+    },
+    {
+      "id": "13295",
+      "title": "Walker, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.8125985562445335,
+        "Fine particulate matter exposure": 4.433108333333334
+      }
+    },
+    {
+      "id": "13297",
+      "title": "Walton, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.076234291870267,
+        "Fine particulate matter exposure": 4.046241666666667
+      }
+    },
+    {
+      "id": "13299",
+      "title": "Ware, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.060543932318367,
+        "Fine particulate matter exposure": 4.7449
+      }
+    },
+    {
+      "id": "13301",
+      "title": "Warren, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.417733333333334
+      }
+    },
+    {
+      "id": "13303",
+      "title": "Washington, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 4.2046166666666664
+      }
+    },
+    {
+      "id": "13305",
+      "title": "Wayne, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.805944127534266,
+        "Fine particulate matter exposure": 4.682708333333334
+      }
+    },
+    {
+      "id": "13307",
+      "title": "Webster, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.758608055843298,
+        "Fine particulate matter exposure": 4.634233333333333
+      }
+    },
+    {
+      "id": "13309",
+      "title": "Wheeler, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 4.361175000000001
+      }
+    },
+    {
+      "id": "13311",
+      "title": "White, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.414990371904276,
+        "Fine particulate matter exposure": 5.0634500000000005
+      }
+    },
+    {
+      "id": "13313",
+      "title": "Whitfield, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.1831295197034,
+        "Fine particulate matter exposure": 4.39015
+      }
+    },
+    {
+      "id": "13315",
+      "title": "Wilcox, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2302098898072,
+        "Fine particulate matter exposure": 4.424508333333334
+      }
+    },
+    {
+      "id": "13317",
+      "title": "Wilkes, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.874724407745699,
+        "Fine particulate matter exposure": 4.514525000000001
+      }
+    },
+    {
+      "id": "13319",
+      "title": "Wilkinson, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.342469031628667,
+        "Fine particulate matter exposure": 3.9121416666666677
+      }
+    },
+    {
+      "id": "13321",
+      "title": "Worth, GA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.608857939956234,
+        "Fine particulate matter exposure": 4.513883333333333
+      }
+    },
+    {
+      "id": "19001",
+      "title": "Adair, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.316574999999999
+      }
+    },
+    {
+      "id": "19003",
+      "title": "Adams, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.2374583333333335
+      }
+    },
+    {
+      "id": "19005",
+      "title": "Allamakee, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.808599181252934,
+        "Fine particulate matter exposure": 5.333900000000001
+      }
+    },
+    {
+      "id": "19007",
+      "title": "Appanoose, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.120254712956835,
+        "Fine particulate matter exposure": 4.978066666666667
+      }
+    },
+    {
+      "id": "19009",
+      "title": "Audubon, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.246833333333333
+      }
+    },
+    {
+      "id": "19011",
+      "title": "Benton, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.350465187633901,
+        "Fine particulate matter exposure": 4.8575083333333335
+      }
+    },
+    {
+      "id": "19013",
+      "title": "Black Hawk, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.251206358986,
+        "Fine particulate matter exposure": 4.359825000000001
+      }
+    },
+    {
+      "id": "19015",
+      "title": "Boone, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.195100482168566,
+        "Fine particulate matter exposure": 5.163966666666667
+      }
+    },
+    {
+      "id": "19017",
+      "title": "Bremer, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.251206358986,
+        "Fine particulate matter exposure": 5.023750000000001
+      }
+    },
+    {
+      "id": "19019",
+      "title": "Buchanan, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.808599181252934,
+        "Fine particulate matter exposure": 4.885316666666667
+      }
+    },
+    {
+      "id": "19021",
+      "title": "Buena Vista, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.164904544354135,
+        "Fine particulate matter exposure": 5.1287166666666675
+      }
+    },
+    {
+      "id": "19023",
+      "title": "Butler, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.330595256883102,
+        "Fine particulate matter exposure": 5.192625000000001
+      }
+    },
+    {
+      "id": "19025",
+      "title": "Calhoun, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9268023748422,
+        "Fine particulate matter exposure": 5.382216666666667
+      }
+    },
+    {
+      "id": "19027",
+      "title": "Carroll, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.070225000000001
+      }
+    },
+    {
+      "id": "19029",
+      "title": "Cass, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.025461367009793,
+        "Fine particulate matter exposure": 5.139266666666666
+      }
+    },
+    {
+      "id": "19031",
+      "title": "Cedar, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9110457771639,
+        "Fine particulate matter exposure": 4.681616666666667
+      }
+    },
+    {
+      "id": "19033",
+      "title": "Cerro Gordo, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.330595256883102,
+        "Fine particulate matter exposure": 5.067516666666666
+      }
+    },
+    {
+      "id": "19035",
+      "title": "Cherokee, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.953106347977787,
+        "Fine particulate matter exposure": 5.158741666666667
+      }
+    },
+    {
+      "id": "19037",
+      "title": "Chickasaw, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.330595256883102,
+        "Fine particulate matter exposure": 5.323958333333334
+      }
+    },
+    {
+      "id": "19039",
+      "title": "Clarke, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.120254712956835,
+        "Fine particulate matter exposure": 5.163991666666667
+      }
+    },
+    {
+      "id": "19041",
+      "title": "Clay, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.953106347977787,
+        "Fine particulate matter exposure": 5.137675000000001
+      }
+    },
+    {
+      "id": "19043",
+      "title": "Clayton, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.808599181252934,
+        "Fine particulate matter exposure": 5.092075000000001
+      }
+    },
+    {
+      "id": "19045",
+      "title": "Clinton, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.011917918162665,
+        "Fine particulate matter exposure": 4.0928666666666675
+      }
+    },
+    {
+      "id": "19047",
+      "title": "Crawford, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.164904544354135,
+        "Fine particulate matter exposure": 5.077725000000001
+      }
+    },
+    {
+      "id": "19049",
+      "title": "Dallas, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.647184150532496,
+        "Fine particulate matter exposure": 4.9545916666666665
+      }
+    },
+    {
+      "id": "19051",
+      "title": "Davis, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.120254712956835,
+        "Fine particulate matter exposure": 4.964008333333334
+      }
+    },
+    {
+      "id": "19053",
+      "title": "Decatur, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.191583333333333
+      }
+    },
+    {
+      "id": "19055",
+      "title": "Delaware, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.808599181252934,
+        "Fine particulate matter exposure": 4.841008333333334
+      }
+    },
+    {
+      "id": "19057",
+      "title": "Des Moines, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.726335003774434,
+        "Fine particulate matter exposure": 4.344633333333334
+      }
+    },
+    {
+      "id": "19059",
+      "title": "Dickinson, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.953106347977787,
+        "Fine particulate matter exposure": 5.34585
+      }
+    },
+    {
+      "id": "19061",
+      "title": "Dubuque, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.9028200487423685,
+        "Fine particulate matter exposure": 4.391808333333334
+      }
+    },
+    {
+      "id": "19063",
+      "title": "Emmet, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9268023748422,
+        "Fine particulate matter exposure": 5.487025
+      }
+    },
+    {
+      "id": "19065",
+      "title": "Fayette, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.808599181252934,
+        "Fine particulate matter exposure": 5.119266666666666
+      }
+    },
+    {
+      "id": "19067",
+      "title": "Floyd, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.330595256883102,
+        "Fine particulate matter exposure": 5.2236166666666675
+      }
+    },
+    {
+      "id": "19069",
+      "title": "Franklin, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2055901316281,
+        "Fine particulate matter exposure": 5.257858333333334
+      }
+    },
+    {
+      "id": "19071",
+      "title": "Fremont, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.025461367009793,
+        "Fine particulate matter exposure": 5.245716666666667
+      }
+    },
+    {
+      "id": "19073",
+      "title": "Greene, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9268023748422,
+        "Fine particulate matter exposure": 5.301575000000001
+      }
+    },
+    {
+      "id": "19075",
+      "title": "Grundy, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.251206358986,
+        "Fine particulate matter exposure": 5.115766666666667
+      }
+    },
+    {
+      "id": "19077",
+      "title": "Guthrie, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.647184150532496,
+        "Fine particulate matter exposure": 5.3273583333333345
+      }
+    },
+    {
+      "id": "19079",
+      "title": "Hamilton, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.195100482168566,
+        "Fine particulate matter exposure": 5.229733333333334
+      }
+    },
+    {
+      "id": "19081",
+      "title": "Hancock, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2055901316281,
+        "Fine particulate matter exposure": 5.415275
+      }
+    },
+    {
+      "id": "19083",
+      "title": "Hardin, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.330595256883102,
+        "Fine particulate matter exposure": 5.226616666666668
+      }
+    },
+    {
+      "id": "19085",
+      "title": "Harrison, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.706785984679808,
+        "Fine particulate matter exposure": 5.244700000000001
+      }
+    },
+    {
+      "id": "19087",
+      "title": "Henry, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.726335003774434,
+        "Fine particulate matter exposure": 4.655875
+      }
+    },
+    {
+      "id": "19089",
+      "title": "Howard, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2055901316281,
+        "Fine particulate matter exposure": 5.421350000000001
+      }
+    },
+    {
+      "id": "19091",
+      "title": "Humboldt, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9268023748422,
+        "Fine particulate matter exposure": 5.2804
+      }
+    },
+    {
+      "id": "19093",
+      "title": "Ida, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.953106347977787,
+        "Fine particulate matter exposure": 5.179616666666666
+      }
+    },
+    {
+      "id": "19095",
+      "title": "Iowa, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.459710635082234,
+        "Fine particulate matter exposure": 4.916108333333334
+      }
+    },
+    {
+      "id": "19097",
+      "title": "Jackson, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.011917918162665,
+        "Fine particulate matter exposure": 4.5845416666666665
+      }
+    },
+    {
+      "id": "19099",
+      "title": "Jasper, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.9910911447877675,
+        "Fine particulate matter exposure": 4.984508333333334
+      }
+    },
+    {
+      "id": "19101",
+      "title": "Jefferson, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.459710635082234,
+        "Fine particulate matter exposure": 4.676941666666667
+      }
+    },
+    {
+      "id": "19103",
+      "title": "Johnson, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.350465187633901,
+        "Fine particulate matter exposure": 4.395875
+      }
+    },
+    {
+      "id": "19105",
+      "title": "Jones, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.9028200487423685,
+        "Fine particulate matter exposure": 4.7446166666666665
+      }
+    },
+    {
+      "id": "19107",
+      "title": "Keokuk, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.459710635082234,
+        "Fine particulate matter exposure": 4.985758333333334
+      }
+    },
+    {
+      "id": "19109",
+      "title": "Kossuth, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.195100482168566,
+        "Fine particulate matter exposure": 5.444641666666667
+      }
+    },
+    {
+      "id": "19111",
+      "title": "Lee, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.726335003774434,
+        "Fine particulate matter exposure": 4.395891666666667
+      }
+    },
+    {
+      "id": "19113",
+      "title": "Linn, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.6343932913365,
+        "Fine particulate matter exposure": 4.3627
+      }
+    },
+    {
+      "id": "19115",
+      "title": "Louisa, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.726335003774434,
+        "Fine particulate matter exposure": 4.64355
+      }
+    },
+    {
+      "id": "19117",
+      "title": "Lucas, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.120254712956835,
+        "Fine particulate matter exposure": 5.193791666666667
+      }
+    },
+    {
+      "id": "19119",
+      "title": "Lyon, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.953106347977787,
+        "Fine particulate matter exposure": 5.534325000000001
+      }
+    },
+    {
+      "id": "19121",
+      "title": "Madison, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.647184150532496,
+        "Fine particulate matter exposure": 5.218933333333333
+      }
+    },
+    {
+      "id": "19123",
+      "title": "Mahaska, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.522291044110368,
+        "Fine particulate matter exposure": 4.835541666666667
+      }
+    },
+    {
+      "id": "19125",
+      "title": "Marion, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.522291044110368,
+        "Fine particulate matter exposure": 4.955075
+      }
+    },
+    {
+      "id": "19127",
+      "title": "Marshall, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.9910911447877675,
+        "Fine particulate matter exposure": 4.85955
+      }
+    },
+    {
+      "id": "19129",
+      "title": "Mills, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.706785984679808,
+        "Fine particulate matter exposure": 5.048625
+      }
+    },
+    {
+      "id": "19131",
+      "title": "Mitchell, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2055901316281,
+        "Fine particulate matter exposure": 5.374975000000001
+      }
+    },
+    {
+      "id": "19133",
+      "title": "Monona, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.164904544354135,
+        "Fine particulate matter exposure": 5.274533333333333
+      }
+    },
+    {
+      "id": "19135",
+      "title": "Monroe, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.0875416666666675
+      }
+    },
+    {
+      "id": "19137",
+      "title": "Montgomery, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.025461367009793,
+        "Fine particulate matter exposure": 5.038766666666667
+      }
+    },
+    {
+      "id": "19139",
+      "title": "Muscatine, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9110457771639,
+        "Fine particulate matter exposure": 4.166675
+      }
+    },
+    {
+      "id": "19141",
+      "title": "O Brien, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.953106347977787,
+        "Fine particulate matter exposure": 5.32705
+      }
+    },
+    {
+      "id": "19143",
+      "title": "Osceola, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.953106347977787,
+        "Fine particulate matter exposure": 5.532616666666667
+      }
+    },
+    {
+      "id": "19145",
+      "title": "Page, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.025461367009793,
+        "Fine particulate matter exposure": 4.975841666666667
+      }
+    },
+    {
+      "id": "19147",
+      "title": "Palo Alto, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9268023748422,
+        "Fine particulate matter exposure": 5.431508333333333
+      }
+    },
+    {
+      "id": "19149",
+      "title": "Plymouth, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.394376199571356,
+        "Fine particulate matter exposure": 5.0417250000000005
+      }
+    },
+    {
+      "id": "19151",
+      "title": "Pocahontas, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9268023748422,
+        "Fine particulate matter exposure": 5.409875
+      }
+    },
+    {
+      "id": "19153",
+      "title": "Polk, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.509938770058568,
+        "Fine particulate matter exposure": 4.639591666666667
+      }
+    },
+    {
+      "id": "19155",
+      "title": "Pottawattamie, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.706785984679808,
+        "Fine particulate matter exposure": 4.4380999999999995
+      }
+    },
+    {
+      "id": "19157",
+      "title": "Poweshiek, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.522291044110368,
+        "Fine particulate matter exposure": 4.883441666666667
+      }
+    },
+    {
+      "id": "19159",
+      "title": "Ringgold, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.253525
+      }
+    },
+    {
+      "id": "19161",
+      "title": "Sac, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.164904544354135,
+        "Fine particulate matter exposure": 5.298491666666666
+      }
+    },
+    {
+      "id": "19163",
+      "title": "Scott, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.109682074398901,
+        "Fine particulate matter exposure": 4.056866666666667
+      }
+    },
+    {
+      "id": "19165",
+      "title": "Shelby, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.025461367009793,
+        "Fine particulate matter exposure": 5.140541666666667
+      }
+    },
+    {
+      "id": "19167",
+      "title": "Sioux, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.394376199571356,
+        "Fine particulate matter exposure": 5.2098249999999995
+      }
+    },
+    {
+      "id": "19169",
+      "title": "Story, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.527729353195998,
+        "Fine particulate matter exposure": 4.859416666666666
+      }
+    },
+    {
+      "id": "19171",
+      "title": "Tama, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.459710635082234,
+        "Fine particulate matter exposure": 4.984908333333333
+      }
+    },
+    {
+      "id": "19173",
+      "title": "Taylor, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.1823500000000005
+      }
+    },
+    {
+      "id": "19175",
+      "title": "Union, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.120254712956835,
+        "Fine particulate matter exposure": 5.012525
+      }
+    },
+    {
+      "id": "19177",
+      "title": "Van Buren, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.120254712956835,
+        "Fine particulate matter exposure": 4.933783333333333
+      }
+    },
+    {
+      "id": "19179",
+      "title": "Wapello, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.120254712956835,
+        "Fine particulate matter exposure": 4.606308333333333
+      }
+    },
+    {
+      "id": "19181",
+      "title": "Warren, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.647184150532496,
+        "Fine particulate matter exposure": 5.025083333333334
+      }
+    },
+    {
+      "id": "19183",
+      "title": "Washington, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.350465187633901,
+        "Fine particulate matter exposure": 4.7211083333333335
+      }
+    },
+    {
+      "id": "19185",
+      "title": "Wayne, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.841216291403935,
+        "Fine particulate matter exposure": 5.220716666666667
+      }
+    },
+    {
+      "id": "19187",
+      "title": "Webster, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.9268023748422,
+        "Fine particulate matter exposure": 5.108733333333334
+      }
+    },
+    {
+      "id": "19189",
+      "title": "Winnebago, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2055901316281,
+        "Fine particulate matter exposure": 5.464466666666667
+      }
+    },
+    {
+      "id": "19191",
+      "title": "Winneshiek, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2055901316281,
+        "Fine particulate matter exposure": 5.352766666666668
+      }
+    },
+    {
+      "id": "19193",
+      "title": "Woodbury, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.8098468476735,
+        "Fine particulate matter exposure": 4.639008333333334
+      }
+    },
+    {
+      "id": "19195",
+      "title": "Worth, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2055901316281,
+        "Fine particulate matter exposure": 5.473833333333333
+      }
+    },
+    {
+      "id": "19197",
+      "title": "Wright, IA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.195100482168566,
+        "Fine particulate matter exposure": 5.298916666666667
+      }
+    },
+    {
+      "id": "30001",
+      "title": "Beaverhead, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 6.461966666666667
+      }
+    },
+    {
+      "id": "30003",
+      "title": "Big Horn, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.261866666666667
+      }
+    },
+    {
+      "id": "30005",
+      "title": "Blaine, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.588991666666668
+      }
+    },
+    {
+      "id": "30007",
+      "title": "Broadwater, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.397550000000001
+      }
+    },
+    {
+      "id": "30009",
+      "title": "Carbon, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.921989474754431,
+        "Fine particulate matter exposure": 8.039475000000001
+      }
+    },
+    {
+      "id": "30011",
+      "title": "Carter, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.537133333333334
+      }
+    },
+    {
+      "id": "30013",
+      "title": "Cascade, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.918903006361804,
+        "Fine particulate matter exposure": 7.678483333333332
+      }
+    },
+    {
+      "id": "30015",
+      "title": "Chouteau, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.946816666666667
+      }
+    },
+    {
+      "id": "30017",
+      "title": "Custer, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 6.7455750000000005
+      }
+    },
+    {
+      "id": "30019",
+      "title": "Daniels, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 6.760616666666666
+      }
+    },
+    {
+      "id": "30021",
+      "title": "Dawson, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 6.8959
+      }
+    },
+    {
+      "id": "30023",
+      "title": "Deer Lodge, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 6.527325000000001
+      }
+    },
+    {
+      "id": "30025",
+      "title": "Fallon, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.167833333333334
+      }
+    },
+    {
+      "id": "30027",
+      "title": "Fergus, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.871858333333334
+      }
+    },
+    {
+      "id": "30029",
+      "title": "Flathead, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.344935906078984,
+        "Fine particulate matter exposure": 6.502758333333333
+      }
+    },
+    {
+      "id": "30031",
+      "title": "Gallatin, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.6783689553273,
+        "Fine particulate matter exposure": 6.658033333333334
+      }
+    },
+    {
+      "id": "30033",
+      "title": "Garfield, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.480108333333335
+      }
+    },
+    {
+      "id": "30035",
+      "title": "Glacier, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.344935906078984,
+        "Fine particulate matter exposure": 7.209858333333334
+      }
+    },
+    {
+      "id": "30037",
+      "title": "Golden Valley, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.8671
+      }
+    },
+    {
+      "id": "30039",
+      "title": "Granite, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 6.9634083333333345
+      }
+    },
+    {
+      "id": "30041",
+      "title": "Hill, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.470883333333335
+      }
+    },
+    {
+      "id": "30043",
+      "title": "Jefferson, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 6.963766666666666
+      }
+    },
+    {
+      "id": "30045",
+      "title": "Judith Basin, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 8.144708333333334
+      }
+    },
+    {
+      "id": "30047",
+      "title": "Lake, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.149152684589067,
+        "Fine particulate matter exposure": 6.924250000000001
+      }
+    },
+    {
+      "id": "30049",
+      "title": "Lewis and Clark, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.500291385698313,
+        "Fine particulate matter exposure": 6.616441666666668
+      }
+    },
+    {
+      "id": "30051",
+      "title": "Liberty, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.749266666666668
+      }
+    },
+    {
+      "id": "30053",
+      "title": "Lincoln, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.149152684589067,
+        "Fine particulate matter exposure": 5.292425
+      }
+    },
+    {
+      "id": "30055",
+      "title": "McCone, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.144000000000001
+      }
+    },
+    {
+      "id": "30057",
+      "title": "Madison, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 6.884949999999999
+      }
+    },
+    {
+      "id": "30059",
+      "title": "Meagher, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.912816666666668
+      }
+    },
+    {
+      "id": "30061",
+      "title": "Mineral, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.149152684589067,
+        "Fine particulate matter exposure": 6.561200000000001
+      }
+    },
+    {
+      "id": "30063",
+      "title": "Missoula, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.964458583083525,
+        "Fine particulate matter exposure": 5.651816666666667
+      }
+    },
+    {
+      "id": "30065",
+      "title": "Musselshell, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.527816666666668
+      }
+    },
+    {
+      "id": "30067",
+      "title": "Park, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.6783689553273,
+        "Fine particulate matter exposure": 7.588158333333333
+      }
+    },
+    {
+      "id": "30069",
+      "title": "Petroleum, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.795816666666667
+      }
+    },
+    {
+      "id": "30071",
+      "title": "Phillips, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.481341666666667
+      }
+    },
+    {
+      "id": "30073",
+      "title": "Pondera, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.6913583333333335
+      }
+    },
+    {
+      "id": "30075",
+      "title": "Powder River, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.324383333333333
+      }
+    },
+    {
+      "id": "30077",
+      "title": "Powell, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 6.953383333333333
+      }
+    },
+    {
+      "id": "30079",
+      "title": "Prairie, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.055266666666666
+      }
+    },
+    {
+      "id": "30081",
+      "title": "Ravalli, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 5.9117500000000005
+      }
+    },
+    {
+      "id": "30083",
+      "title": "Richland, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 6.970233333333335
+      }
+    },
+    {
+      "id": "30085",
+      "title": "Roosevelt, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 6.9680833333333325
+      }
+    },
+    {
+      "id": "30087",
+      "title": "Rosebud, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 6.498616666666666
+      }
+    },
+    {
+      "id": "30089",
+      "title": "Sanders, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.149152684589067,
+        "Fine particulate matter exposure": 6.759433333333334
+      }
+    },
+    {
+      "id": "30091",
+      "title": "Sheridan, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 6.799783333333334
+      }
+    },
+    {
+      "id": "30093",
+      "title": "Silver Bow, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.029309237943068,
+        "Fine particulate matter exposure": 5.742450000000001
+      }
+    },
+    {
+      "id": "30095",
+      "title": "Stillwater, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.6783689553273,
+        "Fine particulate matter exposure": 7.853883333333333
+      }
+    },
+    {
+      "id": "30097",
+      "title": "Sweet Grass, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.834025
+      }
+    },
+    {
+      "id": "30099",
+      "title": "Teton, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.500291385698313,
+        "Fine particulate matter exposure": 7.928516666666667
+      }
+    },
+    {
+      "id": "30101",
+      "title": "Toole, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.486583333333334
+      }
+    },
+    {
+      "id": "30103",
+      "title": "Treasure, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.213191666666667
+      }
+    },
+    {
+      "id": "30105",
+      "title": "Valley, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.0543000000000005
+      }
+    },
+    {
+      "id": "30107",
+      "title": "Wheatland, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.928933333333335
+      }
+    },
+    {
+      "id": "30109",
+      "title": "Wibaux, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.975009812093637,
+        "Fine particulate matter exposure": 7.313483333333334
+      }
+    },
+    {
+      "id": "30111",
+      "title": "Yellowstone, MT",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.921989474754431,
+        "Fine particulate matter exposure": 6.682966666666667
+      }
+    },
+    {
+      "id": "36001",
+      "title": "Albany, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.699158117599834,
+        "Fine particulate matter exposure": 5.957441666666667
+      }
+    },
+    {
+      "id": "36003",
+      "title": "Allegany, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.2333236172038,
+        "Fine particulate matter exposure": 5.776316666666667
+      }
+    },
+    {
+      "id": "36005",
+      "title": "Bronx, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 1.6995274608258006,
+        "Fine particulate matter exposure": 4.037108333333334
+      }
+    },
+    {
+      "id": "36007",
+      "title": "Broome, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.059311060446333,
+        "Fine particulate matter exposure": 5.456916666666667
+      }
+    },
+    {
+      "id": "36009",
+      "title": "Cattaraugus, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.127165414366266,
+        "Fine particulate matter exposure": 5.560275
+      }
+    },
+    {
+      "id": "36011",
+      "title": "Cayuga, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.7381426704956,
+        "Fine particulate matter exposure": 6.235850000000001
+      }
+    },
+    {
+      "id": "36013",
+      "title": "Chautauqua, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.255810873042834,
+        "Fine particulate matter exposure": 5.327175000000001
+      }
+    },
+    {
+      "id": "36015",
+      "title": "Chemung, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.235617775557099,
+        "Fine particulate matter exposure": 5.351508333333333
+      }
+    },
+    {
+      "id": "36017",
+      "title": "Chenango, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.493029744402302,
+        "Fine particulate matter exposure": 6.405466666666667
+      }
+    },
+    {
+      "id": "36019",
+      "title": "Clinton, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.570701465902292,
+        "Fine particulate matter exposure": 6.4859333333333336
+      }
+    },
+    {
+      "id": "36021",
+      "title": "Columbia, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.78300800609727,
+        "Fine particulate matter exposure": 6.460858333333333
+      }
+    },
+    {
+      "id": "36023",
+      "title": "Cortland, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.493029744402302,
+        "Fine particulate matter exposure": 6.249941666666667
+      }
+    },
+    {
+      "id": "36025",
+      "title": "Delaware, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.78220055459222,
+        "Fine particulate matter exposure": 6.411541666666667
+      }
+    },
+    {
+      "id": "36027",
+      "title": "Dutchess, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.4703188883367,
+        "Fine particulate matter exposure": 5.620816666666667
+      }
+    },
+    {
+      "id": "36029",
+      "title": "Erie, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.961578457991867,
+        "Fine particulate matter exposure": 5.109358333333335
+      }
+    },
+    {
+      "id": "36031",
+      "title": "Essex, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 12.086554155117808,
+        "Fine particulate matter exposure": 7.144199999999999
+      }
+    },
+    {
+      "id": "36033",
+      "title": "Franklin, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 12.086554155117808,
+        "Fine particulate matter exposure": 6.593466666666667
+      }
+    },
+    {
+      "id": "36035",
+      "title": "Fulton, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.636997008377095,
+        "Fine particulate matter exposure": 6.753425
+      }
+    },
+    {
+      "id": "36037",
+      "title": "Genesee, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.232922263543236,
+        "Fine particulate matter exposure": 6.010633333333334
+      }
+    },
+    {
+      "id": "36039",
+      "title": "Greene, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.78220055459222,
+        "Fine particulate matter exposure": 6.4396
+      }
+    },
+    {
+      "id": "36041",
+      "title": "Hamilton, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 12.086554155117808,
+        "Fine particulate matter exposure": 7.338991666666667
+      }
+    },
+    {
+      "id": "36043",
+      "title": "Herkimer, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.309497274714847,
+        "Fine particulate matter exposure": 6.762058333333334
+      }
+    },
+    {
+      "id": "36045",
+      "title": "Jefferson, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.604527618804559,
+        "Fine particulate matter exposure": 6.5887416666666665
+      }
+    },
+    {
+      "id": "36047",
+      "title": "Kings, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 1.7202787294612,
+        "Fine particulate matter exposure": 4.33945
+      }
+    },
+    {
+      "id": "36049",
+      "title": "Lewis, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.604527618804559,
+        "Fine particulate matter exposure": 6.901758333333333
+      }
+    },
+    {
+      "id": "36051",
+      "title": "Livingston, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.492834166004567,
+        "Fine particulate matter exposure": 6.048425
+      }
+    },
+    {
+      "id": "36053",
+      "title": "Madison, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.653490875652,
+        "Fine particulate matter exposure": 6.596383333333334
+      }
+    },
+    {
+      "id": "36055",
+      "title": "Monroe, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.281837997035767,
+        "Fine particulate matter exposure": 5.665891666666667
+      }
+    },
+    {
+      "id": "36057",
+      "title": "Montgomery, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.636997008377095,
+        "Fine particulate matter exposure": 6.738908333333335
+      }
+    },
+    {
+      "id": "36059",
+      "title": "Nassau, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.798786760113733,
+        "Fine particulate matter exposure": 4.947108333333333
+      }
+    },
+    {
+      "id": "36061",
+      "title": "New York, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.651274753526967,
+        "Fine particulate matter exposure": 3.7982333333333345
+      }
+    },
+    {
+      "id": "36063",
+      "title": "Niagara, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.8914208403228,
+        "Fine particulate matter exposure": 5.667683333333334
+      }
+    },
+    {
+      "id": "36065",
+      "title": "Oneida, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.825143591228883,
+        "Fine particulate matter exposure": 6.40735
+      }
+    },
+    {
+      "id": "36067",
+      "title": "Onondaga, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.139992099188067,
+        "Fine particulate matter exposure": 5.8763250000000005
+      }
+    },
+    {
+      "id": "36069",
+      "title": "Ontario, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.902983281029233,
+        "Fine particulate matter exposure": 6.127916666666668
+      }
+    },
+    {
+      "id": "36071",
+      "title": "Orange, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.320198571667035,
+        "Fine particulate matter exposure": 5.458983333333333
+      }
+    },
+    {
+      "id": "36073",
+      "title": "Orleans, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.8914208403228,
+        "Fine particulate matter exposure": 6.063125000000001
+      }
+    },
+    {
+      "id": "36075",
+      "title": "Oswego, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.069310875359841,
+        "Fine particulate matter exposure": 6.505766666666666
+      }
+    },
+    {
+      "id": "36077",
+      "title": "Otsego, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.721943553627966,
+        "Fine particulate matter exposure": 6.580158333333333
+      }
+    },
+    {
+      "id": "36079",
+      "title": "Putnam, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.455350933348967,
+        "Fine particulate matter exposure": 5.597808333333334
+      }
+    },
+    {
+      "id": "36081",
+      "title": "Queens, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.9660773302272996,
+        "Fine particulate matter exposure": 4.600541666666667
+      }
+    },
+    {
+      "id": "36083",
+      "title": "Rensselaer, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.2882572109076,
+        "Fine particulate matter exposure": 6.411266666666667
+      }
+    },
+    {
+      "id": "36085",
+      "title": "Richmond, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.9858437570814016,
+        "Fine particulate matter exposure": 4.802675
+      }
+    },
+    {
+      "id": "36087",
+      "title": "Rockland, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.417554914953468,
+        "Fine particulate matter exposure": 4.9998000000000005
+      }
+    },
+    {
+      "id": "36089",
+      "title": "St Lawrence, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.800953077907048,
+        "Fine particulate matter exposure": 6.492250000000001
+      }
+    },
+    {
+      "id": "36091",
+      "title": "Saratoga, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.589754590620299,
+        "Fine particulate matter exposure": 6.719483333333334
+      }
+    },
+    {
+      "id": "36093",
+      "title": "Schenectady, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.6983517044596,
+        "Fine particulate matter exposure": 6.124875
+      }
+    },
+    {
+      "id": "36095",
+      "title": "Schoharie, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.6983517044596,
+        "Fine particulate matter exposure": 6.809150000000001
+      }
+    },
+    {
+      "id": "36097",
+      "title": "Schuyler, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.748902536933214,
+        "Fine particulate matter exposure": 6.061341666666666
+      }
+    },
+    {
+      "id": "36099",
+      "title": "Seneca, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.748902536933214,
+        "Fine particulate matter exposure": 6.221183333333334
+      }
+    },
+    {
+      "id": "36101",
+      "title": "Steuben, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.693020413052935,
+        "Fine particulate matter exposure": 5.795816666666667
+      }
+    },
+    {
+      "id": "36103",
+      "title": "Suffolk, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.9383988483660675,
+        "Fine particulate matter exposure": 5.225966666666667
+      }
+    },
+    {
+      "id": "36105",
+      "title": "Sullivan, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.492885118952687,
+        "Fine particulate matter exposure": 5.959433333333334
+      }
+    },
+    {
+      "id": "36107",
+      "title": "Tioga, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.235617775557099,
+        "Fine particulate matter exposure": 5.738708333333333
+      }
+    },
+    {
+      "id": "36109",
+      "title": "Tompkins, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.083178432887978,
+        "Fine particulate matter exposure": 5.812716666666667
+      }
+    },
+    {
+      "id": "36111",
+      "title": "Ulster, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.150489928102974,
+        "Fine particulate matter exposure": 5.838408333333334
+      }
+    },
+    {
+      "id": "36113",
+      "title": "Warren, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.623508523967983,
+        "Fine particulate matter exposure": 6.854058333333334
+      }
+    },
+    {
+      "id": "36115",
+      "title": "Washington, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.591305699666973,
+        "Fine particulate matter exposure": 7.1347000000000005
+      }
+    },
+    {
+      "id": "36117",
+      "title": "Wayne, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.981616663649127,
+        "Fine particulate matter exposure": 6.249925
+      }
+    },
+    {
+      "id": "36119",
+      "title": "Westchester, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.966996941271934,
+        "Fine particulate matter exposure": 4.912358333333334
+      }
+    },
+    {
+      "id": "36121",
+      "title": "Wyoming, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.2333236172038,
+        "Fine particulate matter exposure": 6.022775000000001
+      }
+    },
+    {
+      "id": "36123",
+      "title": "Yates, NY",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.748902536933214,
+        "Fine particulate matter exposure": 6.157983333333334
+      }
+    },
+    {
+      "id": "40001",
+      "title": "Adair, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.941410468855766,
+        "Fine particulate matter exposure": 4.79255
+      }
+    },
+    {
+      "id": "40003",
+      "title": "Alfalfa, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.250225
+      }
+    },
+    {
+      "id": "40005",
+      "title": "Atoka, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.356191786693867,
+        "Fine particulate matter exposure": 4.750875000000001
+      }
+    },
+    {
+      "id": "40007",
+      "title": "Beaver, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.177441666666667
+      }
+    },
+    {
+      "id": "40009",
+      "title": "Beckham, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.030025123887201,
+        "Fine particulate matter exposure": 5.185883333333334
+      }
+    },
+    {
+      "id": "40011",
+      "title": "Blaine, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.030025123887201,
+        "Fine particulate matter exposure": 5.2134
+      }
+    },
+    {
+      "id": "40013",
+      "title": "Bryan, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.5127453518863336,
+        "Fine particulate matter exposure": 4.567508333333334
+      }
+    },
+    {
+      "id": "40015",
+      "title": "Caddo, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.030025123887201,
+        "Fine particulate matter exposure": 5.143608333333333
+      }
+    },
+    {
+      "id": "40017",
+      "title": "Canadian, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.741933821030035,
+        "Fine particulate matter exposure": 4.631816666666667
+      }
+    },
+    {
+      "id": "40019",
+      "title": "Carter, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.5127453518863336,
+        "Fine particulate matter exposure": 4.703991666666668
+      }
+    },
+    {
+      "id": "40021",
+      "title": "Cherokee, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.484586505195934,
+        "Fine particulate matter exposure": 4.53535
+      }
+    },
+    {
+      "id": "40023",
+      "title": "Choctaw, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.356191786693867,
+        "Fine particulate matter exposure": 4.629191666666667
+      }
+    },
+    {
+      "id": "40025",
+      "title": "Cimarron, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 6.2349250000000005
+      }
+    },
+    {
+      "id": "40027",
+      "title": "Cleveland, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.433315026686167,
+        "Fine particulate matter exposure": 4.455658333333334
+      }
+    },
+    {
+      "id": "40029",
+      "title": "Coal, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.738215450412001,
+        "Fine particulate matter exposure": 4.907183333333333
+      }
+    },
+    {
+      "id": "40031",
+      "title": "Comanche, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.752305088056635,
+        "Fine particulate matter exposure": 4.94785
+      }
+    },
+    {
+      "id": "40033",
+      "title": "Cotton, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.318441666666668
+      }
+    },
+    {
+      "id": "40035",
+      "title": "Craig, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.717827105389434,
+        "Fine particulate matter exposure": 4.5195083333333335
+      }
+    },
+    {
+      "id": "40037",
+      "title": "Creek, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.843469039273867,
+        "Fine particulate matter exposure": 4.349541666666667
+      }
+    },
+    {
+      "id": "40039",
+      "title": "Custer, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.030025123887201,
+        "Fine particulate matter exposure": 5.032366666666667
+      }
+    },
+    {
+      "id": "40041",
+      "title": "Delaware, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.941410468855766,
+        "Fine particulate matter exposure": 4.6402
+      }
+    },
+    {
+      "id": "40043",
+      "title": "Dewey, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.556183333333333
+      }
+    },
+    {
+      "id": "40045",
+      "title": "Ellis, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.169525
+      }
+    },
+    {
+      "id": "40047",
+      "title": "Garfield, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.246618124216666,
+        "Fine particulate matter exposure": 4.783475
+      }
+    },
+    {
+      "id": "40049",
+      "title": "Garvin, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.142285067411899,
+        "Fine particulate matter exposure": 4.962416666666668
+      }
+    },
+    {
+      "id": "40051",
+      "title": "Grady, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.7636673631024,
+        "Fine particulate matter exposure": 4.870741666666667
+      }
+    },
+    {
+      "id": "40053",
+      "title": "Grant, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.474976249897668,
+        "Fine particulate matter exposure": 5.331783333333334
+      }
+    },
+    {
+      "id": "40055",
+      "title": "Greer, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.411741666666667
+      }
+    },
+    {
+      "id": "40057",
+      "title": "Harmon, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.638083333333333
+      }
+    },
+    {
+      "id": "40059",
+      "title": "Harper, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.164808333333334
+      }
+    },
+    {
+      "id": "40061",
+      "title": "Haskell, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.356191786693867,
+        "Fine particulate matter exposure": 4.623416666666667
+      }
+    },
+    {
+      "id": "40063",
+      "title": "Hughes, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.738215450412001,
+        "Fine particulate matter exposure": 4.763000000000001
+      }
+    },
+    {
+      "id": "40065",
+      "title": "Jackson, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.036391666666667
+      }
+    },
+    {
+      "id": "40067",
+      "title": "Jefferson, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.21975
+      }
+    },
+    {
+      "id": "40069",
+      "title": "Johnston, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.738215450412001,
+        "Fine particulate matter exposure": 4.826733333333334
+      }
+    },
+    {
+      "id": "40071",
+      "title": "Kay, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.474976249897668,
+        "Fine particulate matter exposure": 4.705408333333334
+      }
+    },
+    {
+      "id": "40073",
+      "title": "Kingfisher, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.030025123887201,
+        "Fine particulate matter exposure": 5.052725000000001
+      }
+    },
+    {
+      "id": "40075",
+      "title": "Kiowa, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.374333333333334
+      }
+    },
+    {
+      "id": "40077",
+      "title": "Latimer, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.356191786693867,
+        "Fine particulate matter exposure": 4.704033333333333
+      }
+    },
+    {
+      "id": "40079",
+      "title": "Le Flore, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.2651724359014,
+        "Fine particulate matter exposure": 4.530083333333333
+      }
+    },
+    {
+      "id": "40081",
+      "title": "Lincoln, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.632149829134933,
+        "Fine particulate matter exposure": 4.853341666666667
+      }
+    },
+    {
+      "id": "40083",
+      "title": "Logan, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.632149829134933,
+        "Fine particulate matter exposure": 4.829083333333334
+      }
+    },
+    {
+      "id": "40085",
+      "title": "Love, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 4.9992
+      }
+    },
+    {
+      "id": "40087",
+      "title": "McClain, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.7636673631024,
+        "Fine particulate matter exposure": 4.848308333333334
+      }
+    },
+    {
+      "id": "40089",
+      "title": "McCurtain, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.356191786693867,
+        "Fine particulate matter exposure": 4.548541666666667
+      }
+    },
+    {
+      "id": "40091",
+      "title": "McIntosh, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 1.5780600806995986,
+        "Fine particulate matter exposure": 4.486716666666666
+      }
+    },
+    {
+      "id": "40093",
+      "title": "Major, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.282283333333333
+      }
+    },
+    {
+      "id": "40095",
+      "title": "Marshall, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.5127453518863336,
+        "Fine particulate matter exposure": 4.7027
+      }
+    },
+    {
+      "id": "40097",
+      "title": "Mayes, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.484586505195934,
+        "Fine particulate matter exposure": 4.361083333333333
+      }
+    },
+    {
+      "id": "40099",
+      "title": "Murray, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.738215450412001,
+        "Fine particulate matter exposure": 4.892125
+      }
+    },
+    {
+      "id": "40101",
+      "title": "Muskogee, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.3549594140031327,
+        "Fine particulate matter exposure": 4.157958333333333
+      }
+    },
+    {
+      "id": "40103",
+      "title": "Noble, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.474976249897668,
+        "Fine particulate matter exposure": 4.934525
+      }
+    },
+    {
+      "id": "40105",
+      "title": "Nowata, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.717827105389434,
+        "Fine particulate matter exposure": 4.620175
+      }
+    },
+    {
+      "id": "40107",
+      "title": "Okfuskee, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.738215450412001,
+        "Fine particulate matter exposure": 4.718975
+      }
+    },
+    {
+      "id": "40109",
+      "title": "Oklahoma, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.2271564025342325,
+        "Fine particulate matter exposure": 4.422500000000001
+      }
+    },
+    {
+      "id": "40111",
+      "title": "Okmulgee, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.379820705359835,
+        "Fine particulate matter exposure": 4.383725
+      }
+    },
+    {
+      "id": "40113",
+      "title": "Osage, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.3398473432182,
+        "Fine particulate matter exposure": 4.421958333333333
+      }
+    },
+    {
+      "id": "40115",
+      "title": "Ottawa, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.717827105389434,
+        "Fine particulate matter exposure": 4.387858333333334
+      }
+    },
+    {
+      "id": "40117",
+      "title": "Pawnee, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.3398473432182,
+        "Fine particulate matter exposure": 4.751800000000001
+      }
+    },
+    {
+      "id": "40119",
+      "title": "Payne, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.803413596132135,
+        "Fine particulate matter exposure": 4.510466666666667
+      }
+    },
+    {
+      "id": "40121",
+      "title": "Pittsburg, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 1.5780600806995986,
+        "Fine particulate matter exposure": 4.3408500000000005
+      }
+    },
+    {
+      "id": "40123",
+      "title": "Pontotoc, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.3761134150221,
+        "Fine particulate matter exposure": 4.640866666666668
+      }
+    },
+    {
+      "id": "40125",
+      "title": "Pottawatomie, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.344143259177301,
+        "Fine particulate matter exposure": 4.641366666666667
+      }
+    },
+    {
+      "id": "40127",
+      "title": "Pushmataha, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.356191786693867,
+        "Fine particulate matter exposure": 4.736008333333333
+      }
+    },
+    {
+      "id": "40129",
+      "title": "Roger Mills, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.513833333333334
+      }
+    },
+    {
+      "id": "40131",
+      "title": "Rogers, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.522083854794399,
+        "Fine particulate matter exposure": 4.179616666666666
+      }
+    },
+    {
+      "id": "40133",
+      "title": "Seminole, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.3761134150221,
+        "Fine particulate matter exposure": 4.722808333333334
+      }
+    },
+    {
+      "id": "40135",
+      "title": "Sequoyah, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.2651724359014,
+        "Fine particulate matter exposure": 4.507058333333334
+      }
+    },
+    {
+      "id": "40137",
+      "title": "Stephens, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.142285067411899,
+        "Fine particulate matter exposure": 4.926066666666667
+      }
+    },
+    {
+      "id": "40139",
+      "title": "Texas, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.230775000000001
+      }
+    },
+    {
+      "id": "40141",
+      "title": "Tillman, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.4930166666666675
+      }
+    },
+    {
+      "id": "40143",
+      "title": "Tulsa, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.912282878531467,
+        "Fine particulate matter exposure": 3.718725
+      }
+    },
+    {
+      "id": "40145",
+      "title": "Wagoner, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.379820705359835,
+        "Fine particulate matter exposure": 4.089525
+      }
+    },
+    {
+      "id": "40147",
+      "title": "Washington, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.717827105389434,
+        "Fine particulate matter exposure": 4.061591666666667
+      }
+    },
+    {
+      "id": "40149",
+      "title": "Washita, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7702261915623,
+        "Fine particulate matter exposure": 5.319725000000001
+      }
+    },
+    {
+      "id": "40151",
+      "title": "Woods, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 5.067116666666667
+      }
+    },
+    {
+      "id": "40153",
+      "title": "Woodward, OK",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.361998147980934,
+        "Fine particulate matter exposure": 4.9748
+      }
+    },
+    {
+      "id": "48001",
+      "title": "Anderson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.031705453100699,
+        "Fine particulate matter exposure": 4.084416666666668
+      }
+    },
+    {
+      "id": "48003",
+      "title": "Andrews, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.240592758262268,
+        "Fine particulate matter exposure": 6.009750000000001
+      }
+    },
+    {
+      "id": "48005",
+      "title": "Angelina, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.703381633880133,
+        "Fine particulate matter exposure": 3.8414416666666678
+      }
+    },
+    {
+      "id": "48007",
+      "title": "Aransas, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.136382908191733,
+        "Fine particulate matter exposure": 4.014016666666667
+      }
+    },
+    {
+      "id": "48009",
+      "title": "Archer, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.302372300785934,
+        "Fine particulate matter exposure": 5.251591666666667
+      }
+    },
+    {
+      "id": "48011",
+      "title": "Armstrong, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.283007696878597,
+        "Fine particulate matter exposure": 6.4175
+      }
+    },
+    {
+      "id": "48013",
+      "title": "Atascosa, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.785081649215333,
+        "Fine particulate matter exposure": 4.858225
+      }
+    },
+    {
+      "id": "48015",
+      "title": "Austin, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.4466063764616335,
+        "Fine particulate matter exposure": 4.048258333333334
+      }
+    },
+    {
+      "id": "48017",
+      "title": "Bailey, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.7841499999999995
+      }
+    },
+    {
+      "id": "48019",
+      "title": "Bandera, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.831556161068526,
+        "Fine particulate matter exposure": 5.381791666666667
+      }
+    },
+    {
+      "id": "48021",
+      "title": "Bastrop, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.873026068640834,
+        "Fine particulate matter exposure": 4.7525666666666675
+      }
+    },
+    {
+      "id": "48023",
+      "title": "Baylor, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.615025000000001
+      }
+    },
+    {
+      "id": "48025",
+      "title": "Bee, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1093309152184325,
+        "Fine particulate matter exposure": 4.281975
+      }
+    },
+    {
+      "id": "48027",
+      "title": "Bell, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.9028216877371,
+        "Fine particulate matter exposure": 4.63035
+      }
+    },
+    {
+      "id": "48029",
+      "title": "Bexar, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.498011436035233,
+        "Fine particulate matter exposure": 4.319316666666667
+      }
+    },
+    {
+      "id": "48031",
+      "title": "Blanco, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.900017255093008,
+        "Fine particulate matter exposure": 5.511808333333333
+      }
+    },
+    {
+      "id": "48033",
+      "title": "Borden, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.613991666666667
+      }
+    },
+    {
+      "id": "48035",
+      "title": "Bosque, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.985589010555802,
+        "Fine particulate matter exposure": 5.06845
+      }
+    },
+    {
+      "id": "48037",
+      "title": "Bowie, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.472493592897767,
+        "Fine particulate matter exposure": 3.9532083333333334
+      }
+    },
+    {
+      "id": "48039",
+      "title": "Brazoria, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.013679154409999,
+        "Fine particulate matter exposure": 3.7377833333333346
+      }
+    },
+    {
+      "id": "48041",
+      "title": "Brazos, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.961981844759634,
+        "Fine particulate matter exposure": 3.651425
+      }
+    },
+    {
+      "id": "48043",
+      "title": "Brewster, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 4.937825000000001
+      }
+    },
+    {
+      "id": "48045",
+      "title": "Briscoe, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.625841666666668
+      }
+    },
+    {
+      "id": "48047",
+      "title": "Brooks, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.163658333333333
+      }
+    },
+    {
+      "id": "48049",
+      "title": "Brown, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.724172737091334,
+        "Fine particulate matter exposure": 5.567950000000001
+      }
+    },
+    {
+      "id": "48051",
+      "title": "Burleson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.961981844759634,
+        "Fine particulate matter exposure": 4.506283333333333
+      }
+    },
+    {
+      "id": "48053",
+      "title": "Burnet, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.900017255093008,
+        "Fine particulate matter exposure": 5.3352
+      }
+    },
+    {
+      "id": "48055",
+      "title": "Caldwell, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.873026068640834,
+        "Fine particulate matter exposure": 4.828008333333334
+      }
+    },
+    {
+      "id": "48057",
+      "title": "Calhoun, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.136382908191733,
+        "Fine particulate matter exposure": 4.27425
+      }
+    },
+    {
+      "id": "48059",
+      "title": "Callahan, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.9177764285106,
+        "Fine particulate matter exposure": 5.8417
+      }
+    },
+    {
+      "id": "48061",
+      "title": "Cameron, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.944051545462999,
+        "Fine particulate matter exposure": 2.249
+      }
+    },
+    {
+      "id": "48063",
+      "title": "Camp, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.0438746586806005,
+        "Fine particulate matter exposure": 4.185216666666667
+      }
+    },
+    {
+      "id": "48065",
+      "title": "Carson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.283007696878597,
+        "Fine particulate matter exposure": 6.105208333333334
+      }
+    },
+    {
+      "id": "48067",
+      "title": "Cass, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.913014582027567,
+        "Fine particulate matter exposure": 4.271691666666667
+      }
+    },
+    {
+      "id": "48069",
+      "title": "Castro, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.771458333333334
+      }
+    },
+    {
+      "id": "48071",
+      "title": "Chambers, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.903114833915868,
+        "Fine particulate matter exposure": 4.076825
+      }
+    },
+    {
+      "id": "48073",
+      "title": "Cherokee, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.031705453100699,
+        "Fine particulate matter exposure": 4.056508333333333
+      }
+    },
+    {
+      "id": "48075",
+      "title": "Childress, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.689766666666667
+      }
+    },
+    {
+      "id": "48077",
+      "title": "Clay, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.302372300785934,
+        "Fine particulate matter exposure": 5.253066666666667
+      }
+    },
+    {
+      "id": "48079",
+      "title": "Cochran, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.7571666666666665
+      }
+    },
+    {
+      "id": "48081",
+      "title": "Coke, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 6.159408333333333
+      }
+    },
+    {
+      "id": "48083",
+      "title": "Coleman, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.101965336144701,
+        "Fine particulate matter exposure": 5.91615
+      }
+    },
+    {
+      "id": "48085",
+      "title": "Collin, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.455593893634668,
+        "Fine particulate matter exposure": 3.9678250000000004
+      }
+    },
+    {
+      "id": "48087",
+      "title": "Collingsworth, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.737100000000001
+      }
+    },
+    {
+      "id": "48089",
+      "title": "Colorado, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.610408309403234,
+        "Fine particulate matter exposure": 4.309475
+      }
+    },
+    {
+      "id": "48091",
+      "title": "Comal, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.8840663871172,
+        "Fine particulate matter exposure": 4.891183333333333
+      }
+    },
+    {
+      "id": "48093",
+      "title": "Comanche, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.101965336144701,
+        "Fine particulate matter exposure": 5.610458333333333
+      }
+    },
+    {
+      "id": "48095",
+      "title": "Concho, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.9028833333333335
+      }
+    },
+    {
+      "id": "48097",
+      "title": "Cooke, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.6937202337479675,
+        "Fine particulate matter exposure": 4.631866666666667
+      }
+    },
+    {
+      "id": "48099",
+      "title": "Coryell, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.559930295219434,
+        "Fine particulate matter exposure": 4.903175000000001
+      }
+    },
+    {
+      "id": "48101",
+      "title": "Cottle, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.164283333333334
+      }
+    },
+    {
+      "id": "48103",
+      "title": "Crane, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.863341666666668
+      }
+    },
+    {
+      "id": "48105",
+      "title": "Crockett, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.779908333333334
+      }
+    },
+    {
+      "id": "48107",
+      "title": "Crosby, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.019681429135067,
+        "Fine particulate matter exposure": 6.419416666666667
+      }
+    },
+    {
+      "id": "48109",
+      "title": "Culberson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 4.7176833333333335
+      }
+    },
+    {
+      "id": "48111",
+      "title": "Dallam, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 6.412925
+      }
+    },
+    {
+      "id": "48113",
+      "title": "Dallas, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.575241270208134,
+        "Fine particulate matter exposure": 3.762533333333334
+      }
+    },
+    {
+      "id": "48115",
+      "title": "Dawson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.240592758262268,
+        "Fine particulate matter exposure": 6.175408333333334
+      }
+    },
+    {
+      "id": "48117",
+      "title": "Deaf Smith, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 6.626966666666666
+      }
+    },
+    {
+      "id": "48119",
+      "title": "Delta, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.1164648225466,
+        "Fine particulate matter exposure": 4.517808333333334
+      }
+    },
+    {
+      "id": "48121",
+      "title": "Denton, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.179789337261367,
+        "Fine particulate matter exposure": 3.9896833333333337
+      }
+    },
+    {
+      "id": "48123",
+      "title": "De Witt, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.855624173463533,
+        "Fine particulate matter exposure": 4.602658333333333
+      }
+    },
+    {
+      "id": "48125",
+      "title": "Dickens, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.346083333333334
+      }
+    },
+    {
+      "id": "48127",
+      "title": "Dimmit, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.7584
+      }
+    },
+    {
+      "id": "48129",
+      "title": "Donley, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.095941666666667
+      }
+    },
+    {
+      "id": "48131",
+      "title": "Duval, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.3900500000000005
+      }
+    },
+    {
+      "id": "48133",
+      "title": "Eastland, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.724172737091334,
+        "Fine particulate matter exposure": 5.644941666666667
+      }
+    },
+    {
+      "id": "48135",
+      "title": "Ector, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.993459374076,
+        "Fine particulate matter exposure": 5.932866666666667
+      }
+    },
+    {
+      "id": "48137",
+      "title": "Edwards, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 5.717725000000001
+      }
+    },
+    {
+      "id": "48139",
+      "title": "Ellis, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.267948603997834,
+        "Fine particulate matter exposure": 4.241666666666667
+      }
+    },
+    {
+      "id": "48141",
+      "title": "El Paso, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.546806618122222,
+        "Fine particulate matter exposure": 2.82155
+      }
+    },
+    {
+      "id": "48143",
+      "title": "Erath, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.0118801517973,
+        "Fine particulate matter exposure": 5.197091666666666
+      }
+    },
+    {
+      "id": "48145",
+      "title": "Falls, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.207932177434733,
+        "Fine particulate matter exposure": 4.738708333333333
+      }
+    },
+    {
+      "id": "48147",
+      "title": "Fannin, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.2493017620335003,
+        "Fine particulate matter exposure": 4.541333333333333
+      }
+    },
+    {
+      "id": "48149",
+      "title": "Fayette, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.610408309403234,
+        "Fine particulate matter exposure": 4.549275
+      }
+    },
+    {
+      "id": "48151",
+      "title": "Fisher, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.156066666666667
+      }
+    },
+    {
+      "id": "48153",
+      "title": "Floyd, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.351083333333333
+      }
+    },
+    {
+      "id": "48155",
+      "title": "Foard, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.882266666666667
+      }
+    },
+    {
+      "id": "48157",
+      "title": "Fort Bend, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.600593372407533,
+        "Fine particulate matter exposure": 3.319775
+      }
+    },
+    {
+      "id": "48159",
+      "title": "Franklin, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.0438746586806005,
+        "Fine particulate matter exposure": 4.2605666666666675
+      }
+    },
+    {
+      "id": "48161",
+      "title": "Freestone, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.346442902678933,
+        "Fine particulate matter exposure": 4.368291666666667
+      }
+    },
+    {
+      "id": "48163",
+      "title": "Frio, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 4.9158
+      }
+    },
+    {
+      "id": "48165",
+      "title": "Gaines, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.240592758262268,
+        "Fine particulate matter exposure": 6.245525000000001
+      }
+    },
+    {
+      "id": "48167",
+      "title": "Galveston, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.424369908273268,
+        "Fine particulate matter exposure": 3.964758333333333
+      }
+    },
+    {
+      "id": "48169",
+      "title": "Garza, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.258775
+      }
+    },
+    {
+      "id": "48171",
+      "title": "Gillespie, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 5.551241666666667
+      }
+    },
+    {
+      "id": "48173",
+      "title": "Glasscock, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 6.3730416666666665
+      }
+    },
+    {
+      "id": "48175",
+      "title": "Goliad, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.191723019248768,
+        "Fine particulate matter exposure": 4.604525000000001
+      }
+    },
+    {
+      "id": "48177",
+      "title": "Gonzales, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1093309152184325,
+        "Fine particulate matter exposure": 4.746008333333334
+      }
+    },
+    {
+      "id": "48179",
+      "title": "Gray, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.478516666666668
+      }
+    },
+    {
+      "id": "48181",
+      "title": "Grayson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.243000974983667,
+        "Fine particulate matter exposure": 4.379533333333334
+      }
+    },
+    {
+      "id": "48183",
+      "title": "Gregg, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.3843005518311657,
+        "Fine particulate matter exposure": 3.7154833333333332
+      }
+    },
+    {
+      "id": "48185",
+      "title": "Grimes, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.7781972336575995,
+        "Fine particulate matter exposure": 4.0462
+      }
+    },
+    {
+      "id": "48187",
+      "title": "Guadalupe, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.012073844495566,
+        "Fine particulate matter exposure": 4.622541666666667
+      }
+    },
+    {
+      "id": "48189",
+      "title": "Hale, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.381241666666667
+      }
+    },
+    {
+      "id": "48191",
+      "title": "Hall, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.11165
+      }
+    },
+    {
+      "id": "48193",
+      "title": "Hamilton, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.101965336144701,
+        "Fine particulate matter exposure": 5.408158333333334
+      }
+    },
+    {
+      "id": "48195",
+      "title": "Hansford, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 5.643283333333334
+      }
+    },
+    {
+      "id": "48197",
+      "title": "Hardeman, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.6670750000000005
+      }
+    },
+    {
+      "id": "48199",
+      "title": "Hardin, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.341229008930835,
+        "Fine particulate matter exposure": 4.323916666666666
+      }
+    },
+    {
+      "id": "48201",
+      "title": "Harris, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.2578434987765,
+        "Fine particulate matter exposure": 3.133366666666667
+      }
+    },
+    {
+      "id": "48203",
+      "title": "Harrison, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.929732103487601,
+        "Fine particulate matter exposure": 3.9863416666666662
+      }
+    },
+    {
+      "id": "48205",
+      "title": "Hartley, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 6.418325000000001
+      }
+    },
+    {
+      "id": "48207",
+      "title": "Haskell, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.831991666666667
+      }
+    },
+    {
+      "id": "48209",
+      "title": "Hays, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.399758035565235,
+        "Fine particulate matter exposure": 4.7658249999999995
+      }
+    },
+    {
+      "id": "48211",
+      "title": "Hemphill, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 5.230825
+      }
+    },
+    {
+      "id": "48213",
+      "title": "Henderson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.881435232830666,
+        "Fine particulate matter exposure": 4.167016666666667
+      }
+    },
+    {
+      "id": "48215",
+      "title": "Hidalgo, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.329985807385568,
+        "Fine particulate matter exposure": 2.6475583333333343
+      }
+    },
+    {
+      "id": "48217",
+      "title": "Hill, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.985589010555802,
+        "Fine particulate matter exposure": 4.813891666666668
+      }
+    },
+    {
+      "id": "48219",
+      "title": "Hockley, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.240592758262268,
+        "Fine particulate matter exposure": 6.488175
+      }
+    },
+    {
+      "id": "48221",
+      "title": "Hood, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.985589010555802,
+        "Fine particulate matter exposure": 4.814500000000001
+      }
+    },
+    {
+      "id": "48223",
+      "title": "Hopkins, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.0438746586806005,
+        "Fine particulate matter exposure": 4.249466666666667
+      }
+    },
+    {
+      "id": "48225",
+      "title": "Houston, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.346442902678933,
+        "Fine particulate matter exposure": 4.204650000000001
+      }
+    },
+    {
+      "id": "48227",
+      "title": "Howard, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1293272940176005,
+        "Fine particulate matter exposure": 5.902925000000001
+      }
+    },
+    {
+      "id": "48229",
+      "title": "Hudspeth, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 3.1422333333333343
+      }
+    },
+    {
+      "id": "48231",
+      "title": "Hunt, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.1164648225466,
+        "Fine particulate matter exposure": 4.300491666666668
+      }
+    },
+    {
+      "id": "48233",
+      "title": "Hutchinson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 5.806483333333333
+      }
+    },
+    {
+      "id": "48235",
+      "title": "Irion, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.649451708473102,
+        "Fine particulate matter exposure": 6.011291666666667
+      }
+    },
+    {
+      "id": "48237",
+      "title": "Jack, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.724172737091334,
+        "Fine particulate matter exposure": 5.292341666666667
+      }
+    },
+    {
+      "id": "48239",
+      "title": "Jackson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.855624173463533,
+        "Fine particulate matter exposure": 4.357466666666667
+      }
+    },
+    {
+      "id": "48241",
+      "title": "Jasper, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.452283816428467,
+        "Fine particulate matter exposure": 4.5299249999999995
+      }
+    },
+    {
+      "id": "48243",
+      "title": "Jeff Davis, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.144433333333334
+      }
+    },
+    {
+      "id": "48245",
+      "title": "Jefferson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.767127585230833,
+        "Fine particulate matter exposure": 4.177575
+      }
+    },
+    {
+      "id": "48247",
+      "title": "Jim Hogg, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.307666666666667
+      }
+    },
+    {
+      "id": "48249",
+      "title": "Jim Wells, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.262306776607668,
+        "Fine particulate matter exposure": 4.089375
+      }
+    },
+    {
+      "id": "48251",
+      "title": "Johnson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.659793198186033,
+        "Fine particulate matter exposure": 4.486533333333333
+      }
+    },
+    {
+      "id": "48253",
+      "title": "Jones, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.9177764285106,
+        "Fine particulate matter exposure": 5.833558333333334
+      }
+    },
+    {
+      "id": "48255",
+      "title": "Karnes, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1093309152184325,
+        "Fine particulate matter exposure": 4.608291666666667
+      }
+    },
+    {
+      "id": "48257",
+      "title": "Kaufman, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.358450767084366,
+        "Fine particulate matter exposure": 4.182041666666667
+      }
+    },
+    {
+      "id": "48259",
+      "title": "Kendall, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.831556161068526,
+        "Fine particulate matter exposure": 5.285383333333334
+      }
+    },
+    {
+      "id": "48261",
+      "title": "Kenedy, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.531883333333333
+      }
+    },
+    {
+      "id": "48263",
+      "title": "Kent, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.405175000000001
+      }
+    },
+    {
+      "id": "48265",
+      "title": "Kerr, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 5.33915
+      }
+    },
+    {
+      "id": "48267",
+      "title": "Kimble, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 5.836141666666667
+      }
+    },
+    {
+      "id": "48269",
+      "title": "King, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.457400000000001
+      }
+    },
+    {
+      "id": "48271",
+      "title": "Kinney, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 5.150575
+      }
+    },
+    {
+      "id": "48273",
+      "title": "Kleberg, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.262306776607668,
+        "Fine particulate matter exposure": 3.9227000000000007
+      }
+    },
+    {
+      "id": "48275",
+      "title": "Knox, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.879116666666667
+      }
+    },
+    {
+      "id": "48277",
+      "title": "Lamar, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.2493017620335003,
+        "Fine particulate matter exposure": 4.302616666666667
+      }
+    },
+    {
+      "id": "48279",
+      "title": "Lamb, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.67765
+      }
+    },
+    {
+      "id": "48281",
+      "title": "Lampasas, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.559930295219434,
+        "Fine particulate matter exposure": 5.24355
+      }
+    },
+    {
+      "id": "48283",
+      "title": "La Salle, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.720558333333334
+      }
+    },
+    {
+      "id": "48285",
+      "title": "Lavaca, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.855624173463533,
+        "Fine particulate matter exposure": 4.5587
+      }
+    },
+    {
+      "id": "48287",
+      "title": "Lee, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.610408309403234,
+        "Fine particulate matter exposure": 4.675058333333334
+      }
+    },
+    {
+      "id": "48289",
+      "title": "Leon, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.346442902678933,
+        "Fine particulate matter exposure": 4.436850000000001
+      }
+    },
+    {
+      "id": "48291",
+      "title": "Liberty, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.903114833915868,
+        "Fine particulate matter exposure": 3.9559999999999995
+      }
+    },
+    {
+      "id": "48293",
+      "title": "Limestone, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.207932177434733,
+        "Fine particulate matter exposure": 4.511808333333334
+      }
+    },
+    {
+      "id": "48295",
+      "title": "Lipscomb, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 5.181491666666667
+      }
+    },
+    {
+      "id": "48297",
+      "title": "Live Oak, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.595608333333334
+      }
+    },
+    {
+      "id": "48299",
+      "title": "Llano, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.900017255093008,
+        "Fine particulate matter exposure": 5.444050000000001
+      }
+    },
+    {
+      "id": "48301",
+      "title": "Loving, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 6.0815833333333345
+      }
+    },
+    {
+      "id": "48303",
+      "title": "Lubbock, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.019681429135067,
+        "Fine particulate matter exposure": 6.092183333333334
+      }
+    },
+    {
+      "id": "48305",
+      "title": "Lynn, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.240592758262268,
+        "Fine particulate matter exposure": 6.511450000000001
+      }
+    },
+    {
+      "id": "48307",
+      "title": "McCulloch, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.101965336144701,
+        "Fine particulate matter exposure": 5.717208333333333
+      }
+    },
+    {
+      "id": "48309",
+      "title": "McLennan, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.327444102466501,
+        "Fine particulate matter exposure": 4.178433333333333
+      }
+    },
+    {
+      "id": "48311",
+      "title": "McMullen, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 5.061658333333334
+      }
+    },
+    {
+      "id": "48313",
+      "title": "Madison, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.346442902678933,
+        "Fine particulate matter exposure": 4.177475
+      }
+    },
+    {
+      "id": "48315",
+      "title": "Marion, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.913014582027567,
+        "Fine particulate matter exposure": 4.254875000000001
+      }
+    },
+    {
+      "id": "48317",
+      "title": "Martin, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.336658333333333
+      }
+    },
+    {
+      "id": "48319",
+      "title": "Mason, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.836033333333333
+      }
+    },
+    {
+      "id": "48321",
+      "title": "Matagorda, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.060174237865999,
+        "Fine particulate matter exposure": 4.218583333333333
+      }
+    },
+    {
+      "id": "48323",
+      "title": "Maverick, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.730579412535568,
+        "Fine particulate matter exposure": 3.4750833333333335
+      }
+    },
+    {
+      "id": "48325",
+      "title": "Medina, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.831556161068526,
+        "Fine particulate matter exposure": 5.119783333333333
+      }
+    },
+    {
+      "id": "48327",
+      "title": "Menard, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 6.0281416666666665
+      }
+    },
+    {
+      "id": "48329",
+      "title": "Midland, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.2058190852905,
+        "Fine particulate matter exposure": 5.808175
+      }
+    },
+    {
+      "id": "48331",
+      "title": "Milam, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.207932177434733,
+        "Fine particulate matter exposure": 4.724866666666666
+      }
+    },
+    {
+      "id": "48333",
+      "title": "Mills, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.101965336144701,
+        "Fine particulate matter exposure": 5.670116666666668
+      }
+    },
+    {
+      "id": "48335",
+      "title": "Mitchell, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1293272940176005,
+        "Fine particulate matter exposure": 6.108633333333334
+      }
+    },
+    {
+      "id": "48337",
+      "title": "Montague, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.6937202337479675,
+        "Fine particulate matter exposure": 5.065683333333334
+      }
+    },
+    {
+      "id": "48339",
+      "title": "Montgomery, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.409880658949934,
+        "Fine particulate matter exposure": 3.3857749999999998
+      }
+    },
+    {
+      "id": "48341",
+      "title": "Moore, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 6.002341666666668
+      }
+    },
+    {
+      "id": "48343",
+      "title": "Morris, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.913014582027567,
+        "Fine particulate matter exposure": 4.204791666666667
+      }
+    },
+    {
+      "id": "48345",
+      "title": "Motley, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.434675
+      }
+    },
+    {
+      "id": "48347",
+      "title": "Nacogdoches, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.457142477599635,
+        "Fine particulate matter exposure": 3.9535
+      }
+    },
+    {
+      "id": "48349",
+      "title": "Navarro, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.207932177434733,
+        "Fine particulate matter exposure": 4.353325
+      }
+    },
+    {
+      "id": "48351",
+      "title": "Newton, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.327931926637134,
+        "Fine particulate matter exposure": 4.753841666666667
+      }
+    },
+    {
+      "id": "48353",
+      "title": "Nolan, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1293272940176005,
+        "Fine particulate matter exposure": 5.890541666666667
+      }
+    },
+    {
+      "id": "48355",
+      "title": "Nueces, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.9744083328794675,
+        "Fine particulate matter exposure": 3.649025000000001
+      }
+    },
+    {
+      "id": "48357",
+      "title": "Ochiltree, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 5.164558333333334
+      }
+    },
+    {
+      "id": "48359",
+      "title": "Oldham, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 6.815150000000002
+      }
+    },
+    {
+      "id": "48361",
+      "title": "Orange, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.341229008930835,
+        "Fine particulate matter exposure": 4.37905
+      }
+    },
+    {
+      "id": "48363",
+      "title": "Palo Pinto, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.0118801517973,
+        "Fine particulate matter exposure": 5.213908333333334
+      }
+    },
+    {
+      "id": "48365",
+      "title": "Panola, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.327931926637134,
+        "Fine particulate matter exposure": 4.197583333333333
+      }
+    },
+    {
+      "id": "48367",
+      "title": "Parker, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.908562732911166,
+        "Fine particulate matter exposure": 4.775366666666667
+      }
+    },
+    {
+      "id": "48369",
+      "title": "Parmer, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.9514000000000005
+      }
+    },
+    {
+      "id": "48371",
+      "title": "Pecos, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.333816666666667
+      }
+    },
+    {
+      "id": "48373",
+      "title": "Polk, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.256707030911468,
+        "Fine particulate matter exposure": 4.010608333333334
+      }
+    },
+    {
+      "id": "48375",
+      "title": "Potter, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.30360800249162,
+        "Fine particulate matter exposure": 6.159225
+      }
+    },
+    {
+      "id": "48377",
+      "title": "Presidio, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 4.011433333333334
+      }
+    },
+    {
+      "id": "48379",
+      "title": "Rains, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.0438746586806005,
+        "Fine particulate matter exposure": 4.366991666666666
+      }
+    },
+    {
+      "id": "48381",
+      "title": "Randall, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.283007696878597,
+        "Fine particulate matter exposure": 6.247466666666666
+      }
+    },
+    {
+      "id": "48383",
+      "title": "Reagan, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.823266666666667
+      }
+    },
+    {
+      "id": "48385",
+      "title": "Real, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 5.632233333333334
+      }
+    },
+    {
+      "id": "48387",
+      "title": "Red River, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.913014582027567,
+        "Fine particulate matter exposure": 4.508491666666667
+      }
+    },
+    {
+      "id": "48389",
+      "title": "Reeves, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.226216666666667
+      }
+    },
+    {
+      "id": "48391",
+      "title": "Refugio, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1093309152184325,
+        "Fine particulate matter exposure": 4.44355
+      }
+    },
+    {
+      "id": "48393",
+      "title": "Roberts, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 5.7395000000000005
+      }
+    },
+    {
+      "id": "48395",
+      "title": "Robertson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.961981844759634,
+        "Fine particulate matter exposure": 4.483658333333334
+      }
+    },
+    {
+      "id": "48397",
+      "title": "Rockwall, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.358450767084366,
+        "Fine particulate matter exposure": 4.013025000000001
+      }
+    },
+    {
+      "id": "48399",
+      "title": "Runnels, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.101965336144701,
+        "Fine particulate matter exposure": 5.914766666666667
+      }
+    },
+    {
+      "id": "48401",
+      "title": "Rusk, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.3843005518311657,
+        "Fine particulate matter exposure": 4.015891666666667
+      }
+    },
+    {
+      "id": "48403",
+      "title": "Sabine, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.327931926637134,
+        "Fine particulate matter exposure": 4.6557
+      }
+    },
+    {
+      "id": "48405",
+      "title": "San Augustine, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.327931926637134,
+        "Fine particulate matter exposure": 4.540425
+      }
+    },
+    {
+      "id": "48407",
+      "title": "San Jacinto, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.903114833915868,
+        "Fine particulate matter exposure": 3.9880333333333344
+      }
+    },
+    {
+      "id": "48409",
+      "title": "San Patricio, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.136382908191733,
+        "Fine particulate matter exposure": 4.106083333333334
+      }
+    },
+    {
+      "id": "48411",
+      "title": "San Saba, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.101965336144701,
+        "Fine particulate matter exposure": 5.7328833333333336
+      }
+    },
+    {
+      "id": "48413",
+      "title": "Schleicher, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.971275
+      }
+    },
+    {
+      "id": "48415",
+      "title": "Scurry, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1293272940176005,
+        "Fine particulate matter exposure": 6.046025000000001
+      }
+    },
+    {
+      "id": "48417",
+      "title": "Shackelford, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.841525000000001
+      }
+    },
+    {
+      "id": "48419",
+      "title": "Shelby, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.327931926637134,
+        "Fine particulate matter exposure": 4.325483333333334
+      }
+    },
+    {
+      "id": "48421",
+      "title": "Sherman, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 6.014483333333334
+      }
+    },
+    {
+      "id": "48423",
+      "title": "Smith, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.037560560335434,
+        "Fine particulate matter exposure": 3.8304499999999995
+      }
+    },
+    {
+      "id": "48425",
+      "title": "Somervell, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.985589010555802,
+        "Fine particulate matter exposure": 4.974575000000001
+      }
+    },
+    {
+      "id": "48427",
+      "title": "Starr, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.939450409835969,
+        "Fine particulate matter exposure": 0.16708333333333328
+      }
+    },
+    {
+      "id": "48429",
+      "title": "Stephens, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.724172737091334,
+        "Fine particulate matter exposure": 5.580933333333333
+      }
+    },
+    {
+      "id": "48431",
+      "title": "Sterling, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 6.204883333333333
+      }
+    },
+    {
+      "id": "48433",
+      "title": "Stonewall, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 6.173241666666668
+      }
+    },
+    {
+      "id": "48435",
+      "title": "Sutton, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.607025000000001
+      }
+    },
+    {
+      "id": "48437",
+      "title": "Swisher, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.590816666666667
+      }
+    },
+    {
+      "id": "48439",
+      "title": "Tarrant, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.747960019555833,
+        "Fine particulate matter exposure": 3.9004333333333334
+      }
+    },
+    {
+      "id": "48441",
+      "title": "Taylor, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.9177764285106,
+        "Fine particulate matter exposure": 5.208966666666667
+      }
+    },
+    {
+      "id": "48443",
+      "title": "Terrell, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.5355083333333335
+      }
+    },
+    {
+      "id": "48445",
+      "title": "Terry, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.367308333333334
+      }
+    },
+    {
+      "id": "48447",
+      "title": "Throckmorton, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.812350000000001
+      }
+    },
+    {
+      "id": "48449",
+      "title": "Titus, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.913014582027567,
+        "Fine particulate matter exposure": 4.074208333333333
+      }
+    },
+    {
+      "id": "48451",
+      "title": "Tom Green, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.649451708473102,
+        "Fine particulate matter exposure": 5.1245
+      }
+    },
+    {
+      "id": "48453",
+      "title": "Travis, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.620043342075702,
+        "Fine particulate matter exposure": 4.414516666666667
+      }
+    },
+    {
+      "id": "48455",
+      "title": "Trinity, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.256707030911468,
+        "Fine particulate matter exposure": 4.050933333333334
+      }
+    },
+    {
+      "id": "48457",
+      "title": "Tyler, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.452283816428467,
+        "Fine particulate matter exposure": 4.362375
+      }
+    },
+    {
+      "id": "48459",
+      "title": "Upshur, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.3843005518311657,
+        "Fine particulate matter exposure": 4.102716666666668
+      }
+    },
+    {
+      "id": "48461",
+      "title": "Upton, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.892841666666667
+      }
+    },
+    {
+      "id": "48463",
+      "title": "Uvalde, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.730579412535568,
+        "Fine particulate matter exposure": 5.121633333333333
+      }
+    },
+    {
+      "id": "48465",
+      "title": "Val Verde, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 0.06249999999999941
+      }
+    },
+    {
+      "id": "48467",
+      "title": "Van Zandt, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.743805142164566,
+        "Fine particulate matter exposure": 4.3015083333333335
+      }
+    },
+    {
+      "id": "48469",
+      "title": "Victoria, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.191723019248768,
+        "Fine particulate matter exposure": 4.048125
+      }
+    },
+    {
+      "id": "48471",
+      "title": "Walker, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.7781972336575995,
+        "Fine particulate matter exposure": 3.7521083333333336
+      }
+    },
+    {
+      "id": "48473",
+      "title": "Waller, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.4466063764616335,
+        "Fine particulate matter exposure": 3.843291666666667
+      }
+    },
+    {
+      "id": "48475",
+      "title": "Ward, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.731258333333334
+      }
+    },
+    {
+      "id": "48477",
+      "title": "Washington, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.7781972336575995,
+        "Fine particulate matter exposure": 4.098300000000001
+      }
+    },
+    {
+      "id": "48479",
+      "title": "Webb, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.025225412967965,
+        "Fine particulate matter exposure": 1.4559999999999995
+      }
+    },
+    {
+      "id": "48481",
+      "title": "Wharton, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.060174237865999,
+        "Fine particulate matter exposure": 4.123941666666666
+      }
+    },
+    {
+      "id": "48483",
+      "title": "Wheeler, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.402525096617829,
+        "Fine particulate matter exposure": 5.556225
+      }
+    },
+    {
+      "id": "48485",
+      "title": "Wichita, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.302372300785934,
+        "Fine particulate matter exposure": 4.720691666666667
+      }
+    },
+    {
+      "id": "48487",
+      "title": "Wilbarger, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.603891321989467,
+        "Fine particulate matter exposure": 5.385508333333333
+      }
+    },
+    {
+      "id": "48489",
+      "title": "Willacy, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 3.7831500000000005
+      }
+    },
+    {
+      "id": "48491",
+      "title": "Williamson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.434824514224667,
+        "Fine particulate matter exposure": 4.744516666666667
+      }
+    },
+    {
+      "id": "48493",
+      "title": "Wilson, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.785081649215333,
+        "Fine particulate matter exposure": 4.773958333333334
+      }
+    },
+    {
+      "id": "48495",
+      "title": "Winkler, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.867231045446035,
+        "Fine particulate matter exposure": 5.755825000000001
+      }
+    },
+    {
+      "id": "48497",
+      "title": "Wise, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.908562732911166,
+        "Fine particulate matter exposure": 4.8862250000000005
+      }
+    },
+    {
+      "id": "48499",
+      "title": "Wood, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.743805142164566,
+        "Fine particulate matter exposure": 4.244691666666667
+      }
+    },
+    {
+      "id": "48501",
+      "title": "Yoakum, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.325247165666832,
+        "Fine particulate matter exposure": 6.354958333333333
+      }
+    },
+    {
+      "id": "48503",
+      "title": "Young, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.724172737091334,
+        "Fine particulate matter exposure": 5.390625
+      }
+    },
+    {
+      "id": "48505",
+      "title": "Zapata, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.680857320234134,
+        "Fine particulate matter exposure": 4.048866666666667
+      }
+    },
+    {
+      "id": "48507",
+      "title": "Zavala, TX",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.52506424831797,
+        "Fine particulate matter exposure": 4.815366666666667
+      }
+    },
+    {
+      "id": "6001",
+      "title": "Alameda, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.8660214884772,
+        "Fine particulate matter exposure": 4.2301416666666665
+      }
+    },
+    {
+      "id": "6003",
+      "title": "Alpine, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.11731213020164,
+        "Fine particulate matter exposure": 6.075050000000001
+      }
+    },
+    {
+      "id": "6005",
+      "title": "Amador, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.11731213020164,
+        "Fine particulate matter exposure": 5.678716666666667
+      }
+    },
+    {
+      "id": "6007",
+      "title": "Butte, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.5180157931256995,
+        "Fine particulate matter exposure": 5.126058333333334
+      }
+    },
+    {
+      "id": "6009",
+      "title": "Calaveras, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.11731213020164,
+        "Fine particulate matter exposure": 5.259441666666667
+      }
+    },
+    {
+      "id": "6011",
+      "title": "Colusa, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.250104704632568,
+        "Fine particulate matter exposure": 6.297250000000001
+      }
+    },
+    {
+      "id": "6013",
+      "title": "Contra Costa, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.523522748714133,
+        "Fine particulate matter exposure": 4.781725
+      }
+    },
+    {
+      "id": "6015",
+      "title": "Del Norte, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.38566740706082,
+        "Fine particulate matter exposure": 6.8006833333333345
+      }
+    },
+    {
+      "id": "6017",
+      "title": "El Dorado, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 12.211357925063737,
+        "Fine particulate matter exposure": 5.994075000000001
+      }
+    },
+    {
+      "id": "6019",
+      "title": "Fresno, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 0.0,
+        "Fine particulate matter exposure": 0.5315833333333335
+      }
+    },
+    {
+      "id": "6021",
+      "title": "Glenn, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.250104704632568,
+        "Fine particulate matter exposure": 5.722941666666667
+      }
+    },
+    {
+      "id": "6023",
+      "title": "Humboldt, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.900068779627222,
+        "Fine particulate matter exposure": 6.810466666666668
+      }
+    },
+    {
+      "id": "6025",
+      "title": "Imperial, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.016866613993433,
+        "Fine particulate matter exposure": 0.0
+      }
+    },
+    {
+      "id": "6027",
+      "title": "Inyo, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.11731213020164,
+        "Fine particulate matter exposure": 5.3783666666666665
+      }
+    },
+    {
+      "id": "6029",
+      "title": "Kern, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 0.0,
+        "Fine particulate matter exposure": 1.7166666666666672
+      }
+    },
+    {
+      "id": "6031",
+      "title": "Kings, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 0.0,
+        "Fine particulate matter exposure": 0.13883333333333395
+      }
+    },
+    {
+      "id": "6033",
+      "title": "Lake, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 13.146833769806204,
+        "Fine particulate matter exposure": 7.409375
+      }
+    },
+    {
+      "id": "6035",
+      "title": "Lassen, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.96321353304622,
+        "Fine particulate matter exposure": 5.941716666666667
+      }
+    },
+    {
+      "id": "6037",
+      "title": "Los Angeles, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.5452503265526674,
+        "Fine particulate matter exposure": 2.7360749999999996
+      }
+    },
+    {
+      "id": "6039",
+      "title": "Madera, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.0037463550423675,
+        "Fine particulate matter exposure": 1.260333333333333
+      }
+    },
+    {
+      "id": "6041",
+      "title": "Marin, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.299748928118875,
+        "Fine particulate matter exposure": 5.040933333333334
+      }
+    },
+    {
+      "id": "6043",
+      "title": "Mariposa, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.588235840325888,
+        "Fine particulate matter exposure": 4.847991666666667
+      }
+    },
+    {
+      "id": "6045",
+      "title": "Mendocino, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 12.119132956013816,
+        "Fine particulate matter exposure": 6.547758333333333
+      }
+    },
+    {
+      "id": "6047",
+      "title": "Merced, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 2.3598464876087673,
+        "Fine particulate matter exposure": 2.5313250000000003
+      }
+    },
+    {
+      "id": "6049",
+      "title": "Modoc, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.96321353304622,
+        "Fine particulate matter exposure": 6.611441666666667
+      }
+    },
+    {
+      "id": "6051",
+      "title": "Mono, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.11731213020164,
+        "Fine particulate matter exposure": 5.949791666666667
+      }
+    },
+    {
+      "id": "6053",
+      "title": "Monterey, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.180594179995751,
+        "Fine particulate matter exposure": 6.247416666666667
+      }
+    },
+    {
+      "id": "6055",
+      "title": "Napa, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.559552535147487,
+        "Fine particulate matter exposure": 5.0462750000000005
+      }
+    },
+    {
+      "id": "6057",
+      "title": "Nevada, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 12.795810466818601,
+        "Fine particulate matter exposure": 6.674691666666667
+      }
+    },
+    {
+      "id": "6059",
+      "title": "Orange, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.1817562707138345,
+        "Fine particulate matter exposure": 3.1370666666666676
+      }
+    },
+    {
+      "id": "6061",
+      "title": "Placer, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.519051491372467,
+        "Fine particulate matter exposure": 5.649450000000001
+      }
+    },
+    {
+      "id": "6063",
+      "title": "Plumas, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.96321353304622,
+        "Fine particulate matter exposure": 5.276350000000001
+      }
+    },
+    {
+      "id": "6065",
+      "title": "Riverside, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 6.629278015576301,
+        "Fine particulate matter exposure": 4.484175
+      }
+    },
+    {
+      "id": "6067",
+      "title": "Sacramento, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.094564550608033,
+        "Fine particulate matter exposure": 4.462950000000001
+      }
+    },
+    {
+      "id": "6069",
+      "title": "San Benito, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.06234323668451,
+        "Fine particulate matter exposure": 6.5353916666666665
+      }
+    },
+    {
+      "id": "6071",
+      "title": "San Bernardino, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.539194799294001,
+        "Fine particulate matter exposure": 3.780308333333333
+      }
+    },
+    {
+      "id": "6073",
+      "title": "San Diego, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.336363570177701,
+        "Fine particulate matter exposure": 3.4133833333333334
+      }
+    },
+    {
+      "id": "6075",
+      "title": "San Francisco, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.344222511680734,
+        "Fine particulate matter exposure": 4.401925
+      }
+    },
+    {
+      "id": "6077",
+      "title": "San Joaquin, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 4.9786322286432005,
+        "Fine particulate matter exposure": 3.7857000000000003
+      }
+    },
+    {
+      "id": "6079",
+      "title": "San Luis Obispo, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.388444918358134,
+        "Fine particulate matter exposure": 5.5425916666666675
+      }
+    },
+    {
+      "id": "6081",
+      "title": "San Mateo, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.4170785533762,
+        "Fine particulate matter exposure": 4.966541666666667
+      }
+    },
+    {
+      "id": "6083",
+      "title": "Santa Barbara, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.6547916136827,
+        "Fine particulate matter exposure": 5.0043500000000005
+      }
+    },
+    {
+      "id": "6085",
+      "title": "Santa Clara, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.9562059894451,
+        "Fine particulate matter exposure": 4.6651750000000005
+      }
+    },
+    {
+      "id": "6087",
+      "title": "Santa Cruz, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.786871006786214,
+        "Fine particulate matter exposure": 5.938408333333333
+      }
+    },
+    {
+      "id": "6089",
+      "title": "Shasta, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.38779555224252,
+        "Fine particulate matter exposure": 6.526691666666667
+      }
+    },
+    {
+      "id": "6091",
+      "title": "Sierra, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.96321353304622,
+        "Fine particulate matter exposure": 6.289608333333334
+      }
+    },
+    {
+      "id": "6093",
+      "title": "Siskiyou, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.38566740706082,
+        "Fine particulate matter exposure": 7.1701
+      }
+    },
+    {
+      "id": "6095",
+      "title": "Solano, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.7557904879422015,
+        "Fine particulate matter exposure": 5.128933333333334
+      }
+    },
+    {
+      "id": "6097",
+      "title": "Sonoma, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 9.7326677307289,
+        "Fine particulate matter exposure": 5.737691666666667
+      }
+    },
+    {
+      "id": "6099",
+      "title": "Stanislaus, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 3.2903280205942984,
+        "Fine particulate matter exposure": 2.6245666666666674
+      }
+    },
+    {
+      "id": "6101",
+      "title": "Sutter, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.9490791568459676,
+        "Fine particulate matter exposure": 5.22065
+      }
+    },
+    {
+      "id": "6103",
+      "title": "Tehama, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 7.250104704632568,
+        "Fine particulate matter exposure": 5.993116666666667
+      }
+    },
+    {
+      "id": "6105",
+      "title": "Trinity, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.38566740706082,
+        "Fine particulate matter exposure": 7.079816666666667
+      }
+    },
+    {
+      "id": "6107",
+      "title": "Tulare, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 0.0,
+        "Fine particulate matter exposure": 1.1840833333333332
+      }
+    },
+    {
+      "id": "6109",
+      "title": "Tuolumne, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 10.588235840325888,
+        "Fine particulate matter exposure": 4.995158333333333
+      }
+    },
+    {
+      "id": "6111",
+      "title": "Ventura, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 8.259786924105567,
+        "Fine particulate matter exposure": 4.021175
+      }
+    },
+    {
+      "id": "6113",
+      "title": "Yolo, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.242463006949533,
+        "Fine particulate matter exposure": 5.247766666666667
+      }
+    },
+    {
+      "id": "6115",
+      "title": "Yuba, CA",
+      "scores": {
+        "Life expectancy loss from air pollution": 5.430509946374699,
+        "Fine particulate matter exposure": 5.713633333333333
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Adams, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.472699243275503,
+        "Fine particulate matter exposure": 5.740566666666667
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Alamosa, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 5.057158333333334
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Arapahoe, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.472699243275503,
+        "Fine particulate matter exposure": 6.114958333333334
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Archuleta, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 6.009666666666667
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Baca, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 5.747358333333334
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Bent, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 5.653016666666667
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Boulder, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.472699243275503,
+        "Fine particulate matter exposure": 6.638366666666667
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Broomfield, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.472699243275503,
+        "Fine particulate matter exposure": 6.248383333333334
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Chaffee, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.547988043616103,
+        "Fine particulate matter exposure": 7.277658333333334
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Cheyenne, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 5.483541666666667
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Clear Creek, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 14.283570631936017,
+        "Fine particulate matter exposure": 7.654841666666667
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Conejos, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.380858333333334
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Costilla, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.6444333333333345
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Crowley, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.481091666666667
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Custer, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.3735083333333336
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Delta, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.547988043616103,
+        "Fine particulate matter exposure": 5.833683333333334
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Denver, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.472699243275503,
+        "Fine particulate matter exposure": 5.425116666666667
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Dolores, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.7922666666666665
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Douglas, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 14.283570631936017,
+        "Fine particulate matter exposure": 6.776808333333334
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Eagle, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.819365667741183,
+        "Fine particulate matter exposure": 7.451716666666667
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Elbert, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 14.283570631936017,
+        "Fine particulate matter exposure": 7.171716666666667
+      }
+    },
+    {
+      "id": "8041",
+      "title": "El Paso, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 13.833331111482513,
+        "Fine particulate matter exposure": 6.638416666666667
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Fremont, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 6.616458333333334
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Garfield, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.819365667741183,
+        "Fine particulate matter exposure": 6.640983333333334
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Gilpin, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 14.283570631936017,
+        "Fine particulate matter exposure": 7.633300000000001
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Grand, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.05423460368911,
+        "Fine particulate matter exposure": 7.978891666666667
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Gunnison, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.547988043616103,
+        "Fine particulate matter exposure": 6.7308
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Hinsdale, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.2109749999999995
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Huerfano, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.3192
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Jackson, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.05423460368911,
+        "Fine particulate matter exposure": 8.317508333333333
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Jefferson, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.472699243275503,
+        "Fine particulate matter exposure": 6.0819833333333335
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Kiowa, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 5.491175
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Kit Carson, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 5.545908333333334
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Lake, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.547988043616103,
+        "Fine particulate matter exposure": 7.514225000000001
+      }
+    },
+    {
+      "id": "8067",
+      "title": "La Plata, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.4115246246458,
+        "Fine particulate matter exposure": 7.191608333333334
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Larimer, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 13.365934993958698,
+        "Fine particulate matter exposure": 6.808325000000001
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Las Animas, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 7.158491666666667
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Lincoln, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.454733333333334
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Logan, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.432633333333333
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Mesa, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 13.647060578627665,
+        "Fine particulate matter exposure": 5.796916666666667
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Mineral, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.201608333333334
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Moffat, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.05423460368911,
+        "Fine particulate matter exposure": 7.325541666666667
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Montezuma, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.4115246246458,
+        "Fine particulate matter exposure": 7.517633333333334
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Montrose, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.547988043616103,
+        "Fine particulate matter exposure": 6.284025
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Morgan, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.269675
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Otero, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.189733333333334
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Ouray, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.034491666666667
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Park, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 14.283570631936017,
+        "Fine particulate matter exposure": 7.581683333333334
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Phillips, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.293241666666667
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Pitkin, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.547988043616103,
+        "Fine particulate matter exposure": 7.546066666666667
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Prowers, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 4.0970916666666675
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Pueblo, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 12.614006824247312,
+        "Fine particulate matter exposure": 6.365225000000001
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Rio Blanco, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.05423460368911,
+        "Fine particulate matter exposure": 6.52535
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Rio Grande, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 6.967025000000001
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Routt, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.05423460368911,
+        "Fine particulate matter exposure": 6.758291666666668
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Saguache, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.146675000000001
+      }
+    },
+    {
+      "id": "8111",
+      "title": "San Juan, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 7.386125000000002
+      }
+    },
+    {
+      "id": "8113",
+      "title": "San Miguel, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 15.612032584847672,
+        "Fine particulate matter exposure": 6.80865
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Sedgwick, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.480733333333334
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Summit, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 16.05423460368911,
+        "Fine particulate matter exposure": 7.608008333333333
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Teller, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 14.283570631936017,
+        "Fine particulate matter exposure": 7.417625000000001
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Washington, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.443466666666668
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Weld, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.472699243275503,
+        "Fine particulate matter exposure": 6.619683333333334
+      }
+    },
+    {
+      "id": "8125",
+      "title": "Yuma, CO",
+      "scores": {
+        "Life expectancy loss from air pollution": 11.474225775108952,
+        "Fine particulate matter exposure": 6.008425000000001
+      }
+    }
+  ],
+  "derivatives": {
+    "Exposure to Air Pollution": [
+      "Life expectancy loss from air pollution",
+      "Fine particulate matter exposure"
+    ]
+  },
+  "weightingOptions": {
+    "Life expectancy loss from air pollution": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Fine particulate matter exposure": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Personal and Family Relationships": 192629076,
+        "Social Networks": 110992153,
+        "Institutional Trust": 98637388,
+        "Civic and Social Participation": 178077570
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Personal and Family Relationships": 144997540,
+        "Social Networks": 101661320,
+        "Institutional Trust": 99645731,
+        "Civic and Social Participation": 84818117
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Personal and Family Relationships": 134478942,
+        "Social Networks": 73935152,
+        "Institutional Trust": 86839866,
+        "Civic and Social Participation": 94592547
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Personal and Family Relationships": 165255272,
+        "Social Networks": 63574159,
+        "Institutional Trust": 59941169,
+        "Civic and Social Participation": 66387258
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Personal and Family Relationships": 159042192,
+        "Social Networks": 47745515,
+        "Institutional Trust": 73567633,
+        "Civic and Social Participation": 93315348
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Personal and Family Relationships": 192465068,
+        "Social Networks": 110956621,
+        "Institutional Trust": 107782621,
+        "Civic and Social Participation": 156986790
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Personal and Family Relationships": 179905270,
+        "Social Networks": 99737700,
+        "Institutional Trust": 91733858,
+        "Civic and Social Participation": 120116518
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Personal and Family Relationships": 149147106,
+        "Social Networks": 44363251,
+        "Institutional Trust": 118199471,
+        "Civic and Social Participation": 176854695
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Personal and Family Relationships": 145042895,
+        "Social Networks": 79604089,
+        "Institutional Trust": 110838207,
+        "Civic and Social Participation": 155883397
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Personal and Family Relationships": 144587367,
+        "Social Networks": 60117482,
+        "Institutional Trust": 86773738,
+        "Civic and Social Participation": 70195962
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Personal and Family Relationships": 150670906,
+        "Social Networks": 54333901,
+        "Institutional Trust": 82956209,
+        "Civic and Social Participation": 94735393
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Personal and Family Relationships": 182165419,
+        "Social Networks": 100444696,
+        "Institutional Trust": 151280321,
+        "Civic and Social Participation": 90191437
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Personal and Family Relationships": 201252058,
+        "Social Networks": 146719360,
+        "Institutional Trust": 95093054,
+        "Civic and Social Participation": 117809617
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Personal and Family Relationships": 178403929,
+        "Social Networks": 152135529,
+        "Institutional Trust": 87504431,
+        "Civic and Social Participation": 141462983
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Personal and Family Relationships": 183777675,
+        "Social Networks": 103846722,
+        "Institutional Trust": 74134558,
+        "Civic and Social Participation": 112321780
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Personal and Family Relationships": 193960275,
+        "Social Networks": 110091062,
+        "Institutional Trust": 112737312,
+        "Civic and Social Participation": 97112623
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Personal and Family Relationships": 177104273,
+        "Social Networks": 118950894,
+        "Institutional Trust": 121750633,
+        "Civic and Social Participation": 122516601
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Personal and Family Relationships": 158294802,
+        "Social Networks": 97848494,
+        "Institutional Trust": 63654998,
+        "Civic and Social Participation": 70722566
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Personal and Family Relationships": 140156769,
+        "Social Networks": 81184785,
+        "Institutional Trust": 60492612,
+        "Civic and Social Participation": 71098928
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Personal and Family Relationships": 197845164,
+        "Social Networks": 124357565,
+        "Institutional Trust": 105217147,
+        "Civic and Social Participation": 113754238
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Personal and Family Relationships": 178321715,
+        "Social Networks": 61706127,
+        "Institutional Trust": 84009108,
+        "Civic and Social Participation": 152821287
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Personal and Family Relationships": 197542297,
+        "Social Networks": 158929126,
+        "Institutional Trust": 92117611,
+        "Civic and Social Participation": 155592632
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Personal and Family Relationships": 183485359,
+        "Social Networks": 107728532,
+        "Institutional Trust": 98200764,
+        "Civic and Social Participation": 101365691
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Personal and Family Relationships": 207640645,
+        "Social Networks": 155505615,
+        "Institutional Trust": 146974449,
+        "Civic and Social Participation": 168610166
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Personal and Family Relationships": 180607963,
+        "Social Networks": 122977656,
+        "Institutional Trust": 90617776,
+        "Civic and Social Participation": 124536653
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Personal and Family Relationships": 143220030,
+        "Social Networks": 84510152,
+        "Institutional Trust": 96227783,
+        "Civic and Social Participation": 107627091
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Personal and Family Relationships": 187330945,
+        "Social Networks": 144826736,
+        "Institutional Trust": 53250058,
+        "Civic and Social Participation": 185291534
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Personal and Family Relationships": 160790573,
+        "Social Networks": 84669153,
+        "Institutional Trust": 61558336,
+        "Civic and Social Participation": 110748557
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Personal and Family Relationships": 196044177,
+        "Social Networks": 165140625,
+        "Institutional Trust": 118224557,
+        "Civic and Social Participation": 129859440
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Personal and Family Relationships": 199271191,
+        "Social Networks": 156866732,
+        "Institutional Trust": 123079041,
+        "Civic and Social Participation": 147052771
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Personal and Family Relationships": 198489918,
+        "Social Networks": 134606990,
+        "Institutional Trust": 110512973,
+        "Civic and Social Participation": 157935039
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Personal and Family Relationships": 179924256,
+        "Social Networks": 104698528,
+        "Institutional Trust": 97277684,
+        "Civic and Social Participation": 84763646
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Personal and Family Relationships": 145264106,
+        "Social Networks": 56190891,
+        "Institutional Trust": 37896825,
+        "Civic and Social Participation": 95489612
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Personal and Family Relationships": 114082857,
+        "Social Networks": 16837683,
+        "Institutional Trust": 43042069,
+        "Civic and Social Participation": 63225501
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Personal and Family Relationships": 156709942,
+        "Social Networks": 58836165,
+        "Institutional Trust": 73777509,
+        "Civic and Social Participation": 86254099
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Personal and Family Relationships": 179703969,
+        "Social Networks": 100584734,
+        "Institutional Trust": 78406045,
+        "Civic and Social Participation": 105092878
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Personal and Family Relationships": 140365965,
+        "Social Networks": 69661256,
+        "Institutional Trust": 58602467,
+        "Civic and Social Participation": 94671150
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Personal and Family Relationships": 198103212,
+        "Social Networks": 119017861,
+        "Institutional Trust": 40361792,
+        "Civic and Social Participation": 146549022
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Personal and Family Relationships": 164958503,
+        "Social Networks": 126965083,
+        "Institutional Trust": 89074468,
+        "Civic and Social Participation": 111745485
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Personal and Family Relationships": 155588118,
+        "Social Networks": 125427758,
+        "Institutional Trust": 116583710,
+        "Civic and Social Participation": 103493173
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Personal and Family Relationships": 158005626,
+        "Social Networks": 93651446,
+        "Institutional Trust": 120788027,
+        "Civic and Social Participation": 114872154
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Personal and Family Relationships": 206258247,
+        "Social Networks": 165938567,
+        "Institutional Trust": 96382456,
+        "Civic and Social Participation": 201189070
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Personal and Family Relationships": 156141388,
+        "Social Networks": 79532208,
+        "Institutional Trust": 48598424,
+        "Civic and Social Participation": 102379609
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Personal and Family Relationships": 164753116,
+        "Social Networks": 54839330,
+        "Institutional Trust": 94585928,
+        "Civic and Social Participation": 75619083
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Personal and Family Relationships": 214219903,
+        "Social Networks": 219197383,
+        "Institutional Trust": 101201870,
+        "Civic and Social Participation": 216930295
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Personal and Family Relationships": 179485346,
+        "Social Networks": 92327622,
+        "Institutional Trust": 99869023,
+        "Civic and Social Participation": 114299625
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Personal and Family Relationships": 201429645,
+        "Social Networks": 156725638,
+        "Institutional Trust": 101562746,
+        "Civic and Social Participation": 193342648
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Personal and Family Relationships": 186014257,
+        "Social Networks": 107501333,
+        "Institutional Trust": 95145813,
+        "Civic and Social Participation": 137799211
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Personal and Family Relationships": 203208724,
+        "Social Networks": 153233802,
+        "Institutional Trust": 119898447,
+        "Civic and Social Participation": 129957002
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Personal and Family Relationships": 161033407,
+        "Social Networks": 129574175,
+        "Institutional Trust": 79653153,
+        "Civic and Social Participation": 115796650
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Personal and Family Relationships": 180992382,
+        "Social Networks": 111721948,
+        "Institutional Trust": 89083237,
+        "Civic and Social Participation": 149879294
+      }
+    }
+  ],
+  "derivatives": {
+    "Social Capital": [
+      "Personal and Family Relationships",
+      "Social Networks",
+      "Institutional Trust",
+      "Civic and Social Participation"
+    ]
+  },
+  "weightingOptions": {
+    "Personal and Family Relationships": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Social Networks": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Institutional Trust": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Civic and Social Participation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

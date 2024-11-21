@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "CO2 emissions": 442248,
+        "Nitrous oxide emissions": 72025,
+        "Carbon monoxide emissions": 0,
+        "Sulfur dioxide emissions": 162641,
+        "Ozone emissions": 0
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "CO2 emissions": 640345,
+        "Nitrous oxide emissions": 196987,
+        "Carbon monoxide emissions": 161855,
+        "Sulfur dioxide emissions": 227616,
+        "Ozone emissions": 186653
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "CO2 emissions": 617647,
+        "Nitrous oxide emissions": 175130,
+        "Carbon monoxide emissions": 114350,
+        "Sulfur dioxide emissions": 204773,
+        "Ozone emissions": 137095
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "CO2 emissions": 874270,
+        "Nitrous oxide emissions": 247251,
+        "Carbon monoxide emissions": 208007,
+        "Sulfur dioxide emissions": 253281,
+        "Ozone emissions": 219558
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "CO2 emissions": 1007167,
+        "Nitrous oxide emissions": 280685,
+        "Carbon monoxide emissions": 234736,
+        "Sulfur dioxide emissions": 289621,
+        "Ozone emissions": 224446
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "CO2 emissions": 841367,
+        "Nitrous oxide emissions": 237445,
+        "Carbon monoxide emissions": 222250,
+        "Sulfur dioxide emissions": 276104,
+        "Ozone emissions": 203989
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "CO2 emissions": 976556,
+        "Nitrous oxide emissions": 284092,
+        "Carbon monoxide emissions": 282976,
+        "Sulfur dioxide emissions": 299032,
+        "Ozone emissions": 271543
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "CO2 emissions": 1211439,
+        "Nitrous oxide emissions": 309923,
+        "Carbon monoxide emissions": 312500,
+        "Sulfur dioxide emissions": 310120,
+        "Ozone emissions": 305578
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "CO2 emissions": 912656,
+        "Nitrous oxide emissions": 254469,
+        "Carbon monoxide emissions": 249023,
+        "Sulfur dioxide emissions": 291386,
+        "Ozone emissions": 263031
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "CO2 emissions": 921389,
+        "Nitrous oxide emissions": 264047,
+        "Carbon monoxide emissions": 216359,
+        "Sulfur dioxide emissions": 273502,
+        "Ozone emissions": 230482
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "CO2 emissions": 890951,
+        "Nitrous oxide emissions": 243266,
+        "Carbon monoxide emissions": 212237,
+        "Sulfur dioxide emissions": 273247,
+        "Ozone emissions": 235557
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "CO2 emissions": 896998,
+        "Nitrous oxide emissions": 229246,
+        "Carbon monoxide emissions": 252229,
+        "Sulfur dioxide emissions": 225003,
+        "Ozone emissions": 248563
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "CO2 emissions": 648147,
+        "Nitrous oxide emissions": 198706,
+        "Carbon monoxide emissions": 220721,
+        "Sulfur dioxide emissions": 210613,
+        "Ozone emissions": 203693
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "CO2 emissions": 909610,
+        "Nitrous oxide emissions": 188028,
+        "Carbon monoxide emissions": 15168,
+        "Sulfur dioxide emissions": 236808,
+        "Ozone emissions": 52992
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "CO2 emissions": 829749,
+        "Nitrous oxide emissions": 246403,
+        "Carbon monoxide emissions": 251405,
+        "Sulfur dioxide emissions": 253006,
+        "Ozone emissions": 236968
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "CO2 emissions": 594896,
+        "Nitrous oxide emissions": 212503,
+        "Carbon monoxide emissions": 209177,
+        "Sulfur dioxide emissions": 228949,
+        "Ozone emissions": 220997
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "CO2 emissions": 717299,
+        "Nitrous oxide emissions": 149678,
+        "Carbon monoxide emissions": 93222,
+        "Sulfur dioxide emissions": 240842,
+        "Ozone emissions": 106527
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "CO2 emissions": 581573,
+        "Nitrous oxide emissions": 202221,
+        "Carbon monoxide emissions": 191026,
+        "Sulfur dioxide emissions": 223647,
+        "Ozone emissions": 181662
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "CO2 emissions": 389404,
+        "Nitrous oxide emissions": 164428,
+        "Carbon monoxide emissions": 159964,
+        "Sulfur dioxide emissions": 192146,
+        "Ozone emissions": 161155
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "CO2 emissions": 1013692,
+        "Nitrous oxide emissions": 277825,
+        "Carbon monoxide emissions": 285454,
+        "Sulfur dioxide emissions": 298294,
+        "Ozone emissions": 270539
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "CO2 emissions": 981649,
+        "Nitrous oxide emissions": 274636,
+        "Carbon monoxide emissions": 269464,
+        "Sulfur dioxide emissions": 277845,
+        "Ozone emissions": 271444
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "CO2 emissions": 912069,
+        "Nitrous oxide emissions": 209957,
+        "Carbon monoxide emissions": 189289,
+        "Sulfur dioxide emissions": 263404,
+        "Ozone emissions": 220498
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "CO2 emissions": 801342,
+        "Nitrous oxide emissions": 239274,
+        "Carbon monoxide emissions": 235395,
+        "Sulfur dioxide emissions": 255992,
+        "Ozone emissions": 231721
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "CO2 emissions": 825719,
+        "Nitrous oxide emissions": 220461,
+        "Carbon monoxide emissions": 193835,
+        "Sulfur dioxide emissions": 261426,
+        "Ozone emissions": 207390
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "CO2 emissions": 720922,
+        "Nitrous oxide emissions": 199001,
+        "Carbon monoxide emissions": 144527,
+        "Sulfur dioxide emissions": 204418,
+        "Ozone emissions": 169961
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "CO2 emissions": 601844,
+        "Nitrous oxide emissions": 184372,
+        "Carbon monoxide emissions": 161974,
+        "Sulfur dioxide emissions": 258924,
+        "Ozone emissions": 165189
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "CO2 emissions": 556301,
+        "Nitrous oxide emissions": 115078,
+        "Carbon monoxide emissions": 0,
+        "Sulfur dioxide emissions": 185122,
+        "Ozone emissions": 0
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "CO2 emissions": 916215,
+        "Nitrous oxide emissions": 253635,
+        "Carbon monoxide emissions": 231840,
+        "Sulfur dioxide emissions": 275516,
+        "Ozone emissions": 231773
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "CO2 emissions": 201695,
+        "Nitrous oxide emissions": 81016,
+        "Carbon monoxide emissions": 135239,
+        "Sulfur dioxide emissions": 77173,
+        "Ozone emissions": 21446
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "CO2 emissions": 643435,
+        "Nitrous oxide emissions": 167042,
+        "Carbon monoxide emissions": 195912,
+        "Sulfur dioxide emissions": 196357,
+        "Ozone emissions": 195201
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "CO2 emissions": 956735,
+        "Nitrous oxide emissions": 256540,
+        "Carbon monoxide emissions": 230589,
+        "Sulfur dioxide emissions": 263921,
+        "Ozone emissions": 248388
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "CO2 emissions": 925135,
+        "Nitrous oxide emissions": 276316,
+        "Carbon monoxide emissions": 279891,
+        "Sulfur dioxide emissions": 305463,
+        "Ozone emissions": 269058
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "CO2 emissions": 678006,
+        "Nitrous oxide emissions": 146288,
+        "Carbon monoxide emissions": 156776,
+        "Sulfur dioxide emissions": 246494,
+        "Ozone emissions": 119283
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "CO2 emissions": 893940,
+        "Nitrous oxide emissions": 244173,
+        "Carbon monoxide emissions": 211198,
+        "Sulfur dioxide emissions": 280136,
+        "Ozone emissions": 219046
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "CO2 emissions": 1031918,
+        "Nitrous oxide emissions": 284920,
+        "Carbon monoxide emissions": 297881,
+        "Sulfur dioxide emissions": 290886,
+        "Ozone emissions": 277408
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "CO2 emissions": 782129,
+        "Nitrous oxide emissions": 241227,
+        "Carbon monoxide emissions": 239838,
+        "Sulfur dioxide emissions": 237451,
+        "Ozone emissions": 233871
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "CO2 emissions": 638082,
+        "Nitrous oxide emissions": 156432,
+        "Carbon monoxide emissions": 117384,
+        "Sulfur dioxide emissions": 226870,
+        "Ozone emissions": 115993
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "CO2 emissions": 978061,
+        "Nitrous oxide emissions": 223005,
+        "Carbon monoxide emissions": 59479,
+        "Sulfur dioxide emissions": 250846,
+        "Ozone emissions": 98182
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "CO2 emissions": 801240,
+        "Nitrous oxide emissions": 244718,
+        "Carbon monoxide emissions": 257950,
+        "Sulfur dioxide emissions": 259734,
+        "Ozone emissions": 233097
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "CO2 emissions": 946609,
+        "Nitrous oxide emissions": 274316,
+        "Carbon monoxide emissions": 278185,
+        "Sulfur dioxide emissions": 297482,
+        "Ozone emissions": 265565
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "CO2 emissions": 820942,
+        "Nitrous oxide emissions": 229902,
+        "Carbon monoxide emissions": 190664,
+        "Sulfur dioxide emissions": 261077,
+        "Ozone emissions": 208257
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "CO2 emissions": 788013,
+        "Nitrous oxide emissions": 188252,
+        "Carbon monoxide emissions": 118168,
+        "Sulfur dioxide emissions": 256190,
+        "Ozone emissions": 129711
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "CO2 emissions": 851711,
+        "Nitrous oxide emissions": 236716,
+        "Carbon monoxide emissions": 218200,
+        "Sulfur dioxide emissions": 259482,
+        "Ozone emissions": 219220
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "CO2 emissions": 682059,
+        "Nitrous oxide emissions": 222234,
+        "Carbon monoxide emissions": 246125,
+        "Sulfur dioxide emissions": 241275,
+        "Ozone emissions": 193485
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "CO2 emissions": 754479,
+        "Nitrous oxide emissions": 209862,
+        "Carbon monoxide emissions": 191518,
+        "Sulfur dioxide emissions": 262660,
+        "Ozone emissions": 180169
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "CO2 emissions": 915463,
+        "Nitrous oxide emissions": 250879,
+        "Carbon monoxide emissions": 237557,
+        "Sulfur dioxide emissions": 275986,
+        "Ozone emissions": 240438
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "CO2 emissions": 972170,
+        "Nitrous oxide emissions": 242717,
+        "Carbon monoxide emissions": 202988,
+        "Sulfur dioxide emissions": 290572,
+        "Ozone emissions": 225434
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "CO2 emissions": 972576,
+        "Nitrous oxide emissions": 242805,
+        "Carbon monoxide emissions": 164713,
+        "Sulfur dioxide emissions": 273763,
+        "Ozone emissions": 183323
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "CO2 emissions": 790297,
+        "Nitrous oxide emissions": 234456,
+        "Carbon monoxide emissions": 226014,
+        "Sulfur dioxide emissions": 265847,
+        "Ozone emissions": 227639
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "CO2 emissions": 261962,
+        "Nitrous oxide emissions": 153610,
+        "Carbon monoxide emissions": 169776,
+        "Sulfur dioxide emissions": 189927,
+        "Ozone emissions": 143866
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "CO2 emissions": 21018,
+        "Nitrous oxide emissions": 48959,
+        "Carbon monoxide emissions": 114940,
+        "Sulfur dioxide emissions": 128738,
+        "Ozone emissions": 70427
+      }
+    }
+  ],
+  "derivatives": {
+    "Emissions": [
+      "CO2 emissions",
+      "Nitrous oxide emissions",
+      "Carbon monoxide emissions",
+      "Sulfur dioxide emissions",
+      "Ozone emissions"
+    ]
+  },
+  "weightingOptions": {
+    "CO2 emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Nitrous oxide emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Carbon monoxide emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Sulfur dioxide emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Ozone emissions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

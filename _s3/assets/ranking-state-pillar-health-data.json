@@ -1,0 +1,778 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Behavioral Risk Factors": 74956817,
+        "Preventative Interventions": 66546258,
+        "Care Systems": 99128241,
+        "Mental Health": 62913425,
+        "Physical Health": 153743687,
+        "Longevity": 121856068
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Behavioral Risk Factors": 63064648,
+        "Preventative Interventions": 75710679,
+        "Care Systems": 67989536,
+        "Mental Health": 68293869,
+        "Physical Health": 47645846,
+        "Longevity": 64498692
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Behavioral Risk Factors": 73296251,
+        "Preventative Interventions": 63364529,
+        "Care Systems": 84832420,
+        "Mental Health": 56387436,
+        "Physical Health": 44607835,
+        "Longevity": 74954035
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Behavioral Risk Factors": 94050004,
+        "Preventative Interventions": 69256674,
+        "Care Systems": 93202991,
+        "Mental Health": 62614213,
+        "Physical Health": 121025657,
+        "Longevity": 146128450
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Behavioral Risk Factors": 110347835,
+        "Preventative Interventions": 84698161,
+        "Care Systems": 98661079,
+        "Mental Health": 106022791,
+        "Physical Health": 145258742,
+        "Longevity": 180342905
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Behavioral Risk Factors": 88570059,
+        "Preventative Interventions": 84843741,
+        "Care Systems": 108079477,
+        "Mental Health": 67197022,
+        "Physical Health": 179427910,
+        "Longevity": 161922810
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Behavioral Risk Factors": 107940605,
+        "Preventative Interventions": 112398277,
+        "Care Systems": 91771791,
+        "Mental Health": 102646331,
+        "Physical Health": 158355457,
+        "Longevity": 171568154
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Behavioral Risk Factors": 87426088,
+        "Preventative Interventions": 109948318,
+        "Care Systems": 78977234,
+        "Mental Health": 98057209,
+        "Physical Health": 134263285,
+        "Longevity": 96754684
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Behavioral Risk Factors": 81446136,
+        "Preventative Interventions": 101108184,
+        "Care Systems": 91360512,
+        "Mental Health": 68024759,
+        "Physical Health": 105440695,
+        "Longevity": 117916879
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Behavioral Risk Factors": 110559857,
+        "Preventative Interventions": 82481238,
+        "Care Systems": 64349379,
+        "Mental Health": 85250891,
+        "Physical Health": 110011674,
+        "Longevity": 143097839
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Behavioral Risk Factors": 95650264,
+        "Preventative Interventions": 72668737,
+        "Care Systems": 65693707,
+        "Mental Health": 84970976,
+        "Physical Health": 95433482,
+        "Longevity": 101062445
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Behavioral Risk Factors": 111609149,
+        "Preventative Interventions": 108087042,
+        "Care Systems": 124677272,
+        "Mental Health": 99629191,
+        "Physical Health": 144112627,
+        "Longevity": 166980755
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Behavioral Risk Factors": 81732087,
+        "Preventative Interventions": 98206872,
+        "Care Systems": 117134903,
+        "Mental Health": 88200884,
+        "Physical Health": 146835844,
+        "Longevity": 145535659
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Behavioral Risk Factors": 95424509,
+        "Preventative Interventions": 61008033,
+        "Care Systems": 93515423,
+        "Mental Health": 69045442,
+        "Physical Health": 130990229,
+        "Longevity": 146813451
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Behavioral Risk Factors": 100797433,
+        "Preventative Interventions": 82830189,
+        "Care Systems": 77279912,
+        "Mental Health": 102689057,
+        "Physical Health": 130787282,
+        "Longevity": 144151606
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Behavioral Risk Factors": 70101235,
+        "Preventative Interventions": 65478218,
+        "Care Systems": 92336111,
+        "Mental Health": 71269939,
+        "Physical Health": 94579223,
+        "Longevity": 104268830
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Behavioral Risk Factors": 86680298,
+        "Preventative Interventions": 73036690,
+        "Care Systems": 99518522,
+        "Mental Health": 72962678,
+        "Physical Health": 120676969,
+        "Longevity": 129872290
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Behavioral Risk Factors": 56970236,
+        "Preventative Interventions": 78944108,
+        "Care Systems": 85632033,
+        "Mental Health": 53524510,
+        "Physical Health": 53447256,
+        "Longevity": 79823659
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Behavioral Risk Factors": 64757450,
+        "Preventative Interventions": 81533661,
+        "Care Systems": 81476987,
+        "Mental Health": 65989645,
+        "Physical Health": 67348495,
+        "Longevity": 68451592
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Behavioral Risk Factors": 111922014,
+        "Preventative Interventions": 128898414,
+        "Care Systems": 90595495,
+        "Mental Health": 87799591,
+        "Physical Health": 154876456,
+        "Longevity": 174571111
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Behavioral Risk Factors": 104604191,
+        "Preventative Interventions": 100740414,
+        "Care Systems": 87227842,
+        "Mental Health": 95363387,
+        "Physical Health": 131143914,
+        "Longevity": 134953107
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Behavioral Risk Factors": 81529729,
+        "Preventative Interventions": 87215481,
+        "Care Systems": 90631600,
+        "Mental Health": 59895189,
+        "Physical Health": 116407756,
+        "Longevity": 134046384
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Behavioral Risk Factors": 74852156,
+        "Preventative Interventions": 91505461,
+        "Care Systems": 92556052,
+        "Mental Health": 71881129,
+        "Physical Health": 112556593,
+        "Longevity": 120096399
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Behavioral Risk Factors": 99138156,
+        "Preventative Interventions": 86900876,
+        "Care Systems": 87820876,
+        "Mental Health": 94552720,
+        "Physical Health": 170495642,
+        "Longevity": 173860359
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Behavioral Risk Factors": 76255371,
+        "Preventative Interventions": 73617746,
+        "Care Systems": 75916676,
+        "Mental Health": 66964576,
+        "Physical Health": 114160942,
+        "Longevity": 104378288
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Behavioral Risk Factors": 65744106,
+        "Preventative Interventions": 47435136,
+        "Care Systems": 64353340,
+        "Mental Health": 72182726,
+        "Physical Health": 50656046,
+        "Longevity": 43265255
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Behavioral Risk Factors": 78927074,
+        "Preventative Interventions": 68668792,
+        "Care Systems": 113408840,
+        "Mental Health": 63106724,
+        "Physical Health": 148762073,
+        "Longevity": 129710226
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Behavioral Risk Factors": 82469427,
+        "Preventative Interventions": 79683104,
+        "Care Systems": 72223901,
+        "Mental Health": 92268558,
+        "Physical Health": 106266216,
+        "Longevity": 117889484
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Behavioral Risk Factors": 77881901,
+        "Preventative Interventions": 90094824,
+        "Care Systems": 104109142,
+        "Mental Health": 97549558,
+        "Physical Health": 149553949,
+        "Longevity": 131092220
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Behavioral Risk Factors": 95112824,
+        "Preventative Interventions": 86296361,
+        "Care Systems": 103847709,
+        "Mental Health": 97832330,
+        "Physical Health": 142578060,
+        "Longevity": 147906221
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Behavioral Risk Factors": 88102514,
+        "Preventative Interventions": 108408203,
+        "Care Systems": 88331816,
+        "Mental Health": 71502332,
+        "Physical Health": 151352707,
+        "Longevity": 154722631
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Behavioral Risk Factors": 121621187,
+        "Preventative Interventions": 88348767,
+        "Care Systems": 79207029,
+        "Mental Health": 107036809,
+        "Physical Health": 120507728,
+        "Longevity": 160940341
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Behavioral Risk Factors": 91288837,
+        "Preventative Interventions": 74122328,
+        "Care Systems": 95054637,
+        "Mental Health": 51425942,
+        "Physical Health": 115632438,
+        "Longevity": 101840908
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Behavioral Risk Factors": 80461405,
+        "Preventative Interventions": 60518376,
+        "Care Systems": 71996719,
+        "Mental Health": 62670073,
+        "Physical Health": 104906408,
+        "Longevity": 132730289
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Behavioral Risk Factors": 114662151,
+        "Preventative Interventions": 87167727,
+        "Care Systems": 88789578,
+        "Mental Health": 105397863,
+        "Physical Health": 131427425,
+        "Longevity": 170383148
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Behavioral Risk Factors": 66583651,
+        "Preventative Interventions": 73758814,
+        "Care Systems": 90928203,
+        "Mental Health": 53651829,
+        "Physical Health": 95709159,
+        "Longevity": 102956909
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Behavioral Risk Factors": 72933197,
+        "Preventative Interventions": 52930497,
+        "Care Systems": 81878616,
+        "Mental Health": 61456647,
+        "Physical Health": 76547384,
+        "Longevity": 77018228
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Behavioral Risk Factors": 83443842,
+        "Preventative Interventions": 85533784,
+        "Care Systems": 90415371,
+        "Mental Health": 74647860,
+        "Physical Health": 147670017,
+        "Longevity": 157064961
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Behavioral Risk Factors": 89597219,
+        "Preventative Interventions": 89706450,
+        "Care Systems": 99780712,
+        "Mental Health": 79215498,
+        "Physical Health": 123789800,
+        "Longevity": 129814126
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Behavioral Risk Factors": 99718222,
+        "Preventative Interventions": 119401786,
+        "Care Systems": 106962084,
+        "Mental Health": 76714874,
+        "Physical Health": 125178950,
+        "Longevity": 150640563
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Behavioral Risk Factors": 85651278,
+        "Preventative Interventions": 77047824,
+        "Care Systems": 84489349,
+        "Mental Health": 79468093,
+        "Physical Health": 81191768,
+        "Longevity": 92051896
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Behavioral Risk Factors": 87330424,
+        "Preventative Interventions": 85165546,
+        "Care Systems": 112827731,
+        "Mental Health": 94701977,
+        "Physical Health": 133985419,
+        "Longevity": 127933758
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Behavioral Risk Factors": 75463825,
+        "Preventative Interventions": 70389908,
+        "Care Systems": 87562192,
+        "Mental Health": 58302317,
+        "Physical Health": 66365413,
+        "Longevity": 79359352
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Behavioral Risk Factors": 100382764,
+        "Preventative Interventions": 57157002,
+        "Care Systems": 56476127,
+        "Mental Health": 102745480,
+        "Physical Health": 103541107,
+        "Longevity": 133886876
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Behavioral Risk Factors": 118972248,
+        "Preventative Interventions": 70583397,
+        "Care Systems": 100848313,
+        "Mental Health": 45855777,
+        "Physical Health": 160975610,
+        "Longevity": 159256647
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Behavioral Risk Factors": 100021907,
+        "Preventative Interventions": 100659796,
+        "Care Systems": 82544067,
+        "Mental Health": 91652517,
+        "Physical Health": 121671680,
+        "Longevity": 144463419
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Behavioral Risk Factors": 90486837,
+        "Preventative Interventions": 98117847,
+        "Care Systems": 107531212,
+        "Mental Health": 70309610,
+        "Physical Health": 148328582,
+        "Longevity": 148673352
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Behavioral Risk Factors": 101169816,
+        "Preventative Interventions": 84430613,
+        "Care Systems": 99321771,
+        "Mental Health": 73422713,
+        "Physical Health": 145098449,
+        "Longevity": 166475483
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Behavioral Risk Factors": 86216063,
+        "Preventative Interventions": 87015997,
+        "Care Systems": 97810246,
+        "Mental Health": 83023248,
+        "Physical Health": 159209308,
+        "Longevity": 147477422
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Behavioral Risk Factors": 61739905,
+        "Preventative Interventions": 69320797,
+        "Care Systems": 81111779,
+        "Mental Health": 35580658,
+        "Physical Health": 16865522,
+        "Longevity": 63519390
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Behavioral Risk Factors": 92233675,
+        "Preventative Interventions": 59514444,
+        "Care Systems": 82308247,
+        "Mental Health": 62765752,
+        "Physical Health": 145552637,
+        "Longevity": 120311219
+      }
+    }
+  ],
+  "derivatives": {
+    "Health": [
+      "Behavioral Risk Factors",
+      "Preventative Interventions",
+      "Care Systems",
+      "Mental Health",
+      "Physical Health",
+      "Longevity"
+    ]
+  },
+  "weightingOptions": {
+    "Behavioral Risk Factors": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Preventative Interventions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Care Systems": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Mental Health": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Physical Health": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Longevity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

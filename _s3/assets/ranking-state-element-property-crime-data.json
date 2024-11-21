@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Burglary": 706034,
+        "Motor vehicle theft": 404221,
+        "Larceny theft": 246402,
+        "Identity theft": 229593
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Burglary": 650289,
+        "Motor vehicle theft": 488168,
+        "Larceny theft": 273635,
+        "Identity theft": 25576
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Burglary": 570837,
+        "Motor vehicle theft": 498827,
+        "Larceny theft": 255240,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Burglary": 859835,
+        "Motor vehicle theft": 499097,
+        "Larceny theft": 291940,
+        "Identity theft": 11440
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Burglary": 858455,
+        "Motor vehicle theft": 402724,
+        "Larceny theft": 320919,
+        "Identity theft": 15148
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Burglary": 934800,
+        "Motor vehicle theft": 388807,
+        "Larceny theft": 279226,
+        "Identity theft": 21671
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Burglary": 1363705,
+        "Motor vehicle theft": 593015,
+        "Larceny theft": 431372,
+        "Identity theft": 148500
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Burglary": 1127361,
+        "Motor vehicle theft": 426523,
+        "Larceny theft": 77286,
+        "Identity theft": 17840
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Burglary": 1026895,
+        "Motor vehicle theft": 600729,
+        "Larceny theft": 292459,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Burglary": 1047235,
+        "Motor vehicle theft": 575833,
+        "Larceny theft": 310892,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Burglary": 891232,
+        "Motor vehicle theft": 523209,
+        "Larceny theft": 291602,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Burglary": 872291,
+        "Motor vehicle theft": 393657,
+        "Larceny theft": 241061,
+        "Identity theft": 78839
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Burglary": 888924,
+        "Motor vehicle theft": 600738,
+        "Larceny theft": 402487,
+        "Identity theft": 285057
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Burglary": 1249960,
+        "Motor vehicle theft": 758545,
+        "Larceny theft": 486260,
+        "Identity theft": 221930
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Burglary": 1089914,
+        "Motor vehicle theft": 622082,
+        "Larceny theft": 350350,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Burglary": 980220,
+        "Motor vehicle theft": 545280,
+        "Larceny theft": 349866,
+        "Identity theft": 89408
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Burglary": 940261,
+        "Motor vehicle theft": 493825,
+        "Larceny theft": 298605,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Burglary": 935858,
+        "Motor vehicle theft": 516865,
+        "Larceny theft": 374272,
+        "Identity theft": 229593
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Burglary": 590780,
+        "Motor vehicle theft": 513656,
+        "Larceny theft": 209284,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Burglary": 1371281,
+        "Motor vehicle theft": 750179,
+        "Larceny theft": 480031,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Burglary": 1078132,
+        "Motor vehicle theft": 567328,
+        "Larceny theft": 341277,
+        "Identity theft": 31871
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Burglary": 1389929,
+        "Motor vehicle theft": 874204,
+        "Larceny theft": 450159,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Burglary": 1058770,
+        "Motor vehicle theft": 578104,
+        "Larceny theft": 420397,
+        "Identity theft": 99748
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Burglary": 1070814,
+        "Motor vehicle theft": 551330,
+        "Larceny theft": 320862,
+        "Identity theft": 201913
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Burglary": 790208,
+        "Motor vehicle theft": 415168,
+        "Larceny theft": 276437,
+        "Identity theft": 118565
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Burglary": 536225,
+        "Motor vehicle theft": 557120,
+        "Larceny theft": 326631,
+        "Identity theft": 16221
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Burglary": 1105580,
+        "Motor vehicle theft": 525487,
+        "Larceny theft": 305241,
+        "Identity theft": 113255
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Burglary": 671059,
+        "Motor vehicle theft": 589038,
+        "Larceny theft": 311037,
+        "Identity theft": 66714
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Burglary": 943893,
+        "Motor vehicle theft": 509940,
+        "Larceny theft": 358916,
+        "Identity theft": 176401
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Burglary": 1163392,
+        "Motor vehicle theft": 486485,
+        "Larceny theft": 331569,
+        "Identity theft": 252760
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Burglary": 1500000,
+        "Motor vehicle theft": 826225,
+        "Larceny theft": 450124,
+        "Identity theft": 172840
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Burglary": 1350850,
+        "Motor vehicle theft": 683677,
+        "Larceny theft": 443916,
+        "Identity theft": 21119
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Burglary": 471083,
+        "Motor vehicle theft": 361246,
+        "Larceny theft": 258716,
+        "Identity theft": 177602
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Burglary": 696661,
+        "Motor vehicle theft": 403614,
+        "Larceny theft": 352353,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Burglary": 1500000,
+        "Motor vehicle theft": 824953,
+        "Larceny theft": 408071,
+        "Identity theft": 30712
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Burglary": 879600,
+        "Motor vehicle theft": 605142,
+        "Larceny theft": 334175,
+        "Identity theft": 118565
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Burglary": 496510,
+        "Motor vehicle theft": 419931,
+        "Larceny theft": 282030,
+        "Identity theft": 28413
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Burglary": 931595,
+        "Motor vehicle theft": 404162,
+        "Larceny theft": 254380,
+        "Identity theft": 164770
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Burglary": 1357825,
+        "Motor vehicle theft": 728952,
+        "Larceny theft": 419814,
+        "Identity theft": 83300
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Burglary": 1235893,
+        "Motor vehicle theft": 659153,
+        "Larceny theft": 403999,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Burglary": 654857,
+        "Motor vehicle theft": 459272,
+        "Larceny theft": 243534,
+        "Identity theft": 15148
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Burglary": 1036617,
+        "Motor vehicle theft": 553308,
+        "Larceny theft": 387268,
+        "Identity theft": 341908
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Burglary": 783544,
+        "Motor vehicle theft": 466747,
+        "Larceny theft": 267744,
+        "Identity theft": 71618
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Burglary": 857717,
+        "Motor vehicle theft": 480142,
+        "Larceny theft": 300685,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Burglary": 1091335,
+        "Motor vehicle theft": 540218,
+        "Larceny theft": 309068,
+        "Identity theft": 63965
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Burglary": 1438296,
+        "Motor vehicle theft": 677008,
+        "Larceny theft": 367829,
+        "Identity theft": 157012
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Burglary": 1282903,
+        "Motor vehicle theft": 903034,
+        "Larceny theft": 407987,
+        "Identity theft": 224960
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Burglary": 760584,
+        "Motor vehicle theft": 434351,
+        "Larceny theft": 272223,
+        "Identity theft": 0
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Burglary": 1243138,
+        "Motor vehicle theft": 662746,
+        "Larceny theft": 420020,
+        "Identity theft": 191314
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Burglary": 965118,
+        "Motor vehicle theft": 645855,
+        "Larceny theft": 420214,
+        "Identity theft": 199210
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Burglary": 1177556,
+        "Motor vehicle theft": 671062,
+        "Larceny theft": 401776,
+        "Identity theft": 195223
+      }
+    }
+  ],
+  "derivatives": {
+    "Property Crime": [
+      "Burglary",
+      "Motor vehicle theft",
+      "Larceny theft",
+      "Identity theft"
+    ]
+  },
+  "weightingOptions": {
+    "Burglary": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Motor vehicle theft": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Larceny theft": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Identity theft": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

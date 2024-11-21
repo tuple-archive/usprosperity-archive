@@ -1,0 +1,6694 @@
+{
+  "regions": [
+    {
+      "id": "13001",
+      "title": "Appling, GA",
+      "scores": {
+        "Access to broadband": 4.32,
+        "Households with a smartphone": 2.5629170554782825
+      }
+    },
+    {
+      "id": "13003",
+      "title": "Atkinson, GA",
+      "scores": {
+        "Access to broadband": 5.327999999999999,
+        "Households with a smartphone": 1.6531840743478727
+      }
+    },
+    {
+      "id": "13005",
+      "title": "Bacon, GA",
+      "scores": {
+        "Access to broadband": 5.921999999999999,
+        "Households with a smartphone": 2.3249977752069064
+      }
+    },
+    {
+      "id": "13007",
+      "title": "Baker, GA",
+      "scores": {
+        "Access to broadband": 0.16200000000000014,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "13009",
+      "title": "Baldwin, GA",
+      "scores": {
+        "Access to broadband": 8.397000000000002,
+        "Households with a smartphone": 2.165590315024409
+      }
+    },
+    {
+      "id": "13011",
+      "title": "Banks, GA",
+      "scores": {
+        "Access to broadband": 6.218999999999999,
+        "Households with a smartphone": 2.376620252826256
+      }
+    },
+    {
+      "id": "13013",
+      "title": "Barrow, GA",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 4.23238070456272
+      }
+    },
+    {
+      "id": "13015",
+      "title": "Bartow, GA",
+      "scores": {
+        "Access to broadband": 8.532,
+        "Households with a smartphone": 4.058015613409831
+      }
+    },
+    {
+      "id": "13017",
+      "title": "Ben Hill, GA",
+      "scores": {
+        "Access to broadband": 8.1,
+        "Households with a smartphone": 2.0324877096522886
+      }
+    },
+    {
+      "id": "13019",
+      "title": "Berrien, GA",
+      "scores": {
+        "Access to broadband": 7.388999999999999,
+        "Households with a smartphone": 2.3176888346160647
+      }
+    },
+    {
+      "id": "13021",
+      "title": "Bibb, GA",
+      "scores": {
+        "Access to broadband": 8.720999999999998,
+        "Households with a smartphone": 3.3448796860581846
+      }
+    },
+    {
+      "id": "13023",
+      "title": "Bleckley, GA",
+      "scores": {
+        "Access to broadband": 3.8879999999999995,
+        "Households with a smartphone": 2.1820029355312194
+      }
+    },
+    {
+      "id": "13025",
+      "title": "Brantley, GA",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 3.5747929884933867
+      }
+    },
+    {
+      "id": "13027",
+      "title": "Brooks, GA",
+      "scores": {
+        "Access to broadband": 7.074,
+        "Households with a smartphone": 2.478369615562761
+      }
+    },
+    {
+      "id": "13029",
+      "title": "Bryan, GA",
+      "scores": {
+        "Access to broadband": 8.631,
+        "Households with a smartphone": 5.029774872912127
+      }
+    },
+    {
+      "id": "13031",
+      "title": "Bulloch, GA",
+      "scores": {
+        "Access to broadband": 8.838,
+        "Households with a smartphone": 4.432681920848473
+      }
+    },
+    {
+      "id": "13033",
+      "title": "Burke, GA",
+      "scores": {
+        "Access to broadband": 6.515999999999999,
+        "Households with a smartphone": 3.0301880282904956
+      }
+    },
+    {
+      "id": "13035",
+      "title": "Butts, GA",
+      "scores": {
+        "Access to broadband": 7.0200000000000005,
+        "Households with a smartphone": 2.221275122774376
+      }
+    },
+    {
+      "id": "13037",
+      "title": "Calhoun, GA",
+      "scores": {
+        "Access to broadband": 3.7799999999999994,
+        "Households with a smartphone": 1.4462398019110507
+      }
+    },
+    {
+      "id": "13039",
+      "title": "Camden, GA",
+      "scores": {
+        "Access to broadband": 8.487,
+        "Households with a smartphone": 4.450470082998792
+      }
+    },
+    {
+      "id": "13043",
+      "title": "Candler, GA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 1.8822045842296564
+      }
+    },
+    {
+      "id": "13045",
+      "title": "Carroll, GA",
+      "scores": {
+        "Access to broadband": 8.244,
+        "Households with a smartphone": 4.171738975055394
+      }
+    },
+    {
+      "id": "13047",
+      "title": "Catoosa, GA",
+      "scores": {
+        "Access to broadband": 8.919,
+        "Households with a smartphone": 3.960287670840377
+      }
+    },
+    {
+      "id": "13049",
+      "title": "Charlton, GA",
+      "scores": {
+        "Access to broadband": 5.391,
+        "Households with a smartphone": 1.663950547906715
+      }
+    },
+    {
+      "id": "13051",
+      "title": "Chatham, GA",
+      "scores": {
+        "Access to broadband": 8.604,
+        "Households with a smartphone": 4.7815858763917785
+      }
+    },
+    {
+      "id": "13053",
+      "title": "Chattahoochee, GA",
+      "scores": {
+        "Access to broadband": 5.138999999999999,
+        "Households with a smartphone": 4.3944636678200695
+      }
+    },
+    {
+      "id": "13055",
+      "title": "Chattooga, GA",
+      "scores": {
+        "Access to broadband": 8.685,
+        "Households with a smartphone": 1.2203587084427092
+      }
+    },
+    {
+      "id": "13057",
+      "title": "Cherokee, GA",
+      "scores": {
+        "Access to broadband": 8.757,
+        "Households with a smartphone": 5.490481657271122
+      }
+    },
+    {
+      "id": "13059",
+      "title": "Clarke, GA",
+      "scores": {
+        "Access to broadband": 8.946000000000002,
+        "Households with a smartphone": 4.454245597951191
+      }
+    },
+    {
+      "id": "13061",
+      "title": "Clay, GA",
+      "scores": {
+        "Access to broadband": 5.634,
+        "Households with a smartphone": 1.2690613683077232
+      }
+    },
+    {
+      "id": "13063",
+      "title": "Clayton, GA",
+      "scores": {
+        "Access to broadband": 8.856000000000002,
+        "Households with a smartphone": 4.561625479531035
+      }
+    },
+    {
+      "id": "13065",
+      "title": "Clinch, GA",
+      "scores": {
+        "Access to broadband": 5.679,
+        "Households with a smartphone": 1.0582592749329942
+      }
+    },
+    {
+      "id": "13067",
+      "title": "Cobb, GA",
+      "scores": {
+        "Access to broadband": 8.810999999999998,
+        "Households with a smartphone": 5.601773392910417
+      }
+    },
+    {
+      "id": "13069",
+      "title": "Coffee, GA",
+      "scores": {
+        "Access to broadband": 8.028,
+        "Households with a smartphone": 2.2664955197353804
+      }
+    },
+    {
+      "id": "13071",
+      "title": "Colquitt, GA",
+      "scores": {
+        "Access to broadband": 7.893,
+        "Households with a smartphone": 2.914025972038353
+      }
+    },
+    {
+      "id": "13073",
+      "title": "Columbia, GA",
+      "scores": {
+        "Access to broadband": 8.847,
+        "Households with a smartphone": 4.775104234691313
+      }
+    },
+    {
+      "id": "13075",
+      "title": "Cook, GA",
+      "scores": {
+        "Access to broadband": 7.515,
+        "Households with a smartphone": 2.032427025037514
+      }
+    },
+    {
+      "id": "13077",
+      "title": "Coweta, GA",
+      "scores": {
+        "Access to broadband": 8.604,
+        "Households with a smartphone": 4.494022260030542
+      }
+    },
+    {
+      "id": "13079",
+      "title": "Crawford, GA",
+      "scores": {
+        "Access to broadband": 8.352000000000002,
+        "Households with a smartphone": 2.972789201943446
+      }
+    },
+    {
+      "id": "13081",
+      "title": "Crisp, GA",
+      "scores": {
+        "Access to broadband": 7.343999999999999,
+        "Households with a smartphone": 2.457282492778597
+      }
+    },
+    {
+      "id": "13083",
+      "title": "Dade, GA",
+      "scores": {
+        "Access to broadband": 8.181000000000001,
+        "Households with a smartphone": 3.0811125109022193
+      }
+    },
+    {
+      "id": "13085",
+      "title": "Dawson, GA",
+      "scores": {
+        "Access to broadband": 7.164000000000001,
+        "Households with a smartphone": 4.559387387144042
+      }
+    },
+    {
+      "id": "13087",
+      "title": "Decatur, GA",
+      "scores": {
+        "Access to broadband": 6.0840000000000005,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "13089",
+      "title": "De Kalb, GA",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 4.924885040224539
+      }
+    },
+    {
+      "id": "13091",
+      "title": "Dodge, GA",
+      "scores": {
+        "Access to broadband": 5.751,
+        "Households with a smartphone": 0.624504961849569
+      }
+    },
+    {
+      "id": "13093",
+      "title": "Dooly, GA",
+      "scores": {
+        "Access to broadband": 5.921999999999999,
+        "Households with a smartphone": 1.504483463823711
+      }
+    },
+    {
+      "id": "13095",
+      "title": "Dougherty, GA",
+      "scores": {
+        "Access to broadband": 8.738999999999999,
+        "Households with a smartphone": 3.063626830835842
+      }
+    },
+    {
+      "id": "13097",
+      "title": "Douglas, GA",
+      "scores": {
+        "Access to broadband": 8.757,
+        "Households with a smartphone": 4.91880411697435
+      }
+    },
+    {
+      "id": "13099",
+      "title": "Early, GA",
+      "scores": {
+        "Access to broadband": 3.4469999999999996,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "13101",
+      "title": "Echols, GA",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 0.909859261215711
+      }
+    },
+    {
+      "id": "13103",
+      "title": "Effingham, GA",
+      "scores": {
+        "Access to broadband": 8.433,
+        "Households with a smartphone": 5.018744634854285
+      }
+    },
+    {
+      "id": "13105",
+      "title": "Elbert, GA",
+      "scores": {
+        "Access to broadband": 6.057000000000001,
+        "Households with a smartphone": 0.5574218473933429
+      }
+    },
+    {
+      "id": "13107",
+      "title": "Emanuel, GA",
+      "scores": {
+        "Access to broadband": 8.469,
+        "Households with a smartphone": 2.6879380923007923
+      }
+    },
+    {
+      "id": "13109",
+      "title": "Evans, GA",
+      "scores": {
+        "Access to broadband": 5.418,
+        "Households with a smartphone": 2.6541951778215034
+      }
+    },
+    {
+      "id": "13111",
+      "title": "Fannin, GA",
+      "scores": {
+        "Access to broadband": 7.460999999999999,
+        "Households with a smartphone": 2.793603130956999
+      }
+    },
+    {
+      "id": "13113",
+      "title": "Fayette, GA",
+      "scores": {
+        "Access to broadband": 8.829,
+        "Households with a smartphone": 4.975189441862321
+      }
+    },
+    {
+      "id": "13115",
+      "title": "Floyd, GA",
+      "scores": {
+        "Access to broadband": 8.477999999999998,
+        "Households with a smartphone": 3.327777786948978
+      }
+    },
+    {
+      "id": "13117",
+      "title": "Forsyth, GA",
+      "scores": {
+        "Access to broadband": 8.919,
+        "Households with a smartphone": 5.6419569252879285
+      }
+    },
+    {
+      "id": "13119",
+      "title": "Franklin, GA",
+      "scores": {
+        "Access to broadband": 5.391,
+        "Households with a smartphone": 2.034989552714523
+      }
+    },
+    {
+      "id": "13121",
+      "title": "Fulton, GA",
+      "scores": {
+        "Access to broadband": 8.676,
+        "Households with a smartphone": 4.970638821505964
+      }
+    },
+    {
+      "id": "13123",
+      "title": "Gilmer, GA",
+      "scores": {
+        "Access to broadband": 7.334999999999999,
+        "Households with a smartphone": 2.760033339226631
+      }
+    },
+    {
+      "id": "13125",
+      "title": "Glascock, GA",
+      "scores": {
+        "Access to broadband": 0.09000000000000008,
+        "Households with a smartphone": 2.0330050572265104
+      }
+    },
+    {
+      "id": "13127",
+      "title": "Glynn, GA",
+      "scores": {
+        "Access to broadband": 8.676,
+        "Households with a smartphone": 3.728645841496737
+      }
+    },
+    {
+      "id": "13129",
+      "title": "Gordon, GA",
+      "scores": {
+        "Access to broadband": 8.018999999999998,
+        "Households with a smartphone": 3.0180001043484306
+      }
+    },
+    {
+      "id": "13131",
+      "title": "Grady, GA",
+      "scores": {
+        "Access to broadband": 7.263000000000001,
+        "Households with a smartphone": 2.6017353494457423
+      }
+    },
+    {
+      "id": "13133",
+      "title": "Greene, GA",
+      "scores": {
+        "Access to broadband": 6.03,
+        "Households with a smartphone": 2.8664628615581007
+      }
+    },
+    {
+      "id": "13135",
+      "title": "Gwinnett, GA",
+      "scores": {
+        "Access to broadband": 8.91,
+        "Households with a smartphone": 5.5122751058002075
+      }
+    },
+    {
+      "id": "13137",
+      "title": "Habersham, GA",
+      "scores": {
+        "Access to broadband": 6.408,
+        "Households with a smartphone": 2.1744381859357746
+      }
+    },
+    {
+      "id": "13139",
+      "title": "Hall, GA",
+      "scores": {
+        "Access to broadband": 8.802,
+        "Households with a smartphone": 4.227670089167825
+      }
+    },
+    {
+      "id": "13141",
+      "title": "Hancock, GA",
+      "scores": {
+        "Access to broadband": 0.7289999999999996,
+        "Households with a smartphone": 0.13817924361319223
+      }
+    },
+    {
+      "id": "13143",
+      "title": "Haralson, GA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.3939188903454984
+      }
+    },
+    {
+      "id": "13145",
+      "title": "Harris, GA",
+      "scores": {
+        "Access to broadband": 7.9830000000000005,
+        "Households with a smartphone": 3.842292172667719
+      }
+    },
+    {
+      "id": "13147",
+      "title": "Hart, GA",
+      "scores": {
+        "Access to broadband": 6.111000000000001,
+        "Households with a smartphone": 1.9416872647851444
+      }
+    },
+    {
+      "id": "13149",
+      "title": "Heard, GA",
+      "scores": {
+        "Access to broadband": 5.22,
+        "Households with a smartphone": 2.7949890582207484
+      }
+    },
+    {
+      "id": "13151",
+      "title": "Henry, GA",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 5.198101736834304
+      }
+    },
+    {
+      "id": "13153",
+      "title": "Houston, GA",
+      "scores": {
+        "Access to broadband": 8.793,
+        "Households with a smartphone": 4.30641541694867
+      }
+    },
+    {
+      "id": "13155",
+      "title": "Irwin, GA",
+      "scores": {
+        "Access to broadband": 5.138999999999999,
+        "Households with a smartphone": 0.8998873934259217
+      }
+    },
+    {
+      "id": "13157",
+      "title": "Jackson, GA",
+      "scores": {
+        "Access to broadband": 7.227000000000001,
+        "Households with a smartphone": 4.069123119884242
+      }
+    },
+    {
+      "id": "13159",
+      "title": "Jasper, GA",
+      "scores": {
+        "Access to broadband": 5.445,
+        "Households with a smartphone": 3.2572300789787105
+      }
+    },
+    {
+      "id": "13161",
+      "title": "Jeff Davis, GA",
+      "scores": {
+        "Access to broadband": 6.093,
+        "Households with a smartphone": 2.729099229824757
+      }
+    },
+    {
+      "id": "13163",
+      "title": "Jefferson, GA",
+      "scores": {
+        "Access to broadband": 0.8009999999999997,
+        "Households with a smartphone": 1.9776409761622606
+      }
+    },
+    {
+      "id": "13165",
+      "title": "Jenkins, GA",
+      "scores": {
+        "Access to broadband": 4.914000000000001,
+        "Households with a smartphone": 1.295083947336634
+      }
+    },
+    {
+      "id": "13167",
+      "title": "Johnson, GA",
+      "scores": {
+        "Access to broadband": 2.7,
+        "Households with a smartphone": 1.6445735687908
+      }
+    },
+    {
+      "id": "13169",
+      "title": "Jones, GA",
+      "scores": {
+        "Access to broadband": 7.551,
+        "Households with a smartphone": 3.2691554262047355
+      }
+    },
+    {
+      "id": "13171",
+      "title": "Lamar, GA",
+      "scores": {
+        "Access to broadband": 6.327,
+        "Households with a smartphone": 2.9423588530889733
+      }
+    },
+    {
+      "id": "13173",
+      "title": "Lanier, GA",
+      "scores": {
+        "Access to broadband": 7.433999999999999,
+        "Households with a smartphone": 2.6426991849371335
+      }
+    },
+    {
+      "id": "13175",
+      "title": "Laurens, GA",
+      "scores": {
+        "Access to broadband": 5.418,
+        "Households with a smartphone": 0.2227167070052143
+      }
+    },
+    {
+      "id": "13177",
+      "title": "Lee, GA",
+      "scores": {
+        "Access to broadband": 8.261999999999999,
+        "Households with a smartphone": 4.939744798827393
+      }
+    },
+    {
+      "id": "13179",
+      "title": "Liberty, GA",
+      "scores": {
+        "Access to broadband": 8.450999999999999,
+        "Households with a smartphone": 4.8151434127369965
+      }
+    },
+    {
+      "id": "13181",
+      "title": "Lincoln, GA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 0.489004947773502
+      }
+    },
+    {
+      "id": "13183",
+      "title": "Long, GA",
+      "scores": {
+        "Access to broadband": 7.4159999999999995,
+        "Households with a smartphone": 5.334824663663002
+      }
+    },
+    {
+      "id": "13185",
+      "title": "Lowndes, GA",
+      "scores": {
+        "Access to broadband": 7.973999999999999,
+        "Households with a smartphone": 3.5673639291652623
+      }
+    },
+    {
+      "id": "13187",
+      "title": "Lumpkin, GA",
+      "scores": {
+        "Access to broadband": 6.317999999999999,
+        "Households with a smartphone": 3.49484176879611
+      }
+    },
+    {
+      "id": "13189",
+      "title": "McDuffie, GA",
+      "scores": {
+        "Access to broadband": 7.614,
+        "Households with a smartphone": 2.453252607966548
+      }
+    },
+    {
+      "id": "13191",
+      "title": "McIntosh, GA",
+      "scores": {
+        "Access to broadband": 8.757,
+        "Households with a smartphone": 3.3494018194050375
+      }
+    },
+    {
+      "id": "13193",
+      "title": "Macon, GA",
+      "scores": {
+        "Access to broadband": 5.661,
+        "Households with a smartphone": 1.738120114298661
+      }
+    },
+    {
+      "id": "13195",
+      "title": "Madison, GA",
+      "scores": {
+        "Access to broadband": 7.361999999999999,
+        "Households with a smartphone": 2.5841936475859946
+      }
+    },
+    {
+      "id": "13197",
+      "title": "Marion, GA",
+      "scores": {
+        "Access to broadband": 5.796,
+        "Households with a smartphone": 1.685874229607784
+      }
+    },
+    {
+      "id": "13199",
+      "title": "Meriwether, GA",
+      "scores": {
+        "Access to broadband": 4.581,
+        "Households with a smartphone": 1.6562817986966585
+      }
+    },
+    {
+      "id": "13201",
+      "title": "Miller, GA",
+      "scores": {
+        "Access to broadband": 1.0709999999999997,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "13205",
+      "title": "Mitchell, GA",
+      "scores": {
+        "Access to broadband": 5.607,
+        "Households with a smartphone": 2.4207496663261576
+      }
+    },
+    {
+      "id": "13207",
+      "title": "Monroe, GA",
+      "scores": {
+        "Access to broadband": 3.8610000000000007,
+        "Households with a smartphone": 3.5219590641520298
+      }
+    },
+    {
+      "id": "13209",
+      "title": "Montgomery, GA",
+      "scores": {
+        "Access to broadband": 2.925,
+        "Households with a smartphone": 1.5677370652110794
+      }
+    },
+    {
+      "id": "13211",
+      "title": "Morgan, GA",
+      "scores": {
+        "Access to broadband": 3.8430000000000004,
+        "Households with a smartphone": 3.789027149321267
+      }
+    },
+    {
+      "id": "13213",
+      "title": "Murray, GA",
+      "scores": {
+        "Access to broadband": 8.810999999999998,
+        "Households with a smartphone": 2.877995797424148
+      }
+    },
+    {
+      "id": "13215",
+      "title": "Muscogee, GA",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 3.8240811545944697
+      }
+    },
+    {
+      "id": "13217",
+      "title": "Newton, GA",
+      "scores": {
+        "Access to broadband": 8.703000000000001,
+        "Households with a smartphone": 4.618763270065301
+      }
+    },
+    {
+      "id": "13219",
+      "title": "Oconee, GA",
+      "scores": {
+        "Access to broadband": 8.216999999999999,
+        "Households with a smartphone": 5.033125019655765
+      }
+    },
+    {
+      "id": "13221",
+      "title": "Oglethorpe, GA",
+      "scores": {
+        "Access to broadband": 6.218999999999999,
+        "Households with a smartphone": 2.0520317716127545
+      }
+    },
+    {
+      "id": "13223",
+      "title": "Paulding, GA",
+      "scores": {
+        "Access to broadband": 8.892,
+        "Households with a smartphone": 5.191002152450055
+      }
+    },
+    {
+      "id": "13225",
+      "title": "Peach, GA",
+      "scores": {
+        "Access to broadband": 7.505999999999999,
+        "Households with a smartphone": 2.9793014305593557
+      }
+    },
+    {
+      "id": "13227",
+      "title": "Pickens, GA",
+      "scores": {
+        "Access to broadband": 7.992,
+        "Households with a smartphone": 3.7073875914693217
+      }
+    },
+    {
+      "id": "13229",
+      "title": "Pierce, GA",
+      "scores": {
+        "Access to broadband": 6.579,
+        "Households with a smartphone": 3.433191376097951
+      }
+    },
+    {
+      "id": "13231",
+      "title": "Pike, GA",
+      "scores": {
+        "Access to broadband": 2.6549999999999994,
+        "Households with a smartphone": 3.7563438084044627
+      }
+    },
+    {
+      "id": "13233",
+      "title": "Polk, GA",
+      "scores": {
+        "Access to broadband": 8.720999999999998,
+        "Households with a smartphone": 3.4636012022556004
+      }
+    },
+    {
+      "id": "13235",
+      "title": "Pulaski, GA",
+      "scores": {
+        "Access to broadband": 6.497999999999999,
+        "Households with a smartphone": 1.675199186302763
+      }
+    },
+    {
+      "id": "13237",
+      "title": "Putnam, GA",
+      "scores": {
+        "Access to broadband": 7.911,
+        "Households with a smartphone": 3.7405243852737406
+      }
+    },
+    {
+      "id": "13239",
+      "title": "Quitman, GA",
+      "scores": {
+        "Access to broadband": 5.679,
+        "Households with a smartphone": 1.2447411512784992
+      }
+    },
+    {
+      "id": "13241",
+      "title": "Rabun, GA",
+      "scores": {
+        "Access to broadband": 7.875,
+        "Households with a smartphone": 1.8490288695091017
+      }
+    },
+    {
+      "id": "13243",
+      "title": "Randolph, GA",
+      "scores": {
+        "Access to broadband": 7.164000000000001,
+        "Households with a smartphone": 2.4414463032919578
+      }
+    },
+    {
+      "id": "13245",
+      "title": "Richmond, GA",
+      "scores": {
+        "Access to broadband": 8.64,
+        "Households with a smartphone": 3.421106043747783
+      }
+    },
+    {
+      "id": "13247",
+      "title": "Rockdale, GA",
+      "scores": {
+        "Access to broadband": 8.847,
+        "Households with a smartphone": 5.105927066609874
+      }
+    },
+    {
+      "id": "13249",
+      "title": "Schley, GA",
+      "scores": {
+        "Access to broadband": 6.8580000000000005,
+        "Households with a smartphone": 2.116706885204801
+      }
+    },
+    {
+      "id": "13251",
+      "title": "Screven, GA",
+      "scores": {
+        "Access to broadband": 8.865,
+        "Households with a smartphone": 2.035403775358346
+      }
+    },
+    {
+      "id": "13253",
+      "title": "Seminole, GA",
+      "scores": {
+        "Access to broadband": 6.732,
+        "Households with a smartphone": 0.287129588677576
+      }
+    },
+    {
+      "id": "13255",
+      "title": "Spalding, GA",
+      "scores": {
+        "Access to broadband": 8.613000000000001,
+        "Households with a smartphone": 2.3576739640629842
+      }
+    },
+    {
+      "id": "13257",
+      "title": "Stephens, GA",
+      "scores": {
+        "Access to broadband": 8.073,
+        "Households with a smartphone": 1.6144039364795357
+      }
+    },
+    {
+      "id": "13259",
+      "title": "Stewart, GA",
+      "scores": {
+        "Access to broadband": 5.058000000000001,
+        "Households with a smartphone": 1.8141872302042388
+      }
+    },
+    {
+      "id": "13261",
+      "title": "Sumter, GA",
+      "scores": {
+        "Access to broadband": 6.579,
+        "Households with a smartphone": 3.1145152737060133
+      }
+    },
+    {
+      "id": "13263",
+      "title": "Talbot, GA",
+      "scores": {
+        "Access to broadband": 7.488,
+        "Households with a smartphone": 1.1542682148781416
+      }
+    },
+    {
+      "id": "13265",
+      "title": "Taliaferro, GA",
+      "scores": {
+        "Access to broadband": 8.199,
+        "Households with a smartphone": 0.14532871972318362
+      }
+    },
+    {
+      "id": "13267",
+      "title": "Tattnall, GA",
+      "scores": {
+        "Access to broadband": 6.372,
+        "Households with a smartphone": 2.9109827250069626
+      }
+    },
+    {
+      "id": "13269",
+      "title": "Taylor, GA",
+      "scores": {
+        "Access to broadband": 7.731000000000001,
+        "Households with a smartphone": 1.8008523164866763
+      }
+    },
+    {
+      "id": "13271",
+      "title": "Telfair, GA",
+      "scores": {
+        "Access to broadband": 6.426,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "13273",
+      "title": "Terrell, GA",
+      "scores": {
+        "Access to broadband": 6.714,
+        "Households with a smartphone": 2.376890885704452
+      }
+    },
+    {
+      "id": "13275",
+      "title": "Thomas, GA",
+      "scores": {
+        "Access to broadband": 7.938,
+        "Households with a smartphone": 3.430803026604834
+      }
+    },
+    {
+      "id": "13277",
+      "title": "Tift, GA",
+      "scores": {
+        "Access to broadband": 7.785,
+        "Households with a smartphone": 1.4386255498347569
+      }
+    },
+    {
+      "id": "13279",
+      "title": "Toombs, GA",
+      "scores": {
+        "Access to broadband": 3.9779999999999998,
+        "Households with a smartphone": 2.155814781935076
+      }
+    },
+    {
+      "id": "13281",
+      "title": "Towns, GA",
+      "scores": {
+        "Access to broadband": 8.343,
+        "Households with a smartphone": 2.1305766602223883
+      }
+    },
+    {
+      "id": "13283",
+      "title": "Treutlen, GA",
+      "scores": {
+        "Access to broadband": 1.1520000000000001,
+        "Households with a smartphone": 1.5850947724792297
+      }
+    },
+    {
+      "id": "13285",
+      "title": "Troup, GA",
+      "scores": {
+        "Access to broadband": 8.244,
+        "Households with a smartphone": 3.409406366096733
+      }
+    },
+    {
+      "id": "13287",
+      "title": "Turner, GA",
+      "scores": {
+        "Access to broadband": 6.534,
+        "Households with a smartphone": 1.6302076239030168
+      }
+    },
+    {
+      "id": "13289",
+      "title": "Twiggs, GA",
+      "scores": {
+        "Access to broadband": 3.357,
+        "Households with a smartphone": 0.11772468802763636
+      }
+    },
+    {
+      "id": "13291",
+      "title": "Union, GA",
+      "scores": {
+        "Access to broadband": 8.289,
+        "Households with a smartphone": 2.958557623711007
+      }
+    },
+    {
+      "id": "13293",
+      "title": "Upson, GA",
+      "scores": {
+        "Access to broadband": 8.316,
+        "Households with a smartphone": 2.2497751746719863
+      }
+    },
+    {
+      "id": "13295",
+      "title": "Walker, GA",
+      "scores": {
+        "Access to broadband": 8.586,
+        "Households with a smartphone": 3.0071730430863073
+      }
+    },
+    {
+      "id": "13297",
+      "title": "Walton, GA",
+      "scores": {
+        "Access to broadband": 8.055,
+        "Households with a smartphone": 4.399413521872952
+      }
+    },
+    {
+      "id": "13299",
+      "title": "Ware, GA",
+      "scores": {
+        "Access to broadband": 7.425,
+        "Households with a smartphone": 3.237710363621747
+      }
+    },
+    {
+      "id": "13301",
+      "title": "Warren, GA",
+      "scores": {
+        "Access to broadband": 0.009000000000000008,
+        "Households with a smartphone": 1.2428614670568052
+      }
+    },
+    {
+      "id": "13303",
+      "title": "Washington, GA",
+      "scores": {
+        "Access to broadband": 6.039000000000001,
+        "Households with a smartphone": 2.310687993093691
+      }
+    },
+    {
+      "id": "13305",
+      "title": "Wayne, GA",
+      "scores": {
+        "Access to broadband": 7.137,
+        "Households with a smartphone": 2.937699217618082
+      }
+    },
+    {
+      "id": "13307",
+      "title": "Webster, GA",
+      "scores": {
+        "Access to broadband": 3.9059999999999997,
+        "Households with a smartphone": 2.334027889084789
+      }
+    },
+    {
+      "id": "13309",
+      "title": "Wheeler, GA",
+      "scores": {
+        "Access to broadband": 3.8970000000000002,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "13311",
+      "title": "White, GA",
+      "scores": {
+        "Access to broadband": 7.452,
+        "Households with a smartphone": 2.777355885398688
+      }
+    },
+    {
+      "id": "13313",
+      "title": "Whitfield, GA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.053832758584111
+      }
+    },
+    {
+      "id": "13315",
+      "title": "Wilcox, GA",
+      "scores": {
+        "Access to broadband": 5.409,
+        "Households with a smartphone": 0.0495688682226534
+      }
+    },
+    {
+      "id": "13317",
+      "title": "Wilkes, GA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "13319",
+      "title": "Wilkinson, GA",
+      "scores": {
+        "Access to broadband": 4.941000000000001,
+        "Households with a smartphone": 0.46415526358828973
+      }
+    },
+    {
+      "id": "13321",
+      "title": "Worth, GA",
+      "scores": {
+        "Access to broadband": 6.2909999999999995,
+        "Households with a smartphone": 2.9102059335801993
+      }
+    },
+    {
+      "id": "19001",
+      "title": "Adair, IA",
+      "scores": {
+        "Access to broadband": 7.137,
+        "Households with a smartphone": 2.6038415366146457
+      }
+    },
+    {
+      "id": "19003",
+      "title": "Adams, IA",
+      "scores": {
+        "Access to broadband": 5.508,
+        "Households with a smartphone": 2.4047747069577374
+      }
+    },
+    {
+      "id": "19005",
+      "title": "Allamakee, IA",
+      "scores": {
+        "Access to broadband": 6.93,
+        "Households with a smartphone": 1.3945234968252869
+      }
+    },
+    {
+      "id": "19007",
+      "title": "Appanoose, IA",
+      "scores": {
+        "Access to broadband": 6.795,
+        "Households with a smartphone": 1.9221478842644883
+      }
+    },
+    {
+      "id": "19009",
+      "title": "Audubon, IA",
+      "scores": {
+        "Access to broadband": 6.560999999999999,
+        "Households with a smartphone": 2.5336087367333944
+      }
+    },
+    {
+      "id": "19011",
+      "title": "Benton, IA",
+      "scores": {
+        "Access to broadband": 7.128,
+        "Households with a smartphone": 3.2333609500138083
+      }
+    },
+    {
+      "id": "19013",
+      "title": "Black Hawk, IA",
+      "scores": {
+        "Access to broadband": 8.946000000000002,
+        "Households with a smartphone": 3.4197239149359526
+      }
+    },
+    {
+      "id": "19015",
+      "title": "Boone, IA",
+      "scores": {
+        "Access to broadband": 8.676,
+        "Households with a smartphone": 3.9417141628132044
+      }
+    },
+    {
+      "id": "19017",
+      "title": "Bremer, IA",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 3.2243395010586378
+      }
+    },
+    {
+      "id": "19019",
+      "title": "Buchanan, IA",
+      "scores": {
+        "Access to broadband": 6.236999999999999,
+        "Households with a smartphone": 2.732201605474404
+      }
+    },
+    {
+      "id": "19021",
+      "title": "Buena Vista, IA",
+      "scores": {
+        "Access to broadband": 6.8580000000000005,
+        "Households with a smartphone": 3.6888196338137904
+      }
+    },
+    {
+      "id": "19023",
+      "title": "Butler, IA",
+      "scores": {
+        "Access to broadband": 7.515,
+        "Households with a smartphone": 2.2285940131931823
+      }
+    },
+    {
+      "id": "19025",
+      "title": "Calhoun, IA",
+      "scores": {
+        "Access to broadband": 7.029000000000002,
+        "Households with a smartphone": 2.426291633331931
+      }
+    },
+    {
+      "id": "19027",
+      "title": "Carroll, IA",
+      "scores": {
+        "Access to broadband": 8.487,
+        "Households with a smartphone": 2.587611387649366
+      }
+    },
+    {
+      "id": "19029",
+      "title": "Cass, IA",
+      "scores": {
+        "Access to broadband": 8.352000000000002,
+        "Households with a smartphone": 3.1011954077405615
+      }
+    },
+    {
+      "id": "19031",
+      "title": "Cedar, IA",
+      "scores": {
+        "Access to broadband": 7.614,
+        "Households with a smartphone": 3.048876693534556
+      }
+    },
+    {
+      "id": "19033",
+      "title": "Cerro Gordo, IA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.842799452576534
+      }
+    },
+    {
+      "id": "19035",
+      "title": "Cherokee, IA",
+      "scores": {
+        "Access to broadband": 6.5969999999999995,
+        "Households with a smartphone": 2.6582680289653804
+      }
+    },
+    {
+      "id": "19037",
+      "title": "Chickasaw, IA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.3505161648554638
+      }
+    },
+    {
+      "id": "19039",
+      "title": "Clarke, IA",
+      "scores": {
+        "Access to broadband": 7.316999999999999,
+        "Households with a smartphone": 2.6057571964956194
+      }
+    },
+    {
+      "id": "19041",
+      "title": "Clay, IA",
+      "scores": {
+        "Access to broadband": 7.659,
+        "Households with a smartphone": 2.964792399323886
+      }
+    },
+    {
+      "id": "19043",
+      "title": "Clayton, IA",
+      "scores": {
+        "Access to broadband": 6.552,
+        "Households with a smartphone": 1.483902709018788
+      }
+    },
+    {
+      "id": "19045",
+      "title": "Clinton, IA",
+      "scores": {
+        "Access to broadband": 8.522999999999998,
+        "Households with a smartphone": 2.6234236495146597
+      }
+    },
+    {
+      "id": "19047",
+      "title": "Crawford, IA",
+      "scores": {
+        "Access to broadband": 6.1290000000000004,
+        "Households with a smartphone": 2.5939942410530654
+      }
+    },
+    {
+      "id": "19049",
+      "title": "Dallas, IA",
+      "scores": {
+        "Access to broadband": 8.171999999999999,
+        "Households with a smartphone": 5.257155735857561
+      }
+    },
+    {
+      "id": "19051",
+      "title": "Davis, IA",
+      "scores": {
+        "Access to broadband": 6.966,
+        "Households with a smartphone": 1.0752904583295215
+      }
+    },
+    {
+      "id": "19053",
+      "title": "Decatur, IA",
+      "scores": {
+        "Access to broadband": 7.704,
+        "Households with a smartphone": 2.218157851375844
+      }
+    },
+    {
+      "id": "19055",
+      "title": "Delaware, IA",
+      "scores": {
+        "Access to broadband": 8.226,
+        "Households with a smartphone": 2.939854022023856
+      }
+    },
+    {
+      "id": "19057",
+      "title": "Des Moines, IA",
+      "scores": {
+        "Access to broadband": 8.559,
+        "Households with a smartphone": 2.750593824228028
+      }
+    },
+    {
+      "id": "19059",
+      "title": "Dickinson, IA",
+      "scores": {
+        "Access to broadband": 8.450999999999999,
+        "Households with a smartphone": 3.714827261924723
+      }
+    },
+    {
+      "id": "19061",
+      "title": "Dubuque, IA",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 3.5993001949018586
+      }
+    },
+    {
+      "id": "19063",
+      "title": "Emmet, IA",
+      "scores": {
+        "Access to broadband": 8.928,
+        "Households with a smartphone": 2.5272649205667674
+      }
+    },
+    {
+      "id": "19065",
+      "title": "Fayette, IA",
+      "scores": {
+        "Access to broadband": 7.992,
+        "Households with a smartphone": 2.443847051749141
+      }
+    },
+    {
+      "id": "19067",
+      "title": "Floyd, IA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.311114592308295
+      }
+    },
+    {
+      "id": "19069",
+      "title": "Franklin, IA",
+      "scores": {
+        "Access to broadband": 8.577,
+        "Households with a smartphone": 2.2789915966386562
+      }
+    },
+    {
+      "id": "19071",
+      "title": "Fremont, IA",
+      "scores": {
+        "Access to broadband": 5.958,
+        "Households with a smartphone": 3.0867597875270514
+      }
+    },
+    {
+      "id": "19073",
+      "title": "Greene, IA",
+      "scores": {
+        "Access to broadband": 8.495999999999999,
+        "Households with a smartphone": 3.1608609501913403
+      }
+    },
+    {
+      "id": "19075",
+      "title": "Grundy, IA",
+      "scores": {
+        "Access to broadband": 7.083,
+        "Households with a smartphone": 2.899174386515361
+      }
+    },
+    {
+      "id": "19077",
+      "title": "Guthrie, IA",
+      "scores": {
+        "Access to broadband": 7.515,
+        "Households with a smartphone": 2.6823368874499987
+      }
+    },
+    {
+      "id": "19079",
+      "title": "Hamilton, IA",
+      "scores": {
+        "Access to broadband": 7.595999999999998,
+        "Households with a smartphone": 2.5024451585859997
+      }
+    },
+    {
+      "id": "19081",
+      "title": "Hancock, IA",
+      "scores": {
+        "Access to broadband": 8.522999999999998,
+        "Households with a smartphone": 2.666386907259757
+      }
+    },
+    {
+      "id": "19083",
+      "title": "Hardin, IA",
+      "scores": {
+        "Access to broadband": 8.064000000000002,
+        "Households with a smartphone": 2.101168272186924
+      }
+    },
+    {
+      "id": "19085",
+      "title": "Harrison, IA",
+      "scores": {
+        "Access to broadband": 6.12,
+        "Households with a smartphone": 2.781009177864693
+      }
+    },
+    {
+      "id": "19087",
+      "title": "Henry, IA",
+      "scores": {
+        "Access to broadband": 8.171999999999999,
+        "Households with a smartphone": 3.1255928868825222
+      }
+    },
+    {
+      "id": "19089",
+      "title": "Howard, IA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.203418699434272
+      }
+    },
+    {
+      "id": "19091",
+      "title": "Humboldt, IA",
+      "scores": {
+        "Access to broadband": 6.497999999999999,
+        "Households with a smartphone": 2.7660855386930896
+      }
+    },
+    {
+      "id": "19093",
+      "title": "Ida, IA",
+      "scores": {
+        "Access to broadband": 3.1049999999999995,
+        "Households with a smartphone": 2.3931991401211645
+      }
+    },
+    {
+      "id": "19095",
+      "title": "Iowa, IA",
+      "scores": {
+        "Access to broadband": 6.957,
+        "Households with a smartphone": 2.933865756580942
+      }
+    },
+    {
+      "id": "19097",
+      "title": "Jackson, IA",
+      "scores": {
+        "Access to broadband": 7.6499999999999995,
+        "Households with a smartphone": 2.3687683912807467
+      }
+    },
+    {
+      "id": "19099",
+      "title": "Jasper, IA",
+      "scores": {
+        "Access to broadband": 7.803,
+        "Households with a smartphone": 3.3505636513610133
+      }
+    },
+    {
+      "id": "19101",
+      "title": "Jefferson, IA",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 3.2349582784365394
+      }
+    },
+    {
+      "id": "19103",
+      "title": "Johnson, IA",
+      "scores": {
+        "Access to broadband": 8.442,
+        "Households with a smartphone": 5.008296157553165
+      }
+    },
+    {
+      "id": "19105",
+      "title": "Jones, IA",
+      "scores": {
+        "Access to broadband": 8.181000000000001,
+        "Households with a smartphone": 2.8532996816474023
+      }
+    },
+    {
+      "id": "19107",
+      "title": "Keokuk, IA",
+      "scores": {
+        "Access to broadband": 5.841,
+        "Households with a smartphone": 2.278660369257191
+      }
+    },
+    {
+      "id": "19109",
+      "title": "Kossuth, IA",
+      "scores": {
+        "Access to broadband": 6.6419999999999995,
+        "Households with a smartphone": 3.06168263885212
+      }
+    },
+    {
+      "id": "19111",
+      "title": "Lee, IA",
+      "scores": {
+        "Access to broadband": 8.226,
+        "Households with a smartphone": 2.926620997556109
+      }
+    },
+    {
+      "id": "19113",
+      "title": "Linn, IA",
+      "scores": {
+        "Access to broadband": 8.738999999999999,
+        "Households with a smartphone": 4.087145047647929
+      }
+    },
+    {
+      "id": "19115",
+      "title": "Louisa, IA",
+      "scores": {
+        "Access to broadband": 6.327,
+        "Households with a smartphone": 2.7698121385325947
+      }
+    },
+    {
+      "id": "19117",
+      "title": "Lucas, IA",
+      "scores": {
+        "Access to broadband": 6.218999999999999,
+        "Households with a smartphone": 2.2988661692024426
+      }
+    },
+    {
+      "id": "19119",
+      "title": "Lyon, IA",
+      "scores": {
+        "Access to broadband": 7.622999999999999,
+        "Households with a smartphone": 3.3586437872577033
+      }
+    },
+    {
+      "id": "19121",
+      "title": "Madison, IA",
+      "scores": {
+        "Access to broadband": 7.263000000000001,
+        "Households with a smartphone": 3.500265726832815
+      }
+    },
+    {
+      "id": "19123",
+      "title": "Mahaska, IA",
+      "scores": {
+        "Access to broadband": 7.0200000000000005,
+        "Households with a smartphone": 3.251144290539865
+      }
+    },
+    {
+      "id": "19125",
+      "title": "Marion, IA",
+      "scores": {
+        "Access to broadband": 7.902,
+        "Households with a smartphone": 3.339978262598416
+      }
+    },
+    {
+      "id": "19127",
+      "title": "Marshall, IA",
+      "scores": {
+        "Access to broadband": 8.838,
+        "Households with a smartphone": 3.1538278631311694
+      }
+    },
+    {
+      "id": "19129",
+      "title": "Mills, IA",
+      "scores": {
+        "Access to broadband": 6.57,
+        "Households with a smartphone": 3.517851314501101
+      }
+    },
+    {
+      "id": "19131",
+      "title": "Mitchell, IA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.1718283856640226
+      }
+    },
+    {
+      "id": "19133",
+      "title": "Monona, IA",
+      "scores": {
+        "Access to broadband": 5.175,
+        "Households with a smartphone": 2.214742891975443
+      }
+    },
+    {
+      "id": "19135",
+      "title": "Monroe, IA",
+      "scores": {
+        "Access to broadband": 6.57,
+        "Households with a smartphone": 3.145512695916457
+      }
+    },
+    {
+      "id": "19137",
+      "title": "Montgomery, IA",
+      "scores": {
+        "Access to broadband": 8.127,
+        "Households with a smartphone": 2.478128726964954
+      }
+    },
+    {
+      "id": "19139",
+      "title": "Muscatine, IA",
+      "scores": {
+        "Access to broadband": 7.992,
+        "Households with a smartphone": 3.5587808417997113
+      }
+    },
+    {
+      "id": "19141",
+      "title": "O Brien, IA",
+      "scores": {
+        "Access to broadband": 7.794,
+        "Households with a smartphone": 2.517054044300525
+      }
+    },
+    {
+      "id": "19143",
+      "title": "Osceola, IA",
+      "scores": {
+        "Access to broadband": 7.316999999999999,
+        "Households with a smartphone": 3.140243765066349
+      }
+    },
+    {
+      "id": "19145",
+      "title": "Page, IA",
+      "scores": {
+        "Access to broadband": 7.785,
+        "Households with a smartphone": 2.78328418193151
+      }
+    },
+    {
+      "id": "19147",
+      "title": "Palo Alto, IA",
+      "scores": {
+        "Access to broadband": 5.337,
+        "Households with a smartphone": 3.404604654033701
+      }
+    },
+    {
+      "id": "19149",
+      "title": "Plymouth, IA",
+      "scores": {
+        "Access to broadband": 6.093,
+        "Households with a smartphone": 3.6656683434619524
+      }
+    },
+    {
+      "id": "19151",
+      "title": "Pocahontas, IA",
+      "scores": {
+        "Access to broadband": 6.102000000000001,
+        "Households with a smartphone": 2.399008901532532
+      }
+    },
+    {
+      "id": "19153",
+      "title": "Polk, IA",
+      "scores": {
+        "Access to broadband": 8.738999999999999,
+        "Households with a smartphone": 4.623161974786487
+      }
+    },
+    {
+      "id": "19155",
+      "title": "Pottawattamie, IA",
+      "scores": {
+        "Access to broadband": 7.928999999999999,
+        "Households with a smartphone": 3.1597427018853956
+      }
+    },
+    {
+      "id": "19157",
+      "title": "Poweshiek, IA",
+      "scores": {
+        "Access to broadband": 6.534,
+        "Households with a smartphone": 3.5280792176263827
+      }
+    },
+    {
+      "id": "19159",
+      "title": "Ringgold, IA",
+      "scores": {
+        "Access to broadband": 5.22,
+        "Households with a smartphone": 2.413679342543227
+      }
+    },
+    {
+      "id": "19161",
+      "title": "Sac, IA",
+      "scores": {
+        "Access to broadband": 4.509,
+        "Households with a smartphone": 2.4494133811069663
+      }
+    },
+    {
+      "id": "19163",
+      "title": "Scott, IA",
+      "scores": {
+        "Access to broadband": 8.676,
+        "Households with a smartphone": 3.546657305219737
+      }
+    },
+    {
+      "id": "19165",
+      "title": "Shelby, IA",
+      "scores": {
+        "Access to broadband": 8.280000000000001,
+        "Households with a smartphone": 2.347765265440302
+      }
+    },
+    {
+      "id": "19167",
+      "title": "Sioux, IA",
+      "scores": {
+        "Access to broadband": 7.343999999999999,
+        "Households with a smartphone": 3.6264807418939964
+      }
+    },
+    {
+      "id": "19169",
+      "title": "Story, IA",
+      "scores": {
+        "Access to broadband": 8.477999999999998,
+        "Households with a smartphone": 5.00843813169428
+      }
+    },
+    {
+      "id": "19171",
+      "title": "Tama, IA",
+      "scores": {
+        "Access to broadband": 7.272000000000001,
+        "Households with a smartphone": 3.0270387947925275
+      }
+    },
+    {
+      "id": "19173",
+      "title": "Taylor, IA",
+      "scores": {
+        "Access to broadband": 6.0840000000000005,
+        "Households with a smartphone": 2.1322974472808
+      }
+    },
+    {
+      "id": "19175",
+      "title": "Union, IA",
+      "scores": {
+        "Access to broadband": 7.812,
+        "Households with a smartphone": 1.9729099186844543
+      }
+    },
+    {
+      "id": "19177",
+      "title": "Van Buren, IA",
+      "scores": {
+        "Access to broadband": 7.119000000000001,
+        "Households with a smartphone": 1.805140638162356
+      }
+    },
+    {
+      "id": "19179",
+      "title": "Wapello, IA",
+      "scores": {
+        "Access to broadband": 7.947,
+        "Households with a smartphone": 2.583486328364055
+      }
+    },
+    {
+      "id": "19181",
+      "title": "Warren, IA",
+      "scores": {
+        "Access to broadband": 7.9830000000000005,
+        "Households with a smartphone": 4.246296187128263
+      }
+    },
+    {
+      "id": "19183",
+      "title": "Washington, IA",
+      "scores": {
+        "Access to broadband": 7.956,
+        "Households with a smartphone": 3.087425796006476
+      }
+    },
+    {
+      "id": "19185",
+      "title": "Wayne, IA",
+      "scores": {
+        "Access to broadband": 7.74,
+        "Households with a smartphone": 1.3923258325435828
+      }
+    },
+    {
+      "id": "19187",
+      "title": "Webster, IA",
+      "scores": {
+        "Access to broadband": 8.450999999999999,
+        "Households with a smartphone": 2.659776588173406
+      }
+    },
+    {
+      "id": "19189",
+      "title": "Winnebago, IA",
+      "scores": {
+        "Access to broadband": 8.883,
+        "Households with a smartphone": 2.8867599156926604
+      }
+    },
+    {
+      "id": "19191",
+      "title": "Winneshiek, IA",
+      "scores": {
+        "Access to broadband": 8.037,
+        "Households with a smartphone": 2.9863426174857515
+      }
+    },
+    {
+      "id": "19193",
+      "title": "Woodbury, IA",
+      "scores": {
+        "Access to broadband": 8.055,
+        "Households with a smartphone": 3.3447232388786174
+      }
+    },
+    {
+      "id": "19195",
+      "title": "Worth, IA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.5663388383744667
+      }
+    },
+    {
+      "id": "19197",
+      "title": "Wright, IA",
+      "scores": {
+        "Access to broadband": 7.515,
+        "Households with a smartphone": 1.921017264550812
+      }
+    },
+    {
+      "id": "30001",
+      "title": "Beaverhead, MT",
+      "scores": {
+        "Access to broadband": 6.921,
+        "Households with a smartphone": 2.67985031578636
+      }
+    },
+    {
+      "id": "30003",
+      "title": "Big Horn, MT",
+      "scores": {
+        "Access to broadband": 7.334999999999999,
+        "Households with a smartphone": 1.7524529746805153
+      }
+    },
+    {
+      "id": "30005",
+      "title": "Blaine, MT",
+      "scores": {
+        "Access to broadband": 8.667,
+        "Households with a smartphone": 1.4482758620689657
+      }
+    },
+    {
+      "id": "30007",
+      "title": "Broadwater, MT",
+      "scores": {
+        "Access to broadband": 2.600999999999999,
+        "Households with a smartphone": 2.598930481283422
+      }
+    },
+    {
+      "id": "30009",
+      "title": "Carbon, MT",
+      "scores": {
+        "Access to broadband": 8.604,
+        "Households with a smartphone": 2.7411946460332093
+      }
+    },
+    {
+      "id": "30011",
+      "title": "Carter, MT",
+      "scores": {
+        "Access to broadband": 4.302,
+        "Households with a smartphone": 1.1096470588235294
+      }
+    },
+    {
+      "id": "30013",
+      "title": "Cascade, MT",
+      "scores": {
+        "Access to broadband": 8.964,
+        "Households with a smartphone": 2.765040611529712
+      }
+    },
+    {
+      "id": "30015",
+      "title": "Chouteau, MT",
+      "scores": {
+        "Access to broadband": 8.838,
+        "Households with a smartphone": 1.2478097622027533
+      }
+    },
+    {
+      "id": "30017",
+      "title": "Custer, MT",
+      "scores": {
+        "Access to broadband": 8.171999999999999,
+        "Households with a smartphone": 2.3641788889824698
+      }
+    },
+    {
+      "id": "30019",
+      "title": "Daniels, MT",
+      "scores": {
+        "Access to broadband": 8.856000000000002,
+        "Households with a smartphone": 2.1506322155030246
+      }
+    },
+    {
+      "id": "30021",
+      "title": "Dawson, MT",
+      "scores": {
+        "Access to broadband": 7.749,
+        "Households with a smartphone": 3.5127065932113024
+      }
+    },
+    {
+      "id": "30023",
+      "title": "Deer Lodge, MT",
+      "scores": {
+        "Access to broadband": 7.0200000000000005,
+        "Households with a smartphone": 1.2776379034103913
+      }
+    },
+    {
+      "id": "30025",
+      "title": "Fallon, MT",
+      "scores": {
+        "Access to broadband": 5.499,
+        "Households with a smartphone": 2.575765790187043
+      }
+    },
+    {
+      "id": "30027",
+      "title": "Fergus, MT",
+      "scores": {
+        "Access to broadband": 7.281000000000001,
+        "Households with a smartphone": 2.4315696127697315
+      }
+    },
+    {
+      "id": "30029",
+      "title": "Flathead, MT",
+      "scores": {
+        "Access to broadband": 8.145,
+        "Households with a smartphone": 3.0150395827054037
+      }
+    },
+    {
+      "id": "30031",
+      "title": "Gallatin, MT",
+      "scores": {
+        "Access to broadband": 8.307000000000002,
+        "Households with a smartphone": 4.961477838723914
+      }
+    },
+    {
+      "id": "30033",
+      "title": "Garfield, MT",
+      "scores": {
+        "Access to broadband": 3.8970000000000002,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "30035",
+      "title": "Glacier, MT",
+      "scores": {
+        "Access to broadband": 2.3040000000000003,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "30037",
+      "title": "Golden Valley, MT",
+      "scores": {
+        "Access to broadband": 4.968,
+        "Households with a smartphone": 0.20631872927212352
+      }
+    },
+    {
+      "id": "30039",
+      "title": "Granite, MT",
+      "scores": {
+        "Access to broadband": 1.3950000000000002,
+        "Households with a smartphone": 1.1691176470588245
+      }
+    },
+    {
+      "id": "30041",
+      "title": "Hill, MT",
+      "scores": {
+        "Access to broadband": 8.649,
+        "Households with a smartphone": 2.726884059329821
+      }
+    },
+    {
+      "id": "30043",
+      "title": "Jefferson, MT",
+      "scores": {
+        "Access to broadband": 7.272000000000001,
+        "Households with a smartphone": 3.583734844072642
+      }
+    },
+    {
+      "id": "30045",
+      "title": "Judith Basin, MT",
+      "scores": {
+        "Access to broadband": 7.478999999999999,
+        "Households with a smartphone": 2.4866483971703532
+      }
+    },
+    {
+      "id": "30047",
+      "title": "Lake, MT",
+      "scores": {
+        "Access to broadband": 5.94,
+        "Households with a smartphone": 2.3051535746377207
+      }
+    },
+    {
+      "id": "30049",
+      "title": "Lewis and Clark, MT",
+      "scores": {
+        "Access to broadband": 8.937,
+        "Households with a smartphone": 3.3897587812103254
+      }
+    },
+    {
+      "id": "30051",
+      "title": "Liberty, MT",
+      "scores": {
+        "Access to broadband": 7.505999999999999,
+        "Households with a smartphone": 2.360642676935334
+      }
+    },
+    {
+      "id": "30053",
+      "title": "Lincoln, MT",
+      "scores": {
+        "Access to broadband": 2.034,
+        "Households with a smartphone": 0.7760090596354787
+      }
+    },
+    {
+      "id": "30055",
+      "title": "McCone, MT",
+      "scores": {
+        "Access to broadband": 4.103999999999999,
+        "Households with a smartphone": 2.137700534759359
+      }
+    },
+    {
+      "id": "30057",
+      "title": "Madison, MT",
+      "scores": {
+        "Access to broadband": 7.497,
+        "Households with a smartphone": 2.1313348091319257
+      }
+    },
+    {
+      "id": "30059",
+      "title": "Meagher, MT",
+      "scores": {
+        "Access to broadband": 8.73,
+        "Households with a smartphone": 0.4000628288698659
+      }
+    },
+    {
+      "id": "30061",
+      "title": "Mineral, MT",
+      "scores": {
+        "Access to broadband": 1.6379999999999997,
+        "Households with a smartphone": 1.7281445833189073
+      }
+    },
+    {
+      "id": "30063",
+      "title": "Missoula, MT",
+      "scores": {
+        "Access to broadband": 8.397000000000002,
+        "Households with a smartphone": 4.16930643225032
+      }
+    },
+    {
+      "id": "30065",
+      "title": "Musselshell, MT",
+      "scores": {
+        "Access to broadband": 4.518,
+        "Households with a smartphone": 1.029255997054575
+      }
+    },
+    {
+      "id": "30067",
+      "title": "Park, MT",
+      "scores": {
+        "Access to broadband": 8.892,
+        "Households with a smartphone": 2.6795719978278654
+      }
+    },
+    {
+      "id": "30069",
+      "title": "Petroleum, MT",
+      "scores": {
+        "Access to broadband": 3.564,
+        "Households with a smartphone": 1.5231204781377792
+      }
+    },
+    {
+      "id": "30071",
+      "title": "Phillips, MT",
+      "scores": {
+        "Access to broadband": 7.397999999999999,
+        "Households with a smartphone": 1.3659022931206384
+      }
+    },
+    {
+      "id": "30073",
+      "title": "Pondera, MT",
+      "scores": {
+        "Access to broadband": 1.7459999999999996,
+        "Households with a smartphone": 1.7019311035672544
+      }
+    },
+    {
+      "id": "30075",
+      "title": "Powder River, MT",
+      "scores": {
+        "Access to broadband": 3.294,
+        "Households with a smartphone": 1.6104949131798358
+      }
+    },
+    {
+      "id": "30077",
+      "title": "Powell, MT",
+      "scores": {
+        "Access to broadband": 4.869000000000001,
+        "Households with a smartphone": 2.0910434525569026
+      }
+    },
+    {
+      "id": "30079",
+      "title": "Prairie, MT",
+      "scores": {
+        "Access to broadband": 5.598,
+        "Households with a smartphone": 0.4313725490196081
+      }
+    },
+    {
+      "id": "30081",
+      "title": "Ravalli, MT",
+      "scores": {
+        "Access to broadband": 8.738999999999999,
+        "Households with a smartphone": 2.9804013258331152
+      }
+    },
+    {
+      "id": "30083",
+      "title": "Richland, MT",
+      "scores": {
+        "Access to broadband": 6.993,
+        "Households with a smartphone": 3.430669931003785
+      }
+    },
+    {
+      "id": "30085",
+      "title": "Roosevelt, MT",
+      "scores": {
+        "Access to broadband": 6.39,
+        "Households with a smartphone": 0.9255200178930882
+      }
+    },
+    {
+      "id": "30087",
+      "title": "Rosebud, MT",
+      "scores": {
+        "Access to broadband": 3.9239999999999995,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "30089",
+      "title": "Sanders, MT",
+      "scores": {
+        "Access to broadband": 1.2960000000000003,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "30091",
+      "title": "Sheridan, MT",
+      "scores": {
+        "Access to broadband": 7.551,
+        "Households with a smartphone": 2.674414446629716
+      }
+    },
+    {
+      "id": "30093",
+      "title": "Silver Bow, MT",
+      "scores": {
+        "Access to broadband": 8.316,
+        "Households with a smartphone": 2.252927982117771
+      }
+    },
+    {
+      "id": "30095",
+      "title": "Stillwater, MT",
+      "scores": {
+        "Access to broadband": 8.469,
+        "Households with a smartphone": 2.632432090166529
+      }
+    },
+    {
+      "id": "30097",
+      "title": "Sweet Grass, MT",
+      "scores": {
+        "Access to broadband": 8.343,
+        "Households with a smartphone": 1.2153313814213467
+      }
+    },
+    {
+      "id": "30099",
+      "title": "Teton, MT",
+      "scores": {
+        "Access to broadband": 2.952000000000001,
+        "Households with a smartphone": 2.340819964349376
+      }
+    },
+    {
+      "id": "30101",
+      "title": "Toole, MT",
+      "scores": {
+        "Access to broadband": 2.600999999999999,
+        "Households with a smartphone": 1.2975887931568826
+      }
+    },
+    {
+      "id": "30103",
+      "title": "Treasure, MT",
+      "scores": {
+        "Access to broadband": 4.797000000000001,
+        "Households with a smartphone": 0.41095890410958946
+      }
+    },
+    {
+      "id": "30105",
+      "title": "Valley, MT",
+      "scores": {
+        "Access to broadband": 7.218,
+        "Households with a smartphone": 1.5855646100116407
+      }
+    },
+    {
+      "id": "30107",
+      "title": "Wheatland, MT",
+      "scores": {
+        "Access to broadband": 7.361999999999999,
+        "Households with a smartphone": 2.115497599770724
+      }
+    },
+    {
+      "id": "30109",
+      "title": "Wibaux, MT",
+      "scores": {
+        "Access to broadband": 0.7649999999999997,
+        "Households with a smartphone": 2.0714877500295885
+      }
+    },
+    {
+      "id": "30111",
+      "title": "Yellowstone, MT",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 3.744758803175251
+      }
+    },
+    {
+      "id": "36001",
+      "title": "Albany, NY",
+      "scores": {
+        "Access to broadband": 8.937,
+        "Households with a smartphone": 3.734239095930417
+      }
+    },
+    {
+      "id": "36003",
+      "title": "Allegany, NY",
+      "scores": {
+        "Access to broadband": 6.560999999999999,
+        "Households with a smartphone": 1.8318095854033765
+      }
+    },
+    {
+      "id": "36005",
+      "title": "Bronx, NY",
+      "scores": {
+        "Access to broadband": 8.919,
+        "Households with a smartphone": 3.694768542322318
+      }
+    },
+    {
+      "id": "36007",
+      "title": "Broome, NY",
+      "scores": {
+        "Access to broadband": 8.658000000000001,
+        "Households with a smartphone": 2.8567694884656665
+      }
+    },
+    {
+      "id": "36009",
+      "title": "Cattaraugus, NY",
+      "scores": {
+        "Access to broadband": 7.137,
+        "Households with a smartphone": 1.8079126283542402
+      }
+    },
+    {
+      "id": "36011",
+      "title": "Cayuga, NY",
+      "scores": {
+        "Access to broadband": 7.074,
+        "Households with a smartphone": 2.750153877428863
+      }
+    },
+    {
+      "id": "36013",
+      "title": "Chautauqua, NY",
+      "scores": {
+        "Access to broadband": 8.181000000000001,
+        "Households with a smartphone": 2.028357748029593
+      }
+    },
+    {
+      "id": "36015",
+      "title": "Chemung, NY",
+      "scores": {
+        "Access to broadband": 8.522999999999998,
+        "Households with a smartphone": 3.1398755178910935
+      }
+    },
+    {
+      "id": "36017",
+      "title": "Chenango, NY",
+      "scores": {
+        "Access to broadband": 6.9030000000000005,
+        "Households with a smartphone": 1.7615558446894464
+      }
+    },
+    {
+      "id": "36019",
+      "title": "Clinton, NY",
+      "scores": {
+        "Access to broadband": 8.298,
+        "Households with a smartphone": 2.9599505353981055
+      }
+    },
+    {
+      "id": "36021",
+      "title": "Columbia, NY",
+      "scores": {
+        "Access to broadband": 8.459999999999999,
+        "Households with a smartphone": 3.1411806651115857
+      }
+    },
+    {
+      "id": "36023",
+      "title": "Cortland, NY",
+      "scores": {
+        "Access to broadband": 7.857,
+        "Households with a smartphone": 2.815247218480267
+      }
+    },
+    {
+      "id": "36025",
+      "title": "Delaware, NY",
+      "scores": {
+        "Access to broadband": 6.921,
+        "Households with a smartphone": 1.2535624864764614
+      }
+    },
+    {
+      "id": "36027",
+      "title": "Dutchess, NY",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 4.019357783636245
+      }
+    },
+    {
+      "id": "36029",
+      "title": "Erie, NY",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 3.2508031138415854
+      }
+    },
+    {
+      "id": "36031",
+      "title": "Essex, NY",
+      "scores": {
+        "Access to broadband": 7.928999999999999,
+        "Households with a smartphone": 2.3303270092477844
+      }
+    },
+    {
+      "id": "36033",
+      "title": "Franklin, NY",
+      "scores": {
+        "Access to broadband": 8.109000000000002,
+        "Households with a smartphone": 1.8942852916522848
+      }
+    },
+    {
+      "id": "36035",
+      "title": "Fulton, NY",
+      "scores": {
+        "Access to broadband": 8.316,
+        "Households with a smartphone": 2.4319894721113187
+      }
+    },
+    {
+      "id": "36037",
+      "title": "Genesee, NY",
+      "scores": {
+        "Access to broadband": 8.522999999999998,
+        "Households with a smartphone": 2.872608221532775
+      }
+    },
+    {
+      "id": "36039",
+      "title": "Greene, NY",
+      "scores": {
+        "Access to broadband": 8.343,
+        "Households with a smartphone": 1.8915560382007555
+      }
+    },
+    {
+      "id": "36041",
+      "title": "Hamilton, NY",
+      "scores": {
+        "Access to broadband": 1.9439999999999997,
+        "Households with a smartphone": 0.20221896587816626
+      }
+    },
+    {
+      "id": "36043",
+      "title": "Herkimer, NY",
+      "scores": {
+        "Access to broadband": 7.704,
+        "Households with a smartphone": 2.135234535582936
+      }
+    },
+    {
+      "id": "36045",
+      "title": "Jefferson, NY",
+      "scores": {
+        "Access to broadband": 8.19,
+        "Households with a smartphone": 3.9736329412852336
+      }
+    },
+    {
+      "id": "36047",
+      "title": "Kings, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.8457097975867196
+      }
+    },
+    {
+      "id": "36049",
+      "title": "Lewis, NY",
+      "scores": {
+        "Access to broadband": 6.57,
+        "Households with a smartphone": 2.0911127192529033
+      }
+    },
+    {
+      "id": "36051",
+      "title": "Livingston, NY",
+      "scores": {
+        "Access to broadband": 7.875,
+        "Households with a smartphone": 2.9957660954715313
+      }
+    },
+    {
+      "id": "36053",
+      "title": "Madison, NY",
+      "scores": {
+        "Access to broadband": 8.055,
+        "Households with a smartphone": 2.778208217122244
+      }
+    },
+    {
+      "id": "36055",
+      "title": "Monroe, NY",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 3.532974077408725
+      }
+    },
+    {
+      "id": "36057",
+      "title": "Montgomery, NY",
+      "scores": {
+        "Access to broadband": 8.334,
+        "Households with a smartphone": 2.0640732265446218
+      }
+    },
+    {
+      "id": "36059",
+      "title": "Nassau, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.731700605865835
+      }
+    },
+    {
+      "id": "36061",
+      "title": "New York, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.630089195121049
+      }
+    },
+    {
+      "id": "36063",
+      "title": "Niagara, NY",
+      "scores": {
+        "Access to broadband": 8.91,
+        "Households with a smartphone": 2.539063088703756
+      }
+    },
+    {
+      "id": "36065",
+      "title": "Oneida, NY",
+      "scores": {
+        "Access to broadband": 8.613000000000001,
+        "Households with a smartphone": 2.8055792628336254
+      }
+    },
+    {
+      "id": "36067",
+      "title": "Onondaga, NY",
+      "scores": {
+        "Access to broadband": 8.964,
+        "Households with a smartphone": 3.471427376277409
+      }
+    },
+    {
+      "id": "36069",
+      "title": "Ontario, NY",
+      "scores": {
+        "Access to broadband": 8.549999999999999,
+        "Households with a smartphone": 3.4483291758648997
+      }
+    },
+    {
+      "id": "36071",
+      "title": "Orange, NY",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 3.614645934097751
+      }
+    },
+    {
+      "id": "36073",
+      "title": "Orleans, NY",
+      "scores": {
+        "Access to broadband": 8.712,
+        "Households with a smartphone": 2.5376196152862662
+      }
+    },
+    {
+      "id": "36075",
+      "title": "Oswego, NY",
+      "scores": {
+        "Access to broadband": 8.352000000000002,
+        "Households with a smartphone": 3.3385879899405015
+      }
+    },
+    {
+      "id": "36077",
+      "title": "Otsego, NY",
+      "scores": {
+        "Access to broadband": 6.957,
+        "Households with a smartphone": 2.1359264031644245
+      }
+    },
+    {
+      "id": "36079",
+      "title": "Putnam, NY",
+      "scores": {
+        "Access to broadband": 8.946000000000002,
+        "Households with a smartphone": 4.689275302625427
+      }
+    },
+    {
+      "id": "36081",
+      "title": "Queens, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.213202739522931
+      }
+    },
+    {
+      "id": "36083",
+      "title": "Rensselaer, NY",
+      "scores": {
+        "Access to broadband": 8.973,
+        "Households with a smartphone": 3.6032821566896356
+      }
+    },
+    {
+      "id": "36085",
+      "title": "Richmond, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.59600989030597
+      }
+    },
+    {
+      "id": "36087",
+      "title": "Rockland, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.7196199013578726
+      }
+    },
+    {
+      "id": "36089",
+      "title": "St Lawrence, NY",
+      "scores": {
+        "Access to broadband": 8.064000000000002,
+        "Households with a smartphone": 2.5746520547790506
+      }
+    },
+    {
+      "id": "36091",
+      "title": "Saratoga, NY",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 4.147483664308112
+      }
+    },
+    {
+      "id": "36093",
+      "title": "Schenectady, NY",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 3.378189102829423
+      }
+    },
+    {
+      "id": "36095",
+      "title": "Schoharie, NY",
+      "scores": {
+        "Access to broadband": 8.018999999999998,
+        "Households with a smartphone": 1.9474855154260133
+      }
+    },
+    {
+      "id": "36097",
+      "title": "Schuyler, NY",
+      "scores": {
+        "Access to broadband": 6.885,
+        "Households with a smartphone": 2.314799304168546
+      }
+    },
+    {
+      "id": "36099",
+      "title": "Seneca, NY",
+      "scores": {
+        "Access to broadband": 7.263000000000001,
+        "Households with a smartphone": 2.660292160052899
+      }
+    },
+    {
+      "id": "36101",
+      "title": "Steuben, NY",
+      "scores": {
+        "Access to broadband": 7.326,
+        "Households with a smartphone": 2.302316900181669
+      }
+    },
+    {
+      "id": "36103",
+      "title": "Suffolk, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.2939866149562
+      }
+    },
+    {
+      "id": "36105",
+      "title": "Sullivan, NY",
+      "scores": {
+        "Access to broadband": 8.901000000000002,
+        "Households with a smartphone": 2.559424630375635
+      }
+    },
+    {
+      "id": "36107",
+      "title": "Tioga, NY",
+      "scores": {
+        "Access to broadband": 8.307000000000002,
+        "Households with a smartphone": 2.6908573357005547
+      }
+    },
+    {
+      "id": "36109",
+      "title": "Tompkins, NY",
+      "scores": {
+        "Access to broadband": 8.649,
+        "Households with a smartphone": 4.1241328143931115
+      }
+    },
+    {
+      "id": "36111",
+      "title": "Ulster, NY",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 3.328672949500196
+      }
+    },
+    {
+      "id": "36113",
+      "title": "Warren, NY",
+      "scores": {
+        "Access to broadband": 8.298,
+        "Households with a smartphone": 2.710152198650303
+      }
+    },
+    {
+      "id": "36115",
+      "title": "Washington, NY",
+      "scores": {
+        "Access to broadband": 8.748,
+        "Households with a smartphone": 2.809372955729836
+      }
+    },
+    {
+      "id": "36117",
+      "title": "Wayne, NY",
+      "scores": {
+        "Access to broadband": 8.433,
+        "Households with a smartphone": 2.705495610472985
+      }
+    },
+    {
+      "id": "36119",
+      "title": "Westchester, NY",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.541752559510785
+      }
+    },
+    {
+      "id": "36121",
+      "title": "Wyoming, NY",
+      "scores": {
+        "Access to broadband": 7.542,
+        "Households with a smartphone": 2.357441743690836
+      }
+    },
+    {
+      "id": "36123",
+      "title": "Yates, NY",
+      "scores": {
+        "Access to broadband": 6.39,
+        "Households with a smartphone": 1.8500778537131986
+      }
+    },
+    {
+      "id": "40001",
+      "title": "Adair, OK",
+      "scores": {
+        "Access to broadband": 1.3050000000000002,
+        "Households with a smartphone": 1.2373455711398482
+      }
+    },
+    {
+      "id": "40003",
+      "title": "Alfalfa, OK",
+      "scores": {
+        "Access to broadband": 8.919,
+        "Households with a smartphone": 3.4605539866610595
+      }
+    },
+    {
+      "id": "40005",
+      "title": "Atoka, OK",
+      "scores": {
+        "Access to broadband": 2.7,
+        "Households with a smartphone": 2.8718574566756176
+      }
+    },
+    {
+      "id": "40007",
+      "title": "Beaver, OK",
+      "scores": {
+        "Access to broadband": 6.03,
+        "Households with a smartphone": 3.1702022693635925
+      }
+    },
+    {
+      "id": "40009",
+      "title": "Beckham, OK",
+      "scores": {
+        "Access to broadband": 6.218999999999999,
+        "Households with a smartphone": 4.1913281578169475
+      }
+    },
+    {
+      "id": "40011",
+      "title": "Blaine, OK",
+      "scores": {
+        "Access to broadband": 5.751,
+        "Households with a smartphone": 3.232103076645192
+      }
+    },
+    {
+      "id": "40013",
+      "title": "Bryan, OK",
+      "scores": {
+        "Access to broadband": 6.444,
+        "Households with a smartphone": 3.6241835779599474
+      }
+    },
+    {
+      "id": "40015",
+      "title": "Caddo, OK",
+      "scores": {
+        "Access to broadband": 3.9150000000000005,
+        "Households with a smartphone": 2.8230795406700784
+      }
+    },
+    {
+      "id": "40017",
+      "title": "Canadian, OK",
+      "scores": {
+        "Access to broadband": 7.505999999999999,
+        "Households with a smartphone": 4.731394997897888
+      }
+    },
+    {
+      "id": "40019",
+      "title": "Carter, OK",
+      "scores": {
+        "Access to broadband": 6.417,
+        "Households with a smartphone": 3.401139513396983
+      }
+    },
+    {
+      "id": "40021",
+      "title": "Cherokee, OK",
+      "scores": {
+        "Access to broadband": 5.409,
+        "Households with a smartphone": 2.6950491591802415
+      }
+    },
+    {
+      "id": "40023",
+      "title": "Choctaw, OK",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 1.0445668502754122
+      }
+    },
+    {
+      "id": "40025",
+      "title": "Cimarron, OK",
+      "scores": {
+        "Access to broadband": 6.255,
+        "Households with a smartphone": 3.2518420099045793
+      }
+    },
+    {
+      "id": "40027",
+      "title": "Cleveland, OK",
+      "scores": {
+        "Access to broadband": 7.2540000000000004,
+        "Households with a smartphone": 5.1186368643854525
+      }
+    },
+    {
+      "id": "40029",
+      "title": "Coal, OK",
+      "scores": {
+        "Access to broadband": 3.6630000000000003,
+        "Households with a smartphone": 2.2660212564453337
+      }
+    },
+    {
+      "id": "40031",
+      "title": "Comanche, OK",
+      "scores": {
+        "Access to broadband": 7.883999999999999,
+        "Households with a smartphone": 4.400706821099715
+      }
+    },
+    {
+      "id": "40033",
+      "title": "Cotton, OK",
+      "scores": {
+        "Access to broadband": 3.9510000000000005,
+        "Households with a smartphone": 2.6314221891288163
+      }
+    },
+    {
+      "id": "40035",
+      "title": "Craig, OK",
+      "scores": {
+        "Access to broadband": 8.847,
+        "Households with a smartphone": 2.2953194530158836
+      }
+    },
+    {
+      "id": "40037",
+      "title": "Creek, OK",
+      "scores": {
+        "Access to broadband": 5.921999999999999,
+        "Households with a smartphone": 3.3760316528082583
+      }
+    },
+    {
+      "id": "40039",
+      "title": "Custer, OK",
+      "scores": {
+        "Access to broadband": 7.191000000000001,
+        "Households with a smartphone": 4.551950051796062
+      }
+    },
+    {
+      "id": "40041",
+      "title": "Delaware, OK",
+      "scores": {
+        "Access to broadband": 7.460999999999999,
+        "Households with a smartphone": 2.837626615748265
+      }
+    },
+    {
+      "id": "40043",
+      "title": "Dewey, OK",
+      "scores": {
+        "Access to broadband": 1.8539999999999994,
+        "Households with a smartphone": 3.220458553791888
+      }
+    },
+    {
+      "id": "40045",
+      "title": "Ellis, OK",
+      "scores": {
+        "Access to broadband": 5.040000000000001,
+        "Households with a smartphone": 2.3954756762692635
+      }
+    },
+    {
+      "id": "40047",
+      "title": "Garfield, OK",
+      "scores": {
+        "Access to broadband": 8.091000000000001,
+        "Households with a smartphone": 3.5268044088018016
+      }
+    },
+    {
+      "id": "40049",
+      "title": "Garvin, OK",
+      "scores": {
+        "Access to broadband": 5.013000000000001,
+        "Households with a smartphone": 3.569868810833686
+      }
+    },
+    {
+      "id": "40051",
+      "title": "Grady, OK",
+      "scores": {
+        "Access to broadband": 5.093999999999999,
+        "Households with a smartphone": 3.8360912423045423
+      }
+    },
+    {
+      "id": "40053",
+      "title": "Grant, OK",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 3.520709105560033
+      }
+    },
+    {
+      "id": "40055",
+      "title": "Greer, OK",
+      "scores": {
+        "Access to broadband": 4.518,
+        "Households with a smartphone": 2.4176729976655036
+      }
+    },
+    {
+      "id": "40057",
+      "title": "Harmon, OK",
+      "scores": {
+        "Access to broadband": 5.327999999999999,
+        "Households with a smartphone": 3.2588135846054396
+      }
+    },
+    {
+      "id": "40059",
+      "title": "Harper, OK",
+      "scores": {
+        "Access to broadband": 6.885,
+        "Households with a smartphone": 2.6115470089346458
+      }
+    },
+    {
+      "id": "40061",
+      "title": "Haskell, OK",
+      "scores": {
+        "Access to broadband": 3.393,
+        "Households with a smartphone": 2.3759674922600604
+      }
+    },
+    {
+      "id": "40063",
+      "title": "Hughes, OK",
+      "scores": {
+        "Access to broadband": 3.8610000000000007,
+        "Households with a smartphone": 0.05658497133201395
+      }
+    },
+    {
+      "id": "40065",
+      "title": "Jackson, OK",
+      "scores": {
+        "Access to broadband": 7.182000000000001,
+        "Households with a smartphone": 3.859462552755193
+      }
+    },
+    {
+      "id": "40067",
+      "title": "Jefferson, OK",
+      "scores": {
+        "Access to broadband": 2.4570000000000003,
+        "Households with a smartphone": 2.1094460597927385
+      }
+    },
+    {
+      "id": "40069",
+      "title": "Johnston, OK",
+      "scores": {
+        "Access to broadband": 4.32,
+        "Households with a smartphone": 2.198084815321478
+      }
+    },
+    {
+      "id": "40071",
+      "title": "Kay, OK",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 3.0743144232782083
+      }
+    },
+    {
+      "id": "40073",
+      "title": "Kingfisher, OK",
+      "scores": {
+        "Access to broadband": 5.2379999999999995,
+        "Households with a smartphone": 3.3430856009421674
+      }
+    },
+    {
+      "id": "40075",
+      "title": "Kiowa, OK",
+      "scores": {
+        "Access to broadband": 6.363,
+        "Households with a smartphone": 2.8605826211714804
+      }
+    },
+    {
+      "id": "40077",
+      "title": "Latimer, OK",
+      "scores": {
+        "Access to broadband": 4.329000000000001,
+        "Households with a smartphone": 2.452076723811741
+      }
+    },
+    {
+      "id": "40079",
+      "title": "Le Flore, OK",
+      "scores": {
+        "Access to broadband": 4.203000000000001,
+        "Households with a smartphone": 1.8952212888204223
+      }
+    },
+    {
+      "id": "40081",
+      "title": "Lincoln, OK",
+      "scores": {
+        "Access to broadband": 3.753,
+        "Households with a smartphone": 2.8167299054400634
+      }
+    },
+    {
+      "id": "40083",
+      "title": "Logan, OK",
+      "scores": {
+        "Access to broadband": 5.921999999999999,
+        "Households with a smartphone": 3.5761626706220304
+      }
+    },
+    {
+      "id": "40085",
+      "title": "Love, OK",
+      "scores": {
+        "Access to broadband": 2.7809999999999997,
+        "Households with a smartphone": 3.6270149776164775
+      }
+    },
+    {
+      "id": "40087",
+      "title": "McClain, OK",
+      "scores": {
+        "Access to broadband": 6.066000000000001,
+        "Households with a smartphone": 4.609971624782408
+      }
+    },
+    {
+      "id": "40089",
+      "title": "McCurtain, OK",
+      "scores": {
+        "Access to broadband": 1.314,
+        "Households with a smartphone": 0.3490781661738257
+      }
+    },
+    {
+      "id": "40091",
+      "title": "McIntosh, OK",
+      "scores": {
+        "Access to broadband": 3.1589999999999994,
+        "Households with a smartphone": 2.048636214262241
+      }
+    },
+    {
+      "id": "40093",
+      "title": "Major, OK",
+      "scores": {
+        "Access to broadband": 3.8070000000000004,
+        "Households with a smartphone": 3.444937319189971
+      }
+    },
+    {
+      "id": "40095",
+      "title": "Marshall, OK",
+      "scores": {
+        "Access to broadband": 6.543,
+        "Households with a smartphone": 3.610859728506786
+      }
+    },
+    {
+      "id": "40097",
+      "title": "Mayes, OK",
+      "scores": {
+        "Access to broadband": 7.92,
+        "Households with a smartphone": 3.6394523966929873
+      }
+    },
+    {
+      "id": "40099",
+      "title": "Murray, OK",
+      "scores": {
+        "Access to broadband": 5.67,
+        "Households with a smartphone": 3.24028214199389
+      }
+    },
+    {
+      "id": "40101",
+      "title": "Muskogee, OK",
+      "scores": {
+        "Access to broadband": 6.317999999999999,
+        "Households with a smartphone": 2.9049232393317777
+      }
+    },
+    {
+      "id": "40103",
+      "title": "Noble, OK",
+      "scores": {
+        "Access to broadband": 5.103,
+        "Households with a smartphone": 2.867273586230673
+      }
+    },
+    {
+      "id": "40105",
+      "title": "Nowata, OK",
+      "scores": {
+        "Access to broadband": 7.640999999999999,
+        "Households with a smartphone": 3.108025580457451
+      }
+    },
+    {
+      "id": "40107",
+      "title": "Okfuskee, OK",
+      "scores": {
+        "Access to broadband": 3.1589999999999994,
+        "Households with a smartphone": 2.341241797072185
+      }
+    },
+    {
+      "id": "40109",
+      "title": "Oklahoma, OK",
+      "scores": {
+        "Access to broadband": 8.415000000000001,
+        "Households with a smartphone": 4.376417747079583
+      }
+    },
+    {
+      "id": "40111",
+      "title": "Okmulgee, OK",
+      "scores": {
+        "Access to broadband": 5.481,
+        "Households with a smartphone": 2.807284250215599
+      }
+    },
+    {
+      "id": "40113",
+      "title": "Osage, OK",
+      "scores": {
+        "Access to broadband": 5.589,
+        "Households with a smartphone": 3.152766308835673
+      }
+    },
+    {
+      "id": "40115",
+      "title": "Ottawa, OK",
+      "scores": {
+        "Access to broadband": 8.928,
+        "Households with a smartphone": 1.522823922715764
+      }
+    },
+    {
+      "id": "40117",
+      "title": "Pawnee, OK",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 2.8408778499312692
+      }
+    },
+    {
+      "id": "40119",
+      "title": "Payne, OK",
+      "scores": {
+        "Access to broadband": 6.678,
+        "Households with a smartphone": 4.2649904967727625
+      }
+    },
+    {
+      "id": "40121",
+      "title": "Pittsburg, OK",
+      "scores": {
+        "Access to broadband": 6.021000000000001,
+        "Households with a smartphone": 3.1951668241261
+      }
+    },
+    {
+      "id": "40123",
+      "title": "Pontotoc, OK",
+      "scores": {
+        "Access to broadband": 6.624,
+        "Households with a smartphone": 3.1628978190133505
+      }
+    },
+    {
+      "id": "40125",
+      "title": "Pottawatomie, OK",
+      "scores": {
+        "Access to broadband": 7.272000000000001,
+        "Households with a smartphone": 3.629757652397573
+      }
+    },
+    {
+      "id": "40127",
+      "title": "Pushmataha, OK",
+      "scores": {
+        "Access to broadband": 0.009000000000000008,
+        "Households with a smartphone": 1.9677874286618073
+      }
+    },
+    {
+      "id": "40129",
+      "title": "Roger Mills, OK",
+      "scores": {
+        "Access to broadband": 1.197,
+        "Households with a smartphone": 2.93212669683258
+      }
+    },
+    {
+      "id": "40131",
+      "title": "Rogers, OK",
+      "scores": {
+        "Access to broadband": 8.757,
+        "Households with a smartphone": 4.514639293543958
+      }
+    },
+    {
+      "id": "40133",
+      "title": "Seminole, OK",
+      "scores": {
+        "Access to broadband": 4.140000000000001,
+        "Households with a smartphone": 2.503808029392628
+      }
+    },
+    {
+      "id": "40135",
+      "title": "Sequoyah, OK",
+      "scores": {
+        "Access to broadband": 2.7989999999999995,
+        "Households with a smartphone": 2.939401358878618
+      }
+    },
+    {
+      "id": "40137",
+      "title": "Stephens, OK",
+      "scores": {
+        "Access to broadband": 6.470999999999998,
+        "Households with a smartphone": 3.3817197772650793
+      }
+    },
+    {
+      "id": "40139",
+      "title": "Texas, OK",
+      "scores": {
+        "Access to broadband": 7.4159999999999995,
+        "Households with a smartphone": 3.5176033238574242
+      }
+    },
+    {
+      "id": "40141",
+      "title": "Tillman, OK",
+      "scores": {
+        "Access to broadband": 7.505999999999999,
+        "Households with a smartphone": 2.2502688279103102
+      }
+    },
+    {
+      "id": "40143",
+      "title": "Tulsa, OK",
+      "scores": {
+        "Access to broadband": 8.793,
+        "Households with a smartphone": 4.459253319444159
+      }
+    },
+    {
+      "id": "40145",
+      "title": "Wagoner, OK",
+      "scores": {
+        "Access to broadband": 7.749,
+        "Households with a smartphone": 4.67692483978425
+      }
+    },
+    {
+      "id": "40147",
+      "title": "Washington, OK",
+      "scores": {
+        "Access to broadband": 7.524,
+        "Households with a smartphone": 3.4245045383518473
+      }
+    },
+    {
+      "id": "40149",
+      "title": "Washita, OK",
+      "scores": {
+        "Access to broadband": 5.445,
+        "Households with a smartphone": 4.082161491688127
+      }
+    },
+    {
+      "id": "40151",
+      "title": "Woods, OK",
+      "scores": {
+        "Access to broadband": 7.56,
+        "Households with a smartphone": 3.948707146242562
+      }
+    },
+    {
+      "id": "40153",
+      "title": "Woodward, OK",
+      "scores": {
+        "Access to broadband": 1.125,
+        "Households with a smartphone": 4.1367819353792505
+      }
+    },
+    {
+      "id": "48001",
+      "title": "Anderson, TX",
+      "scores": {
+        "Access to broadband": 4.698,
+        "Households with a smartphone": 2.658134473182917
+      }
+    },
+    {
+      "id": "48003",
+      "title": "Andrews, TX",
+      "scores": {
+        "Access to broadband": 7.47,
+        "Households with a smartphone": 4.9332308086633345
+      }
+    },
+    {
+      "id": "48005",
+      "title": "Angelina, TX",
+      "scores": {
+        "Access to broadband": 7.632,
+        "Households with a smartphone": 3.7524493083462795
+      }
+    },
+    {
+      "id": "48007",
+      "title": "Aransas, TX",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 3.6054482861847035
+      }
+    },
+    {
+      "id": "48009",
+      "title": "Archer, TX",
+      "scores": {
+        "Access to broadband": 7.875,
+        "Households with a smartphone": 4.111150342489937
+      }
+    },
+    {
+      "id": "48011",
+      "title": "Armstrong, TX",
+      "scores": {
+        "Access to broadband": 4.7250000000000005,
+        "Households with a smartphone": 3.702891326021934
+      }
+    },
+    {
+      "id": "48013",
+      "title": "Atascosa, TX",
+      "scores": {
+        "Access to broadband": 8.495999999999999,
+        "Households with a smartphone": 4.239032949892767
+      }
+    },
+    {
+      "id": "48015",
+      "title": "Austin, TX",
+      "scores": {
+        "Access to broadband": 4.779,
+        "Households with a smartphone": 3.61799069777354
+      }
+    },
+    {
+      "id": "48017",
+      "title": "Bailey, TX",
+      "scores": {
+        "Access to broadband": 6.687,
+        "Households with a smartphone": 3.867305709588429
+      }
+    },
+    {
+      "id": "48019",
+      "title": "Bandera, TX",
+      "scores": {
+        "Access to broadband": 3.0509999999999997,
+        "Households with a smartphone": 3.278558887762822
+      }
+    },
+    {
+      "id": "48021",
+      "title": "Bastrop, TX",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 4.050711939934782
+      }
+    },
+    {
+      "id": "48023",
+      "title": "Baylor, TX",
+      "scores": {
+        "Access to broadband": 8.964,
+        "Households with a smartphone": 2.977252773565329
+      }
+    },
+    {
+      "id": "48025",
+      "title": "Bee, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.540450220148972
+      }
+    },
+    {
+      "id": "48027",
+      "title": "Bell, TX",
+      "scores": {
+        "Access to broadband": 8.622,
+        "Households with a smartphone": 4.551391641394709
+      }
+    },
+    {
+      "id": "48029",
+      "title": "Bexar, TX",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 4.479922646576202
+      }
+    },
+    {
+      "id": "48031",
+      "title": "Blanco, TX",
+      "scores": {
+        "Access to broadband": 2.16,
+        "Households with a smartphone": 4.313570343194295
+      }
+    },
+    {
+      "id": "48033",
+      "title": "Borden, TX",
+      "scores": {
+        "Access to broadband": 2.6909999999999994,
+        "Households with a smartphone": 4.761325219743069
+      }
+    },
+    {
+      "id": "48035",
+      "title": "Bosque, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.3047404063205423
+      }
+    },
+    {
+      "id": "48037",
+      "title": "Bowie, TX",
+      "scores": {
+        "Access to broadband": 8.19,
+        "Households with a smartphone": 2.5328873596813537
+      }
+    },
+    {
+      "id": "48039",
+      "title": "Brazoria, TX",
+      "scores": {
+        "Access to broadband": 7.425,
+        "Households with a smartphone": 4.997445211728451
+      }
+    },
+    {
+      "id": "48041",
+      "title": "Brazos, TX",
+      "scores": {
+        "Access to broadband": 8.865,
+        "Households with a smartphone": 5.3535773840483785
+      }
+    },
+    {
+      "id": "48043",
+      "title": "Brewster, TX",
+      "scores": {
+        "Access to broadband": 5.949,
+        "Households with a smartphone": 3.7229832572298327
+      }
+    },
+    {
+      "id": "48045",
+      "title": "Briscoe, TX",
+      "scores": {
+        "Access to broadband": 6.201,
+        "Households with a smartphone": 2.9218168279970214
+      }
+    },
+    {
+      "id": "48047",
+      "title": "Brooks, TX",
+      "scores": {
+        "Access to broadband": 8.919,
+        "Households with a smartphone": 2.8916408668730647
+      }
+    },
+    {
+      "id": "48049",
+      "title": "Brown, TX",
+      "scores": {
+        "Access to broadband": 8.964,
+        "Households with a smartphone": 2.8005640612409337
+      }
+    },
+    {
+      "id": "48051",
+      "title": "Burleson, TX",
+      "scores": {
+        "Access to broadband": 0.5489999999999995,
+        "Households with a smartphone": 2.923966625442004
+      }
+    },
+    {
+      "id": "48053",
+      "title": "Burnet, TX",
+      "scores": {
+        "Access to broadband": 4.32,
+        "Households with a smartphone": 3.8197204930996076
+      }
+    },
+    {
+      "id": "48055",
+      "title": "Caldwell, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.5527632603135775
+      }
+    },
+    {
+      "id": "48057",
+      "title": "Calhoun, TX",
+      "scores": {
+        "Access to broadband": 7.713,
+        "Households with a smartphone": 3.8062320141102206
+      }
+    },
+    {
+      "id": "48059",
+      "title": "Callahan, TX",
+      "scores": {
+        "Access to broadband": 5.31,
+        "Households with a smartphone": 2.209548455592051
+      }
+    },
+    {
+      "id": "48061",
+      "title": "Cameron, TX",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 2.7157002022305035
+      }
+    },
+    {
+      "id": "48063",
+      "title": "Camp, TX",
+      "scores": {
+        "Access to broadband": 4.545,
+        "Households with a smartphone": 1.7941928689634419
+      }
+    },
+    {
+      "id": "48065",
+      "title": "Carson, TX",
+      "scores": {
+        "Access to broadband": 5.76,
+        "Households with a smartphone": 3.8242362365506954
+      }
+    },
+    {
+      "id": "48067",
+      "title": "Cass, TX",
+      "scores": {
+        "Access to broadband": 4.6530000000000005,
+        "Households with a smartphone": 0.6445390269094313
+      }
+    },
+    {
+      "id": "48069",
+      "title": "Castro, TX",
+      "scores": {
+        "Access to broadband": 4.752000000000001,
+        "Households with a smartphone": 3.2355729021466404
+      }
+    },
+    {
+      "id": "48071",
+      "title": "Chambers, TX",
+      "scores": {
+        "Access to broadband": 5.327999999999999,
+        "Households with a smartphone": 3.944180909853779
+      }
+    },
+    {
+      "id": "48073",
+      "title": "Cherokee, TX",
+      "scores": {
+        "Access to broadband": 3.681,
+        "Households with a smartphone": 3.351170568561873
+      }
+    },
+    {
+      "id": "48075",
+      "title": "Childress, TX",
+      "scores": {
+        "Access to broadband": 8.487,
+        "Households with a smartphone": 2.8701144887485195
+      }
+    },
+    {
+      "id": "48077",
+      "title": "Clay, TX",
+      "scores": {
+        "Access to broadband": 1.6739999999999995,
+        "Households with a smartphone": 3.4225259943285105
+      }
+    },
+    {
+      "id": "48079",
+      "title": "Cochran, TX",
+      "scores": {
+        "Access to broadband": 5.877000000000001,
+        "Households with a smartphone": 2.167257264351524
+      }
+    },
+    {
+      "id": "48081",
+      "title": "Coke, TX",
+      "scores": {
+        "Access to broadband": 6.3,
+        "Households with a smartphone": 3.36068973043763
+      }
+    },
+    {
+      "id": "48083",
+      "title": "Coleman, TX",
+      "scores": {
+        "Access to broadband": 2.43,
+        "Households with a smartphone": 2.46242774566474
+      }
+    },
+    {
+      "id": "48085",
+      "title": "Collin, TX",
+      "scores": {
+        "Access to broadband": 8.703000000000001,
+        "Households with a smartphone": 6.0
+      }
+    },
+    {
+      "id": "48087",
+      "title": "Collingsworth, TX",
+      "scores": {
+        "Access to broadband": 4.41,
+        "Households with a smartphone": 3.2500696961248945
+      }
+    },
+    {
+      "id": "48089",
+      "title": "Colorado, TX",
+      "scores": {
+        "Access to broadband": 7.9830000000000005,
+        "Households with a smartphone": 2.5812024716690045
+      }
+    },
+    {
+      "id": "48091",
+      "title": "Comal, TX",
+      "scores": {
+        "Access to broadband": 8.631,
+        "Households with a smartphone": 4.608616577113638
+      }
+    },
+    {
+      "id": "48093",
+      "title": "Comanche, TX",
+      "scores": {
+        "Access to broadband": 2.6909999999999994,
+        "Households with a smartphone": 2.733616640572579
+      }
+    },
+    {
+      "id": "48095",
+      "title": "Concho, TX",
+      "scores": {
+        "Access to broadband": 1.2870000000000001,
+        "Households with a smartphone": 1.1695977360016174
+      }
+    },
+    {
+      "id": "48097",
+      "title": "Cooke, TX",
+      "scores": {
+        "Access to broadband": 8.604,
+        "Households with a smartphone": 3.8061058884772008
+      }
+    },
+    {
+      "id": "48099",
+      "title": "Coryell, TX",
+      "scores": {
+        "Access to broadband": 8.459999999999999,
+        "Households with a smartphone": 4.77728042010028
+      }
+    },
+    {
+      "id": "48101",
+      "title": "Cottle, TX",
+      "scores": {
+        "Access to broadband": 7.685999999999999,
+        "Households with a smartphone": 1.9993140113188135
+      }
+    },
+    {
+      "id": "48103",
+      "title": "Crane, TX",
+      "scores": {
+        "Access to broadband": 0.06300000000000006,
+        "Households with a smartphone": 5.058823529411766
+      }
+    },
+    {
+      "id": "48105",
+      "title": "Crockett, TX",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 3.7399559247330063
+      }
+    },
+    {
+      "id": "48107",
+      "title": "Crosby, TX",
+      "scores": {
+        "Access to broadband": 5.94,
+        "Households with a smartphone": 3.0673420052952682
+      }
+    },
+    {
+      "id": "48109",
+      "title": "Culberson, TX",
+      "scores": {
+        "Access to broadband": 7.452,
+        "Households with a smartphone": 0.8608447784400101
+      }
+    },
+    {
+      "id": "48111",
+      "title": "Dallam, TX",
+      "scores": {
+        "Access to broadband": 8.667,
+        "Households with a smartphone": 3.0660663599882563
+      }
+    },
+    {
+      "id": "48113",
+      "title": "Dallas, TX",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 4.447997049063173
+      }
+    },
+    {
+      "id": "48115",
+      "title": "Dawson, TX",
+      "scores": {
+        "Access to broadband": 5.066999999999999,
+        "Households with a smartphone": 3.527941856983423
+      }
+    },
+    {
+      "id": "48117",
+      "title": "Deaf Smith, TX",
+      "scores": {
+        "Access to broadband": 7.812,
+        "Households with a smartphone": 3.2677673121700233
+      }
+    },
+    {
+      "id": "48119",
+      "title": "Delta, TX",
+      "scores": {
+        "Access to broadband": 1.5210000000000006,
+        "Households with a smartphone": 3.3200992555831252
+      }
+    },
+    {
+      "id": "48121",
+      "title": "Denton, TX",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 5.883819116349099
+      }
+    },
+    {
+      "id": "48123",
+      "title": "De Witt, TX",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 2.352675607489044
+      }
+    },
+    {
+      "id": "48125",
+      "title": "Dickens, TX",
+      "scores": {
+        "Access to broadband": 8.1,
+        "Households with a smartphone": 2.5326254017046246
+      }
+    },
+    {
+      "id": "48127",
+      "title": "Dimmit, TX",
+      "scores": {
+        "Access to broadband": 7.227000000000001,
+        "Households with a smartphone": 1.0291717775052
+      }
+    },
+    {
+      "id": "48129",
+      "title": "Donley, TX",
+      "scores": {
+        "Access to broadband": 3.609,
+        "Households with a smartphone": 2.333789329685364
+      }
+    },
+    {
+      "id": "48131",
+      "title": "Duval, TX",
+      "scores": {
+        "Access to broadband": 6.201,
+        "Households with a smartphone": 1.8748806272722702
+      }
+    },
+    {
+      "id": "48133",
+      "title": "Eastland, TX",
+      "scores": {
+        "Access to broadband": 8.343,
+        "Households with a smartphone": 1.4543798943726094
+      }
+    },
+    {
+      "id": "48135",
+      "title": "Ector, TX",
+      "scores": {
+        "Access to broadband": 6.803999999999999,
+        "Households with a smartphone": 4.70366772416323
+      }
+    },
+    {
+      "id": "48137",
+      "title": "Edwards, TX",
+      "scores": {
+        "Access to broadband": 3.7799999999999994,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "48139",
+      "title": "Ellis, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 5.066829597168381
+      }
+    },
+    {
+      "id": "48141",
+      "title": "El Paso, TX",
+      "scores": {
+        "Access to broadband": 8.802,
+        "Households with a smartphone": 3.7486272797869873
+      }
+    },
+    {
+      "id": "48143",
+      "title": "Erath, TX",
+      "scores": {
+        "Access to broadband": 8.955,
+        "Households with a smartphone": 4.373047607410561
+      }
+    },
+    {
+      "id": "48145",
+      "title": "Falls, TX",
+      "scores": {
+        "Access to broadband": 3.8430000000000004,
+        "Households with a smartphone": 1.6024216828224511
+      }
+    },
+    {
+      "id": "48147",
+      "title": "Fannin, TX",
+      "scores": {
+        "Access to broadband": 5.481,
+        "Households with a smartphone": 3.3499545513569675
+      }
+    },
+    {
+      "id": "48149",
+      "title": "Fayette, TX",
+      "scores": {
+        "Access to broadband": 8.424000000000001,
+        "Households with a smartphone": 1.7846359454777834
+      }
+    },
+    {
+      "id": "48151",
+      "title": "Fisher, TX",
+      "scores": {
+        "Access to broadband": 0.7559999999999997,
+        "Households with a smartphone": 2.5660471587058105
+      }
+    },
+    {
+      "id": "48153",
+      "title": "Floyd, TX",
+      "scores": {
+        "Access to broadband": 4.382999999999999,
+        "Households with a smartphone": 3.2152819890842936
+      }
+    },
+    {
+      "id": "48155",
+      "title": "Foard, TX",
+      "scores": {
+        "Access to broadband": 8.937,
+        "Households with a smartphone": 2.1144788256415676
+      }
+    },
+    {
+      "id": "48157",
+      "title": "Fort Bend, TX",
+      "scores": {
+        "Access to broadband": 8.082,
+        "Households with a smartphone": 5.92046525487064
+      }
+    },
+    {
+      "id": "48159",
+      "title": "Franklin, TX",
+      "scores": {
+        "Access to broadband": 6.236999999999999,
+        "Households with a smartphone": 2.9531699174677764
+      }
+    },
+    {
+      "id": "48161",
+      "title": "Freestone, TX",
+      "scores": {
+        "Access to broadband": 3.024000000000001,
+        "Households with a smartphone": 3.267983376890451
+      }
+    },
+    {
+      "id": "48163",
+      "title": "Frio, TX",
+      "scores": {
+        "Access to broadband": 8.946000000000002,
+        "Households with a smartphone": 2.6427844494199055
+      }
+    },
+    {
+      "id": "48165",
+      "title": "Gaines, TX",
+      "scores": {
+        "Access to broadband": 5.607,
+        "Households with a smartphone": 3.5679849070532867
+      }
+    },
+    {
+      "id": "48167",
+      "title": "Galveston, TX",
+      "scores": {
+        "Access to broadband": 8.442,
+        "Households with a smartphone": 4.78856726570609
+      }
+    },
+    {
+      "id": "48169",
+      "title": "Garza, TX",
+      "scores": {
+        "Access to broadband": 7.9830000000000005,
+        "Households with a smartphone": 4.393987570458158
+      }
+    },
+    {
+      "id": "48171",
+      "title": "Gillespie, TX",
+      "scores": {
+        "Access to broadband": 7.866000000000001,
+        "Households with a smartphone": 3.275400820027553
+      }
+    },
+    {
+      "id": "48173",
+      "title": "Glasscock, TX",
+      "scores": {
+        "Access to broadband": 7.011,
+        "Households with a smartphone": 4.437908496732026
+      }
+    },
+    {
+      "id": "48175",
+      "title": "Goliad, TX",
+      "scores": {
+        "Access to broadband": 8.495999999999999,
+        "Households with a smartphone": 2.561950106413323
+      }
+    },
+    {
+      "id": "48177",
+      "title": "Gonzales, TX",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 3.202302712046836
+      }
+    },
+    {
+      "id": "48179",
+      "title": "Gray, TX",
+      "scores": {
+        "Access to broadband": 7.263000000000001,
+        "Households with a smartphone": 3.3000000000000003
+      }
+    },
+    {
+      "id": "48181",
+      "title": "Grayson, TX",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 3.8788939601530292
+      }
+    },
+    {
+      "id": "48183",
+      "title": "Gregg, TX",
+      "scores": {
+        "Access to broadband": 8.226,
+        "Households with a smartphone": 4.238921818397921
+      }
+    },
+    {
+      "id": "48185",
+      "title": "Grimes, TX",
+      "scores": {
+        "Access to broadband": 7.478999999999999,
+        "Households with a smartphone": 3.256587793766431
+      }
+    },
+    {
+      "id": "48187",
+      "title": "Guadalupe, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.549529861467248
+      }
+    },
+    {
+      "id": "48189",
+      "title": "Hale, TX",
+      "scores": {
+        "Access to broadband": 7.92,
+        "Households with a smartphone": 3.3345436505842243
+      }
+    },
+    {
+      "id": "48191",
+      "title": "Hall, TX",
+      "scores": {
+        "Access to broadband": 5.013000000000001,
+        "Households with a smartphone": 2.1379933987430486
+      }
+    },
+    {
+      "id": "48193",
+      "title": "Hamilton, TX",
+      "scores": {
+        "Access to broadband": 8.693999999999999,
+        "Households with a smartphone": 2.6559164206223027
+      }
+    },
+    {
+      "id": "48195",
+      "title": "Hansford, TX",
+      "scores": {
+        "Access to broadband": 5.382,
+        "Households with a smartphone": 4.405581100364674
+      }
+    },
+    {
+      "id": "48197",
+      "title": "Hardeman, TX",
+      "scores": {
+        "Access to broadband": 1.125,
+        "Households with a smartphone": 2.430159160438369
+      }
+    },
+    {
+      "id": "48199",
+      "title": "Hardin, TX",
+      "scores": {
+        "Access to broadband": 7.002000000000001,
+        "Households with a smartphone": 3.9289269791801926
+      }
+    },
+    {
+      "id": "48201",
+      "title": "Harris, TX",
+      "scores": {
+        "Access to broadband": 8.469,
+        "Households with a smartphone": 4.673549965820014
+      }
+    },
+    {
+      "id": "48203",
+      "title": "Harrison, TX",
+      "scores": {
+        "Access to broadband": 6.957,
+        "Households with a smartphone": 2.2261122047992212
+      }
+    },
+    {
+      "id": "48205",
+      "title": "Hartley, TX",
+      "scores": {
+        "Access to broadband": 8.01,
+        "Households with a smartphone": 5.035028169506948
+      }
+    },
+    {
+      "id": "48207",
+      "title": "Haskell, TX",
+      "scores": {
+        "Access to broadband": 8.631,
+        "Households with a smartphone": 1.007335640138408
+      }
+    },
+    {
+      "id": "48209",
+      "title": "Hays, TX",
+      "scores": {
+        "Access to broadband": 8.586,
+        "Households with a smartphone": 5.424407270844174
+      }
+    },
+    {
+      "id": "48211",
+      "title": "Hemphill, TX",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 4.893424036281179
+      }
+    },
+    {
+      "id": "48213",
+      "title": "Henderson, TX",
+      "scores": {
+        "Access to broadband": 6.183000000000001,
+        "Households with a smartphone": 2.920721081050196
+      }
+    },
+    {
+      "id": "48215",
+      "title": "Hidalgo, TX",
+      "scores": {
+        "Access to broadband": 8.946000000000002,
+        "Households with a smartphone": 4.028335490889802
+      }
+    },
+    {
+      "id": "48217",
+      "title": "Hill, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.1971456606763615
+      }
+    },
+    {
+      "id": "48219",
+      "title": "Hockley, TX",
+      "scores": {
+        "Access to broadband": 4.068,
+        "Households with a smartphone": 3.8246102367450887
+      }
+    },
+    {
+      "id": "48221",
+      "title": "Hood, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.4274525869339945
+      }
+    },
+    {
+      "id": "48223",
+      "title": "Hopkins, TX",
+      "scores": {
+        "Access to broadband": 5.409,
+        "Households with a smartphone": 3.7530772099962704
+      }
+    },
+    {
+      "id": "48225",
+      "title": "Houston, TX",
+      "scores": {
+        "Access to broadband": 5.031000000000001,
+        "Households with a smartphone": 1.6384742714237606
+      }
+    },
+    {
+      "id": "48227",
+      "title": "Howard, TX",
+      "scores": {
+        "Access to broadband": 8.450999999999999,
+        "Households with a smartphone": 3.480672878067501
+      }
+    },
+    {
+      "id": "48229",
+      "title": "Hudspeth, TX",
+      "scores": {
+        "Access to broadband": 2.672999999999999,
+        "Households with a smartphone": 2.156862745098039
+      }
+    },
+    {
+      "id": "48231",
+      "title": "Hunt, TX",
+      "scores": {
+        "Access to broadband": 3.9330000000000007,
+        "Households with a smartphone": 3.8096254041175914
+      }
+    },
+    {
+      "id": "48233",
+      "title": "Hutchinson, TX",
+      "scores": {
+        "Access to broadband": 8.037,
+        "Households with a smartphone": 3.944685759159735
+      }
+    },
+    {
+      "id": "48235",
+      "title": "Irion, TX",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 2.1566153275190194
+      }
+    },
+    {
+      "id": "48237",
+      "title": "Jack, TX",
+      "scores": {
+        "Access to broadband": 8.946000000000002,
+        "Households with a smartphone": 3.3596425912137002
+      }
+    },
+    {
+      "id": "48239",
+      "title": "Jackson, TX",
+      "scores": {
+        "Access to broadband": 5.463,
+        "Households with a smartphone": 3.618843298251131
+      }
+    },
+    {
+      "id": "48241",
+      "title": "Jasper, TX",
+      "scores": {
+        "Access to broadband": 3.2399999999999998,
+        "Households with a smartphone": 2.6411825478820634
+      }
+    },
+    {
+      "id": "48243",
+      "title": "Jeff Davis, TX",
+      "scores": {
+        "Access to broadband": 2.5469999999999993,
+        "Households with a smartphone": 2.2084033613445384
+      }
+    },
+    {
+      "id": "48245",
+      "title": "Jefferson, TX",
+      "scores": {
+        "Access to broadband": 8.433,
+        "Households with a smartphone": 2.086371128524174
+      }
+    },
+    {
+      "id": "48247",
+      "title": "Jim Hogg, TX",
+      "scores": {
+        "Access to broadband": 8.667,
+        "Households with a smartphone": 1.0299277605779147
+      }
+    },
+    {
+      "id": "48249",
+      "title": "Jim Wells, TX",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "48251",
+      "title": "Johnson, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.875326389127761
+      }
+    },
+    {
+      "id": "48253",
+      "title": "Jones, TX",
+      "scores": {
+        "Access to broadband": 4.068,
+        "Households with a smartphone": 3.807259073842302
+      }
+    },
+    {
+      "id": "48255",
+      "title": "Karnes, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.1683522207752617
+      }
+    },
+    {
+      "id": "48257",
+      "title": "Kaufman, TX",
+      "scores": {
+        "Access to broadband": 5.994000000000001,
+        "Households with a smartphone": 4.334628487943727
+      }
+    },
+    {
+      "id": "48259",
+      "title": "Kendall, TX",
+      "scores": {
+        "Access to broadband": 7.992,
+        "Households with a smartphone": 5.139420779965352
+      }
+    },
+    {
+      "id": "48261",
+      "title": "Kenedy, TX",
+      "scores": {
+        "Access to broadband": 0.5849999999999995,
+        "Households with a smartphone": 0.3867154517309306
+      }
+    },
+    {
+      "id": "48263",
+      "title": "Kent, TX",
+      "scores": {
+        "Access to broadband": 7.146000000000001,
+        "Households with a smartphone": 2.6170921198668147
+      }
+    },
+    {
+      "id": "48265",
+      "title": "Kerr, TX",
+      "scores": {
+        "Access to broadband": 8.091000000000001,
+        "Households with a smartphone": 3.495861447728471
+      }
+    },
+    {
+      "id": "48267",
+      "title": "Kimble, TX",
+      "scores": {
+        "Access to broadband": 5.22,
+        "Households with a smartphone": 2.498127793211742
+      }
+    },
+    {
+      "id": "48269",
+      "title": "King, TX",
+      "scores": {
+        "Access to broadband": 3.9510000000000005,
+        "Households with a smartphone": 5.239819004524886
+      }
+    },
+    {
+      "id": "48271",
+      "title": "Kinney, TX",
+      "scores": {
+        "Access to broadband": 6.957,
+        "Households with a smartphone": 0.8597285067873306
+      }
+    },
+    {
+      "id": "48273",
+      "title": "Kleberg, TX",
+      "scores": {
+        "Access to broadband": 8.964,
+        "Households with a smartphone": 4.711019872959234
+      }
+    },
+    {
+      "id": "48275",
+      "title": "Knox, TX",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 2.199911543564795
+      }
+    },
+    {
+      "id": "48277",
+      "title": "Lamar, TX",
+      "scores": {
+        "Access to broadband": 6.399,
+        "Households with a smartphone": 2.666896116909974
+      }
+    },
+    {
+      "id": "48279",
+      "title": "Lamb, TX",
+      "scores": {
+        "Access to broadband": 5.589,
+        "Households with a smartphone": 3.2394268603528915
+      }
+    },
+    {
+      "id": "48281",
+      "title": "Lampasas, TX",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 3.660681434631231
+      }
+    },
+    {
+      "id": "48283",
+      "title": "La Salle, TX",
+      "scores": {
+        "Access to broadband": 6.741000000000001,
+        "Households with a smartphone": 3.1369717562115103
+      }
+    },
+    {
+      "id": "48285",
+      "title": "Lavaca, TX",
+      "scores": {
+        "Access to broadband": 8.442,
+        "Households with a smartphone": 2.7101295391802944
+      }
+    },
+    {
+      "id": "48287",
+      "title": "Lee, TX",
+      "scores": {
+        "Access to broadband": 4.752000000000001,
+        "Households with a smartphone": 3.6024978798858993
+      }
+    },
+    {
+      "id": "48289",
+      "title": "Leon, TX",
+      "scores": {
+        "Access to broadband": 5.022,
+        "Households with a smartphone": 2.913727372850245
+      }
+    },
+    {
+      "id": "48291",
+      "title": "Liberty, TX",
+      "scores": {
+        "Access to broadband": 5.265,
+        "Households with a smartphone": 3.3649896397134587
+      }
+    },
+    {
+      "id": "48293",
+      "title": "Limestone, TX",
+      "scores": {
+        "Access to broadband": 2.241,
+        "Households with a smartphone": 2.7024259575295417
+      }
+    },
+    {
+      "id": "48295",
+      "title": "Lipscomb, TX",
+      "scores": {
+        "Access to broadband": 6.714,
+        "Households with a smartphone": 3.578868490071189
+      }
+    },
+    {
+      "id": "48297",
+      "title": "Live Oak, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 0.5008403361344542
+      }
+    },
+    {
+      "id": "48299",
+      "title": "Llano, TX",
+      "scores": {
+        "Access to broadband": 0.03600000000000003,
+        "Households with a smartphone": 3.125426922623954
+      }
+    },
+    {
+      "id": "48301",
+      "title": "Loving, TX",
+      "scores": {
+        "Access to broadband": 1.6830000000000005,
+        "Households with a smartphone": 4.844919786096258
+      }
+    },
+    {
+      "id": "48303",
+      "title": "Lubbock, TX",
+      "scores": {
+        "Access to broadband": 8.19,
+        "Households with a smartphone": 4.721250874999017
+      }
+    },
+    {
+      "id": "48305",
+      "title": "Lynn, TX",
+      "scores": {
+        "Access to broadband": 6.831,
+        "Households with a smartphone": 3.4935054190452552
+      }
+    },
+    {
+      "id": "48307",
+      "title": "McCulloch, TX",
+      "scores": {
+        "Access to broadband": 0.15300000000000014,
+        "Households with a smartphone": 3.2610463540254804
+      }
+    },
+    {
+      "id": "48309",
+      "title": "McLennan, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.072709830613288
+      }
+    },
+    {
+      "id": "48311",
+      "title": "McMullen, TX",
+      "scores": {
+        "Access to broadband": 8.973,
+        "Households with a smartphone": 3.6766024795568453
+      }
+    },
+    {
+      "id": "48313",
+      "title": "Madison, TX",
+      "scores": {
+        "Access to broadband": 1.3050000000000002,
+        "Households with a smartphone": 2.740607978492515
+      }
+    },
+    {
+      "id": "48315",
+      "title": "Marion, TX",
+      "scores": {
+        "Access to broadband": 5.175,
+        "Households with a smartphone": 1.0985581045605055
+      }
+    },
+    {
+      "id": "48317",
+      "title": "Martin, TX",
+      "scores": {
+        "Access to broadband": 7.281000000000001,
+        "Households with a smartphone": 3.6435858476231804
+      }
+    },
+    {
+      "id": "48319",
+      "title": "Mason, TX",
+      "scores": {
+        "Access to broadband": 6.552,
+        "Households with a smartphone": 2.0001411482409406
+      }
+    },
+    {
+      "id": "48321",
+      "title": "Matagorda, TX",
+      "scores": {
+        "Access to broadband": 6.435,
+        "Households with a smartphone": 2.7476403292323086
+      }
+    },
+    {
+      "id": "48323",
+      "title": "Maverick, TX",
+      "scores": {
+        "Access to broadband": 8.397000000000002,
+        "Households with a smartphone": 2.135070107027297
+      }
+    },
+    {
+      "id": "48325",
+      "title": "Medina, TX",
+      "scores": {
+        "Access to broadband": 6.732,
+        "Households with a smartphone": 3.2175367884710435
+      }
+    },
+    {
+      "id": "48327",
+      "title": "Menard, TX",
+      "scores": {
+        "Access to broadband": 0.17100000000000015,
+        "Households with a smartphone": 2.1176470588235294
+      }
+    },
+    {
+      "id": "48329",
+      "title": "Midland, TX",
+      "scores": {
+        "Access to broadband": 8.459999999999999,
+        "Households with a smartphone": 5.097156547506462
+      }
+    },
+    {
+      "id": "48331",
+      "title": "Milam, TX",
+      "scores": {
+        "Access to broadband": 2.295,
+        "Households with a smartphone": 2.2047442577926595
+      }
+    },
+    {
+      "id": "48333",
+      "title": "Mills, TX",
+      "scores": {
+        "Access to broadband": 5.454,
+        "Households with a smartphone": 2.111596638655462
+      }
+    },
+    {
+      "id": "48335",
+      "title": "Mitchell, TX",
+      "scores": {
+        "Access to broadband": 0.6479999999999996,
+        "Households with a smartphone": 3.7334265127599586
+      }
+    },
+    {
+      "id": "48337",
+      "title": "Montague, TX",
+      "scores": {
+        "Access to broadband": 8.604,
+        "Households with a smartphone": 3.647058823529411
+      }
+    },
+    {
+      "id": "48339",
+      "title": "Montgomery, TX",
+      "scores": {
+        "Access to broadband": 8.928,
+        "Households with a smartphone": 5.236383504408646
+      }
+    },
+    {
+      "id": "48341",
+      "title": "Moore, TX",
+      "scores": {
+        "Access to broadband": 7.407,
+        "Households with a smartphone": 4.328722856483374
+      }
+    },
+    {
+      "id": "48343",
+      "title": "Morris, TX",
+      "scores": {
+        "Access to broadband": 5.921999999999999,
+        "Households with a smartphone": 1.882725832012679
+      }
+    },
+    {
+      "id": "48345",
+      "title": "Motley, TX",
+      "scores": {
+        "Access to broadband": 6.552,
+        "Households with a smartphone": 3.0094876660341567
+      }
+    },
+    {
+      "id": "48347",
+      "title": "Nacogdoches, TX",
+      "scores": {
+        "Access to broadband": 7.361999999999999,
+        "Households with a smartphone": 3.8232931726907626
+      }
+    },
+    {
+      "id": "48349",
+      "title": "Navarro, TX",
+      "scores": {
+        "Access to broadband": 8.487,
+        "Households with a smartphone": 3.5319882738403168
+      }
+    },
+    {
+      "id": "48351",
+      "title": "Newton, TX",
+      "scores": {
+        "Access to broadband": 2.1239999999999997,
+        "Households with a smartphone": 2.647271524117884
+      }
+    },
+    {
+      "id": "48353",
+      "title": "Nolan, TX",
+      "scores": {
+        "Access to broadband": 6.948,
+        "Households with a smartphone": 3.764254138298214
+      }
+    },
+    {
+      "id": "48355",
+      "title": "Nueces, TX",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 4.161309132188005
+      }
+    },
+    {
+      "id": "48357",
+      "title": "Ochiltree, TX",
+      "scores": {
+        "Access to broadband": 7.794,
+        "Households with a smartphone": 4.016640754471989
+      }
+    },
+    {
+      "id": "48359",
+      "title": "Oldham, TX",
+      "scores": {
+        "Access to broadband": 4.491,
+        "Households with a smartphone": 3.6881348364772855
+      }
+    },
+    {
+      "id": "48361",
+      "title": "Orange, TX",
+      "scores": {
+        "Access to broadband": 7.821000000000001,
+        "Households with a smartphone": 3.7703659162248795
+      }
+    },
+    {
+      "id": "48363",
+      "title": "Palo Pinto, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 3.7030073472368006
+      }
+    },
+    {
+      "id": "48365",
+      "title": "Panola, TX",
+      "scores": {
+        "Access to broadband": 4.419,
+        "Households with a smartphone": 3.0502802231122415
+      }
+    },
+    {
+      "id": "48367",
+      "title": "Parker, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 5.022403583510004
+      }
+    },
+    {
+      "id": "48369",
+      "title": "Parmer, TX",
+      "scores": {
+        "Access to broadband": 4.464,
+        "Households with a smartphone": 2.79523454951601
+      }
+    },
+    {
+      "id": "48371",
+      "title": "Pecos, TX",
+      "scores": {
+        "Access to broadband": 6.272999999999999,
+        "Households with a smartphone": 3.155094295782829
+      }
+    },
+    {
+      "id": "48373",
+      "title": "Polk, TX",
+      "scores": {
+        "Access to broadband": 3.9419999999999993,
+        "Households with a smartphone": 2.829060535071749
+      }
+    },
+    {
+      "id": "48375",
+      "title": "Potter, TX",
+      "scores": {
+        "Access to broadband": 8.235,
+        "Households with a smartphone": 3.742602884955185
+      }
+    },
+    {
+      "id": "48377",
+      "title": "Presidio, TX",
+      "scores": {
+        "Access to broadband": 1.4220000000000002,
+        "Households with a smartphone": 0.48997962336819045
+      }
+    },
+    {
+      "id": "48379",
+      "title": "Rains, TX",
+      "scores": {
+        "Access to broadband": 0.7739999999999997,
+        "Households with a smartphone": 2.5515911282545796
+      }
+    },
+    {
+      "id": "48381",
+      "title": "Randall, TX",
+      "scores": {
+        "Access to broadband": 8.622,
+        "Households with a smartphone": 5.0306477440835025
+      }
+    },
+    {
+      "id": "48383",
+      "title": "Reagan, TX",
+      "scores": {
+        "Access to broadband": 0.14400000000000013,
+        "Households with a smartphone": 4.174675624390994
+      }
+    },
+    {
+      "id": "48385",
+      "title": "Real, TX",
+      "scores": {
+        "Access to broadband": 5.8950000000000005,
+        "Households with a smartphone": 0.0
+      }
+    },
+    {
+      "id": "48387",
+      "title": "Red River, TX",
+      "scores": {
+        "Access to broadband": 6.39,
+        "Households with a smartphone": 1.0772816258040454
+      }
+    },
+    {
+      "id": "48389",
+      "title": "Reeves, TX",
+      "scores": {
+        "Access to broadband": 5.571,
+        "Households with a smartphone": 3.1076503857670197
+      }
+    },
+    {
+      "id": "48391",
+      "title": "Refugio, TX",
+      "scores": {
+        "Access to broadband": 7.911,
+        "Households with a smartphone": 3.4290214339519274
+      }
+    },
+    {
+      "id": "48393",
+      "title": "Roberts, TX",
+      "scores": {
+        "Access to broadband": 5.643,
+        "Households with a smartphone": 5.232835256289011
+      }
+    },
+    {
+      "id": "48395",
+      "title": "Robertson, TX",
+      "scores": {
+        "Access to broadband": 3.9419999999999993,
+        "Households with a smartphone": 3.363876912828674
+      }
+    },
+    {
+      "id": "48397",
+      "title": "Rockwall, TX",
+      "scores": {
+        "Access to broadband": 8.514,
+        "Households with a smartphone": 5.739450925872576
+      }
+    },
+    {
+      "id": "48399",
+      "title": "Runnels, TX",
+      "scores": {
+        "Access to broadband": 6.255,
+        "Households with a smartphone": 2.286633298291309
+      }
+    },
+    {
+      "id": "48401",
+      "title": "Rusk, TX",
+      "scores": {
+        "Access to broadband": 5.292,
+        "Households with a smartphone": 2.8062360801781745
+      }
+    },
+    {
+      "id": "48403",
+      "title": "Sabine, TX",
+      "scores": {
+        "Access to broadband": 5.138999999999999,
+        "Households with a smartphone": 1.4189113557108621
+      }
+    },
+    {
+      "id": "48405",
+      "title": "San Augustine, TX",
+      "scores": {
+        "Access to broadband": 1.197,
+        "Households with a smartphone": 1.9641029236486016
+      }
+    },
+    {
+      "id": "48407",
+      "title": "San Jacinto, TX",
+      "scores": {
+        "Access to broadband": 3.9599999999999995,
+        "Households with a smartphone": 3.5173953211515463
+      }
+    },
+    {
+      "id": "48409",
+      "title": "San Patricio, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.181698837573176
+      }
+    },
+    {
+      "id": "48411",
+      "title": "San Saba, TX",
+      "scores": {
+        "Access to broadband": 6.470999999999998,
+        "Households with a smartphone": 2.4464325654216075
+      }
+    },
+    {
+      "id": "48413",
+      "title": "Schleicher, TX",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 3.4128293851477243
+      }
+    },
+    {
+      "id": "48415",
+      "title": "Scurry, TX",
+      "scores": {
+        "Access to broadband": 6.912,
+        "Households with a smartphone": 4.415003798936298
+      }
+    },
+    {
+      "id": "48417",
+      "title": "Shackelford, TX",
+      "scores": {
+        "Access to broadband": 3.564,
+        "Households with a smartphone": 2.892744780245973
+      }
+    },
+    {
+      "id": "48419",
+      "title": "Shelby, TX",
+      "scores": {
+        "Access to broadband": 1.0709999999999997,
+        "Households with a smartphone": 2.662328125395659
+      }
+    },
+    {
+      "id": "48421",
+      "title": "Sherman, TX",
+      "scores": {
+        "Access to broadband": 3.609,
+        "Households with a smartphone": 3.6247560635628653
+      }
+    },
+    {
+      "id": "48423",
+      "title": "Smith, TX",
+      "scores": {
+        "Access to broadband": 8.109000000000002,
+        "Households with a smartphone": 4.244964052075911
+      }
+    },
+    {
+      "id": "48425",
+      "title": "Somervell, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.142781904364092
+      }
+    },
+    {
+      "id": "48427",
+      "title": "Starr, TX",
+      "scores": {
+        "Access to broadband": 8.199,
+        "Households with a smartphone": 3.2854958956116
+      }
+    },
+    {
+      "id": "48429",
+      "title": "Stephens, TX",
+      "scores": {
+        "Access to broadband": 8.91,
+        "Households with a smartphone": 3.2948376412988707
+      }
+    },
+    {
+      "id": "48431",
+      "title": "Sterling, TX",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 4.692131398013752
+      }
+    },
+    {
+      "id": "48433",
+      "title": "Stonewall, TX",
+      "scores": {
+        "Access to broadband": 7.2,
+        "Households with a smartphone": 2.3177683444511814
+      }
+    },
+    {
+      "id": "48435",
+      "title": "Sutton, TX",
+      "scores": {
+        "Access to broadband": 0.0,
+        "Households with a smartphone": 3.3876644997621694
+      }
+    },
+    {
+      "id": "48437",
+      "title": "Swisher, TX",
+      "scores": {
+        "Access to broadband": 7.046999999999999,
+        "Households with a smartphone": 3.082128316720482
+      }
+    },
+    {
+      "id": "48439",
+      "title": "Tarrant, TX",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 5.172980703808788
+      }
+    },
+    {
+      "id": "48441",
+      "title": "Taylor, TX",
+      "scores": {
+        "Access to broadband": 8.73,
+        "Households with a smartphone": 4.405466515453035
+      }
+    },
+    {
+      "id": "48443",
+      "title": "Terrell, TX",
+      "scores": {
+        "Access to broadband": 0.44100000000000034,
+        "Households with a smartphone": 0.8520499108734405
+      }
+    },
+    {
+      "id": "48445",
+      "title": "Terry, TX",
+      "scores": {
+        "Access to broadband": 4.2299999999999995,
+        "Households with a smartphone": 3.932136774531638
+      }
+    },
+    {
+      "id": "48447",
+      "title": "Throckmorton, TX",
+      "scores": {
+        "Access to broadband": 5.3999999999999995,
+        "Households with a smartphone": 3.21462639109698
+      }
+    },
+    {
+      "id": "48449",
+      "title": "Titus, TX",
+      "scores": {
+        "Access to broadband": 5.868,
+        "Households with a smartphone": 2.3925675750008244
+      }
+    },
+    {
+      "id": "48451",
+      "title": "Tom Green, TX",
+      "scores": {
+        "Access to broadband": 7.902,
+        "Households with a smartphone": 3.5271287063896986
+      }
+    },
+    {
+      "id": "48453",
+      "title": "Travis, TX",
+      "scores": {
+        "Access to broadband": 8.973,
+        "Households with a smartphone": 5.343280181180227
+      }
+    },
+    {
+      "id": "48455",
+      "title": "Trinity, TX",
+      "scores": {
+        "Access to broadband": 5.157,
+        "Households with a smartphone": 2.3544122616941334
+      }
+    },
+    {
+      "id": "48457",
+      "title": "Tyler, TX",
+      "scores": {
+        "Access to broadband": 3.2399999999999998,
+        "Households with a smartphone": 2.707893413775766
+      }
+    },
+    {
+      "id": "48459",
+      "title": "Upshur, TX",
+      "scores": {
+        "Access to broadband": 7.74,
+        "Households with a smartphone": 3.350275761487269
+      }
+    },
+    {
+      "id": "48461",
+      "title": "Upton, TX",
+      "scores": {
+        "Access to broadband": 0.03600000000000003,
+        "Households with a smartphone": 3.1926977687626783
+      }
+    },
+    {
+      "id": "48463",
+      "title": "Uvalde, TX",
+      "scores": {
+        "Access to broadband": 8.847,
+        "Households with a smartphone": 2.1194761907987894
+      }
+    },
+    {
+      "id": "48465",
+      "title": "Val Verde, TX",
+      "scores": {
+        "Access to broadband": 8.720999999999998,
+        "Households with a smartphone": 3.4589333302833083
+      }
+    },
+    {
+      "id": "48467",
+      "title": "Van Zandt, TX",
+      "scores": {
+        "Access to broadband": 1.4940000000000002,
+        "Households with a smartphone": 3.140123854793
+      }
+    },
+    {
+      "id": "48469",
+      "title": "Victoria, TX",
+      "scores": {
+        "Access to broadband": 8.892,
+        "Households with a smartphone": 3.769564462953323
+      }
+    },
+    {
+      "id": "48471",
+      "title": "Walker, TX",
+      "scores": {
+        "Access to broadband": 7.640999999999999,
+        "Households with a smartphone": 4.94789729535741
+      }
+    },
+    {
+      "id": "48473",
+      "title": "Waller, TX",
+      "scores": {
+        "Access to broadband": 3.3030000000000004,
+        "Households with a smartphone": 4.565734012927113
+      }
+    },
+    {
+      "id": "48475",
+      "title": "Ward, TX",
+      "scores": {
+        "Access to broadband": 3.9779999999999998,
+        "Households with a smartphone": 3.5040742282757384
+      }
+    },
+    {
+      "id": "48477",
+      "title": "Washington, TX",
+      "scores": {
+        "Access to broadband": 5.040000000000001,
+        "Households with a smartphone": 2.4675665274590566
+      }
+    },
+    {
+      "id": "48479",
+      "title": "Webb, TX",
+      "scores": {
+        "Access to broadband": 8.450999999999999,
+        "Households with a smartphone": 2.820113032791009
+      }
+    },
+    {
+      "id": "48481",
+      "title": "Wharton, TX",
+      "scores": {
+        "Access to broadband": 5.526,
+        "Households with a smartphone": 2.936611246491254
+      }
+    },
+    {
+      "id": "48483",
+      "title": "Wheeler, TX",
+      "scores": {
+        "Access to broadband": 2.1239999999999997,
+        "Households with a smartphone": 4.643352993371262
+      }
+    },
+    {
+      "id": "48485",
+      "title": "Wichita, TX",
+      "scores": {
+        "Access to broadband": 8.361,
+        "Households with a smartphone": 4.026838672321132
+      }
+    },
+    {
+      "id": "48487",
+      "title": "Wilbarger, TX",
+      "scores": {
+        "Access to broadband": 7.334999999999999,
+        "Households with a smartphone": 3.224486146349096
+      }
+    },
+    {
+      "id": "48489",
+      "title": "Willacy, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 2.8703047484053856
+      }
+    },
+    {
+      "id": "48491",
+      "title": "Williamson, TX",
+      "scores": {
+        "Access to broadband": 8.352000000000002,
+        "Households with a smartphone": 5.302769809527208
+      }
+    },
+    {
+      "id": "48493",
+      "title": "Wilson, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.656949505465903
+      }
+    },
+    {
+      "id": "48495",
+      "title": "Winkler, TX",
+      "scores": {
+        "Access to broadband": 2.0429999999999997,
+        "Households with a smartphone": 3.6957277467752263
+      }
+    },
+    {
+      "id": "48497",
+      "title": "Wise, TX",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.695012787723784
+      }
+    },
+    {
+      "id": "48499",
+      "title": "Wood, TX",
+      "scores": {
+        "Access to broadband": 5.688,
+        "Households with a smartphone": 3.0580193362203643
+      }
+    },
+    {
+      "id": "48501",
+      "title": "Yoakum, TX",
+      "scores": {
+        "Access to broadband": 6.543,
+        "Households with a smartphone": 4.731733051965181
+      }
+    },
+    {
+      "id": "48503",
+      "title": "Young, TX",
+      "scores": {
+        "Access to broadband": 8.847,
+        "Households with a smartphone": 3.4556443266961967
+      }
+    },
+    {
+      "id": "48505",
+      "title": "Zapata, TX",
+      "scores": {
+        "Access to broadband": 7.290000000000001,
+        "Households with a smartphone": 3.29344995660012
+      }
+    },
+    {
+      "id": "48507",
+      "title": "Zavala, TX",
+      "scores": {
+        "Access to broadband": 6.2909999999999995,
+        "Households with a smartphone": 1.3688163210567794
+      }
+    },
+    {
+      "id": "6001",
+      "title": "Alameda, CA",
+      "scores": {
+        "Access to broadband": 8.892,
+        "Households with a smartphone": 5.173991840875511
+      }
+    },
+    {
+      "id": "6003",
+      "title": "Alpine, CA",
+      "scores": {
+        "Access to broadband": 0.8189999999999998,
+        "Households with a smartphone": 3.6344678339563234
+      }
+    },
+    {
+      "id": "6005",
+      "title": "Amador, CA",
+      "scores": {
+        "Access to broadband": 6.138000000000001,
+        "Households with a smartphone": 3.126372479438902
+      }
+    },
+    {
+      "id": "6007",
+      "title": "Butte, CA",
+      "scores": {
+        "Access to broadband": 7.893,
+        "Households with a smartphone": 3.8113149749686377
+      }
+    },
+    {
+      "id": "6009",
+      "title": "Calaveras, CA",
+      "scores": {
+        "Access to broadband": 8.064000000000002,
+        "Households with a smartphone": 2.4421778586843828
+      }
+    },
+    {
+      "id": "6011",
+      "title": "Colusa, CA",
+      "scores": {
+        "Access to broadband": 3.0869999999999997,
+        "Households with a smartphone": 3.5831493289006873
+      }
+    },
+    {
+      "id": "6013",
+      "title": "Contra Costa, CA",
+      "scores": {
+        "Access to broadband": 8.802,
+        "Households with a smartphone": 5.147482368776326
+      }
+    },
+    {
+      "id": "6015",
+      "title": "Del Norte, CA",
+      "scores": {
+        "Access to broadband": 8.442,
+        "Households with a smartphone": 2.6761074059177705
+      }
+    },
+    {
+      "id": "6017",
+      "title": "El Dorado, CA",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 4.366874049683482
+      }
+    },
+    {
+      "id": "6019",
+      "title": "Fresno, CA",
+      "scores": {
+        "Access to broadband": 8.82,
+        "Households with a smartphone": 4.19318550467616
+      }
+    },
+    {
+      "id": "6021",
+      "title": "Glenn, CA",
+      "scores": {
+        "Access to broadband": 6.255,
+        "Households with a smartphone": 3.2076176382502695
+      }
+    },
+    {
+      "id": "6023",
+      "title": "Humboldt, CA",
+      "scores": {
+        "Access to broadband": 7.433999999999999,
+        "Households with a smartphone": 3.4514768481332494
+      }
+    },
+    {
+      "id": "6025",
+      "title": "Imperial, CA",
+      "scores": {
+        "Access to broadband": 7.343999999999999,
+        "Households with a smartphone": 3.6920913949709533
+      }
+    },
+    {
+      "id": "6027",
+      "title": "Inyo, CA",
+      "scores": {
+        "Access to broadband": 7.803,
+        "Households with a smartphone": 2.7972869712031794
+      }
+    },
+    {
+      "id": "6029",
+      "title": "Kern, CA",
+      "scores": {
+        "Access to broadband": 8.577,
+        "Households with a smartphone": 3.8613408523091666
+      }
+    },
+    {
+      "id": "6031",
+      "title": "Kings, CA",
+      "scores": {
+        "Access to broadband": 8.001,
+        "Households with a smartphone": 4.355666590960708
+      }
+    },
+    {
+      "id": "6033",
+      "title": "Lake, CA",
+      "scores": {
+        "Access to broadband": 7.542,
+        "Households with a smartphone": 2.5087014240341436
+      }
+    },
+    {
+      "id": "6035",
+      "title": "Lassen, CA",
+      "scores": {
+        "Access to broadband": 4.338,
+        "Households with a smartphone": 2.291459341558176
+      }
+    },
+    {
+      "id": "6037",
+      "title": "Los Angeles, CA",
+      "scores": {
+        "Access to broadband": 8.946000000000002,
+        "Households with a smartphone": 4.616332157868252
+      }
+    },
+    {
+      "id": "6039",
+      "title": "Madera, CA",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 4.08571657622588
+      }
+    },
+    {
+      "id": "6041",
+      "title": "Marin, CA",
+      "scores": {
+        "Access to broadband": 8.738999999999999,
+        "Households with a smartphone": 4.832555971713203
+      }
+    },
+    {
+      "id": "6043",
+      "title": "Mariposa, CA",
+      "scores": {
+        "Access to broadband": 4.527,
+        "Households with a smartphone": 2.0250572956455306
+      }
+    },
+    {
+      "id": "6045",
+      "title": "Mendocino, CA",
+      "scores": {
+        "Access to broadband": 6.777,
+        "Households with a smartphone": 2.595448035477024
+      }
+    },
+    {
+      "id": "6047",
+      "title": "Merced, CA",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 4.458100261434625
+      }
+    },
+    {
+      "id": "6049",
+      "title": "Modoc, CA",
+      "scores": {
+        "Access to broadband": 1.215,
+        "Households with a smartphone": 0.8968177434908384
+      }
+    },
+    {
+      "id": "6051",
+      "title": "Mono, CA",
+      "scores": {
+        "Access to broadband": 6.831,
+        "Households with a smartphone": 3.9136640007767083
+      }
+    },
+    {
+      "id": "6053",
+      "title": "Monterey, CA",
+      "scores": {
+        "Access to broadband": 8.892,
+        "Households with a smartphone": 4.135245771586329
+      }
+    },
+    {
+      "id": "6055",
+      "title": "Napa, CA",
+      "scores": {
+        "Access to broadband": 8.397000000000002,
+        "Households with a smartphone": 4.34303648037776
+      }
+    },
+    {
+      "id": "6057",
+      "title": "Nevada, CA",
+      "scores": {
+        "Access to broadband": 6.813,
+        "Households with a smartphone": 4.010745389491607
+      }
+    },
+    {
+      "id": "6059",
+      "title": "Orange, CA",
+      "scores": {
+        "Access to broadband": 8.838,
+        "Households with a smartphone": 5.188259191089222
+      }
+    },
+    {
+      "id": "6061",
+      "title": "Placer, CA",
+      "scores": {
+        "Access to broadband": 8.703000000000001,
+        "Households with a smartphone": 4.893770880928993
+      }
+    },
+    {
+      "id": "6063",
+      "title": "Plumas, CA",
+      "scores": {
+        "Access to broadband": 1.6470000000000005,
+        "Households with a smartphone": 2.504711291749208
+      }
+    },
+    {
+      "id": "6065",
+      "title": "Riverside, CA",
+      "scores": {
+        "Access to broadband": 8.649,
+        "Households with a smartphone": 4.578306644820276
+      }
+    },
+    {
+      "id": "6067",
+      "title": "Sacramento, CA",
+      "scores": {
+        "Access to broadband": 8.757,
+        "Households with a smartphone": 4.81863020361168
+      }
+    },
+    {
+      "id": "6069",
+      "title": "San Benito, CA",
+      "scores": {
+        "Access to broadband": 8.919,
+        "Households with a smartphone": 5.019563631540553
+      }
+    },
+    {
+      "id": "6071",
+      "title": "San Bernardino, CA",
+      "scores": {
+        "Access to broadband": 8.477999999999998,
+        "Households with a smartphone": 4.586122011301249
+      }
+    },
+    {
+      "id": "6073",
+      "title": "San Diego, CA",
+      "scores": {
+        "Access to broadband": 8.783999999999999,
+        "Households with a smartphone": 5.106333183687244
+      }
+    },
+    {
+      "id": "6075",
+      "title": "San Francisco, CA",
+      "scores": {
+        "Access to broadband": 8.883,
+        "Households with a smartphone": 4.991370102352773
+      }
+    },
+    {
+      "id": "6077",
+      "title": "San Joaquin, CA",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 4.318456583831448
+      }
+    },
+    {
+      "id": "6079",
+      "title": "San Luis Obispo, CA",
+      "scores": {
+        "Access to broadband": 8.748,
+        "Households with a smartphone": 4.451558851177035
+      }
+    },
+    {
+      "id": "6081",
+      "title": "San Mateo, CA",
+      "scores": {
+        "Access to broadband": 8.919,
+        "Households with a smartphone": 5.276406525873179
+      }
+    },
+    {
+      "id": "6083",
+      "title": "Santa Barbara, CA",
+      "scores": {
+        "Access to broadband": 8.244,
+        "Households with a smartphone": 4.405962779698046
+      }
+    },
+    {
+      "id": "6085",
+      "title": "Santa Clara, CA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 5.359821546336169
+      }
+    },
+    {
+      "id": "6087",
+      "title": "Santa Cruz, CA",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.381857810169475
+      }
+    },
+    {
+      "id": "6089",
+      "title": "Shasta, CA",
+      "scores": {
+        "Access to broadband": 6.741000000000001,
+        "Households with a smartphone": 3.2357473575612197
+      }
+    },
+    {
+      "id": "6091",
+      "title": "Sierra, CA",
+      "scores": {
+        "Access to broadband": 1.0259999999999998,
+        "Households with a smartphone": 0.7681660899653986
+      }
+    },
+    {
+      "id": "6093",
+      "title": "Siskiyou, CA",
+      "scores": {
+        "Access to broadband": 1.6110000000000004,
+        "Households with a smartphone": 2.398706047304418
+      }
+    },
+    {
+      "id": "6095",
+      "title": "Solano, CA",
+      "scores": {
+        "Access to broadband": 8.532,
+        "Households with a smartphone": 4.924576749736301
+      }
+    },
+    {
+      "id": "6097",
+      "title": "Sonoma, CA",
+      "scores": {
+        "Access to broadband": 8.604,
+        "Households with a smartphone": 4.338658671048475
+      }
+    },
+    {
+      "id": "6099",
+      "title": "Stanislaus, CA",
+      "scores": {
+        "Access to broadband": 8.964,
+        "Households with a smartphone": 4.407997836213045
+      }
+    },
+    {
+      "id": "6101",
+      "title": "Sutter, CA",
+      "scores": {
+        "Access to broadband": 8.163,
+        "Households with a smartphone": 4.223514869483022
+      }
+    },
+    {
+      "id": "6103",
+      "title": "Tehama, CA",
+      "scores": {
+        "Access to broadband": 4.428000000000001,
+        "Households with a smartphone": 2.713129705576299
+      }
+    },
+    {
+      "id": "6105",
+      "title": "Trinity, CA",
+      "scores": {
+        "Access to broadband": 1.8719999999999997,
+        "Households with a smartphone": 0.7645840945073681
+      }
+    },
+    {
+      "id": "6107",
+      "title": "Tulare, CA",
+      "scores": {
+        "Access to broadband": 8.738999999999999,
+        "Households with a smartphone": 3.777642166442937
+      }
+    },
+    {
+      "id": "6109",
+      "title": "Tuolumne, CA",
+      "scores": {
+        "Access to broadband": 8.244,
+        "Households with a smartphone": 3.0116062833926542
+      }
+    },
+    {
+      "id": "6111",
+      "title": "Ventura, CA",
+      "scores": {
+        "Access to broadband": 8.829,
+        "Households with a smartphone": 4.511001678218425
+      }
+    },
+    {
+      "id": "6113",
+      "title": "Yolo, CA",
+      "scores": {
+        "Access to broadband": 8.685,
+        "Households with a smartphone": 4.850192450807015
+      }
+    },
+    {
+      "id": "6115",
+      "title": "Yuba, CA",
+      "scores": {
+        "Access to broadband": 7.155,
+        "Households with a smartphone": 4.04022532654148
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Adams, CO",
+      "scores": {
+        "Access to broadband": 8.810999999999998,
+        "Households with a smartphone": 4.826826475724239
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Alamosa, CO",
+      "scores": {
+        "Access to broadband": 6.497999999999999,
+        "Households with a smartphone": 2.6875268878882608
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Arapahoe, CO",
+      "scores": {
+        "Access to broadband": 8.901000000000002,
+        "Households with a smartphone": 5.117904827605674
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Archuleta, CO",
+      "scores": {
+        "Access to broadband": 3.1679999999999997,
+        "Households with a smartphone": 3.273576097105508
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Baca, CO",
+      "scores": {
+        "Access to broadband": 4.851,
+        "Households with a smartphone": 2.7431396431897968
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Bent, CO",
+      "scores": {
+        "Access to broadband": 4.365,
+        "Households with a smartphone": 2.9676200755531568
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Boulder, CO",
+      "scores": {
+        "Access to broadband": 8.559,
+        "Households with a smartphone": 5.094184743654559
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Broomfield, CO",
+      "scores": {
+        "Access to broadband": 8.712,
+        "Households with a smartphone": 5.460094175763939
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Chaffee, CO",
+      "scores": {
+        "Access to broadband": 6.2459999999999996,
+        "Households with a smartphone": 2.7762517924988526
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Cheyenne, CO",
+      "scores": {
+        "Access to broadband": 7.38,
+        "Households with a smartphone": 2.8073569050261615
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Clear Creek, CO",
+      "scores": {
+        "Access to broadband": 6.893999999999999,
+        "Households with a smartphone": 4.4208924949290065
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Conejos, CO",
+      "scores": {
+        "Access to broadband": 0.8909999999999999,
+        "Households with a smartphone": 0.960349720070558
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Costilla, CO",
+      "scores": {
+        "Access to broadband": 5.31,
+        "Households with a smartphone": 0.7588130687959838
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Crowley, CO",
+      "scores": {
+        "Access to broadband": 6.003,
+        "Households with a smartphone": 2.646763227904227
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Custer, CO",
+      "scores": {
+        "Access to broadband": 2.484,
+        "Households with a smartphone": 2.4912597780350727
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Delta, CO",
+      "scores": {
+        "Access to broadband": 8.280000000000001,
+        "Households with a smartphone": 1.9177401308949769
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Denver, CO",
+      "scores": {
+        "Access to broadband": 9.0,
+        "Households with a smartphone": 4.819435157589217
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Dolores, CO",
+      "scores": {
+        "Access to broadband": 0.9989999999999998,
+        "Households with a smartphone": 1.17329093799682
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Douglas, CO",
+      "scores": {
+        "Access to broadband": 8.838,
+        "Households with a smartphone": 5.942724379108346
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Eagle, CO",
+      "scores": {
+        "Access to broadband": 7.524,
+        "Households with a smartphone": 5.435294117647059
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Elbert, CO",
+      "scores": {
+        "Access to broadband": 7.155,
+        "Households with a smartphone": 4.984952725286445
+      }
+    },
+    {
+      "id": "8041",
+      "title": "El Paso, CO",
+      "scores": {
+        "Access to broadband": 8.459999999999999,
+        "Households with a smartphone": 4.9527281034247
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Fremont, CO",
+      "scores": {
+        "Access to broadband": 7.542,
+        "Households with a smartphone": 2.6787377772294025
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Garfield, CO",
+      "scores": {
+        "Access to broadband": 7.218,
+        "Households with a smartphone": 4.754270257634702
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Gilpin, CO",
+      "scores": {
+        "Access to broadband": 3.4920000000000004,
+        "Households with a smartphone": 4.5328928405135125
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Grand, CO",
+      "scores": {
+        "Access to broadband": 6.308999999999999,
+        "Households with a smartphone": 3.876897899809074
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Gunnison, CO",
+      "scores": {
+        "Access to broadband": 8.055,
+        "Households with a smartphone": 4.544881387750041
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Hinsdale, CO",
+      "scores": {
+        "Access to broadband": 4.005000000000001,
+        "Households with a smartphone": 2.1951664386684904
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Huerfano, CO",
+      "scores": {
+        "Access to broadband": 4.986000000000001,
+        "Households with a smartphone": 1.7681471125927515
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Jackson, CO",
+      "scores": {
+        "Access to broadband": 7.002000000000001,
+        "Households with a smartphone": 1.8874680306905383
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Jefferson, CO",
+      "scores": {
+        "Access to broadband": 8.874,
+        "Households with a smartphone": 4.827499149542721
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Kiowa, CO",
+      "scores": {
+        "Access to broadband": 4.779,
+        "Households with a smartphone": 3.1026683860728115
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Kit Carson, CO",
+      "scores": {
+        "Access to broadband": 8.334,
+        "Households with a smartphone": 3.110553458870952
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Lake, CO",
+      "scores": {
+        "Access to broadband": 7.9830000000000005,
+        "Households with a smartphone": 3.8497219347029006
+      }
+    },
+    {
+      "id": "8067",
+      "title": "La Plata, CO",
+      "scores": {
+        "Access to broadband": 7.397999999999999,
+        "Households with a smartphone": 4.134511621378694
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Larimer, CO",
+      "scores": {
+        "Access to broadband": 7.911,
+        "Households with a smartphone": 4.997553700309125
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Las Animas, CO",
+      "scores": {
+        "Access to broadband": 6.057000000000001,
+        "Households with a smartphone": 2.3963708688663052
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Lincoln, CO",
+      "scores": {
+        "Access to broadband": 1.7459999999999996,
+        "Households with a smartphone": 2.498452012383901
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Logan, CO",
+      "scores": {
+        "Access to broadband": 8.361,
+        "Households with a smartphone": 3.3212183076823534
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Mesa, CO",
+      "scores": {
+        "Access to broadband": 8.253,
+        "Households with a smartphone": 3.799832491776387
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Mineral, CO",
+      "scores": {
+        "Access to broadband": 7.38,
+        "Households with a smartphone": 2.781176470588236
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Moffat, CO",
+      "scores": {
+        "Access to broadband": 8.586,
+        "Households with a smartphone": 3.4366038161905825
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Montezuma, CO",
+      "scores": {
+        "Access to broadband": 5.255999999999999,
+        "Households with a smartphone": 2.279404837771189
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Montrose, CO",
+      "scores": {
+        "Access to broadband": 8.397000000000002,
+        "Households with a smartphone": 2.184319450407901
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Morgan, CO",
+      "scores": {
+        "Access to broadband": 7.695,
+        "Households with a smartphone": 3.592080503967929
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Otero, CO",
+      "scores": {
+        "Access to broadband": 7.821000000000001,
+        "Households with a smartphone": 2.4978469869289546
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Ouray, CO",
+      "scores": {
+        "Access to broadband": 8.991000000000001,
+        "Households with a smartphone": 4.078610113142796
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Park, CO",
+      "scores": {
+        "Access to broadband": 5.327999999999999,
+        "Households with a smartphone": 3.6062070846037537
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Phillips, CO",
+      "scores": {
+        "Access to broadband": 8.982,
+        "Households with a smartphone": 4.009310198899705
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Pitkin, CO",
+      "scores": {
+        "Access to broadband": 7.866000000000001,
+        "Households with a smartphone": 5.394095854357701
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Prowers, CO",
+      "scores": {
+        "Access to broadband": 6.489,
+        "Households with a smartphone": 3.127828282229676
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Pueblo, CO",
+      "scores": {
+        "Access to broadband": 8.181000000000001,
+        "Households with a smartphone": 3.362367775754321
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Rio Blanco, CO",
+      "scores": {
+        "Access to broadband": 6.308999999999999,
+        "Households with a smartphone": 3.475508555482117
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Rio Grande, CO",
+      "scores": {
+        "Access to broadband": 7.101,
+        "Households with a smartphone": 1.8292759377285548
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Routt, CO",
+      "scores": {
+        "Access to broadband": 8.649,
+        "Households with a smartphone": 4.859296482412059
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Saguache, CO",
+      "scores": {
+        "Access to broadband": 6.353999999999999,
+        "Households with a smartphone": 1.3377071055265206
+      }
+    },
+    {
+      "id": "8111",
+      "title": "San Juan, CO",
+      "scores": {
+        "Access to broadband": 3.5910000000000006,
+        "Households with a smartphone": 1.5736399823087126
+      }
+    },
+    {
+      "id": "8113",
+      "title": "San Miguel, CO",
+      "scores": {
+        "Access to broadband": 5.904000000000002,
+        "Households with a smartphone": 5.159341504692549
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Sedgwick, CO",
+      "scores": {
+        "Access to broadband": 7.011,
+        "Households with a smartphone": 2.622592399791774
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Summit, CO",
+      "scores": {
+        "Access to broadband": 8.154000000000002,
+        "Households with a smartphone": 5.759591319787418
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Teller, CO",
+      "scores": {
+        "Access to broadband": 7.038,
+        "Households with a smartphone": 3.845960106521249
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Washington, CO",
+      "scores": {
+        "Access to broadband": 7.245,
+        "Households with a smartphone": 3.830194146624167
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Weld, CO",
+      "scores": {
+        "Access to broadband": 7.065,
+        "Households with a smartphone": 4.746721959858663
+      }
+    },
+    {
+      "id": "8125",
+      "title": "Yuma, CO",
+      "scores": {
+        "Access to broadband": 8.793,
+        "Households with a smartphone": 2.989327253982312
+      }
+    }
+  ],
+  "derivatives": {
+    "Connectedness": [
+      "Access to broadband",
+      "Households with a smartphone"
+    ]
+  },
+  "weightingOptions": {
+    "Access to broadband": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Households with a smartphone": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

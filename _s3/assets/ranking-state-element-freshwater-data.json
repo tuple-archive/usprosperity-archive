@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Good quality rivers and streams": 124423,
+        "Good quality lakes, resevoirs and ponds": 208950,
+        "Total freshwater withdrawals per capita": 481099,
+        "Toxic water releases": 604293
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Good quality rivers and streams": 254599,
+        "Good quality lakes, resevoirs and ponds": 156034,
+        "Total freshwater withdrawals per capita": 369360,
+        "Toxic water releases": 153719
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Good quality rivers and streams": 185136,
+        "Good quality lakes, resevoirs and ponds": 154424,
+        "Total freshwater withdrawals per capita": 148105,
+        "Toxic water releases": 216785
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Good quality rivers and streams": 186518,
+        "Good quality lakes, resevoirs and ponds": 4234,
+        "Total freshwater withdrawals per capita": 478207,
+        "Toxic water releases": 665917
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Good quality rivers and streams": 36133,
+        "Good quality lakes, resevoirs and ponds": 7407,
+        "Total freshwater withdrawals per capita": 515918,
+        "Toxic water releases": 365892
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Good quality rivers and streams": 273706,
+        "Good quality lakes, resevoirs and ponds": 204629,
+        "Total freshwater withdrawals per capita": 348908,
+        "Toxic water releases": 463859
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Good quality rivers and streams": 212050,
+        "Good quality lakes, resevoirs and ponds": 247921,
+        "Total freshwater withdrawals per capita": 619180,
+        "Toxic water releases": 470502
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Good quality rivers and streams": 0,
+        "Good quality lakes, resevoirs and ponds": 0,
+        "Total freshwater withdrawals per capita": 666644,
+        "Toxic water releases": 318500
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Good quality rivers and streams": 1197,
+        "Good quality lakes, resevoirs and ponds": 10155,
+        "Total freshwater withdrawals per capita": 532604,
+        "Toxic water releases": 0
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Good quality rivers and streams": 59221,
+        "Good quality lakes, resevoirs and ponds": 33049,
+        "Total freshwater withdrawals per capita": 592578,
+        "Toxic water releases": 370506
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Good quality rivers and streams": 136090,
+        "Good quality lakes, resevoirs and ponds": 209533,
+        "Total freshwater withdrawals per capita": 583252,
+        "Toxic water releases": 202449
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Good quality rivers and streams": 31684,
+        "Good quality lakes, resevoirs and ponds": 0,
+        "Total freshwater withdrawals per capita": 549798,
+        "Toxic water releases": 212526
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Good quality rivers and streams": 85162,
+        "Good quality lakes, resevoirs and ponds": 34692,
+        "Total freshwater withdrawals per capita": 480641,
+        "Toxic water releases": 234188
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Good quality rivers and streams": 160838,
+        "Good quality lakes, resevoirs and ponds": 32033,
+        "Total freshwater withdrawals per capita": 0,
+        "Toxic water releases": 327159
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Good quality rivers and streams": 124741,
+        "Good quality lakes, resevoirs and ponds": 11551,
+        "Total freshwater withdrawals per capita": 488170,
+        "Toxic water releases": 193609
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Good quality rivers and streams": 103128,
+        "Good quality lakes, resevoirs and ponds": 14707,
+        "Total freshwater withdrawals per capita": 446633,
+        "Toxic water releases": 89976
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Good quality rivers and streams": 32904,
+        "Good quality lakes, resevoirs and ponds": 7123,
+        "Total freshwater withdrawals per capita": 407091,
+        "Toxic water releases": 421702
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Good quality rivers and streams": 109254,
+        "Good quality lakes, resevoirs and ponds": 199665,
+        "Total freshwater withdrawals per capita": 518421,
+        "Toxic water releases": 186222
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Good quality rivers and streams": 72710,
+        "Good quality lakes, resevoirs and ponds": 17675,
+        "Total freshwater withdrawals per capita": 356395,
+        "Toxic water releases": 113369
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Good quality rivers and streams": 120459,
+        "Good quality lakes, resevoirs and ponds": 8373,
+        "Total freshwater withdrawals per capita": 628627,
+        "Toxic water releases": 602282
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Good quality rivers and streams": 83234,
+        "Good quality lakes, resevoirs and ponds": 35822,
+        "Total freshwater withdrawals per capita": 610859,
+        "Toxic water releases": 475656
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Good quality rivers and streams": 319008,
+        "Good quality lakes, resevoirs and ponds": 304772,
+        "Total freshwater withdrawals per capita": 590489,
+        "Toxic water releases": 177334
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Good quality rivers and streams": 91262,
+        "Good quality lakes, resevoirs and ponds": 207844,
+        "Total freshwater withdrawals per capita": 457030,
+        "Toxic water releases": 269464
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Good quality rivers and streams": 68885,
+        "Good quality lakes, resevoirs and ponds": 17130,
+        "Total freshwater withdrawals per capita": 528010,
+        "Toxic water releases": 343600
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Good quality rivers and streams": 165127,
+        "Good quality lakes, resevoirs and ponds": 240966,
+        "Total freshwater withdrawals per capita": 406206,
+        "Toxic water releases": 311750
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Good quality rivers and streams": 110617,
+        "Good quality lakes, resevoirs and ponds": 181007,
+        "Total freshwater withdrawals per capita": 475511,
+        "Toxic water releases": 171426
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Good quality rivers and streams": 50512,
+        "Good quality lakes, resevoirs and ponds": 47149,
+        "Total freshwater withdrawals per capita": 0,
+        "Toxic water releases": 627178
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Good quality rivers and streams": 261658,
+        "Good quality lakes, resevoirs and ponds": 203460,
+        "Total freshwater withdrawals per capita": 476270,
+        "Toxic water releases": 181539
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Good quality rivers and streams": 282565,
+        "Good quality lakes, resevoirs and ponds": 76708,
+        "Total freshwater withdrawals per capita": 355657,
+        "Toxic water releases": 547112
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Good quality rivers and streams": 132329,
+        "Good quality lakes, resevoirs and ponds": 31190,
+        "Total freshwater withdrawals per capita": 129502,
+        "Toxic water releases": 295404
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Good quality rivers and streams": 0,
+        "Good quality lakes, resevoirs and ponds": 0,
+        "Total freshwater withdrawals per capita": 616595,
+        "Toxic water releases": 657006
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Good quality rivers and streams": 22994,
+        "Good quality lakes, resevoirs and ponds": 19090,
+        "Total freshwater withdrawals per capita": 609486,
+        "Toxic water releases": 73014
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Good quality rivers and streams": 119280,
+        "Good quality lakes, resevoirs and ponds": 48693,
+        "Total freshwater withdrawals per capita": 410993,
+        "Toxic water releases": 638275
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Good quality rivers and streams": 175538,
+        "Good quality lakes, resevoirs and ponds": 159039,
+        "Total freshwater withdrawals per capita": 459440,
+        "Toxic water releases": 646048
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Good quality rivers and streams": 293438,
+        "Good quality lakes, resevoirs and ponds": 143867,
+        "Total freshwater withdrawals per capita": 595416,
+        "Toxic water releases": 240925
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Good quality rivers and streams": 10873,
+        "Good quality lakes, resevoirs and ponds": 0,
+        "Total freshwater withdrawals per capita": 533075,
+        "Toxic water releases": 178779
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Good quality rivers and streams": 78446,
+        "Good quality lakes, resevoirs and ponds": 56463,
+        "Total freshwater withdrawals per capita": 552832,
+        "Toxic water releases": 286183
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Good quality rivers and streams": 108436,
+        "Good quality lakes, resevoirs and ponds": 10935,
+        "Total freshwater withdrawals per capita": 376691,
+        "Toxic water releases": 454158
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Good quality rivers and streams": 269997,
+        "Good quality lakes, resevoirs and ponds": 0,
+        "Total freshwater withdrawals per capita": 551026,
+        "Toxic water releases": 177739
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Good quality rivers and streams": 133260,
+        "Good quality lakes, resevoirs and ponds": 142386,
+        "Total freshwater withdrawals per capita": 634042,
+        "Toxic water releases": 601467
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Good quality rivers and streams": 0,
+        "Good quality lakes, resevoirs and ponds": 0,
+        "Total freshwater withdrawals per capita": 422285,
+        "Toxic water releases": 208480
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Good quality rivers and streams": 71013,
+        "Good quality lakes, resevoirs and ponds": 69185,
+        "Total freshwater withdrawals per capita": 554481,
+        "Toxic water releases": 315264
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Good quality rivers and streams": 159856,
+        "Good quality lakes, resevoirs and ponds": 213611,
+        "Total freshwater withdrawals per capita": 463064,
+        "Toxic water releases": 249996
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Good quality rivers and streams": 192420,
+        "Good quality lakes, resevoirs and ponds": 188102,
+        "Total freshwater withdrawals per capita": 509908,
+        "Toxic water releases": 262934
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Good quality rivers and streams": 105086,
+        "Good quality lakes, resevoirs and ponds": 78084,
+        "Total freshwater withdrawals per capita": 417950,
+        "Toxic water releases": 579392
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Good quality rivers and streams": 99356,
+        "Good quality lakes, resevoirs and ponds": 56789,
+        "Total freshwater withdrawals per capita": 542315,
+        "Toxic water releases": 147630
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Good quality rivers and streams": 303487,
+        "Good quality lakes, resevoirs and ponds": 43399,
+        "Total freshwater withdrawals per capita": 626027,
+        "Toxic water releases": 409168
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Good quality rivers and streams": 67901,
+        "Good quality lakes, resevoirs and ponds": 106110,
+        "Total freshwater withdrawals per capita": 527061,
+        "Toxic water releases": 303330
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Good quality rivers and streams": 204325,
+        "Good quality lakes, resevoirs and ponds": 64256,
+        "Total freshwater withdrawals per capita": 459386,
+        "Toxic water releases": 295230
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Good quality rivers and streams": 111197,
+        "Good quality lakes, resevoirs and ponds": 92704,
+        "Total freshwater withdrawals per capita": 422930,
+        "Toxic water releases": 233573
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Good quality rivers and streams": 296202,
+        "Good quality lakes, resevoirs and ponds": 222216,
+        "Total freshwater withdrawals per capita": 0,
+        "Toxic water releases": 661384
+      }
+    }
+  ],
+  "derivatives": {
+    "Freshwater": [
+      "Good quality rivers and streams",
+      "Good quality lakes, resevoirs and ponds",
+      "Total freshwater withdrawals per capita",
+      "Toxic water releases"
+    ]
+  },
+  "weightingOptions": {
+    "Good quality rivers and streams": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Good quality lakes, resevoirs and ponds": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Total freshwater withdrawals per capita": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Toxic water releases": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

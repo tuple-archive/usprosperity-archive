@@ -1,0 +1,778 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 18518,
+        "LGBT non-discrimination laws": 83333
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Religious freedom restoration act enacted": 555555,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 18518,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 0
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 277777,
+        "LGBT relationships and parenthood recognition": 55555,
+        "LGBT non-discrimination laws": 125000
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 277777,
+        "Affirmative action in public services banned": 277777,
+        "LGBT relationships and parenthood recognition": 194444,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 185185,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Religious freedom restoration act enacted": 555555,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 185185,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Religious freedom restoration act enacted": 555555,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 203703,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 148148,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Religious freedom restoration act enacted": 277777,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 138888,
+        "LGBT relationships and parenthood recognition": 18518,
+        "LGBT non-discrimination laws": 180555
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 18518,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 111111,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 277777,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 92592,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 55555,
+        "LGBT non-discrimination laws": 69444
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 148148,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Religious freedom restoration act enacted": 277777,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 111111,
+        "LGBT non-discrimination laws": 97222
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 55555,
+        "LGBT non-discrimination laws": 180555
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 120370,
+        "LGBT non-discrimination laws": 97222
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 18518,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 203703,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 138888,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 222222,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 277777,
+        "LGBT relationships and parenthood recognition": 92592,
+        "LGBT non-discrimination laws": 180555
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 129629,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Religious freedom restoration act enacted": 277777,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 55555,
+        "LGBT non-discrimination laws": 69444
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 111111,
+        "LGBT non-discrimination laws": 55555
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 55555
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 277777,
+        "Affirmative action in public services banned": 277777,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 138888
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 138888,
+        "LGBT relationships and parenthood recognition": 111111,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 185185,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Religious freedom restoration act enacted": 555555,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 148148,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 129629,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 185185,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 55555,
+        "LGBT non-discrimination laws": 97222
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 277777,
+        "LGBT relationships and parenthood recognition": 92592,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 185185,
+        "LGBT non-discrimination laws": 222222
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Religious freedom restoration act enacted": 277777,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 74074,
+        "LGBT non-discrimination laws": 180555
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Religious freedom restoration act enacted": 555555,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 166666,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 92592,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Religious freedom restoration act enacted": 416666,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 101851,
+        "LGBT non-discrimination laws": 0
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Religious freedom restoration act enacted": 277777,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Religious freedom restoration act enacted": 138888,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 18518,
+        "LGBT non-discrimination laws": 166666
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Religious freedom restoration act enacted": 277777,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 277777,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 18518,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 203703,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 138888,
+        "LGBT relationships and parenthood recognition": 157407,
+        "LGBT non-discrimination laws": 277777
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 83333,
+        "LGBT non-discrimination laws": 152777
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 0,
+        "Government discrimination based on sex prohibited": 0,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 111111,
+        "LGBT non-discrimination laws": 27777
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Religious freedom restoration act enacted": 0,
+        "Employment anti-discrimination law": 555555,
+        "Government discrimination based on sex prohibited": 555555,
+        "Affirmative action in public services banned": 0,
+        "LGBT relationships and parenthood recognition": 37037,
+        "LGBT non-discrimination laws": 27777
+      }
+    }
+  ],
+  "derivatives": {
+    "Absence of Legal Discrimination": [
+      "Religious freedom restoration act enacted",
+      "Employment anti-discrimination law",
+      "Government discrimination based on sex prohibited",
+      "Affirmative action in public services banned",
+      "LGBT relationships and parenthood recognition",
+      "LGBT non-discrimination laws"
+    ]
+  },
+  "weightingOptions": {
+    "Religious freedom restoration act enacted": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Employment anti-discrimination law": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Government discrimination based on sex prohibited": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Affirmative action in public services banned": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "LGBT relationships and parenthood recognition": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "LGBT non-discrimination laws": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

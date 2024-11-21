@@ -1,0 +1,1894 @@
+{
+  "regions": [
+    {
+      "id": "Adams__NE",
+      "title": "Adams",
+      "scores": {
+        "Safety and Security": 5814771,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6118840,
+        "Business Environment": 6557854,
+        "Infrastructure": 7576861,
+        "Economic Quality": 7814063,
+        "Living Conditions": 6686194,
+        "Health": 6181153,
+        "Education": 5936181,
+        "Natural Environment": 4087993
+      }
+    },
+    {
+      "id": "Antelope__NE",
+      "title": "Antelope",
+      "scores": {
+        "Safety and Security": 8168703,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6425586,
+        "Business Environment": 6516774,
+        "Infrastructure": 6196627,
+        "Economic Quality": 8387190,
+        "Living Conditions": 6786148,
+        "Health": 6344639,
+        "Education": 6220626,
+        "Natural Environment": 4891817
+      }
+    },
+    {
+      "id": "Arthur__NE",
+      "title": "Arthur",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6323397,
+        "Business Environment": 5588594,
+        "Infrastructure": 5700335,
+        "Economic Quality": 8383047,
+        "Living Conditions": 6867105,
+        "Health": 6560655,
+        "Education": 6114396,
+        "Natural Environment": 4713113
+      }
+    },
+    {
+      "id": "Banner__NE",
+      "title": "Banner",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6353397,
+        "Business Environment": 5588452,
+        "Infrastructure": 5024592,
+        "Economic Quality": 8318391,
+        "Living Conditions": 6239785,
+        "Health": 5920572,
+        "Education": 5909401,
+        "Natural Environment": 4716389
+      }
+    },
+    {
+      "id": "Blaine__NE",
+      "title": "Blaine",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6330784,
+        "Business Environment": 5588615,
+        "Infrastructure": 5134020,
+        "Economic Quality": 8673817,
+        "Living Conditions": 6811229,
+        "Health": 6672261,
+        "Education": 6121683,
+        "Natural Environment": 4479496
+      }
+    },
+    {
+      "id": "Boone__NE",
+      "title": "Boone",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6335779,
+        "Business Environment": 5613672,
+        "Infrastructure": 5753067,
+        "Economic Quality": 8266703,
+        "Living Conditions": 7151046,
+        "Health": 6470545,
+        "Education": 5762785,
+        "Natural Environment": 4598945
+      }
+    },
+    {
+      "id": "Box_Butte__NE",
+      "title": "Box Butte",
+      "scores": {
+        "Safety and Security": 6793534,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6087691,
+        "Business Environment": 6490474,
+        "Infrastructure": 7892470,
+        "Economic Quality": 7955710,
+        "Living Conditions": 7252599,
+        "Health": 6292143,
+        "Education": 4748746,
+        "Natural Environment": 5317613
+      }
+    },
+    {
+      "id": "Boyd__NE",
+      "title": "Boyd",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6361554,
+        "Business Environment": 6412393,
+        "Infrastructure": 4108550,
+        "Economic Quality": 7970452,
+        "Living Conditions": 7433337,
+        "Health": 6405143,
+        "Education": 5268741,
+        "Natural Environment": 5152795
+      }
+    },
+    {
+      "id": "Brown__NE",
+      "title": "Brown",
+      "scores": {
+        "Safety and Security": 8726645,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6405267,
+        "Business Environment": 5593204,
+        "Infrastructure": 4748896,
+        "Economic Quality": 8221771,
+        "Living Conditions": 6879743,
+        "Health": 6404251,
+        "Education": 5727606,
+        "Natural Environment": 5021125
+      }
+    },
+    {
+      "id": "Buffalo__NE",
+      "title": "Buffalo",
+      "scores": {
+        "Safety and Security": 6763764,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6202814,
+        "Business Environment": 6603156,
+        "Infrastructure": 6852315,
+        "Economic Quality": 8218602,
+        "Living Conditions": 7428299,
+        "Health": 6625642,
+        "Education": 6376308,
+        "Natural Environment": 4943589
+      }
+    },
+    {
+      "id": "Burt__NE",
+      "title": "Burt",
+      "scores": {
+        "Safety and Security": 8647197,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6384250,
+        "Business Environment": 6446606,
+        "Infrastructure": 7655461,
+        "Economic Quality": 8340282,
+        "Living Conditions": 6600205,
+        "Health": 6243835,
+        "Education": 5886450,
+        "Natural Environment": 5206023
+      }
+    },
+    {
+      "id": "Butler__NE",
+      "title": "Butler",
+      "scores": {
+        "Safety and Security": 8780549,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6387943,
+        "Business Environment": 6342276,
+        "Infrastructure": 6375425,
+        "Economic Quality": 8373455,
+        "Living Conditions": 7297206,
+        "Health": 6411648,
+        "Education": 5986167,
+        "Natural Environment": 5149698
+      }
+    },
+    {
+      "id": "Cass__NE",
+      "title": "Cass",
+      "scores": {
+        "Safety and Security": 7550893,
+        "Personal Freedom": 6241239,
+        "Governance": 7008162,
+        "Social Capital": 6349096,
+        "Business Environment": 6272320,
+        "Infrastructure": 6342028,
+        "Economic Quality": 7658628,
+        "Living Conditions": 7709100,
+        "Health": 6475389,
+        "Education": 6083656,
+        "Natural Environment": 4419996
+      }
+    },
+    {
+      "id": "Cedar__NE",
+      "title": "Cedar",
+      "scores": {
+        "Safety and Security": 9019230,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6366263,
+        "Business Environment": 6514618,
+        "Infrastructure": 5902351,
+        "Economic Quality": 8668554,
+        "Living Conditions": 6546728,
+        "Health": 6735447,
+        "Education": 6157122,
+        "Natural Environment": 5063279
+      }
+    },
+    {
+      "id": "Chase__NE",
+      "title": "Chase",
+      "scores": {
+        "Safety and Security": 8972872,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6248294,
+        "Business Environment": 6639702,
+        "Infrastructure": 6346763,
+        "Economic Quality": 8271332,
+        "Living Conditions": 6814526,
+        "Health": 6491846,
+        "Education": 5689405,
+        "Natural Environment": 4913534
+      }
+    },
+    {
+      "id": "Cherry__NE",
+      "title": "Cherry",
+      "scores": {
+        "Safety and Security": 7081593,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6140973,
+        "Business Environment": 6204235,
+        "Infrastructure": 3778283,
+        "Economic Quality": 8652130,
+        "Living Conditions": 7144073,
+        "Health": 6482423,
+        "Education": 6320313,
+        "Natural Environment": 5074157
+      }
+    },
+    {
+      "id": "Cheyenne__NE",
+      "title": "Cheyenne",
+      "scores": {
+        "Safety and Security": 7097887,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6130477,
+        "Business Environment": 6371055,
+        "Infrastructure": 7157761,
+        "Economic Quality": 8248127,
+        "Living Conditions": 7398741,
+        "Health": 6364971,
+        "Education": 6171881,
+        "Natural Environment": 5306062
+      }
+    },
+    {
+      "id": "Clay__NE",
+      "title": "Clay",
+      "scores": {
+        "Safety and Security": 8869500,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6278420,
+        "Business Environment": 5623565,
+        "Infrastructure": 5215106,
+        "Economic Quality": 8117102,
+        "Living Conditions": 6467794,
+        "Health": 6355554,
+        "Education": 5711332,
+        "Natural Environment": 4742533
+      }
+    },
+    {
+      "id": "Colfax__NE",
+      "title": "Colfax",
+      "scores": {
+        "Safety and Security": 8728028,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6107070,
+        "Business Environment": 6364681,
+        "Infrastructure": 5760495,
+        "Economic Quality": 8747230,
+        "Living Conditions": 6866517,
+        "Health": 6440600,
+        "Education": 4612472,
+        "Natural Environment": 4314417
+      }
+    },
+    {
+      "id": "Cuming__NE",
+      "title": "Cuming",
+      "scores": {
+        "Safety and Security": 9422294,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6219783,
+        "Business Environment": 6699481,
+        "Infrastructure": 6789005,
+        "Economic Quality": 8600022,
+        "Living Conditions": 6958876,
+        "Health": 6594571,
+        "Education": 5959078,
+        "Natural Environment": 5180356
+      }
+    },
+    {
+      "id": "Custer__NE",
+      "title": "Custer",
+      "scores": {
+        "Safety and Security": 7354170,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6146762,
+        "Business Environment": 6531682,
+        "Infrastructure": 5266769,
+        "Economic Quality": 8681538,
+        "Living Conditions": 6248763,
+        "Health": 6325782,
+        "Education": 5833877,
+        "Natural Environment": 4810020
+      }
+    },
+    {
+      "id": "Dakota__NE",
+      "title": "Dakota",
+      "scores": {
+        "Safety and Security": 5889955,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 5941769,
+        "Business Environment": 7215514,
+        "Infrastructure": 7542039,
+        "Economic Quality": 8138050,
+        "Living Conditions": 6671820,
+        "Health": 6357469,
+        "Education": 4739869,
+        "Natural Environment": 5058877
+      }
+    },
+    {
+      "id": "Dawes__NE",
+      "title": "Dawes",
+      "scores": {
+        "Safety and Security": 7439354,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6175137,
+        "Business Environment": 6171034,
+        "Infrastructure": 6029683,
+        "Economic Quality": 8171808,
+        "Living Conditions": 6679722,
+        "Health": 6482922,
+        "Education": 6678096,
+        "Natural Environment": 5344749
+      }
+    },
+    {
+      "id": "Dawson__NE",
+      "title": "Dawson",
+      "scores": {
+        "Safety and Security": 6605552,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6008093,
+        "Business Environment": 6357002,
+        "Infrastructure": 6568077,
+        "Economic Quality": 8270763,
+        "Living Conditions": 7078539,
+        "Health": 6249910,
+        "Education": 4255098,
+        "Natural Environment": 4031393
+      }
+    },
+    {
+      "id": "Deuel__NE",
+      "title": "Deuel",
+      "scores": {
+        "Safety and Security": 9604376,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6370845,
+        "Business Environment": 5601887,
+        "Infrastructure": 4591490,
+        "Economic Quality": 8057246,
+        "Living Conditions": 6541667,
+        "Health": 6449873,
+        "Education": 5162627,
+        "Natural Environment": 4496819
+      }
+    },
+    {
+      "id": "Dixon__NE",
+      "title": "Dixon",
+      "scores": {
+        "Safety and Security": 8166696,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6168108,
+        "Business Environment": 6118015,
+        "Infrastructure": 5548176,
+        "Economic Quality": 7961440,
+        "Living Conditions": 6445062,
+        "Health": 6730277,
+        "Education": 5719144,
+        "Natural Environment": 5199247
+      }
+    },
+    {
+      "id": "Dodge__NE",
+      "title": "Dodge",
+      "scores": {
+        "Safety and Security": 6475554,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 5993034,
+        "Business Environment": 6459791,
+        "Infrastructure": 6875792,
+        "Economic Quality": 7790440,
+        "Living Conditions": 7228967,
+        "Health": 6131419,
+        "Education": 5651817,
+        "Natural Environment": 4314500
+      }
+    },
+    {
+      "id": "Douglas__NE",
+      "title": "Douglas",
+      "scores": {
+        "Safety and Security": 4726973,
+        "Personal Freedom": 6207889,
+        "Governance": 7008162,
+        "Social Capital": 6024805,
+        "Business Environment": 8362811,
+        "Infrastructure": 7409518,
+        "Economic Quality": 7615592,
+        "Living Conditions": 7385927,
+        "Health": 6477095,
+        "Education": 6116117,
+        "Natural Environment": 4356527
+      }
+    },
+    {
+      "id": "Dundy__NE",
+      "title": "Dundy",
+      "scores": {
+        "Safety and Security": 9208863,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6449769,
+        "Business Environment": 6380099,
+        "Infrastructure": 4758602,
+        "Economic Quality": 8571064,
+        "Living Conditions": 7263904,
+        "Health": 6278657,
+        "Education": 5065856,
+        "Natural Environment": 4795653
+      }
+    },
+    {
+      "id": "Fillmore__NE",
+      "title": "Fillmore",
+      "scores": {
+        "Safety and Security": 9455220,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6385952,
+        "Business Environment": 5623361,
+        "Infrastructure": 5061707,
+        "Economic Quality": 8527835,
+        "Living Conditions": 7166978,
+        "Health": 5984863,
+        "Education": 6158300,
+        "Natural Environment": 4455247
+      }
+    },
+    {
+      "id": "Franklin__NE",
+      "title": "Franklin",
+      "scores": {
+        "Safety and Security": 9074601,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6146727,
+        "Business Environment": 6365157,
+        "Infrastructure": 5125961,
+        "Economic Quality": 8447046,
+        "Living Conditions": 6827571,
+        "Health": 6408936,
+        "Education": 5848260,
+        "Natural Environment": 4795829
+      }
+    },
+    {
+      "id": "Frontier__NE",
+      "title": "Frontier",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6292810,
+        "Business Environment": 6357385,
+        "Infrastructure": 4625187,
+        "Economic Quality": 7864975,
+        "Living Conditions": 6997805,
+        "Health": 6550660,
+        "Education": 6104396,
+        "Natural Environment": 4883689
+      }
+    },
+    {
+      "id": "Furnas__NE",
+      "title": "Furnas",
+      "scores": {
+        "Safety and Security": 7802312,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6359443,
+        "Business Environment": 5612387,
+        "Infrastructure": 4324251,
+        "Economic Quality": 7976410,
+        "Living Conditions": 6125934,
+        "Health": 5827614,
+        "Education": 5738752,
+        "Natural Environment": 4880873
+      }
+    },
+    {
+      "id": "Gage__NE",
+      "title": "Gage",
+      "scores": {
+        "Safety and Security": 5764553,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6214232,
+        "Business Environment": 6397185,
+        "Infrastructure": 5960750,
+        "Economic Quality": 8104524,
+        "Living Conditions": 6821433,
+        "Health": 6178148,
+        "Education": 5610342,
+        "Natural Environment": 4096777
+      }
+    },
+    {
+      "id": "Garden__NE",
+      "title": "Garden",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6407204,
+        "Business Environment": 5589484,
+        "Infrastructure": 6230031,
+        "Economic Quality": 7932286,
+        "Living Conditions": 6265198,
+        "Health": 6459990,
+        "Education": 6191389,
+        "Natural Environment": 4814251
+      }
+    },
+    {
+      "id": "Garfield__NE",
+      "title": "Garfield",
+      "scores": {
+        "Safety and Security": 9365235,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6318537,
+        "Business Environment": 5598081,
+        "Infrastructure": 3971939,
+        "Economic Quality": 8638316,
+        "Living Conditions": 7351075,
+        "Health": 6554274,
+        "Education": 5596905,
+        "Natural Environment": 5133094
+      }
+    },
+    {
+      "id": "Gosper__NE",
+      "title": "Gosper",
+      "scores": {
+        "Safety and Security": 8608168,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6259805,
+        "Business Environment": 7143531,
+        "Infrastructure": 5220432,
+        "Economic Quality": 8315541,
+        "Living Conditions": 6975282,
+        "Health": 6968798,
+        "Education": 5312395,
+        "Natural Environment": 4670889
+      }
+    },
+    {
+      "id": "Grant__NE",
+      "title": "Grant",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6628225,
+        "Business Environment": 5588324,
+        "Infrastructure": 3839872,
+        "Economic Quality": 8384490,
+        "Living Conditions": 6911789,
+        "Health": 6692105,
+        "Education": 6116064,
+        "Natural Environment": 5024480
+      }
+    },
+    {
+      "id": "Greeley__NE",
+      "title": "Greeley",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6346678,
+        "Business Environment": 6388841,
+        "Infrastructure": 5242855,
+        "Economic Quality": 8632181,
+        "Living Conditions": 6441792,
+        "Health": 6408080,
+        "Education": 6003672,
+        "Natural Environment": 4799117
+      }
+    },
+    {
+      "id": "Hall__NE",
+      "title": "Hall",
+      "scores": {
+        "Safety and Security": 5498106,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 5812475,
+        "Business Environment": 6838165,
+        "Infrastructure": 7182311,
+        "Economic Quality": 8019767,
+        "Living Conditions": 7425188,
+        "Health": 6019274,
+        "Education": 4983899,
+        "Natural Environment": 4747945
+      }
+    },
+    {
+      "id": "Hamilton__NE",
+      "title": "Hamilton",
+      "scores": {
+        "Safety and Security": 7309289,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6335452,
+        "Business Environment": 6462196,
+        "Infrastructure": 4993455,
+        "Economic Quality": 7850773,
+        "Living Conditions": 7402328,
+        "Health": 6673184,
+        "Education": 6308868,
+        "Natural Environment": 4315912
+      }
+    },
+    {
+      "id": "Harlan__NE",
+      "title": "Harlan",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6502333,
+        "Business Environment": 5611696,
+        "Infrastructure": 4369218,
+        "Economic Quality": 8217271,
+        "Living Conditions": 6510710,
+        "Health": 6480651,
+        "Education": 5544421,
+        "Natural Environment": 4959098
+      }
+    },
+    {
+      "id": "Hayes__NE",
+      "title": "Hayes",
+      "scores": {
+        "Safety and Security": 7455236,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6313545,
+        "Business Environment": 5588605,
+        "Infrastructure": 4982338,
+        "Economic Quality": 8371712,
+        "Living Conditions": 6738128,
+        "Health": 6485164,
+        "Education": 5735888,
+        "Natural Environment": 4628502
+      }
+    },
+    {
+      "id": "Hitchcock__NE",
+      "title": "Hitchcock",
+      "scores": {
+        "Safety and Security": 5750788,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6202196,
+        "Business Environment": 6062447,
+        "Infrastructure": 4324460,
+        "Economic Quality": 8409573,
+        "Living Conditions": 6424356,
+        "Health": 6127737,
+        "Education": 6192352,
+        "Natural Environment": 4702653
+      }
+    },
+    {
+      "id": "Holt__NE",
+      "title": "Holt",
+      "scores": {
+        "Safety and Security": 7929301,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6358851,
+        "Business Environment": 6680993,
+        "Infrastructure": 4494250,
+        "Economic Quality": 8600364,
+        "Living Conditions": 7123653,
+        "Health": 6524197,
+        "Education": 5296511,
+        "Natural Environment": 4819963
+      }
+    },
+    {
+      "id": "Hooker__NE",
+      "title": "Hooker",
+      "scores": {
+        "Safety and Security": 9525939,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6330307,
+        "Business Environment": 5588566,
+        "Infrastructure": 4012651,
+        "Economic Quality": 8383996,
+        "Living Conditions": 6504453,
+        "Health": 6772742,
+        "Education": 6456228,
+        "Natural Environment": 4999824
+      }
+    },
+    {
+      "id": "Howard__NE",
+      "title": "Howard",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6261289,
+        "Business Environment": 5602388,
+        "Infrastructure": 6027579,
+        "Economic Quality": 8018388,
+        "Living Conditions": 7042484,
+        "Health": 6007384,
+        "Education": 5908563,
+        "Natural Environment": 4881486
+      }
+    },
+    {
+      "id": "Jefferson__NE",
+      "title": "Jefferson",
+      "scores": {
+        "Safety and Security": 7045481,
+        "Personal Freedom": 5956190,
+        "Governance": 7008162,
+        "Social Capital": 6037573,
+        "Business Environment": 6343310,
+        "Infrastructure": 4935409,
+        "Economic Quality": 8646022,
+        "Living Conditions": 6004814,
+        "Health": 6136506,
+        "Education": 5514337,
+        "Natural Environment": 4310885
+      }
+    },
+    {
+      "id": "Johnson__NE",
+      "title": "Johnson",
+      "scores": {
+        "Safety and Security": 9580274,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6083965,
+        "Business Environment": 5630554,
+        "Infrastructure": 5014517,
+        "Economic Quality": 8165359,
+        "Living Conditions": 6789445,
+        "Health": 6362121,
+        "Education": 6014976,
+        "Natural Environment": 4769787
+      }
+    },
+    {
+      "id": "Kearney__NE",
+      "title": "Kearney",
+      "scores": {
+        "Safety and Security": 7926683,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6360883,
+        "Business Environment": 5604154,
+        "Infrastructure": 7460398,
+        "Economic Quality": 7990988,
+        "Living Conditions": 7162002,
+        "Health": 6435292,
+        "Education": 5990282,
+        "Natural Environment": 4556210
+      }
+    },
+    {
+      "id": "Keith__NE",
+      "title": "Keith",
+      "scores": {
+        "Safety and Security": 6514783,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6025764,
+        "Business Environment": 6549955,
+        "Infrastructure": 7346592,
+        "Economic Quality": 8303791,
+        "Living Conditions": 7131471,
+        "Health": 6295715,
+        "Education": 5447017,
+        "Natural Environment": 4829656
+      }
+    },
+    {
+      "id": "Keya_Paha__NE",
+      "title": "Keya Paha",
+      "scores": {
+        "Safety and Security": 9551550,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6591968,
+        "Business Environment": 6328803,
+        "Infrastructure": 4564572,
+        "Economic Quality": 8771123,
+        "Living Conditions": 7456643,
+        "Health": 6725197,
+        "Education": 5709319,
+        "Natural Environment": 4339471
+      }
+    },
+    {
+      "id": "Kimball__NE",
+      "title": "Kimball",
+      "scores": {
+        "Safety and Security": 8806461,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 5937909,
+        "Business Environment": 5592901,
+        "Infrastructure": 6908320,
+        "Economic Quality": 7970774,
+        "Living Conditions": 7286081,
+        "Health": 5532526,
+        "Education": 4457144,
+        "Natural Environment": 4299787
+      }
+    },
+    {
+      "id": "Knox__NE",
+      "title": "Knox",
+      "scores": {
+        "Safety and Security": 9262747,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6273332,
+        "Business Environment": 6480320,
+        "Infrastructure": 3848531,
+        "Economic Quality": 8471069,
+        "Living Conditions": 6721489,
+        "Health": 6513042,
+        "Education": 5563371,
+        "Natural Environment": 5064684
+      }
+    },
+    {
+      "id": "Lancaster__NE",
+      "title": "Lancaster",
+      "scores": {
+        "Safety and Security": 5185400,
+        "Personal Freedom": 6228211,
+        "Governance": 7008162,
+        "Social Capital": 6104090,
+        "Business Environment": 7370676,
+        "Infrastructure": 7385684,
+        "Economic Quality": 8189666,
+        "Living Conditions": 7009587,
+        "Health": 6685908,
+        "Education": 6895481,
+        "Natural Environment": 4778901
+      }
+    },
+    {
+      "id": "Lincoln__NE",
+      "title": "Lincoln",
+      "scores": {
+        "Safety and Security": 6116501,
+        "Personal Freedom": 6613967,
+        "Governance": 7008162,
+        "Social Capital": 6155345,
+        "Business Environment": 6433796,
+        "Infrastructure": 8337320,
+        "Economic Quality": 7342817,
+        "Living Conditions": 6986416,
+        "Health": 5965359,
+        "Education": 5995372,
+        "Natural Environment": 3792895
+      }
+    },
+    {
+      "id": "Logan__NE",
+      "title": "Logan",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6613967,
+        "Governance": 7008162,
+        "Social Capital": 6337695,
+        "Business Environment": 5912348,
+        "Infrastructure": 5421989,
+        "Economic Quality": 8685606,
+        "Living Conditions": 6796857,
+        "Health": 6110140,
+        "Education": 6387121,
+        "Natural Environment": 4526061
+      }
+    },
+    {
+      "id": "Loup__NE",
+      "title": "Loup",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6527434,
+        "Business Environment": 5589483,
+        "Infrastructure": 4032234,
+        "Economic Quality": 8437263,
+        "Living Conditions": 7524748,
+        "Health": 6600883,
+        "Education": 5683113,
+        "Natural Environment": 4785039
+      }
+    },
+    {
+      "id": "Madison__NE",
+      "title": "Madison",
+      "scores": {
+        "Safety and Security": 6971309,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6067904,
+        "Business Environment": 6840501,
+        "Infrastructure": 7224670,
+        "Economic Quality": 8077418,
+        "Living Conditions": 7263412,
+        "Health": 6385858,
+        "Education": 5793638,
+        "Natural Environment": 5372105
+      }
+    },
+    {
+      "id": "McPherson__NE",
+      "title": "McPherson",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6613967,
+        "Governance": 7008162,
+        "Social Capital": 6387682,
+        "Business Environment": 6062438,
+        "Infrastructure": 4983732,
+        "Economic Quality": 8549615,
+        "Living Conditions": 6662018,
+        "Health": 6376455,
+        "Education": 5564767,
+        "Natural Environment": 4245440
+      }
+    },
+    {
+      "id": "Merrick__NE",
+      "title": "Merrick",
+      "scores": {
+        "Safety and Security": 8430573,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6190173,
+        "Business Environment": 6379730,
+        "Infrastructure": 5269841,
+        "Economic Quality": 8125104,
+        "Living Conditions": 7171830,
+        "Health": 5848413,
+        "Education": 5666380,
+        "Natural Environment": 4349480
+      }
+    },
+    {
+      "id": "Morrill__NE",
+      "title": "Morrill",
+      "scores": {
+        "Safety and Security": 7695608,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6191563,
+        "Business Environment": 6491732,
+        "Infrastructure": 7786022,
+        "Economic Quality": 8017771,
+        "Living Conditions": 6883259,
+        "Health": 6097595,
+        "Education": 5224196,
+        "Natural Environment": 4874029
+      }
+    },
+    {
+      "id": "Nance__NE",
+      "title": "Nance",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6374126,
+        "Business Environment": 5601820,
+        "Infrastructure": 5206799,
+        "Economic Quality": 8227056,
+        "Living Conditions": 6935917,
+        "Health": 6158077,
+        "Education": 5588198,
+        "Natural Environment": 4703262
+      }
+    },
+    {
+      "id": "Nemaha__NE",
+      "title": "Nemaha",
+      "scores": {
+        "Safety and Security": 7667941,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6253200,
+        "Business Environment": 5615183,
+        "Infrastructure": 7287167,
+        "Economic Quality": 7953286,
+        "Living Conditions": 6523986,
+        "Health": 6256050,
+        "Education": 6795964,
+        "Natural Environment": 4481239
+      }
+    },
+    {
+      "id": "Nuckolls__NE",
+      "title": "Nuckolls",
+      "scores": {
+        "Safety and Security": 8845595,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6493270,
+        "Business Environment": 6452402,
+        "Infrastructure": 4851244,
+        "Economic Quality": 8707785,
+        "Living Conditions": 6950765,
+        "Health": 6545343,
+        "Education": 5054164,
+        "Natural Environment": 5017177
+      }
+    },
+    {
+      "id": "Otoe__NE",
+      "title": "Otoe",
+      "scores": {
+        "Safety and Security": 6578057,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6366001,
+        "Business Environment": 6377722,
+        "Infrastructure": 6826018,
+        "Economic Quality": 8199174,
+        "Living Conditions": 7291750,
+        "Health": 6314856,
+        "Education": 5429126,
+        "Natural Environment": 3249149
+      }
+    },
+    {
+      "id": "Pawnee__NE",
+      "title": "Pawnee",
+      "scores": {
+        "Safety and Security": 8033560,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6017830,
+        "Business Environment": 5619180,
+        "Infrastructure": 4907611,
+        "Economic Quality": 8621356,
+        "Living Conditions": 5674682,
+        "Health": 6312670,
+        "Education": 5530313,
+        "Natural Environment": 4616191
+      }
+    },
+    {
+      "id": "Perkins__NE",
+      "title": "Perkins",
+      "scores": {
+        "Safety and Security": 8969942,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6554153,
+        "Business Environment": 6557953,
+        "Infrastructure": 5614384,
+        "Economic Quality": 8501522,
+        "Living Conditions": 7300668,
+        "Health": 6741860,
+        "Education": 5364910,
+        "Natural Environment": 4557252
+      }
+    },
+    {
+      "id": "Phelps__NE",
+      "title": "Phelps",
+      "scores": {
+        "Safety and Security": 7374783,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6386610,
+        "Business Environment": 6636173,
+        "Infrastructure": 6780160,
+        "Economic Quality": 8686776,
+        "Living Conditions": 7369064,
+        "Health": 6391127,
+        "Education": 6134741,
+        "Natural Environment": 4885973
+      }
+    },
+    {
+      "id": "Pierce__NE",
+      "title": "Pierce",
+      "scores": {
+        "Safety and Security": 9208321,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6228175,
+        "Business Environment": 6533944,
+        "Infrastructure": 7897454,
+        "Economic Quality": 8369897,
+        "Living Conditions": 7270194,
+        "Health": 6658648,
+        "Education": 6311747,
+        "Natural Environment": 4667424
+      }
+    },
+    {
+      "id": "Platte__NE",
+      "title": "Platte",
+      "scores": {
+        "Safety and Security": 6768054,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6108648,
+        "Business Environment": 6575546,
+        "Infrastructure": 6698258,
+        "Economic Quality": 8272472,
+        "Living Conditions": 6761399,
+        "Health": 6564257,
+        "Education": 5742146,
+        "Natural Environment": 4358511
+      }
+    },
+    {
+      "id": "Polk__NE",
+      "title": "Polk",
+      "scores": {
+        "Safety and Security": 9073596,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6300605,
+        "Business Environment": 5613073,
+        "Infrastructure": 4835145,
+        "Economic Quality": 8002973,
+        "Living Conditions": 6771032,
+        "Health": 6440869,
+        "Education": 6234044,
+        "Natural Environment": 5154231
+      }
+    },
+    {
+      "id": "Red_Willow__NE",
+      "title": "Red Willow",
+      "scores": {
+        "Safety and Security": 6798323,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6193154,
+        "Business Environment": 6560875,
+        "Infrastructure": 6424581,
+        "Economic Quality": 8268212,
+        "Living Conditions": 7026710,
+        "Health": 6330841,
+        "Education": 6162306,
+        "Natural Environment": 5314721
+      }
+    },
+    {
+      "id": "Richardson__NE",
+      "title": "Richardson",
+      "scores": {
+        "Safety and Security": 8433324,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6026318,
+        "Business Environment": 6346037,
+        "Infrastructure": 6150488,
+        "Economic Quality": 8006084,
+        "Living Conditions": 6957395,
+        "Health": 6037411,
+        "Education": 5508940,
+        "Natural Environment": 4966970
+      }
+    },
+    {
+      "id": "Rock__NE",
+      "title": "Rock",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6391684,
+        "Business Environment": 6413995,
+        "Infrastructure": 4755439,
+        "Economic Quality": 8908102,
+        "Living Conditions": 7658962,
+        "Health": 6539878,
+        "Education": 5555415,
+        "Natural Environment": 4674192
+      }
+    },
+    {
+      "id": "Saline__NE",
+      "title": "Saline",
+      "scores": {
+        "Safety and Security": 6815185,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6141434,
+        "Business Environment": 6431207,
+        "Infrastructure": 5313176,
+        "Economic Quality": 7969124,
+        "Living Conditions": 6834451,
+        "Health": 6209932,
+        "Education": 5597167,
+        "Natural Environment": 4219556
+      }
+    },
+    {
+      "id": "Sarpy__NE",
+      "title": "Sarpy",
+      "scores": {
+        "Safety and Security": 7149677,
+        "Personal Freedom": 6241239,
+        "Governance": 7008162,
+        "Social Capital": 6113158,
+        "Business Environment": 6974662,
+        "Infrastructure": 6552922,
+        "Economic Quality": 7515109,
+        "Living Conditions": 7917780,
+        "Health": 6781831,
+        "Education": 6621121,
+        "Natural Environment": 5412966
+      }
+    },
+    {
+      "id": "Saunders__NE",
+      "title": "Saunders",
+      "scores": {
+        "Safety and Security": 7986106,
+        "Personal Freedom": 6241239,
+        "Governance": 7008162,
+        "Social Capital": 6265460,
+        "Business Environment": 6431736,
+        "Infrastructure": 6676020,
+        "Economic Quality": 7830568,
+        "Living Conditions": 7304311,
+        "Health": 6540997,
+        "Education": 6321157,
+        "Natural Environment": 5093848
+      }
+    },
+    {
+      "id": "Scotts_Bluff__NE",
+      "title": "Scotts Bluff",
+      "scores": {
+        "Safety and Security": 5398801,
+        "Personal Freedom": 6048572,
+        "Governance": 7008162,
+        "Social Capital": 5916345,
+        "Business Environment": 6501474,
+        "Infrastructure": 8658496,
+        "Economic Quality": 7532844,
+        "Living Conditions": 7459771,
+        "Health": 5594806,
+        "Education": 5596525,
+        "Natural Environment": 4474916
+      }
+    },
+    {
+      "id": "Seward__NE",
+      "title": "Seward",
+      "scores": {
+        "Safety and Security": 8614246,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6312086,
+        "Business Environment": 6466061,
+        "Infrastructure": 5795284,
+        "Economic Quality": 8538268,
+        "Living Conditions": 6910665,
+        "Health": 6702859,
+        "Education": 6853712,
+        "Natural Environment": 5002623
+      }
+    },
+    {
+      "id": "Sheridan__NE",
+      "title": "Sheridan",
+      "scores": {
+        "Safety and Security": 7757891,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6143273,
+        "Business Environment": 5591198,
+        "Infrastructure": 4508407,
+        "Economic Quality": 9039691,
+        "Living Conditions": 5828627,
+        "Health": 6094994,
+        "Education": 5298159,
+        "Natural Environment": 5146808
+      }
+    },
+    {
+      "id": "Sherman__NE",
+      "title": "Sherman",
+      "scores": {
+        "Safety and Security": 9043970,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6182273,
+        "Business Environment": 6208949,
+        "Infrastructure": 5678933,
+        "Economic Quality": 8267079,
+        "Living Conditions": 7001339,
+        "Health": 6484487,
+        "Education": 5135661,
+        "Natural Environment": 4709550
+      }
+    },
+    {
+      "id": "Sioux__NE",
+      "title": "Sioux",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6076879,
+        "Business Environment": 5587536,
+        "Infrastructure": 6349076,
+        "Economic Quality": 8401859,
+        "Living Conditions": 6747232,
+        "Health": 6380976,
+        "Education": 5431351,
+        "Natural Environment": 4854673
+      }
+    },
+    {
+      "id": "Stanton__NE",
+      "title": "Stanton",
+      "scores": {
+        "Safety and Security": 7999096,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6162136,
+        "Business Environment": 6151515,
+        "Infrastructure": 6688084,
+        "Economic Quality": 8719768,
+        "Living Conditions": 7281584,
+        "Health": 6702051,
+        "Education": 6045438,
+        "Natural Environment": 4356499
+      }
+    },
+    {
+      "id": "Thayer__NE",
+      "title": "Thayer",
+      "scores": {
+        "Safety and Security": 8875208,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6373313,
+        "Business Environment": 6565470,
+        "Infrastructure": 4150924,
+        "Economic Quality": 8699967,
+        "Living Conditions": 6755462,
+        "Health": 6068675,
+        "Education": 6000269,
+        "Natural Environment": 4790645
+      }
+    },
+    {
+      "id": "Thomas__NE",
+      "title": "Thomas",
+      "scores": {
+        "Safety and Security": 9717658,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6637797,
+        "Business Environment": 5588604,
+        "Infrastructure": 4219691,
+        "Economic Quality": 8528676,
+        "Living Conditions": 7151553,
+        "Health": 6620006,
+        "Education": 5622428,
+        "Natural Environment": 4760782
+      }
+    },
+    {
+      "id": "Thurston__NE",
+      "title": "Thurston",
+      "scores": {
+        "Safety and Security": 8800209,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 5642578,
+        "Business Environment": 6262690,
+        "Infrastructure": 6586944,
+        "Economic Quality": 7386949,
+        "Living Conditions": 5747567,
+        "Health": 4579833,
+        "Education": 3807053,
+        "Natural Environment": 5448361
+      }
+    },
+    {
+      "id": "Valley__NE",
+      "title": "Valley",
+      "scores": {
+        "Safety and Security": 8377244,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6257293,
+        "Business Environment": 5611018,
+        "Infrastructure": 5653110,
+        "Economic Quality": 8245125,
+        "Living Conditions": 7265417,
+        "Health": 6537120,
+        "Education": 5745913,
+        "Natural Environment": 4618872
+      }
+    },
+    {
+      "id": "Washington__NE",
+      "title": "Washington",
+      "scores": {
+        "Safety and Security": 8139335,
+        "Personal Freedom": 6241239,
+        "Governance": 7008162,
+        "Social Capital": 6266189,
+        "Business Environment": 6629345,
+        "Infrastructure": 6908678,
+        "Economic Quality": 8362392,
+        "Living Conditions": 6798596,
+        "Health": 6902473,
+        "Education": 6527417,
+        "Natural Environment": 4047022
+      }
+    },
+    {
+      "id": "Wayne__NE",
+      "title": "Wayne",
+      "scores": {
+        "Safety and Security": 9246137,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6278324,
+        "Business Environment": 6778679,
+        "Infrastructure": 7226277,
+        "Economic Quality": 8174404,
+        "Living Conditions": 7118118,
+        "Health": 6811883,
+        "Education": 6960583,
+        "Natural Environment": 5378376
+      }
+    },
+    {
+      "id": "Webster__NE",
+      "title": "Webster",
+      "scores": {
+        "Safety and Security": 9046049,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6340453,
+        "Business Environment": 5602222,
+        "Infrastructure": 5567339,
+        "Economic Quality": 8530251,
+        "Living Conditions": 7082534,
+        "Health": 6413446,
+        "Education": 5619214,
+        "Natural Environment": 5061166
+      }
+    },
+    {
+      "id": "Wheeler__NE",
+      "title": "Wheeler",
+      "scores": {
+        "Safety and Security": 8744602,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6312303,
+        "Business Environment": 5593699,
+        "Infrastructure": 4672428,
+        "Economic Quality": 8789660,
+        "Living Conditions": 7011575,
+        "Health": 6538713,
+        "Education": 5759409,
+        "Natural Environment": 4645432
+      }
+    },
+    {
+      "id": "York__NE",
+      "title": "York",
+      "scores": {
+        "Safety and Security": 8338489,
+        "Personal Freedom": 6258501,
+        "Governance": 7008162,
+        "Social Capital": 6231796,
+        "Business Environment": 6704861,
+        "Infrastructure": 6620258,
+        "Economic Quality": 8556854,
+        "Living Conditions": 6847757,
+        "Health": 6358747,
+        "Education": 6593711,
+        "Natural Environment": 4679022
+      }
+    }
+  ],
+  "derivatives": {
+    "Overall Prosperity": [
+      "Safety and Security",
+      "Personal Freedom",
+      "Governance",
+      "Social Capital",
+      "Business Environment",
+      "Infrastructure",
+      "Economic Quality",
+      "Living Conditions",
+      "Health",
+      "Education",
+      "Natural Environment"
+    ],
+    "Empowered People": [
+      "Living Conditions",
+      "Health",
+      "Education",
+      "Natural Environment"
+    ],
+    "Inclusive Societies": [
+      "Safety and Security",
+      "Personal Freedom",
+      "Governance",
+      "Social Capital"
+    ],
+    "Open Economies": [
+      "Business Environment",
+      "Infrastructure",
+      "Economic Quality"
+    ]
+  },
+  "weightingOptions": {
+    "Safety and Security": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Personal Freedom": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Governance": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Social Capital": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Business Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Infrastructure": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Economic Quality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Living Conditions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Health": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Natural Environment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

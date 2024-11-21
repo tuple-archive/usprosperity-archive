@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Child mental health access": 163500,
+        "Adults with no health care coverage": 148557,
+        "Avoided medical care due to cost": 210000,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 349906
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Child mental health access": 234000,
+        "Adults with no health care coverage": 113942,
+        "Avoided medical care due to cost": 67500,
+        "Hospital rating": 127840,
+        "Preventable hospitalizations for medicare enrolees": 136612
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Child mental health access": 295500,
+        "Adults with no health care coverage": 117548,
+        "Avoided medical care due to cost": 130000,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 185957
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Child mental health access": 215999,
+        "Adults with no health care coverage": 108173,
+        "Avoided medical care due to cost": 179999,
+        "Hospital rating": 102272,
+        "Preventable hospitalizations for medicare enrolees": 325584
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Child mental health access": 224249,
+        "Adults with no health care coverage": 129807,
+        "Avoided medical care due to cost": 244999,
+        "Hospital rating": 102272,
+        "Preventable hospitalizations for medicare enrolees": 285280
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Child mental health access": 200250,
+        "Adults with no health care coverage": 130528,
+        "Avoided medical care due to cost": 240000,
+        "Hospital rating": 161931,
+        "Preventable hospitalizations for medicare enrolees": 348084
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Child mental health access": 160500,
+        "Adults with no health care coverage": 157211,
+        "Avoided medical care due to cost": 285000,
+        "Hospital rating": 102272,
+        "Preventable hospitalizations for medicare enrolees": 212733
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Child mental health access": 171000,
+        "Adults with no health care coverage": 169471,
+        "Avoided medical care due to cost": 295000,
+        "Hospital rating": 34090,
+        "Preventable hospitalizations for medicare enrolees": 120210
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Child mental health access": 218249,
+        "Adults with no health care coverage": 138461,
+        "Avoided medical care due to cost": 259999,
+        "Hospital rating": 110795,
+        "Preventable hospitalizations for medicare enrolees": 186098
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Child mental health access": 168000,
+        "Adults with no health care coverage": 93028,
+        "Avoided medical care due to cost": 105000,
+        "Hospital rating": 93750,
+        "Preventable hospitalizations for medicare enrolees": 183714
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Child mental health access": 174750,
+        "Adults with no health care coverage": 81490,
+        "Avoided medical care due to cost": 94999,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 186378
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Child mental health access": 263250,
+        "Adults with no health care coverage": 168750,
+        "Avoided medical care due to cost": 337500,
+        "Hospital rating": 102272,
+        "Preventable hospitalizations for medicare enrolees": 375000
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Child mental health access": 238500,
+        "Adults with no health care coverage": 162259,
+        "Avoided medical care due to cost": 327499,
+        "Hospital rating": 178977,
+        "Preventable hospitalizations for medicare enrolees": 264112
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Child mental health access": 165000,
+        "Adults with no health care coverage": 98076,
+        "Avoided medical care due to cost": 167500,
+        "Hospital rating": 153409,
+        "Preventable hospitalizations for medicare enrolees": 351168
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Child mental health access": 146250,
+        "Adults with no health care coverage": 124759,
+        "Avoided medical care due to cost": 202500,
+        "Hospital rating": 127840,
+        "Preventable hospitalizations for medicare enrolees": 171448
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Child mental health access": 237750,
+        "Adults with no health care coverage": 139182,
+        "Avoided medical care due to cost": 220000,
+        "Hospital rating": 144886,
+        "Preventable hospitalizations for medicare enrolees": 181542
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Child mental health access": 257250,
+        "Adults with no health care coverage": 127644,
+        "Avoided medical care due to cost": 202500,
+        "Hospital rating": 170454,
+        "Preventable hospitalizations for medicare enrolees": 237336
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Child mental health access": 205500,
+        "Adults with no health care coverage": 157932,
+        "Avoided medical care due to cost": 232500,
+        "Hospital rating": 127840,
+        "Preventable hospitalizations for medicare enrolees": 132546
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Child mental health access": 214500,
+        "Adults with no health care coverage": 133413,
+        "Avoided medical care due to cost": 167500,
+        "Hospital rating": 170454,
+        "Preventable hospitalizations for medicare enrolees": 128901
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Child mental health access": 111750,
+        "Adults with no health care coverage": 175961,
+        "Avoided medical care due to cost": 322500,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 176425
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Child mental health access": 159000,
+        "Adults with no health care coverage": 149278,
+        "Avoided medical care due to cost": 265000,
+        "Hospital rating": 68181,
+        "Preventable hospitalizations for medicare enrolees": 230817
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Child mental health access": 149250,
+        "Adults with no health care coverage": 137740,
+        "Avoided medical care due to cost": 205000,
+        "Hospital rating": 144886,
+        "Preventable hospitalizations for medicare enrolees": 269439
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Child mental health access": 212249,
+        "Adults with no health care coverage": 153605,
+        "Avoided medical care due to cost": 242500,
+        "Hospital rating": 136363,
+        "Preventable hospitalizations for medicare enrolees": 180841
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Child mental health access": 141750,
+        "Adults with no health care coverage": 160817,
+        "Avoided medical care due to cost": 287500,
+        "Hospital rating": 170454,
+        "Preventable hospitalizations for medicare enrolees": 117686
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Child mental health access": 157500,
+        "Adults with no health care coverage": 120432,
+        "Avoided medical care due to cost": 169999,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 191915
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Child mental health access": 207750,
+        "Adults with no health care coverage": 87259,
+        "Avoided medical care due to cost": 105000,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 124205
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Child mental health access": 288000,
+        "Adults with no health care coverage": 147115,
+        "Avoided medical care due to cost": 274999,
+        "Hospital rating": 110795,
+        "Preventable hospitalizations for medicare enrolees": 313177
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Child mental health access": 163500,
+        "Adults with no health care coverage": 106009,
+        "Avoided medical care due to cost": 130000,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 203411
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Child mental health access": 179250,
+        "Adults with no health care coverage": 166586,
+        "Avoided medical care due to cost": 312499,
+        "Hospital rating": 153409,
+        "Preventable hospitalizations for medicare enrolees": 229345
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Child mental health access": 250500,
+        "Adults with no health care coverage": 116826,
+        "Avoided medical care due to cost": 220000,
+        "Hospital rating": 178977,
+        "Preventable hospitalizations for medicare enrolees": 272172
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Child mental health access": 105000,
+        "Adults with no health care coverage": 157211,
+        "Avoided medical care due to cost": 235000,
+        "Hospital rating": 136363,
+        "Preventable hospitalizations for medicare enrolees": 249742
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Child mental health access": 169500,
+        "Adults with no health care coverage": 134855,
+        "Avoided medical care due to cost": 214999,
+        "Hospital rating": 68181,
+        "Preventable hospitalizations for medicare enrolees": 204532
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Child mental health access": 218249,
+        "Adults with no health care coverage": 136298,
+        "Avoided medical care due to cost": 187500,
+        "Hospital rating": 85227,
+        "Preventable hospitalizations for medicare enrolees": 323271
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Child mental health access": 135000,
+        "Adults with no health care coverage": 95913,
+        "Avoided medical care due to cost": 152500,
+        "Hospital rating": 93750,
+        "Preventable hospitalizations for medicare enrolees": 242803
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Child mental health access": 211499,
+        "Adults with no health care coverage": 136298,
+        "Avoided medical care due to cost": 250000,
+        "Hospital rating": 68181,
+        "Preventable hospitalizations for medicare enrolees": 221915
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Child mental health access": 210000,
+        "Adults with no health care coverage": 149278,
+        "Avoided medical care due to cost": 227500,
+        "Hospital rating": 144886,
+        "Preventable hospitalizations for medicare enrolees": 177616
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Child mental health access": 252750,
+        "Adults with no health care coverage": 106009,
+        "Avoided medical care due to cost": 127500,
+        "Hospital rating": 144886,
+        "Preventable hospitalizations for medicare enrolees": 187640
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Child mental health access": 103500,
+        "Adults with no health care coverage": 141346,
+        "Avoided medical care due to cost": 190000,
+        "Hospital rating": 136363,
+        "Preventable hospitalizations for medicare enrolees": 332943
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Child mental health access": 224249,
+        "Adults with no health care coverage": 157211,
+        "Avoided medical care due to cost": 282499,
+        "Hospital rating": 127840,
+        "Preventable hospitalizations for medicare enrolees": 206004
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Child mental health access": 227250,
+        "Adults with no health care coverage": 157211,
+        "Avoided medical care due to cost": 325000,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 240841
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Child mental health access": 238500,
+        "Adults with no health care coverage": 114663,
+        "Avoided medical care due to cost": 152500,
+        "Hospital rating": 110795,
+        "Preventable hospitalizations for medicare enrolees": 228434
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Child mental health access": 288750,
+        "Adults with no health care coverage": 129807,
+        "Avoided medical care due to cost": 289999,
+        "Hospital rating": 187500,
+        "Preventable hospitalizations for medicare enrolees": 232219
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Child mental health access": 298500,
+        "Adults with no health care coverage": 112500,
+        "Avoided medical care due to cost": 162499,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 182803
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Child mental health access": 103500,
+        "Adults with no health care coverage": 49038,
+        "Avoided medical care due to cost": 75000,
+        "Hospital rating": 144886,
+        "Preventable hospitalizations for medicare enrolees": 192336
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Child mental health access": 159750,
+        "Adults with no health care coverage": 133413,
+        "Avoided medical care due to cost": 195000,
+        "Hospital rating": 161931,
+        "Preventable hospitalizations for medicare enrolees": 358387
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Child mental health access": 113999,
+        "Adults with no health care coverage": 141346,
+        "Avoided medical care due to cost": 235000,
+        "Hospital rating": 110795,
+        "Preventable hospitalizations for medicare enrolees": 224299
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Child mental health access": 155250,
+        "Adults with no health care coverage": 178125,
+        "Avoided medical care due to cost": 297499,
+        "Hospital rating": 153409,
+        "Preventable hospitalizations for medicare enrolees": 291028
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Child mental health access": 149250,
+        "Adults with no health care coverage": 150000,
+        "Avoided medical care due to cost": 252499,
+        "Hospital rating": 119318,
+        "Preventable hospitalizations for medicare enrolees": 322149
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Child mental health access": 131999,
+        "Adults with no health care coverage": 151442,
+        "Avoided medical care due to cost": 265000,
+        "Hospital rating": 170454,
+        "Preventable hospitalizations for medicare enrolees": 259205
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Child mental health access": 234000,
+        "Adults with no health care coverage": 152163,
+        "Avoided medical care due to cost": 187500,
+        "Hospital rating": 110795,
+        "Preventable hospitalizations for medicare enrolees": 126658
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Child mental health access": 127500,
+        "Adults with no health care coverage": 102403,
+        "Avoided medical care due to cost": 195000,
+        "Hospital rating": 110795,
+        "Preventable hospitalizations for medicare enrolees": 287383
+      }
+    }
+  ],
+  "derivatives": {
+    "Care Systems": [
+      "Child mental health access",
+      "Adults with no health care coverage",
+      "Avoided medical care due to cost",
+      "Hospital rating",
+      "Preventable hospitalizations for medicare enrolees"
+    ]
+  },
+  "weightingOptions": {
+    "Child mental health access": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Adults with no health care coverage": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Avoided medical care due to cost": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Hospital rating": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Preventable hospitalizations for medicare enrolees": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

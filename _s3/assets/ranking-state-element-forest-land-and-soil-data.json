@@ -1,0 +1,778 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Toxic land releases": 23377,
+        "Rural parks and wildlife areas": 333333,
+        "Compliant underground storage tanks facilities": 214285,
+        "Exposure to pesticides": 283095,
+        "Tree canopy cover": 166666,
+        "Wetlands and deepwater habitats": 333333
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Toxic land releases": 76024,
+        "Rural parks and wildlife areas": 27202,
+        "Compliant underground storage tanks facilities": 42857,
+        "Exposure to pesticides": 187619,
+        "Tree canopy cover": 292219,
+        "Wetlands and deepwater habitats": 113531
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Toxic land releases": 117536,
+        "Rural parks and wildlife areas": 36288,
+        "Compliant underground storage tanks facilities": 128571,
+        "Exposure to pesticides": 148988,
+        "Tree canopy cover": 228865,
+        "Wetlands and deepwater habitats": 85644
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Toxic land releases": 29415,
+        "Rural parks and wildlife areas": 176011,
+        "Compliant underground storage tanks facilities": 138095,
+        "Exposure to pesticides": 247916,
+        "Tree canopy cover": 14034,
+        "Wetlands and deepwater habitats": 15307
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Toxic land releases": 148420,
+        "Rural parks and wildlife areas": 312175,
+        "Compliant underground storage tanks facilities": 52380,
+        "Exposure to pesticides": 272797,
+        "Tree canopy cover": 71824,
+        "Wetlands and deepwater habitats": 43319
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Toxic land releases": 113755,
+        "Rural parks and wildlife areas": 154723,
+        "Compliant underground storage tanks facilities": 290476,
+        "Exposure to pesticides": 298928,
+        "Tree canopy cover": 55147,
+        "Wetlands and deepwater habitats": 26370
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Toxic land releases": 331883,
+        "Rural parks and wildlife areas": 116461,
+        "Compliant underground storage tanks facilities": 290476,
+        "Exposure to pesticides": 258749,
+        "Tree canopy cover": 283923,
+        "Wetlands and deepwater habitats": 162497
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Toxic land releases": 77050,
+        "Rural parks and wildlife areas": 0,
+        "Compliant underground storage tanks facilities": 290476,
+        "Exposure to pesticides": 239107,
+        "Tree canopy cover": 83312,
+        "Wetlands and deepwater habitats": 91060
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Toxic land releases": 245636,
+        "Rural parks and wildlife areas": 116211,
+        "Compliant underground storage tanks facilities": 304761,
+        "Exposure to pesticides": 243392,
+        "Tree canopy cover": 118295,
+        "Wetlands and deepwater habitats": 290359
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Toxic land releases": 33868,
+        "Rural parks and wildlife areas": 155243,
+        "Compliant underground storage tanks facilities": 109523,
+        "Exposure to pesticides": 264047,
+        "Tree canopy cover": 168089,
+        "Wetlands and deepwater habitats": 311349
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Toxic land releases": 139214,
+        "Rural parks and wildlife areas": 32749,
+        "Compliant underground storage tanks facilities": 114285,
+        "Exposure to pesticides": 226785,
+        "Tree canopy cover": 261174,
+        "Wetlands and deepwater habitats": 133013
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Toxic land releases": 201240,
+        "Rural parks and wildlife areas": 173474,
+        "Compliant underground storage tanks facilities": 238095,
+        "Exposure to pesticides": 272797,
+        "Tree canopy cover": 111124,
+        "Wetlands and deepwater habitats": 24999
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Toxic land releases": 137290,
+        "Rural parks and wildlife areas": 23598,
+        "Compliant underground storage tanks facilities": 161904,
+        "Exposure to pesticides": 196785,
+        "Tree canopy cover": 23883,
+        "Wetlands and deepwater habitats": 30423
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Toxic land releases": 94800,
+        "Rural parks and wildlife areas": 166967,
+        "Compliant underground storage tanks facilities": 90476,
+        "Exposure to pesticides": 190297,
+        "Tree canopy cover": 81534,
+        "Wetlands and deepwater habitats": 28599
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Toxic land releases": 60951,
+        "Rural parks and wildlife areas": 40149,
+        "Compliant underground storage tanks facilities": 0,
+        "Exposure to pesticides": 289761,
+        "Tree canopy cover": 49072,
+        "Wetlands and deepwater habitats": 43219
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Toxic land releases": 35375,
+        "Rural parks and wildlife areas": 26566,
+        "Compliant underground storage tanks facilities": 233333,
+        "Exposure to pesticides": 220416,
+        "Tree canopy cover": 83393,
+        "Wetlands and deepwater habitats": 46991
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Toxic land releases": 143472,
+        "Rural parks and wildlife areas": 10603,
+        "Compliant underground storage tanks facilities": 119047,
+        "Exposure to pesticides": 208035,
+        "Tree canopy cover": 14014,
+        "Wetlands and deepwater habitats": 18860
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Toxic land releases": 93365,
+        "Rural parks and wildlife areas": 19775,
+        "Compliant underground storage tanks facilities": 23809,
+        "Exposure to pesticides": 167976,
+        "Tree canopy cover": 218218,
+        "Wetlands and deepwater habitats": 35916
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Toxic land releases": 1951,
+        "Rural parks and wildlife areas": 63428,
+        "Compliant underground storage tanks facilities": 161904,
+        "Exposure to pesticides": 243749,
+        "Tree canopy cover": 207954,
+        "Wetlands and deepwater habitats": 320175
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Toxic land releases": 257190,
+        "Rural parks and wildlife areas": 149903,
+        "Compliant underground storage tanks facilities": 109523,
+        "Exposure to pesticides": 302916,
+        "Tree canopy cover": 270338,
+        "Wetlands and deepwater habitats": 101835
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Toxic land releases": 122046,
+        "Rural parks and wildlife areas": 73497,
+        "Compliant underground storage tanks facilities": 252380,
+        "Exposure to pesticides": 235297,
+        "Tree canopy cover": 180349,
+        "Wetlands and deepwater habitats": 249610
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Toxic land releases": 190055,
+        "Rural parks and wildlife areas": 26221,
+        "Compliant underground storage tanks facilities": 190476,
+        "Exposure to pesticides": 200595,
+        "Tree canopy cover": 319574,
+        "Wetlands and deepwater habitats": 123048
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Toxic land releases": 78883,
+        "Rural parks and wildlife areas": 43435,
+        "Compliant underground storage tanks facilities": 276190,
+        "Exposure to pesticides": 258630,
+        "Tree canopy cover": 128816,
+        "Wetlands and deepwater habitats": 107876
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Toxic land releases": 135746,
+        "Rural parks and wildlife areas": 98806,
+        "Compliant underground storage tanks facilities": 247619,
+        "Exposure to pesticides": 253273,
+        "Tree canopy cover": 90076,
+        "Wetlands and deepwater habitats": 206041
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Toxic land releases": 64909,
+        "Rural parks and wildlife areas": 28343,
+        "Compliant underground storage tanks facilities": 219047,
+        "Exposure to pesticides": 175892,
+        "Tree canopy cover": 125089,
+        "Wetlands and deepwater habitats": 42321
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Toxic land releases": 47586,
+        "Rural parks and wildlife areas": 16921,
+        "Compliant underground storage tanks facilities": 185714,
+        "Exposure to pesticides": 200238,
+        "Tree canopy cover": 270139,
+        "Wetlands and deepwater habitats": 138194
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Toxic land releases": 90923,
+        "Rural parks and wildlife areas": 107412,
+        "Compliant underground storage tanks facilities": 242857,
+        "Exposure to pesticides": 279523,
+        "Tree canopy cover": 53526,
+        "Wetlands and deepwater habitats": 28048
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Toxic land releases": 112597,
+        "Rural parks and wildlife areas": 76231,
+        "Compliant underground storage tanks facilities": 52380,
+        "Exposure to pesticides": 224880,
+        "Tree canopy cover": 257011,
+        "Wetlands and deepwater habitats": 165461
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Toxic land releases": 100716,
+        "Rural parks and wildlife areas": 20322,
+        "Compliant underground storage tanks facilities": 247619,
+        "Exposure to pesticides": 251964,
+        "Tree canopy cover": 2542,
+        "Wetlands and deepwater habitats": 64608
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Toxic land releases": 157945,
+        "Rural parks and wildlife areas": 13277,
+        "Compliant underground storage tanks facilities": 166666,
+        "Exposure to pesticides": 181666,
+        "Tree canopy cover": 5939,
+        "Wetlands and deepwater habitats": 23834
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Toxic land releases": 327659,
+        "Rural parks and wildlife areas": 138947,
+        "Compliant underground storage tanks facilities": 38095,
+        "Exposure to pesticides": 231845,
+        "Tree canopy cover": 321830,
+        "Wetlands and deepwater habitats": 73117
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Toxic land releases": 207155,
+        "Rural parks and wildlife areas": 282052,
+        "Compliant underground storage tanks facilities": 242857,
+        "Exposure to pesticides": 297916,
+        "Tree canopy cover": 195352,
+        "Wetlands and deepwater habitats": 216602
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Toxic land releases": 113508,
+        "Rural parks and wildlife areas": 58250,
+        "Compliant underground storage tanks facilities": 290476,
+        "Exposure to pesticides": 158095,
+        "Tree canopy cover": 31984,
+        "Wetlands and deepwater habitats": 11979
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Toxic land releases": 0,
+        "Rural parks and wildlife areas": 154962,
+        "Compliant underground storage tanks facilities": 0,
+        "Exposure to pesticides": 331309,
+        "Tree canopy cover": 14976,
+        "Wetlands and deepwater habitats": 38656
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Toxic land releases": 132490,
+        "Rural parks and wildlife areas": 160171,
+        "Compliant underground storage tanks facilities": 176190,
+        "Exposure to pesticides": 287261,
+        "Tree canopy cover": 231112,
+        "Wetlands and deepwater habitats": 114784
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Toxic land releases": 29741,
+        "Rural parks and wildlife areas": 24325,
+        "Compliant underground storage tanks facilities": 71428,
+        "Exposure to pesticides": 238869,
+        "Tree canopy cover": 118733,
+        "Wetlands and deepwater habitats": 34207
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Toxic land releases": 127063,
+        "Rural parks and wildlife areas": 20044,
+        "Compliant underground storage tanks facilities": 14285,
+        "Exposure to pesticides": 122738,
+        "Tree canopy cover": 92780,
+        "Wetlands and deepwater habitats": 41879
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Toxic land releases": 157324,
+        "Rural parks and wildlife areas": 91208,
+        "Compliant underground storage tanks facilities": 223809,
+        "Exposure to pesticides": 179761,
+        "Tree canopy cover": 119773,
+        "Wetlands and deepwater habitats": 37943
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Toxic land releases": 99528,
+        "Rural parks and wildlife areas": 108788,
+        "Compliant underground storage tanks facilities": 119047,
+        "Exposure to pesticides": 250119,
+        "Tree canopy cover": 238667,
+        "Wetlands and deepwater habitats": 27619
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Toxic land releases": 332892,
+        "Rural parks and wildlife areas": 109305,
+        "Compliant underground storage tanks facilities": 104761,
+        "Exposure to pesticides": 287440,
+        "Tree canopy cover": 261511,
+        "Wetlands and deepwater habitats": 154511
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Toxic land releases": 145458,
+        "Rural parks and wildlife areas": 20124,
+        "Compliant underground storage tanks facilities": 90476,
+        "Exposure to pesticides": 239642,
+        "Tree canopy cover": 268571,
+        "Wetlands and deepwater habitats": 181457
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Toxic land releases": 183493,
+        "Rural parks and wildlife areas": 30114,
+        "Compliant underground storage tanks facilities": 204761,
+        "Exposure to pesticides": 191488,
+        "Tree canopy cover": 6221,
+        "Wetlands and deepwater habitats": 50562
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Toxic land releases": 39301,
+        "Rural parks and wildlife areas": 72903,
+        "Compliant underground storage tanks facilities": 214285,
+        "Exposure to pesticides": 214940,
+        "Tree canopy cover": 232791,
+        "Wetlands and deepwater habitats": 54295
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Toxic land releases": 54639,
+        "Rural parks and wildlife areas": 30703,
+        "Compliant underground storage tanks facilities": 257142,
+        "Exposure to pesticides": 230238,
+        "Tree canopy cover": 67969,
+        "Wetlands and deepwater habitats": 44728
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Toxic land releases": 0,
+        "Rural parks and wildlife areas": 116501,
+        "Compliant underground storage tanks facilities": 80952,
+        "Exposure to pesticides": 150892,
+        "Tree canopy cover": 43368,
+        "Wetlands and deepwater habitats": 78468
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Toxic land releases": 158191,
+        "Rural parks and wildlife areas": 54650,
+        "Compliant underground storage tanks facilities": 171428,
+        "Exposure to pesticides": 226547,
+        "Tree canopy cover": 273926,
+        "Wetlands and deepwater habitats": 100764
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Toxic land releases": 266482,
+        "Rural parks and wildlife areas": 99910,
+        "Compliant underground storage tanks facilities": 252380,
+        "Exposure to pesticides": 222916,
+        "Tree canopy cover": 298765,
+        "Wetlands and deepwater habitats": 75032
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Toxic land releases": 108442,
+        "Rural parks and wildlife areas": 203512,
+        "Compliant underground storage tanks facilities": 204761,
+        "Exposure to pesticides": 255654,
+        "Tree canopy cover": 145400,
+        "Wetlands and deepwater habitats": 54058
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Toxic land releases": 149037,
+        "Rural parks and wildlife areas": 38223,
+        "Compliant underground storage tanks facilities": 176190,
+        "Exposure to pesticides": 258690,
+        "Tree canopy cover": 146534,
+        "Wetlands and deepwater habitats": 145096
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Toxic land releases": 90414,
+        "Rural parks and wildlife areas": 84266,
+        "Compliant underground storage tanks facilities": 119047,
+        "Exposure to pesticides": 179642,
+        "Tree canopy cover": 325787,
+        "Wetlands and deepwater habitats": 16794
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Toxic land releases": 104666,
+        "Rural parks and wildlife areas": 156038,
+        "Compliant underground storage tanks facilities": 261904,
+        "Exposure to pesticides": 263571,
+        "Tree canopy cover": 27198,
+        "Wetlands and deepwater habitats": 27591
+      }
+    }
+  ],
+  "derivatives": {
+    "Forest, Land and Soil": [
+      "Toxic land releases",
+      "Rural parks and wildlife areas",
+      "Compliant underground storage tanks facilities",
+      "Exposure to pesticides",
+      "Tree canopy cover",
+      "Wetlands and deepwater habitats"
+    ]
+  },
+  "weightingOptions": {
+    "Toxic land releases": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Rural parks and wildlife areas": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Compliant underground storage tanks facilities": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Exposure to pesticides": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Tree canopy cover": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Wetlands and deepwater habitats": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

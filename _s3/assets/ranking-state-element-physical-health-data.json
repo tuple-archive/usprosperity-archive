@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "High blood pressure": 213888,
+        "Diabetes": 383333,
+        "Heart attack": 399999,
+        "Disability weighted prevalence of infectious diseases": 184659,
+        "Self-reported poor physical health": 355555
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "High blood pressure": 33333,
+        "Diabetes": 99999,
+        "Heart attack": 166666,
+        "Disability weighted prevalence of infectious diseases": 60516,
+        "Self-reported poor physical health": 115942
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "High blood pressure": 38888,
+        "Diabetes": 105555,
+        "Heart attack": 155555,
+        "Disability weighted prevalence of infectious diseases": 84242,
+        "Self-reported poor physical health": 61835
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "High blood pressure": 330555,
+        "Diabetes": 233333,
+        "Heart attack": 288888,
+        "Disability weighted prevalence of infectious diseases": 133324,
+        "Self-reported poor physical health": 224154
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "High blood pressure": 355555,
+        "Diabetes": 255555,
+        "Heart attack": 399999,
+        "Disability weighted prevalence of infectious diseases": 155485,
+        "Self-reported poor physical health": 285990
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "High blood pressure": 430555,
+        "Diabetes": 411111,
+        "Heart attack": 444444,
+        "Disability weighted prevalence of infectious diseases": 160341,
+        "Self-reported poor physical health": 347826
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "High blood pressure": 355555,
+        "Diabetes": 322222,
+        "Heart attack": 444444,
+        "Disability weighted prevalence of infectious diseases": 136694,
+        "Self-reported poor physical health": 324637
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "High blood pressure": 324999,
+        "Diabetes": 249999,
+        "Heart attack": 388888,
+        "Disability weighted prevalence of infectious diseases": 0,
+        "Self-reported poor physical health": 378743
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "High blood pressure": 241666,
+        "Diabetes": 172222,
+        "Heart attack": 333333,
+        "Disability weighted prevalence of infectious diseases": 55976,
+        "Self-reported poor physical health": 251207
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "High blood pressure": 274999,
+        "Diabetes": 255555,
+        "Heart attack": 311111,
+        "Disability weighted prevalence of infectious diseases": 57483,
+        "Self-reported poor physical health": 200966
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "High blood pressure": 238888,
+        "Diabetes": 161111,
+        "Heart attack": 288888,
+        "Disability weighted prevalence of infectious diseases": 45156,
+        "Self-reported poor physical health": 220289
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "High blood pressure": 336111,
+        "Diabetes": 261111,
+        "Heart attack": 388888,
+        "Disability weighted prevalence of infectious diseases": 130377,
+        "Self-reported poor physical health": 324637
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "High blood pressure": 322222,
+        "Diabetes": 277777,
+        "Heart attack": 344444,
+        "Disability weighted prevalence of infectious diseases": 172223,
+        "Self-reported poor physical health": 351690
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "High blood pressure": 347222,
+        "Diabetes": 266666,
+        "Heart attack": 288888,
+        "Disability weighted prevalence of infectious diseases": 171375,
+        "Self-reported poor physical health": 235748
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "High blood pressure": 277777,
+        "Diabetes": 222222,
+        "Heart attack": 366666,
+        "Disability weighted prevalence of infectious diseases": 151351,
+        "Self-reported poor physical health": 289855
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "High blood pressure": 202777,
+        "Diabetes": 161111,
+        "Heart attack": 255555,
+        "Disability weighted prevalence of infectious diseases": 125381,
+        "Self-reported poor physical health": 200966
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "High blood pressure": 261111,
+        "Diabetes": 238888,
+        "Heart attack": 299999,
+        "Disability weighted prevalence of infectious diseases": 120779,
+        "Self-reported poor physical health": 285990
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "High blood pressure": 108333,
+        "Diabetes": 127777,
+        "Heart attack": 122222,
+        "Disability weighted prevalence of infectious diseases": 83385,
+        "Self-reported poor physical health": 92753
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "High blood pressure": 83333,
+        "Diabetes": 149999,
+        "Heart attack": 266666,
+        "Disability weighted prevalence of infectious diseases": 15030,
+        "Self-reported poor physical health": 158454
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "High blood pressure": 391666,
+        "Diabetes": 366666,
+        "Heart attack": 311111,
+        "Disability weighted prevalence of infectious diseases": 150817,
+        "Self-reported poor physical health": 328502
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "High blood pressure": 286111,
+        "Diabetes": 233333,
+        "Heart attack": 377777,
+        "Disability weighted prevalence of infectious diseases": 66390,
+        "Self-reported poor physical health": 347826
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "High blood pressure": 280555,
+        "Diabetes": 294444,
+        "Heart attack": 233333,
+        "Disability weighted prevalence of infectious diseases": 162507,
+        "Self-reported poor physical health": 193236
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "High blood pressure": 238888,
+        "Diabetes": 249999,
+        "Heart attack": 311111,
+        "Disability weighted prevalence of infectious diseases": 128464,
+        "Self-reported poor physical health": 197101
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "High blood pressure": 438888,
+        "Diabetes": 344444,
+        "Heart attack": 366666,
+        "Disability weighted prevalence of infectious diseases": 203265,
+        "Self-reported poor physical health": 351690
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "High blood pressure": 299999,
+        "Diabetes": 277777,
+        "Heart attack": 222222,
+        "Disability weighted prevalence of infectious diseases": 121319,
+        "Self-reported poor physical health": 220289
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "High blood pressure": 44444,
+        "Diabetes": 38888,
+        "Heart attack": 188888,
+        "Disability weighted prevalence of infectious diseases": 41101,
+        "Self-reported poor physical health": 193236
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "High blood pressure": 397222,
+        "Diabetes": 422222,
+        "Heart attack": 288888,
+        "Disability weighted prevalence of infectious diseases": 162862,
+        "Self-reported poor physical health": 216425
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "High blood pressure": 227777,
+        "Diabetes": 194444,
+        "Heart attack": 299999,
+        "Disability weighted prevalence of infectious diseases": 96961,
+        "Self-reported poor physical health": 243478
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "High blood pressure": 322222,
+        "Diabetes": 322222,
+        "Heart attack": 299999,
+        "Disability weighted prevalence of infectious diseases": 176215,
+        "Self-reported poor physical health": 374879
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "High blood pressure": 319444,
+        "Diabetes": 272222,
+        "Heart attack": 344444,
+        "Disability weighted prevalence of infectious diseases": 157302,
+        "Self-reported poor physical health": 332367
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "High blood pressure": 388888,
+        "Diabetes": 333333,
+        "Heart attack": 377777,
+        "Disability weighted prevalence of infectious diseases": 181643,
+        "Self-reported poor physical health": 231884
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "High blood pressure": 277777,
+        "Diabetes": 249999,
+        "Heart attack": 311111,
+        "Disability weighted prevalence of infectious diseases": 91792,
+        "Self-reported poor physical health": 274396
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "High blood pressure": 330555,
+        "Diabetes": 172222,
+        "Heart attack": 344444,
+        "Disability weighted prevalence of infectious diseases": 131324,
+        "Self-reported poor physical health": 177777
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "High blood pressure": 266666,
+        "Diabetes": 227777,
+        "Heart attack": 244444,
+        "Disability weighted prevalence of infectious diseases": 124667,
+        "Self-reported poor physical health": 185507
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "High blood pressure": 355555,
+        "Diabetes": 255555,
+        "Heart attack": 344444,
+        "Disability weighted prevalence of infectious diseases": 76593,
+        "Self-reported poor physical health": 282125
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "High blood pressure": 236111,
+        "Diabetes": 205555,
+        "Heart attack": 211111,
+        "Disability weighted prevalence of infectious diseases": 107212,
+        "Self-reported poor physical health": 197101
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "High blood pressure": 127777,
+        "Diabetes": 166666,
+        "Heart attack": 222222,
+        "Disability weighted prevalence of infectious diseases": 86488,
+        "Self-reported poor physical health": 162318
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "High blood pressure": 355555,
+        "Diabetes": 361111,
+        "Heart attack": 333333,
+        "Disability weighted prevalence of infectious diseases": 171627,
+        "Self-reported poor physical health": 255072
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "High blood pressure": 311111,
+        "Diabetes": 266666,
+        "Heart attack": 322222,
+        "Disability weighted prevalence of infectious diseases": 106013,
+        "Self-reported poor physical health": 231884
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "High blood pressure": 277777,
+        "Diabetes": 272222,
+        "Heart attack": 355555,
+        "Disability weighted prevalence of infectious diseases": 114349,
+        "Self-reported poor physical health": 231884
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "High blood pressure": 149999,
+        "Diabetes": 138888,
+        "Heart attack": 244444,
+        "Disability weighted prevalence of infectious diseases": 66023,
+        "Self-reported poor physical health": 212560
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "High blood pressure": 336111,
+        "Diabetes": 261111,
+        "Heart attack": 266666,
+        "Disability weighted prevalence of infectious diseases": 159057,
+        "Self-reported poor physical health": 316908
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "High blood pressure": 119444,
+        "Diabetes": 111111,
+        "Heart attack": 211111,
+        "Disability weighted prevalence of infectious diseases": 71262,
+        "Self-reported poor physical health": 150724
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "High blood pressure": 224999,
+        "Diabetes": 122222,
+        "Heart attack": 288888,
+        "Disability weighted prevalence of infectious diseases": 86256,
+        "Self-reported poor physical health": 313043
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "High blood pressure": 411111,
+        "Diabetes": 316666,
+        "Heart attack": 399999,
+        "Disability weighted prevalence of infectious diseases": 161205,
+        "Self-reported poor physical health": 320772
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "High blood pressure": 277777,
+        "Diabetes": 233333,
+        "Heart attack": 322222,
+        "Disability weighted prevalence of infectious diseases": 101257,
+        "Self-reported poor physical health": 282125
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "High blood pressure": 380555,
+        "Diabetes": 372222,
+        "Heart attack": 288888,
+        "Disability weighted prevalence of infectious diseases": 182681,
+        "Self-reported poor physical health": 258937
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "High blood pressure": 347222,
+        "Diabetes": 305555,
+        "Heart attack": 366666,
+        "Disability weighted prevalence of infectious diseases": 168738,
+        "Self-reported poor physical health": 262801
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "High blood pressure": 338888,
+        "Diabetes": 366666,
+        "Heart attack": 399999,
+        "Disability weighted prevalence of infectious diseases": 188952,
+        "Self-reported poor physical health": 297584
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "High blood pressure": 30555,
+        "Diabetes": 55555,
+        "Heart attack": 0,
+        "Disability weighted prevalence of infectious diseases": 82544,
+        "Self-reported poor physical health": 0
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "High blood pressure": 316666,
+        "Diabetes": 399999,
+        "Heart attack": 322222,
+        "Disability weighted prevalence of infectious diseases": 138376,
+        "Self-reported poor physical health": 278260
+      }
+    }
+  ],
+  "derivatives": {
+    "Physical Health": [
+      "High blood pressure",
+      "Diabetes",
+      "Heart attack",
+      "Disability weighted prevalence of infectious diseases",
+      "Self-reported poor physical health"
+    ]
+  },
+  "weightingOptions": {
+    "High blood pressure": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Diabetes": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Heart attack": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Disability weighted prevalence of infectious diseases": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Self-reported poor physical health": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

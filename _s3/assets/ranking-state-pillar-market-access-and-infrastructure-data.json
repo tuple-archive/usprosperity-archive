@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Communications": 2249.51194318,
+        "Resources": 877.4631893,
+        "Transport": 401.2207651
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Communications": 1857.111232,
+        "Resources": 1857.49661596,
+        "Transport": 2059.34435167
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Communications": 991.02609262,
+        "Resources": 1674.4719482,
+        "Transport": 1595.52886147
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Communications": 1719.51731442,
+        "Resources": 1797.50220735,
+        "Transport": 1090.31312183
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Communications": 2615.66936776,
+        "Resources": 1407.96069219,
+        "Transport": 1298.63475638
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Communications": 1914.72530328,
+        "Resources": 1726.23902981,
+        "Transport": 1276.12626811
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Communications": 2139.5925971,
+        "Resources": 1672.41992908,
+        "Transport": 2723.12567634
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Communications": 3176.19144758,
+        "Resources": 1294.00567199,
+        "Transport": 2673.18200925
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Communications": 2343.49649766,
+        "Resources": 1464.04778726,
+        "Transport": 2562.90161651
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Communications": 2359.91081978,
+        "Resources": 1527.31335002,
+        "Transport": 2389.66604372
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Communications": 2391.30587743,
+        "Resources": 1260.09012418,
+        "Transport": 2263.77848064
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Communications": 2586.3999233,
+        "Resources": 990.92559457,
+        "Transport": 1085.56329359
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Communications": 2567.96807767,
+        "Resources": 1732.29551706,
+        "Transport": 1862.83878933
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Communications": 1679.8410183,
+        "Resources": 1719.81730215,
+        "Transport": 1495.47054323
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Communications": 2235.23200557,
+        "Resources": 1706.6839833,
+        "Transport": 2442.91381347
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Communications": 2019.84557041,
+        "Resources": 1497.75422528,
+        "Transport": 2493.15866317
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Communications": 1689.2896359,
+        "Resources": 1764.1293405,
+        "Transport": 2033.640617
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Communications": 2056.01128881,
+        "Resources": 1354.91095915,
+        "Transport": 1963.02874443
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Communications": 1592.50342394,
+        "Resources": 1278.59248921,
+        "Transport": 1502.19320158
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Communications": 2597.62089201,
+        "Resources": 1199.40320882,
+        "Transport": 2362.61684525
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Communications": 2332.93449041,
+        "Resources": 1460.53670798,
+        "Transport": 2429.56287065
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Communications": 1919.48632638,
+        "Resources": 566.92497496,
+        "Transport": 1019.47026776
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Communications": 2005.09374203,
+        "Resources": 1248.11140926,
+        "Transport": 1527.30082674
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Communications": 2266.61640523,
+        "Resources": 1490.96886039,
+        "Transport": 1734.24734079
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Communications": 1996.77680637,
+        "Resources": 1717.27824382,
+        "Transport": 1902.1944579
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Communications": 1477.12688248,
+        "Resources": 1302.53129367,
+        "Transport": 1467.61203639
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Communications": 1275.74767597,
+        "Resources": 2075.05810071,
+        "Transport": 1060.27614362
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Communications": 2444.79920293,
+        "Resources": 1301.57218813,
+        "Transport": 1991.17775119
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Communications": 2835.51197037,
+        "Resources": 2056.27866274,
+        "Transport": 1730.5772777
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Communications": 1440.1278808,
+        "Resources": 2232.22201052,
+        "Transport": 1565.74199198
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Communications": 2322.49075904,
+        "Resources": 1293.51862317,
+        "Transport": 1631.09268967
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Communications": 2705.94983338,
+        "Resources": 1390.89419941,
+        "Transport": 2619.54733454
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Communications": 1140.75817902,
+        "Resources": 1646.0928685,
+        "Transport": 853.63067054
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Communications": 1963.44631526,
+        "Resources": 1554.20418112,
+        "Transport": 1436.96497486
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Communications": 2553.78479811,
+        "Resources": 1494.27172313,
+        "Transport": 2053.12823549
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Communications": 2289.18376749,
+        "Resources": 1244.69742397,
+        "Transport": 2491.73832869
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Communications": 1187.72739944,
+        "Resources": 1449.85035302,
+        "Transport": 1571.61123777
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Communications": 2341.57570217,
+        "Resources": 1816.70951136,
+        "Transport": 1506.96735961
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Communications": 2553.07219428,
+        "Resources": 1523.92853281,
+        "Transport": 2291.47631072
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Communications": 2156.94004761,
+        "Resources": 1367.01253807,
+        "Transport": 1836.10934307
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Communications": 1765.84421158,
+        "Resources": 1583.69998847,
+        "Transport": 2098.07385303
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Communications": 2158.65332947,
+        "Resources": 1570.00624792,
+        "Transport": 1226.05421509
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Communications": 2256.69819903,
+        "Resources": 1159.35789474,
+        "Transport": 2033.27883425
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Communications": 2464.90301137,
+        "Resources": 1438.78832432,
+        "Transport": 1761.36830569
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Communications": 2232.7440934,
+        "Resources": 1465.63298944,
+        "Transport": 1513.75323726
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Communications": 1753.73029889,
+        "Resources": 1156.37931844,
+        "Transport": 2326.97011325
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Communications": 2038.21280707,
+        "Resources": 491.05211258,
+        "Transport": 1993.48770665
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Communications": 2476.78069512,
+        "Resources": 1514.53765534,
+        "Transport": 1501.66332298
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Communications": 1870.12954338,
+        "Resources": 1679.96969168,
+        "Transport": 1739.96757372
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Communications": 1556.71450188,
+        "Resources": 1092.32448876,
+        "Transport": 1627.87769096
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Communications": 1467.48229572,
+        "Resources": 2092.25163108,
+        "Transport": 567.82798151
+      }
+    }
+  ],
+  "derivatives": {
+    "Market Access and Infrastructure": [
+      "Communications",
+      "Resources",
+      "Transport"
+    ]
+  },
+  "weightingOptions": {
+    "Communications": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Resources": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Transport": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

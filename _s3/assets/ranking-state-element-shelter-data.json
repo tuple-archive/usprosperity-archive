@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Homelessness": 154235,
+        "Unsheltered homeless rate": 208570,
+        "Households with overcrowding": 152655,
+        "Availability of affordable housing": 215686
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Homelessness": 242496,
+        "Unsheltered homeless rate": 139321,
+        "Households with overcrowding": 456178,
+        "Availability of affordable housing": 421568
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Homelessness": 231803,
+        "Unsheltered homeless rate": 90808,
+        "Households with overcrowding": 397355,
+        "Availability of affordable housing": 362745
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Homelessness": 210234,
+        "Unsheltered homeless rate": 111986,
+        "Households with overcrowding": 284470,
+        "Availability of affordable housing": 107843
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Homelessness": 98698,
+        "Unsheltered homeless rate": 29695,
+        "Households with overcrowding": 50119,
+        "Availability of affordable housing": 88235
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Homelessness": 196803,
+        "Unsheltered homeless rate": 182279,
+        "Households with overcrowding": 396250,
+        "Availability of affordable housing": 147058
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Homelessness": 234058,
+        "Unsheltered homeless rate": 206328,
+        "Households with overcrowding": 445578,
+        "Availability of affordable housing": 264705
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Homelessness": 0,
+        "Unsheltered homeless rate": 224137,
+        "Households with overcrowding": 338679,
+        "Availability of affordable housing": 343137
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Homelessness": 229735,
+        "Unsheltered homeless rate": 221046,
+        "Households with overcrowding": 458822,
+        "Availability of affordable housing": 127450
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Homelessness": 212775,
+        "Unsheltered homeless rate": 115874,
+        "Households with overcrowding": 377181,
+        "Availability of affordable housing": 127450
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Homelessness": 228019,
+        "Unsheltered homeless rate": 137351,
+        "Households with overcrowding": 418010,
+        "Availability of affordable housing": 254901
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Homelessness": 66879,
+        "Unsheltered homeless rate": 76186,
+        "Households with overcrowding": 0,
+        "Availability of affordable housing": 225490
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Homelessness": 239375,
+        "Unsheltered homeless rate": 227887,
+        "Households with overcrowding": 458357,
+        "Availability of affordable housing": 215686
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Homelessness": 213844,
+        "Unsheltered homeless rate": 120529,
+        "Households with overcrowding": 394790,
+        "Availability of affordable housing": 245098
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Homelessness": 236142,
+        "Unsheltered homeless rate": 195455,
+        "Households with overcrowding": 400246,
+        "Availability of affordable housing": 235294
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Homelessness": 235788,
+        "Unsheltered homeless rate": 216619,
+        "Households with overcrowding": 452289,
+        "Availability of affordable housing": 215686
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Homelessness": 235578,
+        "Unsheltered homeless rate": 191001,
+        "Households with overcrowding": 430753,
+        "Availability of affordable housing": 333333
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Homelessness": 231227,
+        "Unsheltered homeless rate": 193657,
+        "Households with overcrowding": 443046,
+        "Availability of affordable housing": 382352
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Homelessness": 243971,
+        "Unsheltered homeless rate": 149937,
+        "Households with overcrowding": 413897,
+        "Availability of affordable housing": 333333
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Homelessness": 150915,
+        "Unsheltered homeless rate": 239216,
+        "Households with overcrowding": 442755,
+        "Availability of affordable housing": 323529
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Homelessness": 223398,
+        "Unsheltered homeless rate": 189142,
+        "Households with overcrowding": 426415,
+        "Availability of affordable housing": 166666
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Homelessness": 201512,
+        "Unsheltered homeless rate": 239145,
+        "Households with overcrowding": 472426,
+        "Availability of affordable housing": 382352
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Homelessness": 233698,
+        "Unsheltered homeless rate": 229137,
+        "Households with overcrowding": 459419,
+        "Availability of affordable housing": 196078
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Homelessness": 208433,
+        "Unsheltered homeless rate": 188592,
+        "Households with overcrowding": 427439,
+        "Availability of affordable housing": 264705
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Homelessness": 226964,
+        "Unsheltered homeless rate": 203955,
+        "Households with overcrowding": 460022,
+        "Availability of affordable housing": 274509
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Homelessness": 250000,
+        "Unsheltered homeless rate": 125211,
+        "Households with overcrowding": 387859,
+        "Availability of affordable housing": 450980
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Homelessness": 215014,
+        "Unsheltered homeless rate": 173931,
+        "Households with overcrowding": 428340,
+        "Availability of affordable housing": 303921
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Homelessness": 232361,
+        "Unsheltered homeless rate": 177278,
+        "Households with overcrowding": 414781,
+        "Availability of affordable housing": 294117
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Homelessness": 239504,
+        "Unsheltered homeless rate": 246493,
+        "Households with overcrowding": 437710,
+        "Availability of affordable housing": 313725
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Homelessness": 217154,
+        "Unsheltered homeless rate": 238707,
+        "Households with overcrowding": 431179,
+        "Availability of affordable housing": 284313
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Homelessness": 226059,
+        "Unsheltered homeless rate": 219928,
+        "Households with overcrowding": 471842,
+        "Availability of affordable housing": 235294
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Homelessness": 227376,
+        "Unsheltered homeless rate": 201063,
+        "Households with overcrowding": 367435,
+        "Availability of affordable housing": 166666
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Homelessness": 202469,
+        "Unsheltered homeless rate": 132075,
+        "Households with overcrowding": 344238,
+        "Availability of affordable housing": 372549
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Homelessness": 166932,
+        "Unsheltered homeless rate": 87614,
+        "Households with overcrowding": 301838,
+        "Availability of affordable housing": 49019
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Homelessness": 57550,
+        "Unsheltered homeless rate": 239508,
+        "Households with overcrowding": 245366,
+        "Availability of affordable housing": 215686
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Homelessness": 232499,
+        "Unsheltered homeless rate": 207785,
+        "Households with overcrowding": 479949,
+        "Availability of affordable housing": 264705
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Homelessness": 227421,
+        "Unsheltered homeless rate": 155406,
+        "Households with overcrowding": 386866,
+        "Availability of affordable housing": 313725
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Homelessness": 101631,
+        "Unsheltered homeless rate": 54002,
+        "Households with overcrowding": 365908,
+        "Availability of affordable housing": 98039
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Homelessness": 225863,
+        "Unsheltered homeless rate": 214701,
+        "Households with overcrowding": 475935,
+        "Availability of affordable housing": 235294
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Homelessness": 227459,
+        "Unsheltered homeless rate": 232225,
+        "Households with overcrowding": 455484,
+        "Availability of affordable housing": 362745
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Homelessness": 235895,
+        "Unsheltered homeless rate": 124874,
+        "Households with overcrowding": 447907,
+        "Availability of affordable housing": 284313
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Homelessness": 221603,
+        "Unsheltered homeless rate": 179875,
+        "Households with overcrowding": 417140,
+        "Availability of affordable housing": 421568
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Homelessness": 223027,
+        "Unsheltered homeless rate": 144714,
+        "Households with overcrowding": 436282,
+        "Availability of affordable housing": 313725
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Homelessness": 232207,
+        "Unsheltered homeless rate": 117826,
+        "Households with overcrowding": 258639,
+        "Availability of affordable housing": 137254
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Homelessness": 233056,
+        "Unsheltered homeless rate": 207740,
+        "Households with overcrowding": 346332,
+        "Availability of affordable housing": 166666
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Homelessness": 241930,
+        "Unsheltered homeless rate": 206891,
+        "Households with overcrowding": 438753,
+        "Availability of affordable housing": 235294
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Homelessness": 193398,
+        "Unsheltered homeless rate": 220567,
+        "Households with overcrowding": 451054,
+        "Availability of affordable housing": 333333
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Homelessness": 143930,
+        "Unsheltered homeless rate": 115091,
+        "Households with overcrowding": 360373,
+        "Availability of affordable housing": 156862
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Homelessness": 237300,
+        "Unsheltered homeless rate": 232940,
+        "Households with overcrowding": 456085,
+        "Availability of affordable housing": 215686
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Homelessness": 237294,
+        "Unsheltered homeless rate": 197853,
+        "Households with overcrowding": 477434,
+        "Availability of affordable housing": 441176
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Homelessness": 229688,
+        "Unsheltered homeless rate": 182081,
+        "Households with overcrowding": 431655,
+        "Availability of affordable housing": 450980
+      }
+    }
+  ],
+  "derivatives": {
+    "Shelter": [
+      "Homelessness",
+      "Unsheltered homeless rate",
+      "Households with overcrowding",
+      "Availability of affordable housing"
+    ]
+  },
+  "weightingOptions": {
+    "Homelessness": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Unsheltered homeless rate": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Households with overcrowding": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Availability of affordable housing": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

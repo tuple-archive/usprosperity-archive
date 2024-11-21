@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Elections Performance Index": 1028367,
+        "Gender balance in legislatures": 214285,
+        "State campaign disclosure": 749999,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Elections Performance Index": 852581,
+        "Gender balance in legislatures": 61071,
+        "State campaign disclosure": 621428,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Elections Performance Index": 208460,
+        "Gender balance in legislatures": 139285,
+        "State campaign disclosure": 407142,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Elections Performance Index": 955987,
+        "Gender balance in legislatures": 368571,
+        "State campaign disclosure": 835714,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Elections Performance Index": 561373,
+        "Gender balance in legislatures": 222857,
+        "State campaign disclosure": 685714,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Elections Performance Index": 1183414,
+        "Gender balance in legislatures": 385714,
+        "State campaign disclosure": 792857,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Elections Performance Index": 1061947,
+        "Gender balance in legislatures": 259285,
+        "State campaign disclosure": 642857,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Elections Performance Index": 803489,
+        "Gender balance in legislatures": 428571,
+        "State campaign disclosure": 857142,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Elections Performance Index": 1106494,
+        "Gender balance in legislatures": 220714,
+        "State campaign disclosure": 664285,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Elections Performance Index": 930839,
+        "Gender balance in legislatures": 261428,
+        "State campaign disclosure": 707142,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Elections Performance Index": 717847,
+        "Gender balance in legislatures": 242142,
+        "State campaign disclosure": 835714,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Elections Performance Index": 733074,
+        "Gender balance in legislatures": 245357,
+        "State campaign disclosure": 814285,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Elections Performance Index": 1182081,
+        "Gender balance in legislatures": 200357,
+        "State campaign disclosure": 707142,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Elections Performance Index": 821895,
+        "Gender balance in legislatures": 219642,
+        "State campaign disclosure": 364285,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Elections Performance Index": 966444,
+        "Gender balance in legislatures": 316071,
+        "State campaign disclosure": 685714,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Elections Performance Index": 925296,
+        "Gender balance in legislatures": 163928,
+        "State campaign disclosure": 621428,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Elections Performance Index": 759771,
+        "Gender balance in legislatures": 211071,
+        "State campaign disclosure": 407142,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Elections Performance Index": 798607,
+        "Gender balance in legislatures": 179999,
+        "State campaign disclosure": 578571,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Elections Performance Index": 856950,
+        "Gender balance in legislatures": 86785,
+        "State campaign disclosure": 728571,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Elections Performance Index": 1100487,
+        "Gender balance in legislatures": 224999,
+        "State campaign disclosure": 749999,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Elections Performance Index": 1031297,
+        "Gender balance in legislatures": 325714,
+        "State campaign disclosure": 749999,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Elections Performance Index": 886783,
+        "Gender balance in legislatures": 358928,
+        "State campaign disclosure": 857142,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Elections Performance Index": 881238,
+        "Gender balance in legislatures": 276428,
+        "State campaign disclosure": 771428,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Elections Performance Index": 1223200,
+        "Gender balance in legislatures": 276428,
+        "State campaign disclosure": 814285,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Elections Performance Index": 933443,
+        "Gender balance in legislatures": 175714,
+        "State campaign disclosure": 749999,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Elections Performance Index": 573576,
+        "Gender balance in legislatures": 65357,
+        "State campaign disclosure": 321428,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Elections Performance Index": 1009166,
+        "Gender balance in legislatures": 235714,
+        "State campaign disclosure": 792857,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Elections Performance Index": 809652,
+        "Gender balance in legislatures": 176785,
+        "State campaign disclosure": 728571,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Elections Performance Index": 1274247,
+        "Gender balance in legislatures": 128571,
+        "State campaign disclosure": 728571,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Elections Performance Index": 1122365,
+        "Gender balance in legislatures": 176785,
+        "State campaign disclosure": 578571,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Elections Performance Index": 914520,
+        "Gender balance in legislatures": 276428,
+        "State campaign disclosure": 385714,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Elections Performance Index": 683443,
+        "Gender balance in legislatures": 214285,
+        "State campaign disclosure": 707142,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Elections Performance Index": 1115439,
+        "Gender balance in legislatures": 362142,
+        "State campaign disclosure": 728571,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Elections Performance Index": 1036382,
+        "Gender balance in legislatures": 428571,
+        "State campaign disclosure": 599999,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Elections Performance Index": 563300,
+        "Gender balance in legislatures": 260357,
+        "State campaign disclosure": 728571,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Elections Performance Index": 1036647,
+        "Gender balance in legislatures": 226071,
+        "State campaign disclosure": 685714,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Elections Performance Index": 602894,
+        "Gender balance in legislatures": 115714,
+        "State campaign disclosure": 835714,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Elections Performance Index": 1123821,
+        "Gender balance in legislatures": 344999,
+        "State campaign disclosure": 835714,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Elections Performance Index": 824962,
+        "Gender balance in legislatures": 202499,
+        "State campaign disclosure": 642857,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Elections Performance Index": 896898,
+        "Gender balance in legislatures": 376071,
+        "State campaign disclosure": 407142,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Elections Performance Index": 921563,
+        "Gender balance in legislatures": 81428,
+        "State campaign disclosure": 578571,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Elections Performance Index": 853888,
+        "Gender balance in legislatures": 199285,
+        "State campaign disclosure": 449999,
+        "Term limits": 428571
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Elections Performance Index": 891915,
+        "Gender balance in legislatures": 71785,
+        "State campaign disclosure": 599999,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Elections Performance Index": 798026,
+        "Gender balance in legislatures": 176785,
+        "State campaign disclosure": 685714,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Elections Performance Index": 849990,
+        "Gender balance in legislatures": 149999,
+        "State campaign disclosure": 664285,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Elections Performance Index": 1021301,
+        "Gender balance in legislatures": 214285,
+        "State campaign disclosure": 728571,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Elections Performance Index": 1188991,
+        "Gender balance in legislatures": 344999,
+        "State campaign disclosure": 664285,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Elections Performance Index": 1025353,
+        "Gender balance in legislatures": 337499,
+        "State campaign disclosure": 707142,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Elections Performance Index": 1117164,
+        "Gender balance in legislatures": 226071,
+        "State campaign disclosure": 749999,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Elections Performance Index": 981628,
+        "Gender balance in legislatures": 20357,
+        "State campaign disclosure": 471428,
+        "Term limits": 0
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Elections Performance Index": 835551,
+        "Gender balance in legislatures": 83571,
+        "State campaign disclosure": 578571,
+        "Term limits": 0
+      }
+    }
+  ],
+  "derivatives": {
+    "Political Accountability": [
+      "Elections Performance Index",
+      "Gender balance in legislatures",
+      "State campaign disclosure",
+      "Term limits"
+    ]
+  },
+  "weightingOptions": {
+    "Elections Performance Index": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Gender balance in legislatures": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "State campaign disclosure": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Term limits": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

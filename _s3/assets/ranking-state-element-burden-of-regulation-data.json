@@ -1,0 +1,470 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 0,
+        "State regulation": 500000
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 93000,
+        "State regulation": 284033
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 178666,
+        "State regulation": 261239
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 451166,
+        "State regulation": 464450
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 384500,
+        "State regulation": 70682
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 401083,
+        "State regulation": 363734
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 451583,
+        "State regulation": 188483
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 439499,
+        "State regulation": 156167
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 314333,
+        "State regulation": 223056
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 440166,
+        "State regulation": 231795
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 257916,
+        "State regulation": 94783
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 292083,
+        "State regulation": 261239
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 169166,
+        "State regulation": 181972
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 223833,
+        "State regulation": 500000
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 259666,
+        "State regulation": 247836
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 18666,
+        "State regulation": 441474
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 131916,
+        "State regulation": 0
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 135083,
+        "State regulation": 48664
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 0,
+        "State regulation": 267604
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 437833,
+        "State regulation": 244301
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 437333,
+        "State regulation": 310784
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 336250,
+        "State regulation": 311554
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 350666,
+        "State regulation": 127302
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 262249,
+        "State regulation": 139196
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 329333,
+        "State regulation": 301240
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 3166,
+        "State regulation": 346002
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 0,
+        "State regulation": 369614
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 250749,
+        "State regulation": 103223
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 109500,
+        "State regulation": 293842
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 16500,
+        "State regulation": 337085
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 500000,
+        "State regulation": 171270
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 372250,
+        "State regulation": 261239
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 250999,
+        "State regulation": 320305
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 424333,
+        "State regulation": 355018
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 366166,
+        "State regulation": 159312
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 263166,
+        "State regulation": 394020
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 160416,
+        "State regulation": 225955
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 469083,
+        "State regulation": 448605
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 283666,
+        "State regulation": 377799
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 451166,
+        "State regulation": 187746
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 262500,
+        "State regulation": 173925
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 116833,
+        "State regulation": 356231
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 285583,
+        "State regulation": 279466
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 140500,
+        "State regulation": 230683
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 237166,
+        "State regulation": 193398
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 447583,
+        "State regulation": 194213
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 375249,
+        "State regulation": 261239
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 301000,
+        "State regulation": 436043
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 299833,
+        "State regulation": 340629
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 30583,
+        "State regulation": 285134
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Federal Regulation and State Enterprise Index": 0,
+        "State regulation": 71981
+      }
+    }
+  ],
+  "derivatives": {
+    "Burden of Regulation": [
+      "Federal Regulation and State Enterprise Index",
+      "State regulation"
+    ]
+  },
+  "weightingOptions": {
+    "Federal Regulation and State Enterprise Index": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "State regulation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

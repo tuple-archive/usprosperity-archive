@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Math grade 8 score": 179487,
+        "Science grade 8 score": 338647,
+        "Reading grade 8 score": 173076,
+        "High school graduation rate": 224175,
+        "Secondary enrollment": 175824
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Math grade 8 score": 115384,
+        "Science grade 8 score": 161289,
+        "Reading grade 8 score": 187499,
+        "High school graduation rate": 348351,
+        "Secondary enrollment": 203296
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Math grade 8 score": 179487,
+        "Science grade 8 score": 266071,
+        "Reading grade 8 score": 274038,
+        "High school graduation rate": 303296,
+        "Secondary enrollment": 214285
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Math grade 8 score": 256410,
+        "Science grade 8 score": 255763,
+        "Reading grade 8 score": 274038,
+        "High school graduation rate": 195604,
+        "Secondary enrollment": 197802
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Math grade 8 score": 205128,
+        "Science grade 8 score": 184355,
+        "Reading grade 8 score": 274038,
+        "High school graduation rate": 269230,
+        "Secondary enrollment": 263736
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Math grade 8 score": 320512,
+        "Science grade 8 score": 441002,
+        "Reading grade 8 score": 389423,
+        "High school graduation rate": 231868,
+        "Secondary enrollment": 247252
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Math grade 8 score": 333333,
+        "Science grade 8 score": 360693,
+        "Reading grade 8 score": 432692,
+        "High school graduation rate": 313186,
+        "Secondary enrollment": 302197
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Math grade 8 score": 115384,
+        "Science grade 8 score": 0,
+        "Reading grade 8 score": 144230,
+        "High school graduation rate": 97802,
+        "Secondary enrollment": 225274
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Math grade 8 score": 217948,
+        "Science grade 8 score": 272917,
+        "Reading grade 8 score": 288461,
+        "High school graduation rate": 318681,
+        "Secondary enrollment": 170329
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Math grade 8 score": 243589,
+        "Science grade 8 score": 328187,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 298901,
+        "Secondary enrollment": 225274
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Math grade 8 score": 243589,
+        "Science grade 8 score": 320674,
+        "Reading grade 8 score": 317307,
+        "High school graduation rate": 241758,
+        "Secondary enrollment": 153846
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Math grade 8 score": 192307,
+        "Science grade 8 score": 202717,
+        "Reading grade 8 score": 259615,
+        "High school graduation rate": 276923,
+        "Secondary enrollment": 126373
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Math grade 8 score": 282051,
+        "Science grade 8 score": 416881,
+        "Reading grade 8 score": 317307,
+        "High school graduation rate": 347252,
+        "Secondary enrollment": 181318
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Math grade 8 score": 333333,
+        "Science grade 8 score": 437896,
+        "Reading grade 8 score": 374999,
+        "High school graduation rate": 228571,
+        "Secondary enrollment": 208791
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Math grade 8 score": 294871,
+        "Science grade 8 score": 284805,
+        "Reading grade 8 score": 360576,
+        "High school graduation rate": 287912,
+        "Secondary enrollment": 236263
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Math grade 8 score": 333333,
+        "Science grade 8 score": 376754,
+        "Reading grade 8 score": 374999,
+        "High school graduation rate": 298901,
+        "Secondary enrollment": 109890
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Math grade 8 score": 282051,
+        "Science grade 8 score": 367122,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 298901,
+        "Secondary enrollment": 208791
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Math grade 8 score": 230769,
+        "Science grade 8 score": 392713,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 336263,
+        "Secondary enrollment": 153846
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Math grade 8 score": 153846,
+        "Science grade 8 score": 185348,
+        "Reading grade 8 score": 245192,
+        "High school graduation rate": 220879,
+        "Secondary enrollment": 164835
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Math grade 8 score": 435897,
+        "Science grade 8 score": 456411,
+        "Reading grade 8 score": 475961,
+        "High school graduation rate": 307692,
+        "Secondary enrollment": 241758
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Math grade 8 score": 256410,
+        "Science grade 8 score": 357793,
+        "Reading grade 8 score": 346153,
+        "High school graduation rate": 295604,
+        "Secondary enrollment": 203296
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Math grade 8 score": 282051,
+        "Science grade 8 score": 427850,
+        "Reading grade 8 score": 360576,
+        "High school graduation rate": 301098,
+        "Secondary enrollment": 208791
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Math grade 8 score": 256410,
+        "Science grade 8 score": 360965,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 235164,
+        "Secondary enrollment": 225274
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Math grade 8 score": 397435,
+        "Science grade 8 score": 456736,
+        "Reading grade 8 score": 346153,
+        "High school graduation rate": 260439,
+        "Secondary enrollment": 269230
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Math grade 8 score": 269230,
+        "Science grade 8 score": 418987,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 326373,
+        "Secondary enrollment": 131868
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Math grade 8 score": 179487,
+        "Science grade 8 score": 141371,
+        "Reading grade 8 score": 230769,
+        "High school graduation rate": 274725,
+        "Secondary enrollment": 142857
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Math grade 8 score": 307692,
+        "Science grade 8 score": 453717,
+        "Reading grade 8 score": 360576,
+        "High school graduation rate": 292307,
+        "Secondary enrollment": 159340
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Math grade 8 score": 307692,
+        "Science grade 8 score": 294281,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 291208,
+        "Secondary enrollment": 170329
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Math grade 8 score": 333333,
+        "Science grade 8 score": 453330,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 310989,
+        "Secondary enrollment": 181318
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Math grade 8 score": 320512,
+        "Science grade 8 score": 434932,
+        "Reading grade 8 score": 346153,
+        "High school graduation rate": 312087,
+        "Secondary enrollment": 269230
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Math grade 8 score": 346153,
+        "Science grade 8 score": 503702,
+        "Reading grade 8 score": 403846,
+        "High school graduation rate": 312087,
+        "Secondary enrollment": 236263
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Math grade 8 score": 410256,
+        "Science grade 8 score": 369269,
+        "Reading grade 8 score": 432692,
+        "High school graduation rate": 336263,
+        "Secondary enrollment": 252747
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Math grade 8 score": 115384,
+        "Science grade 8 score": 189818,
+        "Reading grade 8 score": 173076,
+        "High school graduation rate": 165934,
+        "Secondary enrollment": 65934
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Math grade 8 score": 179487,
+        "Science grade 8 score": 267071,
+        "Reading grade 8 score": 259615,
+        "High school graduation rate": 264835,
+        "Secondary enrollment": 208791
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Math grade 8 score": 256410,
+        "Science grade 8 score": 282298,
+        "Reading grade 8 score": 317307,
+        "High school graduation rate": 250549,
+        "Secondary enrollment": 186813
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Math grade 8 score": 333333,
+        "Science grade 8 score": 391244,
+        "Reading grade 8 score": 389423,
+        "High school graduation rate": 241758,
+        "Secondary enrollment": 153846
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Math grade 8 score": 205128,
+        "Science grade 8 score": 302591,
+        "Reading grade 8 score": 259615,
+        "High school graduation rate": 273626,
+        "Secondary enrollment": 236263
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Math grade 8 score": 256410,
+        "Science grade 8 score": 379781,
+        "Reading grade 8 score": 346153,
+        "High school graduation rate": 219780,
+        "Secondary enrollment": 219780
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Math grade 8 score": 320512,
+        "Science grade 8 score": 308229,
+        "Reading grade 8 score": 346153,
+        "High school graduation rate": 291208,
+        "Secondary enrollment": 164835
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Math grade 8 score": 205128,
+        "Science grade 8 score": 300881,
+        "Reading grade 8 score": 317307,
+        "High school graduation rate": 262637,
+        "Secondary enrollment": 258241
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Math grade 8 score": 205128,
+        "Science grade 8 score": 306257,
+        "Reading grade 8 score": 274038,
+        "High school graduation rate": 231868,
+        "Secondary enrollment": 137362
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Math grade 8 score": 346153,
+        "Science grade 8 score": 438301,
+        "Reading grade 8 score": 331730,
+        "High school graduation rate": 264835,
+        "Secondary enrollment": 104395
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Math grade 8 score": 256410,
+        "Science grade 8 score": 379636,
+        "Reading grade 8 score": 317307,
+        "High school graduation rate": 335164,
+        "Secondary enrollment": 241758
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Math grade 8 score": 256410,
+        "Science grade 8 score": 377434,
+        "Reading grade 8 score": 230769,
+        "High school graduation rate": 329670,
+        "Secondary enrollment": 159340
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Math grade 8 score": 320512,
+        "Science grade 8 score": 524366,
+        "Reading grade 8 score": 389423,
+        "High school graduation rate": 301098,
+        "Secondary enrollment": 219780
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Math grade 8 score": 346153,
+        "Science grade 8 score": 425865,
+        "Reading grade 8 score": 317307,
+        "High school graduation rate": 302197,
+        "Secondary enrollment": 236263
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Math grade 8 score": 346153,
+        "Science grade 8 score": 479073,
+        "Reading grade 8 score": 403846,
+        "High school graduation rate": 269230,
+        "Secondary enrollment": 247252
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Math grade 8 score": 333333,
+        "Science grade 8 score": 388928,
+        "Reading grade 8 score": 374999,
+        "High school graduation rate": 231868,
+        "Secondary enrollment": 241758
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Math grade 8 score": 371794,
+        "Science grade 8 score": 416546,
+        "Reading grade 8 score": 389423,
+        "High school graduation rate": 330769,
+        "Secondary enrollment": 230769
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Math grade 8 score": 153846,
+        "Science grade 8 score": 282869,
+        "Reading grade 8 score": 230769,
+        "High school graduation rate": 343956,
+        "Secondary enrollment": 93406
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Math grade 8 score": 333333,
+        "Science grade 8 score": 437468,
+        "Reading grade 8 score": 360576,
+        "High school graduation rate": 242857,
+        "Secondary enrollment": 214285
+      }
+    }
+  ],
+  "derivatives": {
+    "Secondary Education": [
+      "Math grade 8 score",
+      "Science grade 8 score",
+      "Reading grade 8 score",
+      "High school graduation rate",
+      "Secondary enrollment"
+    ]
+  },
+  "weightingOptions": {
+    "Math grade 8 score": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Science grade 8 score": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Reading grade 8 score": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "High school graduation rate": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Secondary enrollment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

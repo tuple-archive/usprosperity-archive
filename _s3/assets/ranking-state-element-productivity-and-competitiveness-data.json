@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Manufactured export value": 0,
+        "Non-manufactured export value": 357142,
+        "Labor productivity": 1428571
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Manufactured export value": 536273,
+        "Non-manufactured export value": 0,
+        "Labor productivity": 290264
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Manufactured export value": 209955,
+        "Non-manufactured export value": 66898,
+        "Labor productivity": 229996
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Manufactured export value": 356034,
+        "Non-manufactured export value": 181330,
+        "Labor productivity": 434109
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Manufactured export value": 461777,
+        "Non-manufactured export value": 205235,
+        "Labor productivity": 1428571
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Manufactured export value": 178301,
+        "Non-manufactured export value": 0,
+        "Labor productivity": 1034341
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Manufactured export value": 546629,
+        "Non-manufactured export value": 153444,
+        "Labor productivity": 1428571
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Manufactured export value": 0,
+        "Non-manufactured export value": 0,
+        "Labor productivity": 1428571
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Manufactured export value": 527112,
+        "Non-manufactured export value": 75343,
+        "Labor productivity": 1380413
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Manufactured export value": 330272,
+        "Non-manufactured export value": 80196,
+        "Labor productivity": 403569
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Manufactured export value": 465730,
+        "Non-manufactured export value": 154161,
+        "Labor productivity": 744958
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Manufactured export value": 0,
+        "Non-manufactured export value": 0,
+        "Labor productivity": 761761
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Manufactured export value": 533241,
+        "Non-manufactured export value": 183385,
+        "Labor productivity": 462342
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Manufactured export value": 177666,
+        "Non-manufactured export value": 121477,
+        "Labor productivity": 135831
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Manufactured export value": 539819,
+        "Non-manufactured export value": 129049,
+        "Labor productivity": 1093502
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Manufactured export value": 655848,
+        "Non-manufactured export value": 23405,
+        "Labor productivity": 520976
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Manufactured export value": 471676,
+        "Non-manufactured export value": 239099,
+        "Labor productivity": 639825
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Manufactured export value": 676986,
+        "Non-manufactured export value": 10715,
+        "Labor productivity": 301163
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Manufactured export value": 714285,
+        "Non-manufactured export value": 357142,
+        "Labor productivity": 835925
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Manufactured export value": 487043,
+        "Non-manufactured export value": 83801,
+        "Labor productivity": 1366383
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Manufactured export value": 245066,
+        "Non-manufactured export value": 180793,
+        "Labor productivity": 941297
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Manufactured export value": 178673,
+        "Non-manufactured export value": 230997,
+        "Labor productivity": 75914
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Manufactured export value": 615638,
+        "Non-manufactured export value": 116413,
+        "Labor productivity": 573011
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Manufactured export value": 506907,
+        "Non-manufactured export value": 109392,
+        "Labor productivity": 747364
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Manufactured export value": 323459,
+        "Non-manufactured export value": 83489,
+        "Labor productivity": 436490
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Manufactured export value": 483820,
+        "Non-manufactured export value": 128123,
+        "Labor productivity": 98063
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Manufactured export value": 64312,
+        "Non-manufactured export value": 175374,
+        "Labor productivity": 261801
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Manufactured export value": 443052,
+        "Non-manufactured export value": 51225,
+        "Labor productivity": 587373
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Manufactured export value": 609789,
+        "Non-manufactured export value": 357142,
+        "Labor productivity": 860921
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Manufactured export value": 470300,
+        "Non-manufactured export value": 239668,
+        "Labor productivity": 539615
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Manufactured export value": 507659,
+        "Non-manufactured export value": 59866,
+        "Labor productivity": 689952
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Manufactured export value": 431087,
+        "Non-manufactured export value": 193085,
+        "Labor productivity": 1203949
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Manufactured export value": 132323,
+        "Non-manufactured export value": 30410,
+        "Labor productivity": 537212
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Manufactured export value": 313141,
+        "Non-manufactured export value": 78928,
+        "Labor productivity": 468915
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Manufactured export value": 317722,
+        "Non-manufactured export value": 224090,
+        "Labor productivity": 1428571
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Manufactured export value": 536645,
+        "Non-manufactured export value": 147654,
+        "Labor productivity": 684051
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Manufactured export value": 187275,
+        "Non-manufactured export value": 1155,
+        "Labor productivity": 781527
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Manufactured export value": 589011,
+        "Non-manufactured export value": 179314,
+        "Labor productivity": 592774
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Manufactured export value": 416751,
+        "Non-manufactured export value": 175768,
+        "Labor productivity": 838381
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Manufactured export value": 272024,
+        "Non-manufactured export value": 244374,
+        "Labor productivity": 587108
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Manufactured export value": 714285,
+        "Non-manufactured export value": 35406,
+        "Labor productivity": 283920
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Manufactured export value": 222980,
+        "Non-manufactured export value": 26697,
+        "Labor productivity": 383928
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Manufactured export value": 510734,
+        "Non-manufactured export value": 97909,
+        "Labor productivity": 453637
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Manufactured export value": 714285,
+        "Non-manufactured export value": 357142,
+        "Labor productivity": 1242155
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Manufactured export value": 633264,
+        "Non-manufactured export value": 124708,
+        "Labor productivity": 520620
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Manufactured export value": 255131,
+        "Non-manufactured export value": 174214,
+        "Labor productivity": 710722
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Manufactured export value": 529126,
+        "Non-manufactured export value": 33292,
+        "Labor productivity": 225347
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Manufactured export value": 676436,
+        "Non-manufactured export value": 330784,
+        "Labor productivity": 1428571
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Manufactured export value": 495508,
+        "Non-manufactured export value": 93296,
+        "Labor productivity": 490001
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Manufactured export value": 327818,
+        "Non-manufactured export value": 300988,
+        "Labor productivity": 478902
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Manufactured export value": 379013,
+        "Non-manufactured export value": 31481,
+        "Labor productivity": 1278464
+      }
+    }
+  ],
+  "derivatives": {
+    "Productivity and Competitiveness": [
+      "Manufactured export value",
+      "Non-manufactured export value",
+      "Labor productivity"
+    ]
+  },
+  "weightingOptions": {
+    "Manufactured export value": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Non-manufactured export value": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Labor productivity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

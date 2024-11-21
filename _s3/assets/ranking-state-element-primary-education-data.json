@@ -1,0 +1,624 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Math grade 4 score": 242857,
+        "Science grade 4 score": 325571,
+        "Reading grade 4 score": 57142,
+        "Primary enrollment": 88571
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Math grade 4 score": 214285,
+        "Science grade 4 score": 214285,
+        "Reading grade 4 score": 171428,
+        "Primary enrollment": 91428
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Math grade 4 score": 257142,
+        "Science grade 4 score": 285714,
+        "Reading grade 4 score": 214285,
+        "Primary enrollment": 131428
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Math grade 4 score": 328571,
+        "Science grade 4 score": 271428,
+        "Reading grade 4 score": 228571,
+        "Primary enrollment": 97142
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Math grade 4 score": 285714,
+        "Science grade 4 score": 142857,
+        "Reading grade 4 score": 228571,
+        "Primary enrollment": 179999
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Math grade 4 score": 385714,
+        "Science grade 4 score": 357142,
+        "Reading grade 4 score": 357142,
+        "Primary enrollment": 171428
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Math grade 4 score": 400000,
+        "Science grade 4 score": 342857,
+        "Reading grade 4 score": 342857,
+        "Primary enrollment": 205714
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Math grade 4 score": 285714,
+        "Science grade 4 score": 325571,
+        "Reading grade 4 score": 200000,
+        "Primary enrollment": 211428
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Math grade 4 score": 342857,
+        "Science grade 4 score": 285714,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 137142
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Math grade 4 score": 442857,
+        "Science grade 4 score": 400000,
+        "Reading grade 4 score": 357142,
+        "Primary enrollment": 159999
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Math grade 4 score": 328571,
+        "Science grade 4 score": 314285,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 162857
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Math grade 4 score": 342857,
+        "Science grade 4 score": 228571,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 108571
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Math grade 4 score": 371428,
+        "Science grade 4 score": 414285,
+        "Reading grade 4 score": 300000,
+        "Primary enrollment": 182857
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Math grade 4 score": 385714,
+        "Science grade 4 score": 371428,
+        "Reading grade 4 score": 328571,
+        "Primary enrollment": 57142
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Math grade 4 score": 314285,
+        "Science grade 4 score": 300000,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 162857
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Math grade 4 score": 428571,
+        "Science grade 4 score": 414285,
+        "Reading grade 4 score": 314285,
+        "Primary enrollment": 88571
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Math grade 4 score": 342857,
+        "Science grade 4 score": 342857,
+        "Reading grade 4 score": 271428,
+        "Primary enrollment": 154285
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Math grade 4 score": 342857,
+        "Science grade 4 score": 428571,
+        "Reading grade 4 score": 300000,
+        "Primary enrollment": 65714
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Math grade 4 score": 228571,
+        "Science grade 4 score": 157142,
+        "Reading grade 4 score": 142857,
+        "Primary enrollment": 174285
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Math grade 4 score": 457142,
+        "Science grade 4 score": 442857,
+        "Reading grade 4 score": 442857,
+        "Primary enrollment": 168571
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Math grade 4 score": 342857,
+        "Science grade 4 score": 328571,
+        "Reading grade 4 score": 285714,
+        "Primary enrollment": 159999
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Math grade 4 score": 371428,
+        "Science grade 4 score": 400000,
+        "Reading grade 4 score": 300000,
+        "Primary enrollment": 128571
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Math grade 4 score": 300000,
+        "Science grade 4 score": 342857,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 157142
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Math grade 4 score": 471428,
+        "Science grade 4 score": 385714,
+        "Reading grade 4 score": 314285,
+        "Primary enrollment": 162857
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Math grade 4 score": 328571,
+        "Science grade 4 score": 357142,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 125714
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Math grade 4 score": 371428,
+        "Science grade 4 score": 142857,
+        "Reading grade 4 score": 271428,
+        "Primary enrollment": 131428
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Math grade 4 score": 371428,
+        "Science grade 4 score": 414285,
+        "Reading grade 4 score": 314285,
+        "Primary enrollment": 122857
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Math grade 4 score": 371428,
+        "Science grade 4 score": 342857,
+        "Reading grade 4 score": 300000,
+        "Primary enrollment": 139999
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Math grade 4 score": 400000,
+        "Science grade 4 score": 442857,
+        "Reading grade 4 score": 300000,
+        "Primary enrollment": 0
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Math grade 4 score": 414285,
+        "Science grade 4 score": 457142,
+        "Reading grade 4 score": 314285,
+        "Primary enrollment": 108571
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Math grade 4 score": 428571,
+        "Science grade 4 score": 500000,
+        "Reading grade 4 score": 342857,
+        "Primary enrollment": 128571
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Math grade 4 score": 442857,
+        "Science grade 4 score": 357142,
+        "Reading grade 4 score": 385714,
+        "Primary enrollment": 199999
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Math grade 4 score": 228571,
+        "Science grade 4 score": 185714,
+        "Reading grade 4 score": 114285,
+        "Primary enrollment": 151428
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Math grade 4 score": 300000,
+        "Science grade 4 score": 171428,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 91428
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Math grade 4 score": 314285,
+        "Science grade 4 score": 285714,
+        "Reading grade 4 score": 285714,
+        "Primary enrollment": 194285
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Math grade 4 score": 371428,
+        "Science grade 4 score": 385714,
+        "Reading grade 4 score": 314285,
+        "Primary enrollment": 125714
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Math grade 4 score": 314285,
+        "Science grade 4 score": 328571,
+        "Reading grade 4 score": 228571,
+        "Primary enrollment": 179999
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Math grade 4 score": 300000,
+        "Science grade 4 score": 328571,
+        "Reading grade 4 score": 257142,
+        "Primary enrollment": 117142
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Math grade 4 score": 414285,
+        "Science grade 4 score": 342857,
+        "Reading grade 4 score": 328571,
+        "Primary enrollment": 119999
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Math grade 4 score": 342857,
+        "Science grade 4 score": 314285,
+        "Reading grade 4 score": 285714,
+        "Primary enrollment": 148571
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Math grade 4 score": 314285,
+        "Science grade 4 score": 357142,
+        "Reading grade 4 score": 228571,
+        "Primary enrollment": 168571
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Math grade 4 score": 371428,
+        "Science grade 4 score": 385714,
+        "Reading grade 4 score": 314285,
+        "Primary enrollment": 62857
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Math grade 4 score": 357142,
+        "Science grade 4 score": 385714,
+        "Reading grade 4 score": 271428,
+        "Primary enrollment": 128571
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Math grade 4 score": 414285,
+        "Science grade 4 score": 357142,
+        "Reading grade 4 score": 228571,
+        "Primary enrollment": 151428
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Math grade 4 score": 414285,
+        "Science grade 4 score": 428571,
+        "Reading grade 4 score": 357142,
+        "Primary enrollment": 182857
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Math grade 4 score": 457142,
+        "Science grade 4 score": 500000,
+        "Reading grade 4 score": 342857,
+        "Primary enrollment": 154285
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Math grade 4 score": 342857,
+        "Science grade 4 score": 471428,
+        "Reading grade 4 score": 314285,
+        "Primary enrollment": 182857
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Math grade 4 score": 357142,
+        "Science grade 4 score": 400000,
+        "Reading grade 4 score": 285714,
+        "Primary enrollment": 117142
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Math grade 4 score": 385714,
+        "Science grade 4 score": 371428,
+        "Reading grade 4 score": 285714,
+        "Primary enrollment": 182857
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Math grade 4 score": 228571,
+        "Science grade 4 score": 300000,
+        "Reading grade 4 score": 185714,
+        "Primary enrollment": 102857
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Math grade 4 score": 442857,
+        "Science grade 4 score": 442857,
+        "Reading grade 4 score": 385714,
+        "Primary enrollment": 151428
+      }
+    }
+  ],
+  "derivatives": {
+    "Primary Education": [
+      "Math grade 4 score",
+      "Science grade 4 score",
+      "Reading grade 4 score",
+      "Primary enrollment"
+    ]
+  },
+  "weightingOptions": {
+    "Math grade 4 score": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Science grade 4 score": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Reading grade 4 score": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Primary enrollment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

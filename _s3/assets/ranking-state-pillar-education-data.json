@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Pre-Primary Education": 13333333,
+        "Primary Education": 71414285,
+        "Secondary Education": 109121125,
+        "Tertiary Education": 65848794,
+        "Adult Skills": 159553571
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Pre-Primary Education": 28083333,
+        "Primary Education": 69142857,
+        "Secondary Education": 101582222,
+        "Tertiary Education": 90874168,
+        "Adult Skills": 89330357
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Pre-Primary Education": 28583333,
+        "Primary Education": 88857142,
+        "Secondary Education": 123717995,
+        "Tertiary Education": 88701298,
+        "Adult Skills": 83526785
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Pre-Primary Education": 13916666,
+        "Primary Education": 92571428,
+        "Secondary Education": 117961870,
+        "Tertiary Education": 90041732,
+        "Adult Skills": 105982142
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Pre-Primary Education": 24750000,
+        "Primary Education": 83714285,
+        "Secondary Education": 119648939,
+        "Tertiary Education": 140590895,
+        "Adult Skills": 88839285
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Pre-Primary Education": 25250000,
+        "Primary Education": 127142857,
+        "Secondary Education": 163005915,
+        "Tertiary Education": 136454435,
+        "Adult Skills": 187901785
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Pre-Primary Education": 38250000,
+        "Primary Education": 129142857,
+        "Secondary Education": 174210412,
+        "Tertiary Education": 140469662,
+        "Adult Skills": 163660714
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Pre-Primary Education": 40000000,
+        "Primary Education": 102271428,
+        "Secondary Education": 58269230,
+        "Tertiary Education": 158664424,
+        "Adult Skills": 231250000
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Pre-Primary Education": 35083333,
+        "Primary Education": 102285714,
+        "Secondary Education": 126833893,
+        "Tertiary Education": 123826358,
+        "Adult Skills": 139464285
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Pre-Primary Education": 22583333,
+        "Primary Education": 136000000,
+        "Secondary Education": 142768339,
+        "Tertiary Education": 103527252,
+        "Adult Skills": 114687500
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Pre-Primary Education": 31583333,
+        "Primary Education": 106285714,
+        "Secondary Education": 127717587,
+        "Tertiary Education": 105355926,
+        "Adult Skills": 115848214
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Pre-Primary Education": 34333333,
+        "Primary Education": 93714285,
+        "Secondary Education": 105793754,
+        "Tertiary Education": 122630177,
+        "Adult Skills": 159464285
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Pre-Primary Education": 26500000,
+        "Primary Education": 126857142,
+        "Secondary Education": 154481222,
+        "Tertiary Education": 125142334,
+        "Adult Skills": 147812500
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Pre-Primary Education": 2416666,
+        "Primary Education": 114285714,
+        "Secondary Education": 158359252,
+        "Tertiary Education": 83566790,
+        "Adult Skills": 136116071
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Pre-Primary Education": 35000000,
+        "Primary Education": 103428571,
+        "Secondary Education": 146442983,
+        "Tertiary Education": 117663605,
+        "Adult Skills": 143125000
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Pre-Primary Education": 8166666,
+        "Primary Education": 124571428,
+        "Secondary Education": 149387932,
+        "Tertiary Education": 134866356,
+        "Adult Skills": 113526785
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Pre-Primary Education": 21583333,
+        "Primary Education": 111142857,
+        "Secondary Education": 148859660,
+        "Tertiary Education": 122043140,
+        "Adult Skills": 155357142
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Pre-Primary Education": 19833333,
+        "Primary Education": 113714285,
+        "Secondary Education": 144532308,
+        "Tertiary Education": 99049131,
+        "Adult Skills": 86473214
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Pre-Primary Education": 30500000,
+        "Primary Education": 70285714,
+        "Secondary Education": 97010136,
+        "Tertiary Education": 92277008,
+        "Adult Skills": 75446428
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Pre-Primary Education": 33916666,
+        "Primary Education": 151142857,
+        "Secondary Education": 191772092,
+        "Tertiary Education": 160143124,
+        "Adult Skills": 185267857
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Pre-Primary Education": 27416666,
+        "Primary Education": 111714285,
+        "Secondary Education": 145925825,
+        "Tertiary Education": 125202568,
+        "Adult Skills": 164419642
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Pre-Primary Education": 28166666,
+        "Primary Education": 120000000,
+        "Secondary Education": 158036881,
+        "Tertiary Education": 89206864,
+        "Adult Skills": 165357142
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Pre-Primary Education": 30916666,
+        "Primary Education": 105714285,
+        "Secondary Education": 140954581,
+        "Tertiary Education": 106273095,
+        "Adult Skills": 139285714
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Pre-Primary Education": 23250000,
+        "Primary Education": 133428571,
+        "Secondary Education": 172999627,
+        "Tertiary Education": 128966542,
+        "Adult Skills": 181741071
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Pre-Primary Education": 22916666,
+        "Primary Education": 106857142,
+        "Secondary Education": 147819116,
+        "Tertiary Education": 122755491,
+        "Adult Skills": 133660714
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Pre-Primary Education": 42000000,
+        "Primary Education": 91714285,
+        "Secondary Education": 96921081,
+        "Tertiary Education": 86451899,
+        "Adult Skills": 60758928
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Pre-Primary Education": 14583333,
+        "Primary Education": 122285714,
+        "Secondary Education": 157363513,
+        "Tertiary Education": 71655844,
+        "Adult Skills": 173750000
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Pre-Primary Education": 25833333,
+        "Primary Education": 115428571,
+        "Secondary Education": 139524309,
+        "Tertiary Education": 129292036,
+        "Adult Skills": 121473214
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Pre-Primary Education": 3333333,
+        "Primary Education": 114285714,
+        "Secondary Education": 161070276,
+        "Tertiary Education": 81920222,
+        "Adult Skills": 159285714
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Pre-Primary Education": 25166666,
+        "Primary Education": 129428571,
+        "Secondary Education": 168291747,
+        "Tertiary Education": 107745937,
+        "Adult Skills": 154642857
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Pre-Primary Education": 23500000,
+        "Primary Education": 140000000,
+        "Secondary Education": 180205381,
+        "Tertiary Education": 108758535,
+        "Adult Skills": 180000000
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Pre-Primary Education": 44833333,
+        "Primary Education": 138571428,
+        "Secondary Education": 180122934,
+        "Tertiary Education": 135512036,
+        "Adult Skills": 164464285
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Pre-Primary Education": 28416666,
+        "Primary Education": 68000000,
+        "Secondary Education": 71014866,
+        "Tertiary Education": 101149075,
+        "Adult Skills": 82991071
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Pre-Primary Education": 19250000,
+        "Primary Education": 82000000,
+        "Secondary Education": 117980035,
+        "Tertiary Education": 70292207,
+        "Adult Skills": 85669642
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Pre-Primary Education": 36083333,
+        "Primary Education": 108000000,
+        "Secondary Education": 129337938,
+        "Tertiary Education": 127379437,
+        "Adult Skills": 129732142
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Pre-Primary Education": 23083333,
+        "Primary Education": 119714285,
+        "Secondary Education": 150960547,
+        "Tertiary Education": 117753598,
+        "Adult Skills": 131741071
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Pre-Primary Education": 26416666,
+        "Primary Education": 105142857,
+        "Secondary Education": 127722522,
+        "Tertiary Education": 115295502,
+        "Adult Skills": 100625000
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Pre-Primary Education": 24083333,
+        "Primary Education": 100285714,
+        "Secondary Education": 142190626,
+        "Tertiary Education": 117748861,
+        "Adult Skills": 153348214
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Pre-Primary Education": 23750000,
+        "Primary Education": 120571428,
+        "Secondary Education": 143093996,
+        "Tertiary Education": 148032556,
+        "Adult Skills": 142901785
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Pre-Primary Education": 32833333,
+        "Primary Education": 109142857,
+        "Secondary Education": 134419674,
+        "Tertiary Education": 115630236,
+        "Adult Skills": 135535714
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Pre-Primary Education": 23166666,
+        "Primary Education": 106857142,
+        "Secondary Education": 115465450,
+        "Tertiary Education": 89180129,
+        "Adult Skills": 110357142
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Pre-Primary Education": 10833333,
+        "Primary Education": 113428571,
+        "Secondary Education": 148541728,
+        "Tertiary Education": 85927643,
+        "Adult Skills": 144598214
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Pre-Primary Education": 22416666,
+        "Primary Education": 114285714,
+        "Secondary Education": 153027764,
+        "Tertiary Education": 91532006,
+        "Adult Skills": 104866071
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Pre-Primary Education": 16666666,
+        "Primary Education": 115142857,
+        "Secondary Education": 135362457,
+        "Tertiary Education": 92649107,
+        "Adult Skills": 81071428
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Pre-Primary Education": 12333333,
+        "Primary Education": 138285714,
+        "Secondary Education": 175518194,
+        "Tertiary Education": 86200745,
+        "Adult Skills": 168571428
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Pre-Primary Education": 27416666,
+        "Primary Education": 145428571,
+        "Secondary Education": 162778892,
+        "Tertiary Education": 130568173,
+        "Adult Skills": 156785714
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Pre-Primary Education": 41666666,
+        "Primary Education": 131142857,
+        "Secondary Education": 174555729,
+        "Tertiary Education": 143076134,
+        "Adult Skills": 181651785
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Pre-Primary Education": 27916666,
+        "Primary Education": 116000000,
+        "Secondary Education": 157088849,
+        "Tertiary Education": 130729445,
+        "Adult Skills": 163839285
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Pre-Primary Education": 16083333,
+        "Primary Education": 122571428,
+        "Secondary Education": 173930300,
+        "Tertiary Education": 125214347,
+        "Adult Skills": 155848214
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Pre-Primary Education": 16083333,
+        "Primary Education": 81714285,
+        "Secondary Education": 110484745,
+        "Tertiary Education": 69239332,
+        "Adult Skills": 73080357
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Pre-Primary Education": 3750000,
+        "Primary Education": 142285714,
+        "Secondary Education": 158852180,
+        "Tertiary Education": 105372963,
+        "Adult Skills": 159687500
+      }
+    }
+  ],
+  "derivatives": {
+    "Education": [
+      "Pre-Primary Education",
+      "Primary Education",
+      "Secondary Education",
+      "Tertiary Education",
+      "Adult Skills"
+    ]
+  },
+  "weightingOptions": {
+    "Pre-Primary Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Primary Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Secondary Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Tertiary Education": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Adult Skills": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

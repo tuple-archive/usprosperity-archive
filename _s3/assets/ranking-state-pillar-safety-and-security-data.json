@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Mass Killings and Injuries": 125972305,
+        "Violent Crime": 109251670,
+        "Property Crime": 158625181
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Mass Killings and Injuries": 108553499,
+        "Violent Crime": 217433307,
+        "Property Crime": 143766979
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Mass Killings and Injuries": 112931612,
+        "Violent Crime": 178349860,
+        "Property Crime": 132490481
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Mass Killings and Injuries": 125814880,
+        "Violent Crime": 238233688,
+        "Property Crime": 166231337
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Mass Killings and Injuries": 114581018,
+        "Violent Crime": 259879861,
+        "Property Crime": 159724801
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Mass Killings and Injuries": 115900265,
+        "Violent Crime": 250524572,
+        "Property Crime": 162450477
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Mass Killings and Injuries": 123702254,
+        "Violent Crime": 365095118,
+        "Property Crime": 253659386
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Mass Killings and Injuries": 74130048,
+        "Violent Crime": 103612810,
+        "Property Crime": 164901219
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Mass Killings and Injuries": 106078785,
+        "Violent Crime": 264605523,
+        "Property Crime": 192008451
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Mass Killings and Injuries": 94042458,
+        "Violent Crime": 259516397,
+        "Property Crime": 193396097
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Mass Killings and Injuries": 117981469,
+        "Violent Crime": 275119733,
+        "Property Crime": 170604495
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Mass Killings and Injuries": 150000000,
+        "Violent Crime": 287024747,
+        "Property Crime": 158584948
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Mass Killings and Injuries": 123963749,
+        "Violent Crime": 332546401,
+        "Property Crime": 217720787
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Mass Killings and Injuries": 141331025,
+        "Violent Crime": 347263478,
+        "Property Crime": 271669679
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Mass Killings and Injuries": 105142633,
+        "Violent Crime": 231714225,
+        "Property Crime": 206234762
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Mass Killings and Injuries": 120000952,
+        "Violent Crime": 259422727,
+        "Property Crime": 196477607
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Mass Killings and Injuries": 113565597,
+        "Violent Crime": 261542563,
+        "Property Crime": 173269166
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Mass Killings and Injuries": 114699617,
+        "Violent Crime": 307273791,
+        "Property Crime": 205659043
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Mass Killings and Injuries": 76401250,
+        "Violent Crime": 180175771,
+        "Property Crime": 131372128
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Mass Killings and Injuries": 129018418,
+        "Violent Crime": 315905058,
+        "Property Crime": 260149290
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Mass Killings and Injuries": 109979705,
+        "Violent Crime": 231584878,
+        "Property Crime": 201861039
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Mass Killings and Injuries": 135936900,
+        "Violent Crime": 407231155,
+        "Property Crime": 271429350
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Mass Killings and Injuries": 121267299,
+        "Violent Crime": 217820457,
+        "Property Crime": 215702028
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Mass Killings and Injuries": 125725508,
+        "Violent Crime": 330552786,
+        "Property Crime": 214492121
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Mass Killings and Injuries": 98059010,
+        "Violent Crime": 201572211,
+        "Property Crime": 160038078
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Mass Killings and Injuries": 95456449,
+        "Violent Crime": 262053217,
+        "Property Crime": 143619860
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Mass Killings and Injuries": 111726354,
+        "Violent Crime": 278697237,
+        "Property Crime": 204956549
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Mass Killings and Injuries": 118162826,
+        "Violent Crime": 264719922,
+        "Property Crime": 163785010
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Mass Killings and Injuries": 133857842,
+        "Violent Crime": 290380063,
+        "Property Crime": 198915169
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Mass Killings and Injuries": 126213482,
+        "Violent Crime": 290882186,
+        "Property Crime": 223420768
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Mass Killings and Injuries": 150000000,
+        "Violent Crime": 360155156,
+        "Property Crime": 294919052
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Mass Killings and Injuries": 117249575,
+        "Violent Crime": 366766881,
+        "Property Crime": 249956429
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Mass Killings and Injuries": 94811038,
+        "Violent Crime": 157607479,
+        "Property Crime": 126864894
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Mass Killings and Injuries": 28888961,
+        "Violent Crime": 221376248,
+        "Property Crime": 145262912
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Mass Killings and Injuries": 113988270,
+        "Violent Crime": 295614005,
+        "Property Crime": 276373725
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Mass Killings and Injuries": 106454263,
+        "Violent Crime": 274732719,
+        "Property Crime": 193748458
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Mass Killings and Injuries": 132644415,
+        "Violent Crime": 220362335,
+        "Property Crime": 122688597
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Mass Killings and Injuries": 125828954,
+        "Violent Crime": 305572889,
+        "Property Crime": 175490837
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Mass Killings and Injuries": 109852201,
+        "Violent Crime": 279965126,
+        "Property Crime": 258989410
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Mass Killings and Injuries": 150000000,
+        "Violent Crime": 326570394,
+        "Property Crime": 229904656
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Mass Killings and Injuries": 101284399,
+        "Violent Crime": 203357002,
+        "Property Crime": 137281352
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Mass Killings and Injuries": 142346754,
+        "Violent Crime": 279458423,
+        "Property Crime": 231910331
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Mass Killings and Injuries": 105030040,
+        "Violent Crime": 208937185,
+        "Property Crime": 158965524
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Mass Killings and Injuries": 108138742,
+        "Violent Crime": 244526473,
+        "Property Crime": 163854597
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Mass Killings and Injuries": 137202137,
+        "Violent Crime": 318698832,
+        "Property Crime": 200458762
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Mass Killings and Injuries": 113896729,
+        "Violent Crime": 313063228,
+        "Property Crime": 264014688
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Mass Killings and Injuries": 150000000,
+        "Violent Crime": 352592014,
+        "Property Crime": 281888524
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Mass Killings and Injuries": 116410926,
+        "Violent Crime": 305175988,
+        "Property Crime": 146716021
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Mass Killings and Injuries": 127053474,
+        "Violent Crime": 302395774,
+        "Property Crime": 251721973
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Mass Killings and Injuries": 130389755,
+        "Violent Crime": 281262809,
+        "Property Crime": 223039957
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Mass Killings and Injuries": 128726597,
+        "Violent Crime": 330855406,
+        "Property Crime": 244561921
+      }
+    }
+  ],
+  "derivatives": {
+    "Safety and Security": [
+      "Mass Killings and Injuries",
+      "Violent Crime",
+      "Property Crime"
+    ]
+  },
+  "weightingOptions": {
+    "Mass Killings and Injuries": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Violent Crime": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Property Crime": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

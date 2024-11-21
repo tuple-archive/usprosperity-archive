@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Mass shooting deaths": 356347,
+        "Mass shooting injuries": 236709,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Mass shooting deaths": 280537,
+        "Mass shooting injuries": 138330,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Mass shooting deaths": 341562,
+        "Mass shooting injuries": 143680,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 161825,
+        "Terrorism events": 148914
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Mass shooting deaths": 394234,
+        "Mass shooting injuries": 238690,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 160573,
+        "Terrorism events": 131316
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Mass shooting deaths": 373803,
+        "Mass shooting injuries": 196114,
+        "Terrorism deaths": 305757,
+        "Terrorism injuries": 146507,
+        "Terrorism events": 123626
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Mass shooting deaths": 389412,
+        "Mass shooting injuries": 198308,
+        "Terrorism deaths": 303915,
+        "Terrorism injuries": 145609,
+        "Terrorism events": 121756
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Mass shooting deaths": 414170,
+        "Mass shooting injuries": 185715,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 137136
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Mass shooting deaths": 224205,
+        "Mass shooting injuries": 17094,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 0
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Mass shooting deaths": 325992,
+        "Mass shooting injuries": 162652,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 72143
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Mass shooting deaths": 326040,
+        "Mass shooting injuries": 175277,
+        "Terrorism deaths": 206991,
+        "Terrorism injuries": 119351,
+        "Terrorism events": 112762
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Mass shooting deaths": 359504,
+        "Mass shooting injuries": 182031,
+        "Terrorism deaths": 329221,
+        "Terrorism injuries": 162537,
+        "Terrorism events": 146520
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Mass shooting deaths": 500000,
+        "Mass shooting injuries": 333333,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Mass shooting deaths": 418317,
+        "Mass shooting injuries": 231240,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 90079
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Mass shooting deaths": 467001,
+        "Mass shooting injuries": 309667,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 136641
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Mass shooting deaths": 299916,
+        "Mass shooting injuries": 103031,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 165479,
+        "Terrorism events": 149665
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Mass shooting deaths": 383502,
+        "Mass shooting injuries": 192771,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 162290,
+        "Terrorism events": 128111
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Mass shooting deaths": 325199,
+        "Mass shooting injuries": 186744,
+        "Terrorism deaths": 318575,
+        "Terrorism injuries": 156917,
+        "Terrorism events": 148219
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Mass shooting deaths": 374903,
+        "Mass shooting injuries": 179668,
+        "Terrorism deaths": 314317,
+        "Terrorism injuries": 157129,
+        "Terrorism events": 120977
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Mass shooting deaths": 240762,
+        "Mass shooting injuries": 96665,
+        "Terrorism deaths": 254075,
+        "Terrorism injuries": 129078,
+        "Terrorism events": 43430
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Mass shooting deaths": 443157,
+        "Mass shooting injuries": 240087,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 158341,
+        "Terrorism events": 115264
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Mass shooting deaths": 323410,
+        "Mass shooting injuries": 143185,
+        "Terrorism deaths": 326111,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 140423
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Mass shooting deaths": 381064,
+        "Mass shooting injuries": 311638,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Mass shooting deaths": 365358,
+        "Mass shooting injuries": 198373,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 165164,
+        "Terrorism events": 150443
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Mass shooting deaths": 458244,
+        "Mass shooting injuries": 209627,
+        "Terrorism deaths": 325547,
+        "Terrorism injuries": 134145,
+        "Terrorism events": 129689
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Mass shooting deaths": 274603,
+        "Mass shooting injuries": 142643,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 141676,
+        "Terrorism events": 88332
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Mass shooting deaths": 230714,
+        "Mass shooting injuries": 123326,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 100523
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Mass shooting deaths": 347919,
+        "Mass shooting injuries": 270831,
+        "Terrorism deaths": 262761,
+        "Terrorism injuries": 116679,
+        "Terrorism events": 119072
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Mass shooting deaths": 358941,
+        "Mass shooting injuries": 198944,
+        "Terrorism deaths": 320722,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 136352
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Mass shooting deaths": 500000,
+        "Mass shooting injuries": 333333,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 5245
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Mass shooting deaths": 455003,
+        "Mass shooting injuries": 215731,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 91399
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Mass shooting deaths": 500000,
+        "Mass shooting injuries": 333333,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Mass shooting deaths": 385288,
+        "Mass shooting injuries": 180404,
+        "Terrorism deaths": 309625,
+        "Terrorism injuries": 160133,
+        "Terrorism events": 137044
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Mass shooting deaths": 266851,
+        "Mass shooting injuries": 196175,
+        "Terrorism deaths": 277477,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 40939
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Mass shooting deaths": 197715,
+        "Mass shooting injuries": 41441,
+        "Terrorism deaths": 0,
+        "Terrorism injuries": 0,
+        "Terrorism events": 49733
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Mass shooting deaths": 441251,
+        "Mass shooting injuries": 197943,
+        "Terrorism deaths": 301467,
+        "Terrorism injuries": 124278,
+        "Terrorism events": 74941
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Mass shooting deaths": 345749,
+        "Mass shooting injuries": 170285,
+        "Terrorism deaths": 291841,
+        "Terrorism injuries": 125641,
+        "Terrorism events": 131024
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Mass shooting deaths": 426450,
+        "Mass shooting injuries": 233326,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Mass shooting deaths": 470752,
+        "Mass shooting injuries": 284029,
+        "Terrorism deaths": 232089,
+        "Terrorism injuries": 141992,
+        "Terrorism events": 129426
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Mass shooting deaths": 356887,
+        "Mass shooting injuries": 172435,
+        "Terrorism deaths": 289334,
+        "Terrorism injuries": 149756,
+        "Terrorism events": 130106
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Mass shooting deaths": 500000,
+        "Mass shooting injuries": 333333,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Mass shooting deaths": 325295,
+        "Mass shooting injuries": 149898,
+        "Terrorism deaths": 265320,
+        "Terrorism injuries": 163817,
+        "Terrorism events": 108512
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Mass shooting deaths": 466307,
+        "Mass shooting injuries": 290493,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Mass shooting deaths": 366294,
+        "Mass shooting injuries": 142904,
+        "Terrorism deaths": 285979,
+        "Terrorism injuries": 140538,
+        "Terrorism events": 114584
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Mass shooting deaths": 337464,
+        "Mass shooting injuries": 203848,
+        "Terrorism deaths": 277149,
+        "Terrorism injuries": 143583,
+        "Terrorism events": 119341
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Mass shooting deaths": 439651,
+        "Mass shooting injuries": 303059,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 162010,
+        "Terrorism events": 133966
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Mass shooting deaths": 376301,
+        "Mass shooting injuries": 189928,
+        "Terrorism deaths": 323180,
+        "Terrorism injuries": 119441,
+        "Terrorism events": 130114
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Mass shooting deaths": 500000,
+        "Mass shooting injuries": 333333,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Mass shooting deaths": 379280,
+        "Mass shooting injuries": 245526,
+        "Terrorism deaths": 327630,
+        "Terrorism injuries": 157257,
+        "Terrorism events": 54414
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Mass shooting deaths": 396688,
+        "Mass shooting injuries": 225604,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 148241
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Mass shooting deaths": 366291,
+        "Mass shooting injuries": 270939,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 166666
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Mass shooting deaths": 412851,
+        "Mass shooting injuries": 289759,
+        "Terrorism deaths": 333333,
+        "Terrorism injuries": 166666,
+        "Terrorism events": 84655
+      }
+    }
+  ],
+  "derivatives": {
+    "Mass Killing and Injuries": [
+      "Mass shooting deaths",
+      "Mass shooting injuries",
+      "Terrorism deaths",
+      "Terrorism injuries",
+      "Terrorism events"
+    ]
+  },
+  "weightingOptions": {
+    "Mass shooting deaths": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Mass shooting injuries": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Terrorism deaths": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Terrorism injuries": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Terrorism events": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

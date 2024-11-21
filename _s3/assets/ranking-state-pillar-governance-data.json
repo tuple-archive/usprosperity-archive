@@ -1,0 +1,547 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Political Accountability": 199265333,
+        "Rule of Law": 171500000,
+        "Government Integrity": 229763541
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Political Accountability": 153508190,
+        "Rule of Law": 119000000,
+        "Government Integrity": 146415375
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Political Accountability": 118346039,
+        "Rule of Law": 208250000,
+        "Government Integrity": 116742694
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Political Accountability": 258884511,
+        "Rule of Law": 218750000,
+        "Government Integrity": 220998582
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Political Accountability": 189851641,
+        "Rule of Law": 204750000,
+        "Government Integrity": 220920113
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Political Accountability": 279055733,
+        "Rule of Law": 280000000,
+        "Government Integrity": 224848666
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Political Accountability": 196409004,
+        "Rule of Law": 329000000,
+        "Government Integrity": 280514440
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Political Accountability": 208920412,
+        "Rule of Law": 350000000,
+        "Government Integrity": 238291388
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Political Accountability": 199149445,
+        "Rule of Law": 271250000,
+        "Government Integrity": 176182540
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Political Accountability": 232798200,
+        "Rule of Law": 143500000,
+        "Government Integrity": 178164846
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Political Accountability": 179570485,
+        "Rule of Law": 68250000,
+        "Government Integrity": 153180870
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Political Accountability": 179271754,
+        "Rule of Law": 339500000,
+        "Government Integrity": 213792704
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Political Accountability": 208958193,
+        "Rule of Law": 203000000,
+        "Government Integrity": 280437593
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Political Accountability": 140582374,
+        "Rule of Law": 197750000,
+        "Government Integrity": 242013548
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Political Accountability": 196823032,
+        "Rule of Law": 225750000,
+        "Government Integrity": 203305153
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Political Accountability": 171065344,
+        "Rule of Law": 108500000,
+        "Government Integrity": 234826492
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Political Accountability": 137798595,
+        "Rule of Law": 140000000,
+        "Government Integrity": 180477456
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Political Accountability": 155717845,
+        "Rule of Law": 224000000,
+        "Government Integrity": 176425164
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Political Accountability": 210087925,
+        "Rule of Law": 47250000,
+        "Government Integrity": 120678537
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Political Accountability": 207548700,
+        "Rule of Law": 344750000,
+        "Government Integrity": 215079392
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Political Accountability": 210701142,
+        "Rule of Law": 290500000,
+        "Government Integrity": 203003319
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Political Accountability": 253142622,
+        "Rule of Law": 281750000,
+        "Government Integrity": 178694456
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Political Accountability": 235766742,
+        "Rule of Law": 266000000,
+        "Government Integrity": 170664823
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Political Accountability": 231391449,
+        "Rule of Law": 231000000,
+        "Government Integrity": 218074382
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Political Accountability": 228772919,
+        "Rule of Law": 73500000,
+        "Government Integrity": 206711972
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Political Accountability": 96036255,
+        "Rule of Law": 87500000,
+        "Government Integrity": 121831671
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Political Accountability": 246630938,
+        "Rule of Law": 122500000,
+        "Government Integrity": 227302243
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Political Accountability": 171500961,
+        "Rule of Law": 255500000,
+        "Government Integrity": 219033418
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Political Accountability": 213139070,
+        "Rule of Law": 113750000,
+        "Government Integrity": 239354617
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Political Accountability": 230629362,
+        "Rule of Law": 213500000,
+        "Government Integrity": 256686893
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Political Accountability": 157666371,
+        "Rule of Law": 192500000,
+        "Government Integrity": 212877171
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Political Accountability": 160487237,
+        "Rule of Law": 190750000,
+        "Government Integrity": 153028476
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Political Accountability": 220615422,
+        "Rule of Law": 302750000,
+        "Government Integrity": 182701851
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Political Accountability": 249352536,
+        "Rule of Law": 98000000,
+        "Government Integrity": 164463844
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Political Accountability": 155222931,
+        "Rule of Law": 152250000,
+        "Government Integrity": 167136678
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Political Accountability": 237700450,
+        "Rule of Law": 176750000,
+        "Government Integrity": 233276811
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Political Accountability": 198289405,
+        "Rule of Law": 80500000,
+        "Government Integrity": 131232105
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Political Accountability": 230453544,
+        "Rule of Law": 287000000,
+        "Government Integrity": 179012233
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Political Accountability": 167031925,
+        "Rule of Law": 63000000,
+        "Government Integrity": 153417056
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Political Accountability": 168011273,
+        "Rule of Law": 250250000,
+        "Government Integrity": 225554435
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Political Accountability": 158156312,
+        "Rule of Law": 57750000,
+        "Government Integrity": 174316802
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Political Accountability": 193174613,
+        "Rule of Law": 103250000,
+        "Government Integrity": 167610641
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Political Accountability": 156370122,
+        "Rule of Law": 308000000,
+        "Government Integrity": 191736320
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Political Accountability": 166052640,
+        "Rule of Law": 182000000,
+        "Government Integrity": 165806827
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Political Accountability": 166427605,
+        "Rule of Law": 245000000,
+        "Government Integrity": 200770073
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Political Accountability": 196415862,
+        "Rule of Law": 229250000,
+        "Government Integrity": 208745802
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Political Accountability": 219827674,
+        "Rule of Law": 129500000,
+        "Government Integrity": 211889473
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Political Accountability": 206999665,
+        "Rule of Law": 276500000,
+        "Government Integrity": 294521283
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Political Accountability": 209323551,
+        "Rule of Law": 297500000,
+        "Government Integrity": 214178716
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Political Accountability": 147341376,
+        "Rule of Law": 217000000,
+        "Government Integrity": 212437482
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Political Accountability": 149769396,
+        "Rule of Law": 92750000,
+        "Government Integrity": 163710198
+      }
+    }
+  ],
+  "derivatives": {
+    "Governance": [
+      "Political Accountability",
+      "Rule of Law",
+      "Government Integrity"
+    ]
+  },
+  "weightingOptions": {
+    "Political Accountability": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Rule of Law": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Government Integrity": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

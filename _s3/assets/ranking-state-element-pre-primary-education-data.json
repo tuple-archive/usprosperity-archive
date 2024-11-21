@@ -1,0 +1,470 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Pre-primary enrollment": 116666,
+        "State pre-K quality": 16666
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Pre-primary enrollment": 114166,
+        "State pre-K quality": 166666
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Pre-primary enrollment": 152499,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Pre-primary enrollment": 89166,
+        "State pre-K quality": 50000
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Pre-primary enrollment": 169166,
+        "State pre-K quality": 78333
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Pre-primary enrollment": 185833,
+        "State pre-K quality": 66666
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Pre-primary enrollment": 299166,
+        "State pre-K quality": 83333
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Pre-primary enrollment": 333333,
+        "State pre-K quality": 66666
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Pre-primary enrollment": 200833,
+        "State pre-K quality": 150000
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Pre-primary enrollment": 192499,
+        "State pre-K quality": 33333
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Pre-primary enrollment": 182499,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Pre-primary enrollment": 209999,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Pre-primary enrollment": 133333,
+        "State pre-K quality": 131666
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Pre-primary enrollment": 24166,
+        "State pre-K quality": 0
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Pre-primary enrollment": 216666,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Pre-primary enrollment": 81666,
+        "State pre-K quality": 0
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Pre-primary enrollment": 149166,
+        "State pre-K quality": 66666
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Pre-primary enrollment": 64999,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Pre-primary enrollment": 173333,
+        "State pre-K quality": 131666
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Pre-primary enrollment": 252499,
+        "State pre-K quality": 86666
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Pre-primary enrollment": 157499,
+        "State pre-K quality": 116666
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Pre-primary enrollment": 131666,
+        "State pre-K quality": 150000
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Pre-primary enrollment": 142499,
+        "State pre-K quality": 166666
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Pre-primary enrollment": 142499,
+        "State pre-K quality": 90000
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Pre-primary enrollment": 130833,
+        "State pre-K quality": 98333
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Pre-primary enrollment": 253333,
+        "State pre-K quality": 166666
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Pre-primary enrollment": 45833,
+        "State pre-K quality": 100000
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Pre-primary enrollment": 124999,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Pre-primary enrollment": 0,
+        "State pre-K quality": 33333
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Pre-primary enrollment": 118333,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Pre-primary enrollment": 234999,
+        "State pre-K quality": 0
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Pre-primary enrollment": 314999,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Pre-primary enrollment": 134166,
+        "State pre-K quality": 150000
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Pre-primary enrollment": 75833,
+        "State pre-K quality": 116666
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Pre-primary enrollment": 244166,
+        "State pre-K quality": 116666
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Pre-primary enrollment": 147499,
+        "State pre-K quality": 83333
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Pre-primary enrollment": 114166,
+        "State pre-K quality": 150000
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Pre-primary enrollment": 115833,
+        "State pre-K quality": 125000
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Pre-primary enrollment": 127499,
+        "State pre-K quality": 110000
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Pre-primary enrollment": 161666,
+        "State pre-K quality": 166666
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Pre-primary enrollment": 114999,
+        "State pre-K quality": 116666
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Pre-primary enrollment": 108333,
+        "State pre-K quality": 0
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Pre-primary enrollment": 90833,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Pre-primary enrollment": 116666,
+        "State pre-K quality": 50000
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Pre-primary enrollment": 123333,
+        "State pre-K quality": 0
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Pre-primary enrollment": 174166,
+        "State pre-K quality": 100000
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Pre-primary enrollment": 299999,
+        "State pre-K quality": 116666
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Pre-primary enrollment": 145833,
+        "State pre-K quality": 133333
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Pre-primary enrollment": 110833,
+        "State pre-K quality": 50000
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Pre-primary enrollment": 10833,
+        "State pre-K quality": 150000
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Pre-primary enrollment": 37499,
+        "State pre-K quality": 0
+      }
+    }
+  ],
+  "derivatives": {
+    "Pre-Primary Education": [
+      "Pre-primary enrollment",
+      "State pre-K quality"
+    ]
+  },
+  "weightingOptions": {
+    "Pre-primary enrollment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "State pre-K quality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

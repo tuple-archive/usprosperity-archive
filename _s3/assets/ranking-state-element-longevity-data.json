@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Maternal mortality": 184990,
+        "Under 5 mortality": 314037,
+        "5-14 mortality": 93892,
+        "15-64 mortality": 457195,
+        "Mortality risk 65-85": 168444
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Maternal mortality": 135953,
+        "Under 5 mortality": 193849,
+        "5-14 mortality": 102085,
+        "15-64 mortality": 201098,
+        "Mortality risk 65-85": 12000
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Maternal mortality": 89399,
+        "Under 5 mortality": 248563,
+        "5-14 mortality": 122842,
+        "15-64 mortality": 245400,
+        "Mortality risk 65-85": 43333
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Maternal mortality": 176710,
+        "Under 5 mortality": 328749,
+        "5-14 mortality": 140257,
+        "15-64 mortality": 525122,
+        "Mortality risk 65-85": 290444
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Maternal mortality": 178343,
+        "Under 5 mortality": 382826,
+        "5-14 mortality": 180114,
+        "15-64 mortality": 735478,
+        "Mortality risk 65-85": 326666
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Maternal mortality": 187948,
+        "Under 5 mortality": 363568,
+        "5-14 mortality": 144414,
+        "15-64 mortality": 670186,
+        "Mortality risk 65-85": 253111
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Maternal mortality": 186125,
+        "Under 5 mortality": 374612,
+        "5-14 mortality": 188878,
+        "15-64 mortality": 684287,
+        "Mortality risk 65-85": 281777
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Maternal mortality": 2024,
+        "Under 5 mortality": 357834,
+        "5-14 mortality": 0,
+        "15-64 mortality": 341910,
+        "Mortality risk 65-85": 265777
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Maternal mortality": 179624,
+        "Under 5 mortality": 262833,
+        "5-14 mortality": 123414,
+        "15-64 mortality": 427296,
+        "Mortality risk 65-85": 186000
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Maternal mortality": 144417,
+        "Under 5 mortality": 298777,
+        "5-14 mortality": 158471,
+        "15-64 mortality": 516644,
+        "Mortality risk 65-85": 312666
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Maternal mortality": 58298,
+        "Under 5 mortality": 252883,
+        "5-14 mortality": 137271,
+        "15-64 mortality": 472392,
+        "Mortality risk 65-85": 89777
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Maternal mortality": 157837,
+        "Under 5 mortality": 328597,
+        "5-14 mortality": 147707,
+        "15-64 mortality": 651443,
+        "Mortality risk 65-85": 384222
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Maternal mortality": 164406,
+        "Under 5 mortality": 346496,
+        "5-14 mortality": 134592,
+        "15-64 mortality": 600304,
+        "Mortality risk 65-85": 209555
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Maternal mortality": 135218,
+        "Under 5 mortality": 361773,
+        "5-14 mortality": 84592,
+        "15-64 mortality": 682994,
+        "Mortality risk 65-85": 203555
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Maternal mortality": 166142,
+        "Under 5 mortality": 321129,
+        "5-14 mortality": 172935,
+        "15-64 mortality": 591531,
+        "Mortality risk 65-85": 189777
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Maternal mortality": 138797,
+        "Under 5 mortality": 273374,
+        "5-14 mortality": 141921,
+        "15-64 mortality": 404372,
+        "Mortality risk 65-85": 84222
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Maternal mortality": 154078,
+        "Under 5 mortality": 312760,
+        "5-14 mortality": 140042,
+        "15-64 mortality": 528506,
+        "Mortality risk 65-85": 163333
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Maternal mortality": 142270,
+        "Under 5 mortality": 333358,
+        "5-14 mortality": 126364,
+        "15-64 mortality": 190909,
+        "Mortality risk 65-85": 5333
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Maternal mortality": 97058,
+        "Under 5 mortality": 210489,
+        "5-14 mortality": 117235,
+        "15-64 mortality": 226177,
+        "Mortality risk 65-85": 33555
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Maternal mortality": 200000,
+        "Under 5 mortality": 400000,
+        "5-14 mortality": 187228,
+        "15-64 mortality": 708038,
+        "Mortality risk 65-85": 250444
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Maternal mortality": 132495,
+        "Under 5 mortality": 302794,
+        "5-14 mortality": 176457,
+        "15-64 mortality": 529339,
+        "Mortality risk 65-85": 208444
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Maternal mortality": 175733,
+        "Under 5 mortality": 340398,
+        "5-14 mortality": 144728,
+        "15-64 mortality": 515381,
+        "Mortality risk 65-85": 164222
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Maternal mortality": 140456,
+        "Under 5 mortality": 284980,
+        "5-14 mortality": 136592,
+        "15-64 mortality": 500712,
+        "Mortality risk 65-85": 138222
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Maternal mortality": 185712,
+        "Under 5 mortality": 355893,
+        "5-14 mortality": 172000,
+        "15-64 mortality": 748108,
+        "Mortality risk 65-85": 276888
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Maternal mortality": 141580,
+        "Under 5 mortality": 290295,
+        "5-14 mortality": 135828,
+        "15-64 mortality": 364967,
+        "Mortality risk 65-85": 111111
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Maternal mortality": 108312,
+        "Under 5 mortality": 160576,
+        "5-14 mortality": 73078,
+        "15-64 mortality": 90684,
+        "Mortality risk 65-85": 0
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Maternal mortality": 124421,
+        "Under 5 mortality": 346744,
+        "5-14 mortality": 117421,
+        "15-64 mortality": 516293,
+        "Mortality risk 65-85": 192222
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Maternal mortality": 160883,
+        "Under 5 mortality": 264786,
+        "5-14 mortality": 157300,
+        "15-64 mortality": 472146,
+        "Mortality risk 65-85": 123777
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Maternal mortality": 126747,
+        "Under 5 mortality": 250920,
+        "5-14 mortality": 104007,
+        "15-64 mortality": 579246,
+        "Mortality risk 65-85": 250000
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Maternal mortality": 156988,
+        "Under 5 mortality": 344446,
+        "5-14 mortality": 140028,
+        "15-64 mortality": 634487,
+        "Mortality risk 65-85": 203111
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Maternal mortality": 165907,
+        "Under 5 mortality": 400000,
+        "5-14 mortality": 150414,
+        "15-64 mortality": 620682,
+        "Mortality risk 65-85": 210222
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Maternal mortality": 129839,
+        "Under 5 mortality": 375503,
+        "5-14 mortality": 176857,
+        "15-64 mortality": 678315,
+        "Mortality risk 65-85": 248888
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Maternal mortality": 133702,
+        "Under 5 mortality": 307138,
+        "5-14 mortality": 134564,
+        "15-64 mortality": 228559,
+        "Mortality risk 65-85": 214444
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Maternal mortality": 187122,
+        "Under 5 mortality": 312014,
+        "5-14 mortality": 164371,
+        "15-64 mortality": 523572,
+        "Mortality risk 65-85": 140222
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Maternal mortality": 139829,
+        "Under 5 mortality": 374087,
+        "5-14 mortality": 165007,
+        "15-64 mortality": 724240,
+        "Mortality risk 65-85": 300666
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Maternal mortality": 152393,
+        "Under 5 mortality": 261404,
+        "5-14 mortality": 144864,
+        "15-64 mortality": 373350,
+        "Mortality risk 65-85": 97555
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Maternal mortality": 127964,
+        "Under 5 mortality": 248829,
+        "5-14 mortality": 115914,
+        "15-64 mortality": 254807,
+        "Mortality risk 65-85": 22666
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Maternal mortality": 186340,
+        "Under 5 mortality": 361222,
+        "5-14 mortality": 178792,
+        "15-64 mortality": 643182,
+        "Mortality risk 65-85": 201111
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Maternal mortality": 160367,
+        "Under 5 mortality": 308597,
+        "5-14 mortality": 152707,
+        "15-64 mortality": 511580,
+        "Mortality risk 65-85": 164888
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Maternal mortality": 180938,
+        "Under 5 mortality": 318792,
+        "5-14 mortality": 136007,
+        "15-64 mortality": 649556,
+        "Mortality risk 65-85": 221111
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Maternal mortality": 114928,
+        "Under 5 mortality": 248751,
+        "5-14 mortality": 141278,
+        "15-64 mortality": 318227,
+        "Mortality risk 65-85": 97333
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Maternal mortality": 135034,
+        "Under 5 mortality": 261544,
+        "5-14 mortality": 126692,
+        "15-64 mortality": 511399,
+        "Mortality risk 65-85": 244666
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Maternal mortality": 157720,
+        "Under 5 mortality": 257313,
+        "5-14 mortality": 128228,
+        "15-64 mortality": 217441,
+        "Mortality risk 65-85": 32888
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Maternal mortality": 128545,
+        "Under 5 mortality": 315211,
+        "5-14 mortality": 151428,
+        "15-64 mortality": 585016,
+        "Mortality risk 65-85": 158666
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Maternal mortality": 165228,
+        "Under 5 mortality": 331613,
+        "5-14 mortality": 153764,
+        "15-64 mortality": 712627,
+        "Mortality risk 65-85": 229333
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Maternal mortality": 169916,
+        "Under 5 mortality": 311201,
+        "5-14 mortality": 169650,
+        "15-64 mortality": 625421,
+        "Mortality risk 65-85": 168444
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Maternal mortality": 177088,
+        "Under 5 mortality": 400000,
+        "5-14 mortality": 57828,
+        "15-64 mortality": 629594,
+        "Mortality risk 65-85": 222222
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Maternal mortality": 191212,
+        "Under 5 mortality": 378176,
+        "5-14 mortality": 169085,
+        "15-64 mortality": 697169,
+        "Mortality risk 65-85": 229111
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Maternal mortality": 165230,
+        "Under 5 mortality": 300820,
+        "5-14 mortality": 153964,
+        "15-64 mortality": 643202,
+        "Mortality risk 65-85": 211555
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Maternal mortality": 171294,
+        "Under 5 mortality": 282039,
+        "5-14 mortality": 155214,
+        "15-64 mortality": 26646,
+        "Mortality risk 65-85": 0
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Maternal mortality": 144580,
+        "Under 5 mortality": 271676,
+        "5-14 mortality": 131159,
+        "15-64 mortality": 487917,
+        "Mortality risk 65-85": 167777
+      }
+    }
+  ],
+  "derivatives": {
+    "Longevity": [
+      "Maternal mortality",
+      "Under 5 mortality",
+      "5-14 mortality",
+      "15-64 mortality",
+      "Mortality risk 65-85"
+    ]
+  },
+  "weightingOptions": {
+    "Maternal mortality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Under 5 mortality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "5-14 mortality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "15-64 mortality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Mortality risk 65-85": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

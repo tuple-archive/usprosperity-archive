@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Financing Ecosystems": 67947140,
+        "Domestic Market Contestability": 172156169,
+        "Burden of Regulation": 50000000,
+        "Labor Market Flexibility": 26800000,
+        "Price Distortions": 77037016
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Financing Ecosystems": 128075836,
+        "Domestic Market Contestability": 158715509,
+        "Burden of Regulation": 37703368,
+        "Labor Market Flexibility": 69164285,
+        "Price Distortions": 77718448
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Financing Ecosystems": 109300184,
+        "Domestic Market Contestability": 89960615,
+        "Burden of Regulation": 43990641,
+        "Labor Market Flexibility": 62523809,
+        "Price Distortions": 72846536
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Financing Ecosystems": 194538421,
+        "Domestic Market Contestability": 58764271,
+        "Burden of Regulation": 91561718,
+        "Labor Market Flexibility": 49857142,
+        "Price Distortions": 70241395
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Financing Ecosystems": 364785961,
+        "Domestic Market Contestability": 1740812,
+        "Burden of Regulation": 45518216,
+        "Labor Market Flexibility": 27000000,
+        "Price Distortions": 58259146
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Financing Ecosystems": 304942758,
+        "Domestic Market Contestability": 192342002,
+        "Burden of Regulation": 76481810,
+        "Labor Market Flexibility": 40045238,
+        "Price Distortions": 79334936
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Financing Ecosystems": 344446666,
+        "Domestic Market Contestability": 144240367,
+        "Burden of Regulation": 64006691,
+        "Labor Market Flexibility": 26300000,
+        "Price Distortions": 68534175
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Financing Ecosystems": 377873989,
+        "Domestic Market Contestability": 120355309,
+        "Burden of Regulation": 59566701,
+        "Labor Market Flexibility": 40333333,
+        "Price Distortions": 38615384
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Financing Ecosystems": 253121143,
+        "Domestic Market Contestability": 166639312,
+        "Burden of Regulation": 53739022,
+        "Labor Market Flexibility": 47866666,
+        "Price Distortions": 36143921
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Financing Ecosystems": 212429746,
+        "Domestic Market Contestability": 59661088,
+        "Burden of Regulation": 67196185,
+        "Labor Market Flexibility": 61900000,
+        "Price Distortions": 80038563
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Financing Ecosystems": 248492564,
+        "Domestic Market Contestability": 151197596,
+        "Burden of Regulation": 35270020,
+        "Labor Market Flexibility": 79900000,
+        "Price Distortions": 88642062
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Financing Ecosystems": 130433158,
+        "Domestic Market Contestability": 52859255,
+        "Burden of Regulation": 55332308,
+        "Labor Market Flexibility": 19233333,
+        "Price Distortions": 63802523
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Financing Ecosystems": 198812909,
+        "Domestic Market Contestability": 160922993,
+        "Burden of Regulation": 35113872,
+        "Labor Market Flexibility": 67545238,
+        "Price Distortions": 63576364
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Financing Ecosystems": 150686023,
+        "Domestic Market Contestability": 180225843,
+        "Burden of Regulation": 72383333,
+        "Labor Market Flexibility": 72776190,
+        "Price Distortions": 65597898
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Financing Ecosystems": 332523899,
+        "Domestic Market Contestability": 141915896,
+        "Burden of Regulation": 50750321,
+        "Labor Market Flexibility": 38766666,
+        "Price Distortions": 65197788
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Financing Ecosystems": 164061883,
+        "Domestic Market Contestability": 184074273,
+        "Burden of Regulation": 46014077,
+        "Labor Market Flexibility": 67833333,
+        "Price Distortions": 88552861
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Financing Ecosystems": 176623610,
+        "Domestic Market Contestability": 243468665,
+        "Burden of Regulation": 13191666,
+        "Labor Market Flexibility": 68228571,
+        "Price Distortions": 76309363
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Financing Ecosystems": 164228812,
+        "Domestic Market Contestability": 141572681,
+        "Burden of Regulation": 18374763,
+        "Labor Market Flexibility": 67585714,
+        "Price Distortions": 82870532
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Financing Ecosystems": 160252022,
+        "Domestic Market Contestability": 98819905,
+        "Burden of Regulation": 26760426,
+        "Labor Market Flexibility": 72523809,
+        "Price Distortions": 75064315
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Financing Ecosystems": 394693536,
+        "Domestic Market Contestability": 113138048,
+        "Burden of Regulation": 68213472,
+        "Labor Market Flexibility": 33766666,
+        "Price Distortions": 59920281
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Financing Ecosystems": 237332356,
+        "Domestic Market Contestability": 86477646,
+        "Burden of Regulation": 74811790,
+        "Labor Market Flexibility": 38066666,
+        "Price Distortions": 57246989
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Financing Ecosystems": 165843002,
+        "Domestic Market Contestability": 193425225,
+        "Burden of Regulation": 64780487,
+        "Labor Market Flexibility": 31133333,
+        "Price Distortions": 58750692
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Financing Ecosystems": 246255803,
+        "Domestic Market Contestability": 146960035,
+        "Burden of Regulation": 47796886,
+        "Labor Market Flexibility": 41566666,
+        "Price Distortions": 80701338
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Financing Ecosystems": 284022646,
+        "Domestic Market Contestability": 234436139,
+        "Burden of Regulation": 40144668,
+        "Labor Market Flexibility": 35866666,
+        "Price Distortions": 63504446
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Financing Ecosystems": 202467238,
+        "Domestic Market Contestability": 177276753,
+        "Burden of Regulation": 63057369,
+        "Labor Market Flexibility": 48333333,
+        "Price Distortions": 92923102
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Financing Ecosystems": 31903950,
+        "Domestic Market Contestability": 160680964,
+        "Burden of Regulation": 34916918,
+        "Labor Market Flexibility": 76657142,
+        "Price Distortions": 84201623
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Financing Ecosystems": 153926553,
+        "Domestic Market Contestability": 175444461,
+        "Burden of Regulation": 36961402,
+        "Labor Market Flexibility": 47866666,
+        "Price Distortions": 70398728
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Financing Ecosystems": 231641160,
+        "Domestic Market Contestability": 152839283,
+        "Burden of Regulation": 35397327,
+        "Labor Market Flexibility": 73933333,
+        "Price Distortions": 89344705
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Financing Ecosystems": 168962176,
+        "Domestic Market Contestability": 165610340,
+        "Burden of Regulation": 40334223,
+        "Labor Market Flexibility": 72166666,
+        "Price Distortions": 91821018
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Financing Ecosystems": 180473810,
+        "Domestic Market Contestability": 218600257,
+        "Burden of Regulation": 35358571,
+        "Labor Market Flexibility": 57928571,
+        "Price Distortions": 77050196
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Financing Ecosystems": 176346563,
+        "Domestic Market Contestability": 224949132,
+        "Burden of Regulation": 67127095,
+        "Labor Market Flexibility": 62666666,
+        "Price Distortions": 64079572
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Financing Ecosystems": 305931219,
+        "Domestic Market Contestability": 123994636,
+        "Burden of Regulation": 63348974,
+        "Labor Market Flexibility": 24666666,
+        "Price Distortions": 51021267
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Financing Ecosystems": 131136908,
+        "Domestic Market Contestability": 100524061,
+        "Burden of Regulation": 57130599,
+        "Labor Market Flexibility": 59573809,
+        "Price Distortions": 79149061
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Financing Ecosystems": 162645443,
+        "Domestic Market Contestability": 26722968,
+        "Burden of Regulation": 77935159,
+        "Labor Market Flexibility": 45666666,
+        "Price Distortions": 68380265
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Financing Ecosystems": 383812766,
+        "Domestic Market Contestability": 146456601,
+        "Burden of Regulation": 52547932,
+        "Labor Market Flexibility": 12833333,
+        "Price Distortions": 75536834
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Financing Ecosystems": 267683580,
+        "Domestic Market Contestability": 159909943,
+        "Burden of Regulation": 65718709,
+        "Labor Market Flexibility": 49700000,
+        "Price Distortions": 68228455
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Financing Ecosystems": 98576764,
+        "Domestic Market Contestability": 148836194,
+        "Burden of Regulation": 38637232,
+        "Labor Market Flexibility": 68333333,
+        "Price Distortions": 90092560
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Financing Ecosystems": 208314985,
+        "Domestic Market Contestability": 65314928,
+        "Burden of Regulation": 91768924,
+        "Labor Market Flexibility": 33833333,
+        "Price Distortions": 34199327
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Financing Ecosystems": 327301335,
+        "Domestic Market Contestability": 212786786,
+        "Burden of Regulation": 66146659,
+        "Labor Market Flexibility": 58800000,
+        "Price Distortions": 55124494
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Financing Ecosystems": 165373400,
+        "Domestic Market Contestability": 104760114,
+        "Burden of Regulation": 63891298,
+        "Labor Market Flexibility": 23566666,
+        "Price Distortions": 52069287
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Financing Ecosystems": 128545559,
+        "Domestic Market Contestability": 131339241,
+        "Burden of Regulation": 43642530,
+        "Labor Market Flexibility": 72800000,
+        "Price Distortions": 86100000
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Financing Ecosystems": 103999041,
+        "Domestic Market Contestability": 199462572,
+        "Burden of Regulation": 47306450,
+        "Labor Market Flexibility": 55966666,
+        "Price Distortions": 100000000
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Financing Ecosystems": 210590718,
+        "Domestic Market Contestability": 115811706,
+        "Burden of Regulation": 56504939,
+        "Labor Market Flexibility": 74361904,
+        "Price Distortions": 76473036
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Financing Ecosystems": 268435223,
+        "Domestic Market Contestability": 154776913,
+        "Burden of Regulation": 37118398,
+        "Labor Market Flexibility": 74166666,
+        "Price Distortions": 64615384
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Financing Ecosystems": 276488159,
+        "Domestic Market Contestability": 133524174,
+        "Burden of Regulation": 43056479,
+        "Labor Market Flexibility": 78690476,
+        "Price Distortions": 77805884
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Financing Ecosystems": 306867636,
+        "Domestic Market Contestability": 55759618,
+        "Burden of Regulation": 64179713,
+        "Labor Market Flexibility": 73709523,
+        "Price Distortions": 72198075
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Financing Ecosystems": 156154038,
+        "Domestic Market Contestability": 220950995,
+        "Burden of Regulation": 63648974,
+        "Labor Market Flexibility": 34066666,
+        "Price Distortions": 59403920
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Financing Ecosystems": 290948260,
+        "Domestic Market Contestability": 151136380,
+        "Burden of Regulation": 73704319,
+        "Labor Market Flexibility": 22100000,
+        "Price Distortions": 58336902
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Financing Ecosystems": 258261462,
+        "Domestic Market Contestability": 181252787,
+        "Burden of Regulation": 64046273,
+        "Labor Market Flexibility": 65933333,
+        "Price Distortions": 70488140
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Financing Ecosystems": 49440645,
+        "Domestic Market Contestability": 153999099,
+        "Burden of Regulation": 31571823,
+        "Labor Market Flexibility": 55333333,
+        "Price Distortions": 83438779
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Financing Ecosystems": 90114479,
+        "Domestic Market Contestability": 193197476,
+        "Burden of Regulation": 7198198,
+        "Labor Market Flexibility": 77333333,
+        "Price Distortions": 93169885
+      }
+    }
+  ],
+  "derivatives": {
+    "Business Environment": [
+      "Financing Ecosystems",
+      "Domestic Market Contestability",
+      "Burden of Regulation",
+      "Labor Market Flexibility",
+      "Price Distortions"
+    ]
+  },
+  "weightingOptions": {
+    "Financing Ecosystems": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Domestic Market Contestability": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Burden of Regulation": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Labor Market Flexibility": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Price Distortions": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

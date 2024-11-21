@@ -1,0 +1,701 @@
+{
+  "regions": [
+    {
+      "id": "AK",
+      "title": "Alaska",
+      "scores": {
+        "Low income": 395006,
+        "Poverty": 412405,
+        "Deep poverty": 424567,
+        "Liquid asset poverty": 396271,
+        "High risk loans": 176724
+      }
+    },
+    {
+      "id": "AL",
+      "title": "Alabama",
+      "scores": {
+        "Low income": 232595,
+        "Poverty": 255343,
+        "Deep poverty": 255677,
+        "Liquid asset poverty": 254444,
+        "High risk loans": 116379
+      }
+    },
+    {
+      "id": "AR",
+      "title": "Arkansas",
+      "scores": {
+        "Low income": 185401,
+        "Poverty": 233423,
+        "Deep poverty": 303187,
+        "Liquid asset poverty": 158888,
+        "High risk loans": 181034
+      }
+    },
+    {
+      "id": "AZ",
+      "title": "Arizona",
+      "scores": {
+        "Low income": 304559,
+        "Poverty": 313425,
+        "Deep poverty": 302245,
+        "Liquid asset poverty": 282222,
+        "High risk loans": 297413
+      }
+    },
+    {
+      "id": "CA",
+      "title": "California",
+      "scores": {
+        "Low income": 352412,
+        "Poverty": 363483,
+        "Deep poverty": 367581,
+        "Liquid asset poverty": 345555,
+        "High risk loans": 344827
+      }
+    },
+    {
+      "id": "CO",
+      "title": "Colorado",
+      "scores": {
+        "Low income": 437609,
+        "Poverty": 433788,
+        "Deep poverty": 418661,
+        "Liquid asset poverty": 461111,
+        "High risk loans": 297413
+      }
+    },
+    {
+      "id": "CT",
+      "title": "Connecticut",
+      "scores": {
+        "Low income": 419574,
+        "Poverty": 413787,
+        "Deep poverty": 406573,
+        "Liquid asset poverty": 364444,
+        "High risk loans": 370689
+      }
+    },
+    {
+      "id": "DC",
+      "title": "District of Columbia",
+      "scores": {
+        "Low income": 358661,
+        "Poverty": 313916,
+        "Deep poverty": 233584,
+        "Liquid asset poverty": 289071,
+        "High risk loans": 400862
+      }
+    },
+    {
+      "id": "DE",
+      "title": "Delaware",
+      "scores": {
+        "Low income": 388708,
+        "Poverty": 377979,
+        "Deep poverty": 393016,
+        "Liquid asset poverty": 332141,
+        "High risk loans": 362068
+      }
+    },
+    {
+      "id": "FL",
+      "title": "Florida",
+      "scores": {
+        "Low income": 306298,
+        "Poverty": 337035,
+        "Deep poverty": 344738,
+        "Liquid asset poverty": 194444,
+        "High risk loans": 306034
+      }
+    },
+    {
+      "id": "GA",
+      "title": "Georgia",
+      "scores": {
+        "Low income": 298953,
+        "Poverty": 318430,
+        "Deep poverty": 336833,
+        "Liquid asset poverty": 188888,
+        "High risk loans": 297413
+      }
+    },
+    {
+      "id": "HI",
+      "title": "Hawaii",
+      "scores": {
+        "Low income": 462741,
+        "Poverty": 434172,
+        "Deep poverty": 420898,
+        "Liquid asset poverty": 477777,
+        "High risk loans": 336206
+      }
+    },
+    {
+      "id": "IA",
+      "title": "Iowa",
+      "scores": {
+        "Low income": 365061,
+        "Poverty": 380616,
+        "Deep poverty": 395657,
+        "Liquid asset poverty": 417777,
+        "High risk loans": 323275
+      }
+    },
+    {
+      "id": "ID",
+      "title": "Idaho",
+      "scores": {
+        "Low income": 332524,
+        "Poverty": 380435,
+        "Deep poverty": 410051,
+        "Liquid asset poverty": 315555,
+        "High risk loans": 288793
+      }
+    },
+    {
+      "id": "IL",
+      "title": "Illinois",
+      "scores": {
+        "Low income": 371462,
+        "Poverty": 371472,
+        "Deep poverty": 377530,
+        "Liquid asset poverty": 350000,
+        "High risk loans": 271551
+      }
+    },
+    {
+      "id": "IN",
+      "title": "Indiana",
+      "scores": {
+        "Low income": 330817,
+        "Poverty": 359117,
+        "Deep poverty": 339711,
+        "Liquid asset poverty": 305555,
+        "High risk loans": 232758
+      }
+    },
+    {
+      "id": "KS",
+      "title": "Kansas",
+      "scores": {
+        "Low income": 357260,
+        "Poverty": 372869,
+        "Deep poverty": 407244,
+        "Liquid asset poverty": 297777,
+        "High risk loans": 237068
+      }
+    },
+    {
+      "id": "KY",
+      "title": "Kentucky",
+      "scores": {
+        "Low income": 228486,
+        "Poverty": 231818,
+        "Deep poverty": 251135,
+        "Liquid asset poverty": 292222,
+        "High risk loans": 99137
+      }
+    },
+    {
+      "id": "LA",
+      "title": "Louisiana",
+      "scores": {
+        "Low income": 167348,
+        "Poverty": 151948,
+        "Deep poverty": 139042,
+        "Liquid asset poverty": 160000,
+        "High risk loans": 211206
+      }
+    },
+    {
+      "id": "MA",
+      "title": "Massachusetts",
+      "scores": {
+        "Low income": 449451,
+        "Poverty": 432217,
+        "Deep poverty": 420870,
+        "Liquid asset poverty": 284444,
+        "High risk loans": 392241
+      }
+    },
+    {
+      "id": "MD",
+      "title": "Maryland",
+      "scores": {
+        "Low income": 458544,
+        "Poverty": 443237,
+        "Deep poverty": 418349,
+        "Liquid asset poverty": 474444,
+        "High risk loans": 288793
+      }
+    },
+    {
+      "id": "ME",
+      "title": "Maine",
+      "scores": {
+        "Low income": 374068,
+        "Poverty": 389204,
+        "Deep poverty": 448173,
+        "Liquid asset poverty": 500000,
+        "High risk loans": 275862
+      }
+    },
+    {
+      "id": "MI",
+      "title": "Michigan",
+      "scores": {
+        "Low income": 323914,
+        "Poverty": 327496,
+        "Deep poverty": 341611,
+        "Liquid asset poverty": 251111,
+        "High risk loans": 387931
+      }
+    },
+    {
+      "id": "MN",
+      "title": "Minnesota",
+      "scores": {
+        "Low income": 444828,
+        "Poverty": 444827,
+        "Deep poverty": 450786,
+        "Liquid asset poverty": 493333,
+        "High risk loans": 461206
+      }
+    },
+    {
+      "id": "MO",
+      "title": "Missouri",
+      "scores": {
+        "Low income": 312211,
+        "Poverty": 328926,
+        "Deep poverty": 328737,
+        "Liquid asset poverty": 304444,
+        "High risk loans": 306034
+      }
+    },
+    {
+      "id": "MS",
+      "title": "Mississippi",
+      "scores": {
+        "Low income": 114358,
+        "Poverty": 134209,
+        "Deep poverty": 166936,
+        "Liquid asset poverty": 115555,
+        "High risk loans": 99137
+      }
+    },
+    {
+      "id": "MT",
+      "title": "Montana",
+      "scores": {
+        "Low income": 324376,
+        "Poverty": 337373,
+        "Deep poverty": 369333,
+        "Liquid asset poverty": 366666,
+        "High risk loans": 271551
+      }
+    },
+    {
+      "id": "NC",
+      "title": "North Carolina",
+      "scores": {
+        "Low income": 286695,
+        "Poverty": 309858,
+        "Deep poverty": 314251,
+        "Liquid asset poverty": 255555,
+        "High risk loans": 297413
+      }
+    },
+    {
+      "id": "ND",
+      "title": "North Dakota",
+      "scores": {
+        "Low income": 392107,
+        "Poverty": 397995,
+        "Deep poverty": 392350,
+        "Liquid asset poverty": 377777,
+        "High risk loans": 293103
+      }
+    },
+    {
+      "id": "NE",
+      "title": "Nebraska",
+      "scores": {
+        "Low income": 384350,
+        "Poverty": 417833,
+        "Deep poverty": 432448,
+        "Liquid asset poverty": 487777,
+        "High risk loans": 271551
+      }
+    },
+    {
+      "id": "NH",
+      "title": "New Hampshire",
+      "scores": {
+        "Low income": 500000,
+        "Poverty": 494446,
+        "Deep poverty": 500000,
+        "Liquid asset poverty": 411111,
+        "High risk loans": 431034
+      }
+    },
+    {
+      "id": "NJ",
+      "title": "New Jersey",
+      "scores": {
+        "Low income": 445459,
+        "Poverty": 439200,
+        "Deep poverty": 439859,
+        "Liquid asset poverty": 424444,
+        "High risk loans": 379310
+      }
+    },
+    {
+      "id": "NM",
+      "title": "New Mexico",
+      "scores": {
+        "Low income": 167140,
+        "Poverty": 175904,
+        "Deep poverty": 196363,
+        "Liquid asset poverty": 211111,
+        "High risk loans": 163793
+      }
+    },
+    {
+      "id": "NV",
+      "title": "Nevada",
+      "scores": {
+        "Low income": 332304,
+        "Poverty": 341788,
+        "Deep poverty": 356698,
+        "Liquid asset poverty": 193333,
+        "High risk loans": 142241
+      }
+    },
+    {
+      "id": "NY",
+      "title": "New York",
+      "scores": {
+        "Low income": 343088,
+        "Poverty": 326210,
+        "Deep poverty": 320421,
+        "Liquid asset poverty": 365555,
+        "High risk loans": 405172
+      }
+    },
+    {
+      "id": "OH",
+      "title": "Ohio",
+      "scores": {
+        "Low income": 319679,
+        "Poverty": 325110,
+        "Deep poverty": 338303,
+        "Liquid asset poverty": 334444,
+        "High risk loans": 198275
+      }
+    },
+    {
+      "id": "OK",
+      "title": "Oklahoma",
+      "scores": {
+        "Low income": 242944,
+        "Poverty": 263549,
+        "Deep poverty": 277423,
+        "Liquid asset poverty": 250000,
+        "High risk loans": 125000
+      }
+    },
+    {
+      "id": "OR",
+      "title": "Oregon",
+      "scores": {
+        "Low income": 365931,
+        "Poverty": 374483,
+        "Deep poverty": 369081,
+        "Liquid asset poverty": 304444,
+        "High risk loans": 280172
+      }
+    },
+    {
+      "id": "PA",
+      "title": "Pennsylvania",
+      "scores": {
+        "Low income": 361181,
+        "Poverty": 355631,
+        "Deep poverty": 354302,
+        "Liquid asset poverty": 370000,
+        "High risk loans": 396551
+      }
+    },
+    {
+      "id": "RI",
+      "title": "Rhode Island",
+      "scores": {
+        "Low income": 405817,
+        "Poverty": 390676,
+        "Deep poverty": 412526,
+        "Liquid asset poverty": 255555,
+        "High risk loans": 275862
+      }
+    },
+    {
+      "id": "SC",
+      "title": "South Carolina",
+      "scores": {
+        "Low income": 280149,
+        "Poverty": 302397,
+        "Deep poverty": 298213,
+        "Liquid asset poverty": 251111,
+        "High risk loans": 288793
+      }
+    },
+    {
+      "id": "SD",
+      "title": "South Dakota",
+      "scores": {
+        "Low income": 349012,
+        "Poverty": 358398,
+        "Deep poverty": 357212,
+        "Liquid asset poverty": 366067,
+        "High risk loans": 323275
+      }
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee",
+      "scores": {
+        "Low income": 283982,
+        "Poverty": 302161,
+        "Deep poverty": 330426,
+        "Liquid asset poverty": 207777,
+        "High risk loans": 103448
+      }
+    },
+    {
+      "id": "TX",
+      "title": "Texas",
+      "scores": {
+        "Low income": 281523,
+        "Poverty": 308770,
+        "Deep poverty": 314262,
+        "Liquid asset poverty": 253333,
+        "High risk loans": 189655
+      }
+    },
+    {
+      "id": "UT",
+      "title": "Utah",
+      "scores": {
+        "Low income": 428868,
+        "Poverty": 446644,
+        "Deep poverty": 469565,
+        "Liquid asset poverty": 376666,
+        "High risk loans": 336206
+      }
+    },
+    {
+      "id": "VA",
+      "title": "Virginia",
+      "scores": {
+        "Low income": 417143,
+        "Poverty": 416540,
+        "Deep poverty": 401997,
+        "Liquid asset poverty": 382222,
+        "High risk loans": 297413
+      }
+    },
+    {
+      "id": "VT",
+      "title": "Vermont",
+      "scores": {
+        "Low income": 392688,
+        "Poverty": 409873,
+        "Deep poverty": 385447,
+        "Liquid asset poverty": 379414,
+        "High risk loans": 469827
+      }
+    },
+    {
+      "id": "WA",
+      "title": "Washington",
+      "scores": {
+        "Low income": 423546,
+        "Poverty": 421278,
+        "Deep poverty": 414820,
+        "Liquid asset poverty": 425555,
+        "High risk loans": 331896
+      }
+    },
+    {
+      "id": "WI",
+      "title": "Wisconsin",
+      "scores": {
+        "Low income": 400350,
+        "Poverty": 402405,
+        "Deep poverty": 410484,
+        "Liquid asset poverty": 347777,
+        "High risk loans": 357758
+      }
+    },
+    {
+      "id": "WV",
+      "title": "West Virginia",
+      "scores": {
+        "Low income": 211514,
+        "Poverty": 238669,
+        "Deep poverty": 238508,
+        "Liquid asset poverty": 193333,
+        "High risk loans": 68965
+      }
+    },
+    {
+      "id": "WY",
+      "title": "Wyoming",
+      "scores": {
+        "Low income": 405515,
+        "Poverty": 411650,
+        "Deep poverty": 432355,
+        "Liquid asset poverty": 326945,
+        "High risk loans": 211206
+      }
+    }
+  ],
+  "derivatives": {
+    "Material Resources": [
+      "Low income",
+      "Poverty",
+      "Deep poverty",
+      "Liquid asset poverty",
+      "High risk loans"
+    ]
+  },
+  "weightingOptions": {
+    "Low income": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Poverty": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Deep poverty": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Liquid asset poverty": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "High risk loans": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6694 @@
+{
+  "regions": [
+    {
+      "id": "13001",
+      "title": "Appling, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.6974358974358975,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13003",
+      "title": "Atkinson, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.758974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13005",
+      "title": "Bacon, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.9384615384615385,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13007",
+      "title": "Baker, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.2,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13009",
+      "title": "Baldwin, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.8615384615384616,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13011",
+      "title": "Banks, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8923076923076922,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13013",
+      "title": "Barrow, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.9025641025641027,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13015",
+      "title": "Bartow, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.7692307692307693,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13017",
+      "title": "Ben Hill, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.0102564102564104,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13019",
+      "title": "Berrien, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.7846153846153846,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13021",
+      "title": "Bibb, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.9846153846153847,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13023",
+      "title": "Bleckley, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.5641025641025643,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13025",
+      "title": "Brantley, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13027",
+      "title": "Brooks, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.9076923076923079,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13029",
+      "title": "Bryan, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.117948717948718,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13031",
+      "title": "Bulloch, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.6615384615384615,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13033",
+      "title": "Burke, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.3846153846153848,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13035",
+      "title": "Butts, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.9692307692307691,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13037",
+      "title": "Calhoun, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13039",
+      "title": "Camden, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8871794871794871,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13043",
+      "title": "Candler, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.4,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13045",
+      "title": "Carroll, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13047",
+      "title": "Catoosa, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.5333333333333332,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13049",
+      "title": "Charlton, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.3743589743589744,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13051",
+      "title": "Chatham, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.7897435897435898,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13053",
+      "title": "Chattahoochee, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.6923076923076923,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13055",
+      "title": "Chattooga, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.44102564102564107,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13057",
+      "title": "Cherokee, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.235897435897436,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13059",
+      "title": "Clarke, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.6256410256410259,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13061",
+      "title": "Clay, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.8615384615384616,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13063",
+      "title": "Clayton, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.558974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13065",
+      "title": "Clinch, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.38974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13067",
+      "title": "Cobb, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.343589743589744,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13069",
+      "title": "Coffee, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.07179487179487172,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13071",
+      "title": "Colquitt, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4358974358974361,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13073",
+      "title": "Columbia, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4923076923076926,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13075",
+      "title": "Cook, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8615384615384616,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13077",
+      "title": "Coweta, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.558974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13079",
+      "title": "Crawford, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.7538461538461543,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13081",
+      "title": "Crisp, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.3743589743589744,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13083",
+      "title": "Dade, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.0,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13085",
+      "title": "Dawson, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.1179487179487178,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13087",
+      "title": "Decatur, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.5897435897435899,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13089",
+      "title": "De Kalb, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.184615384615385,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13091",
+      "title": "Dodge, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.3384615384615386,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13093",
+      "title": "Dooly, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13095",
+      "title": "Dougherty, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.112820512820513,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13097",
+      "title": "Douglas, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.8205128205128205,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13099",
+      "title": "Early, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.9076923076923079,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13101",
+      "title": "Echols, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13103",
+      "title": "Effingham, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4769230769230768,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13105",
+      "title": "Elbert, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.0564102564102567,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13107",
+      "title": "Emanuel, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.2102564102564104,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13109",
+      "title": "Evans, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.1794871794871797,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13111",
+      "title": "Fannin, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.128205128205128,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13113",
+      "title": "Fayette, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.712820512820513,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13115",
+      "title": "Floyd, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.0512820512820513,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13117",
+      "title": "Forsyth, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.5435897435897434,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13119",
+      "title": "Franklin, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.7025641025641026,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13121",
+      "title": "Fulton, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.2410256410256415,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13123",
+      "title": "Gilmer, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.7487179487179488,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13125",
+      "title": "Glascock, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13127",
+      "title": "Glynn, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.0153846153846153,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13129",
+      "title": "Gordon, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.9948717948717949,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13131",
+      "title": "Grady, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2512820512820513,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13133",
+      "title": "Greene, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.1846153846153844,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13135",
+      "title": "Gwinnett, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.682051282051282,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13137",
+      "title": "Habersham, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.7076923076923076,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13139",
+      "title": "Hall, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.1282051282051284,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13141",
+      "title": "Hancock, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13143",
+      "title": "Haralson, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.6615384615384616,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13145",
+      "title": "Harris, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.8666666666666665,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13147",
+      "title": "Hart, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.2410256410256415,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13149",
+      "title": "Heard, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.0256410256410255,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13151",
+      "title": "Henry, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.5692307692307692,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13153",
+      "title": "Houston, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.6410256410256412,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13155",
+      "title": "Irwin, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13157",
+      "title": "Jackson, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13159",
+      "title": "Jasper, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8974358974358975,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13161",
+      "title": "Jeff Davis, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.4153846153846157,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13163",
+      "title": "Jefferson, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.7076923076923076,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13165",
+      "title": "Jenkins, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.4717948717948718,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13167",
+      "title": "Johnson, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.5435897435897437,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13169",
+      "title": "Jones, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.3743589743589744,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13171",
+      "title": "Lamar, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.6307692307692307,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13173",
+      "title": "Lanier, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.2820512820512821,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13175",
+      "title": "Laurens, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.7846153846153845,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13177",
+      "title": "Lee, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2512820512820513,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13179",
+      "title": "Liberty, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.205128205128205,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13181",
+      "title": "Lincoln, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.3692307692307692,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13183",
+      "title": "Long, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2153846153846157,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13185",
+      "title": "Lowndes, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.7743589743589747,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13187",
+      "title": "Lumpkin, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.6358974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13189",
+      "title": "McDuffie, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.9333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13191",
+      "title": "McIntosh, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.0205128205128204,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13193",
+      "title": "Macon, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.353846153846154,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13195",
+      "title": "Madison, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.5230769230769234,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13197",
+      "title": "Marion, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.835897435897436,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13199",
+      "title": "Meriwether, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.948717948717949,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13201",
+      "title": "Miller, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.548717948717949,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13205",
+      "title": "Mitchell, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.302564102564103,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13207",
+      "title": "Monroe, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.5743589743589745,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13209",
+      "title": "Montgomery, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.256410256410257,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13211",
+      "title": "Morgan, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.5897435897435899,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13213",
+      "title": "Murray, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.3128205128205128,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13215",
+      "title": "Muscogee, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.8717948717948718,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13217",
+      "title": "Newton, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.0564102564102567,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13219",
+      "title": "Oconee, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.712820512820513,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13221",
+      "title": "Oglethorpe, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.8615384615384616,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13223",
+      "title": "Paulding, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13225",
+      "title": "Peach, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8051282051282052,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13227",
+      "title": "Pickens, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.123076923076923,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13229",
+      "title": "Pierce, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.169230769230769,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13231",
+      "title": "Pike, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.1487179487179486,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13233",
+      "title": "Polk, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4923076923076926,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13235",
+      "title": "Pulaski, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.0256410256410255,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13237",
+      "title": "Putnam, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13239",
+      "title": "Quitman, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13241",
+      "title": "Rabun, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8871794871794871,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13243",
+      "title": "Randolph, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.2051282051282053,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13245",
+      "title": "Richmond, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13247",
+      "title": "Rockdale, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.7333333333333332,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13249",
+      "title": "Schley, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.9179487179487182,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13251",
+      "title": "Screven, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.6358974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13253",
+      "title": "Seminole, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.5333333333333333,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13255",
+      "title": "Spalding, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.9641025641025642,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13257",
+      "title": "Stephens, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4410256410256412,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13259",
+      "title": "Stewart, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13261",
+      "title": "Sumter, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.230769230769231,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13263",
+      "title": "Talbot, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13265",
+      "title": "Taliaferro, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.8102564102564103,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13267",
+      "title": "Tattnall, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2256410256410255,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13269",
+      "title": "Taylor, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.764102564102564,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13271",
+      "title": "Telfair, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.6820512820512823,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13273",
+      "title": "Terrell, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.266666666666667,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13275",
+      "title": "Thomas, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.123076923076923,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13277",
+      "title": "Tift, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2666666666666668,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13279",
+      "title": "Toombs, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.9897435897435897,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13281",
+      "title": "Towns, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.7692307692307694,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13283",
+      "title": "Treutlen, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.01025641025641,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13285",
+      "title": "Troup, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.1076923076923078,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13287",
+      "title": "Turner, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2410256410256413,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13289",
+      "title": "Twiggs, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.7743589743589745,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13291",
+      "title": "Union, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.3025641025641025,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13293",
+      "title": "Upson, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.041025641025641,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13295",
+      "title": "Walker, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.3179487179487182,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13297",
+      "title": "Walton, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.2102564102564104,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13299",
+      "title": "Ware, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2974358974358975,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13301",
+      "title": "Warren, GA",
+      "scores": {
+        "Pre-primary enrollment": 2.758974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13303",
+      "title": "Washington, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.8358974358974356,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13305",
+      "title": "Wayne, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.2666666666666668,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13307",
+      "title": "Webster, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13309",
+      "title": "Wheeler, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.205128205128205,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13311",
+      "title": "White, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13313",
+      "title": "Whitfield, GA",
+      "scores": {
+        "Pre-primary enrollment": 0.9435897435897436,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13315",
+      "title": "Wilcox, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.4307692307692308,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13317",
+      "title": "Wilkes, GA",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13319",
+      "title": "Wilkinson, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.558974358974359,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "13321",
+      "title": "Worth, GA",
+      "scores": {
+        "Pre-primary enrollment": 1.517948717948718,
+        "Statewide state pre-K quality": 1.3333333333333335
+      }
+    },
+    {
+      "id": "19001",
+      "title": "Adair, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.138461538461539,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19003",
+      "title": "Adams, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.4923076923076926,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19005",
+      "title": "Allamakee, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.230769230769231,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19007",
+      "title": "Appanoose, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9794871794871798,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19009",
+      "title": "Audubon, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.4923076923076926,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19011",
+      "title": "Benton, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9384615384615382,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19013",
+      "title": "Black Hawk, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.2871794871794873,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19015",
+      "title": "Boone, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.1435897435897435,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19017",
+      "title": "Bremer, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.4871794871794872,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19019",
+      "title": "Buchanan, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.4153846153846157,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19021",
+      "title": "Buena Vista, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.235897435897436,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19023",
+      "title": "Butler, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.302564102564103,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19025",
+      "title": "Calhoun, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.6871794871794874,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19027",
+      "title": "Carroll, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.5333333333333332,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19029",
+      "title": "Cass, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.169230769230769,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19031",
+      "title": "Cedar, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.5641025641025642,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19033",
+      "title": "Cerro Gordo, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.81025641025641,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19035",
+      "title": "Cherokee, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.7692307692307693,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19037",
+      "title": "Chickasaw, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.923076923076923,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19039",
+      "title": "Clarke, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.9435897435897436,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19041",
+      "title": "Clay, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.641025641025641,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19043",
+      "title": "Clayton, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.0307692307692309,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19045",
+      "title": "Clinton, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.174358974358974,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19047",
+      "title": "Crawford, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.4410256410256412,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19049",
+      "title": "Dallas, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9435897435897436,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19051",
+      "title": "Davis, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.358974358974359,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19053",
+      "title": "Decatur, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.5076923076923077,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19055",
+      "title": "Delaware, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.2871794871794873,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19057",
+      "title": "Des Moines, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.2871794871794875,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19059",
+      "title": "Dickinson, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9128205128205127,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19061",
+      "title": "Dubuque, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.1025641025641026,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19063",
+      "title": "Emmet, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.184615384615385,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19065",
+      "title": "Fayette, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9538461538461538,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19067",
+      "title": "Floyd, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.5743589743589745,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19069",
+      "title": "Franklin, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.2153846153846157,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19071",
+      "title": "Fremont, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.4410256410256412,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19073",
+      "title": "Greene, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.0615384615384618,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19075",
+      "title": "Grundy, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.0051282051282056,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19077",
+      "title": "Guthrie, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.753846153846154,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19079",
+      "title": "Hamilton, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.1333333333333335,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19081",
+      "title": "Hancock, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.2153846153846157,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19083",
+      "title": "Hardin, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.405128205128205,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19085",
+      "title": "Harrison, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.302564102564103,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19087",
+      "title": "Henry, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.8000000000000003,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19089",
+      "title": "Howard, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.3435897435897437,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19091",
+      "title": "Humboldt, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.758974358974359,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19093",
+      "title": "Ida, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.671794871794872,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19095",
+      "title": "Iowa, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.5743589743589745,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19097",
+      "title": "Jackson, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.358974358974359,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19099",
+      "title": "Jasper, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.8564102564102567,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19101",
+      "title": "Jefferson, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.676923076923077,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19103",
+      "title": "Johnson, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9538461538461538,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19105",
+      "title": "Jones, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.923076923076923,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19107",
+      "title": "Keokuk, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.8307692307692311,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19109",
+      "title": "Kossuth, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.738461538461539,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19111",
+      "title": "Lee, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.4,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19113",
+      "title": "Linn, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9692307692307691,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19115",
+      "title": "Louisa, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.8461538461538463,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19117",
+      "title": "Lucas, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.0615384615384618,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19119",
+      "title": "Lyon, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.9384615384615385,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19121",
+      "title": "Madison, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.112820512820513,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19123",
+      "title": "Mahaska, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.5384615384615385,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19125",
+      "title": "Marion, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.0153846153846153,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19127",
+      "title": "Marshall, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.5384615384615385,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19129",
+      "title": "Mills, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.5794871794871794,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19131",
+      "title": "Mitchell, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.0307692307692309,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19133",
+      "title": "Monona, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.6102564102564103,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19135",
+      "title": "Monroe, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.794871794871795,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19137",
+      "title": "Montgomery, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.158974358974359,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19139",
+      "title": "Muscatine, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9282051282051282,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19141",
+      "title": "O Brien, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.7333333333333332,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19143",
+      "title": "Osceola, IA",
+      "scores": {
+        "Pre-primary enrollment": 3.046153846153847,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19145",
+      "title": "Page, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.5384615384615385,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19147",
+      "title": "Palo Alto, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9282051282051282,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19149",
+      "title": "Plymouth, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.605128205128205,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19151",
+      "title": "Pocahontas, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.0153846153846153,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19153",
+      "title": "Polk, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.4358974358974361,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19155",
+      "title": "Pottawattamie, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.3076923076923077,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19157",
+      "title": "Poweshiek, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.3282051282051284,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19159",
+      "title": "Ringgold, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.948717948717949,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19161",
+      "title": "Sac, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.2307692307692308,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19163",
+      "title": "Scott, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.682051282051282,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19165",
+      "title": "Shelby, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.953846153846154,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19167",
+      "title": "Sioux, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.1846153846153848,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19169",
+      "title": "Story, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.4974358974358977,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19171",
+      "title": "Tama, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.9282051282051282,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19173",
+      "title": "Taylor, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.948717948717949,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19175",
+      "title": "Union, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.7179487179487178,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19177",
+      "title": "Van Buren, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.6307692307692307,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19179",
+      "title": "Wapello, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.1282051282051284,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19181",
+      "title": "Warren, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.8769230769230771,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19183",
+      "title": "Washington, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.7743589743589747,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19185",
+      "title": "Wayne, IA",
+      "scores": {
+        "Pre-primary enrollment": 0.6974358974358975,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19187",
+      "title": "Webster, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.8512820512820514,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19189",
+      "title": "Winnebago, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.0153846153846153,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19191",
+      "title": "Winneshiek, IA",
+      "scores": {
+        "Pre-primary enrollment": 2.5846153846153848,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19193",
+      "title": "Woodbury, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.235897435897436,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19195",
+      "title": "Worth, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.6205128205128205,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "19197",
+      "title": "Wright, IA",
+      "scores": {
+        "Pre-primary enrollment": 1.1179487179487178,
+        "Statewide state pre-K quality": 1.3166666666666669
+      }
+    },
+    {
+      "id": "30001",
+      "title": "Beaverhead, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.04615384615384618,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30003",
+      "title": "Big Horn, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.9333333333333335,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30005",
+      "title": "Blaine, MT",
+      "scores": {
+        "Pre-primary enrollment": 2.117948717948718,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30007",
+      "title": "Broadwater, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30009",
+      "title": "Carbon, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.6358974358974359,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30011",
+      "title": "Carter, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30013",
+      "title": "Cascade, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.4,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30015",
+      "title": "Chouteau, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.2307692307692308,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30017",
+      "title": "Custer, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.6461538461538463,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30019",
+      "title": "Daniels, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30021",
+      "title": "Dawson, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.3333333333333335,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30023",
+      "title": "Deer Lodge, MT",
+      "scores": {
+        "Pre-primary enrollment": 3.0871794871794873,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30025",
+      "title": "Fallon, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.0461538461538462,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30027",
+      "title": "Fergus, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.712820512820513,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30029",
+      "title": "Flathead, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.8820512820512821,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30031",
+      "title": "Gallatin, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.5846153846153845,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30033",
+      "title": "Garfield, MT",
+      "scores": {
+        "Pre-primary enrollment": 3.2615384615384615,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30035",
+      "title": "Glacier, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.9128205128205127,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30037",
+      "title": "Golden Valley, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30039",
+      "title": "Granite, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.6564102564102563,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30041",
+      "title": "Hill, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.3384615384615386,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30043",
+      "title": "Jefferson, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.158974358974359,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30045",
+      "title": "Judith Basin, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.794871794871795,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30047",
+      "title": "Lake, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.8871794871794871,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30049",
+      "title": "Lewis and Clark, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.3846153846153848,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30051",
+      "title": "Liberty, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.7230769230769232,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30053",
+      "title": "Lincoln, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.8461538461538463,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30055",
+      "title": "McCone, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30057",
+      "title": "Madison, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.4974358974358977,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30059",
+      "title": "Meagher, MT",
+      "scores": {
+        "Pre-primary enrollment": 2.6256410256410256,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30061",
+      "title": "Mineral, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.153846153846154,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30063",
+      "title": "Missoula, MT",
+      "scores": {
+        "Pre-primary enrollment": 2.0615384615384618,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30065",
+      "title": "Musselshell, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.5384615384615385,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30067",
+      "title": "Park, MT",
+      "scores": {
+        "Pre-primary enrollment": 2.0564102564102567,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30069",
+      "title": "Petroleum, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.16410256410256407,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30071",
+      "title": "Phillips, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.241025641025641,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30073",
+      "title": "Pondera, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.6974358974358976,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30075",
+      "title": "Powder River, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.9641025641025642,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30077",
+      "title": "Powell, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30079",
+      "title": "Prairie, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30081",
+      "title": "Ravalli, MT",
+      "scores": {
+        "Pre-primary enrollment": 2.364102564102564,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30083",
+      "title": "Richland, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.9333333333333335,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30085",
+      "title": "Roosevelt, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.2615384615384615,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30087",
+      "title": "Rosebud, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.676923076923077,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30089",
+      "title": "Sanders, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.1025641025641026,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30091",
+      "title": "Sheridan, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.09743589743589737,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30093",
+      "title": "Silver Bow, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.0974358974358975,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30095",
+      "title": "Stillwater, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.8974358974358974,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30097",
+      "title": "Sweet Grass, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.8871794871794871,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30099",
+      "title": "Teton, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.4871794871794872,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30101",
+      "title": "Toole, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30103",
+      "title": "Treasure, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.6307692307692307,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30105",
+      "title": "Valley, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.9743589743589745,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30107",
+      "title": "Wheatland, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.794871794871795,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30109",
+      "title": "Wibaux, MT",
+      "scores": {
+        "Pre-primary enrollment": 0.5128205128205129,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "30111",
+      "title": "Yellowstone, MT",
+      "scores": {
+        "Pre-primary enrollment": 1.2153846153846157,
+        "Statewide state pre-K quality": 1.0
+      }
+    },
+    {
+      "id": "36001",
+      "title": "Albany, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.030769230769231,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36003",
+      "title": "Allegany, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.9692307692307691,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36005",
+      "title": "Bronx, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.0564102564102567,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36007",
+      "title": "Broome, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.753846153846154,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36009",
+      "title": "Cattaraugus, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.6307692307692307,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36011",
+      "title": "Cayuga, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.8051282051282056,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36013",
+      "title": "Chautauqua, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.594871794871795,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36015",
+      "title": "Chemung, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.712820512820513,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36017",
+      "title": "Chenango, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.184615384615385,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36019",
+      "title": "Clinton, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.1025641025641026,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36021",
+      "title": "Columbia, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.7743589743589747,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36023",
+      "title": "Cortland, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.7333333333333332,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36025",
+      "title": "Delaware, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.6871794871794874,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36027",
+      "title": "Dutchess, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.112820512820513,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36029",
+      "title": "Erie, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.8974358974358974,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36031",
+      "title": "Essex, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.01025641025641,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36033",
+      "title": "Franklin, NY",
+      "scores": {
+        "Pre-primary enrollment": 0.9743589743589745,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36035",
+      "title": "Fulton, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.6205128205128205,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36037",
+      "title": "Genesee, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.2615384615384615,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36039",
+      "title": "Greene, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.7487179487179487,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36041",
+      "title": "Hamilton, NY",
+      "scores": {
+        "Pre-primary enrollment": 0.9384615384615385,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36043",
+      "title": "Herkimer, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.3641025641025641,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36045",
+      "title": "Jefferson, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.3846153846153848,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36047",
+      "title": "Kings, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.6564102564102563,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36049",
+      "title": "Lewis, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.3128205128205128,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36051",
+      "title": "Livingston, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.9948717948717951,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36053",
+      "title": "Madison, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.4051282051282052,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36055",
+      "title": "Monroe, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.9435897435897436,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36057",
+      "title": "Montgomery, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.4461538461538463,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36059",
+      "title": "Nassau, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.4358974358974357,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36061",
+      "title": "New York, NY",
+      "scores": {
+        "Pre-primary enrollment": 3.112820512820513,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36063",
+      "title": "Niagara, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.1692307692307695,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36065",
+      "title": "Oneida, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.123076923076923,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36067",
+      "title": "Onondaga, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.5692307692307692,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36069",
+      "title": "Ontario, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.7692307692307694,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36071",
+      "title": "Orange, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.430769230769231,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36073",
+      "title": "Orleans, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.482051282051282,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36075",
+      "title": "Oswego, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.528205128205128,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36077",
+      "title": "Otsego, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.9743589743589745,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36079",
+      "title": "Putnam, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.6256410256410256,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36081",
+      "title": "Queens, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.0923076923076924,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36083",
+      "title": "Rensselaer, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.8000000000000003,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36085",
+      "title": "Richmond, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.1076923076923078,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36087",
+      "title": "Rockland, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.851282051282051,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36089",
+      "title": "St Lawrence, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.4051282051282052,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36091",
+      "title": "Saratoga, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.1333333333333333,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36093",
+      "title": "Schenectady, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.6512820512820514,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36095",
+      "title": "Schoharie, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.7384615384615385,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36097",
+      "title": "Schuyler, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.81025641025641,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36099",
+      "title": "Seneca, NY",
+      "scores": {
+        "Pre-primary enrollment": 0.841025641025641,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36101",
+      "title": "Steuben, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.3487179487179488,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36103",
+      "title": "Suffolk, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.246153846153846,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36105",
+      "title": "Sullivan, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.6923076923076923,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36107",
+      "title": "Tioga, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.6307692307692307,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36109",
+      "title": "Tompkins, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.466666666666667,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36111",
+      "title": "Ulster, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.4564102564102563,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36113",
+      "title": "Warren, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.4461538461538463,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36115",
+      "title": "Washington, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.7487179487179487,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36117",
+      "title": "Wayne, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.307692307692308,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36119",
+      "title": "Westchester, NY",
+      "scores": {
+        "Pre-primary enrollment": 2.641025641025641,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36121",
+      "title": "Wyoming, NY",
+      "scores": {
+        "Pre-primary enrollment": 1.5076923076923077,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "36123",
+      "title": "Yates, NY",
+      "scores": {
+        "Pre-primary enrollment": 0.9948717948717949,
+        "Statewide state pre-K quality": 1.1666666666666667
+      }
+    },
+    {
+      "id": "40001",
+      "title": "Adair, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.082051282051282,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40003",
+      "title": "Alfalfa, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.153846153846154,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40005",
+      "title": "Atoka, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.9128205128205127,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40007",
+      "title": "Beaver, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.764102564102564,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40009",
+      "title": "Beckham, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.9948717948717951,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40011",
+      "title": "Blaine, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.1076923076923078,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40013",
+      "title": "Bryan, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.5333333333333332,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40015",
+      "title": "Caddo, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.18974358974359,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40017",
+      "title": "Canadian, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.38974358974359,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40019",
+      "title": "Carter, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.5076923076923077,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40021",
+      "title": "Cherokee, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.517948717948718,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40023",
+      "title": "Choctaw, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.7333333333333332,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40025",
+      "title": "Cimarron, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.866666666666667,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40027",
+      "title": "Cleveland, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.1948717948717948,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40029",
+      "title": "Coal, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.0923076923076924,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40031",
+      "title": "Comanche, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.5435897435897437,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40033",
+      "title": "Cotton, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.2564102564102564,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40035",
+      "title": "Craig, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.476923076923077,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40037",
+      "title": "Creek, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.1948717948717948,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40039",
+      "title": "Custer, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.5076923076923077,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40041",
+      "title": "Delaware, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4666666666666668,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40043",
+      "title": "Dewey, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.0717948717948718,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40045",
+      "title": "Ellis, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.7692307692307693,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40047",
+      "title": "Garfield, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.0974358974358975,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40049",
+      "title": "Garvin, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.9025641025641028,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40051",
+      "title": "Grady, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.9128205128205127,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40053",
+      "title": "Grant, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.5384615384615385,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40055",
+      "title": "Greer, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.1333333333333333,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40057",
+      "title": "Harmon, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.353846153846154,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40059",
+      "title": "Harper, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4871794871794872,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40061",
+      "title": "Haskell, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.1641025641025644,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40063",
+      "title": "Hughes, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.605128205128205,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40065",
+      "title": "Jackson, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.5743589743589745,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40067",
+      "title": "Jefferson, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4564102564102563,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40069",
+      "title": "Johnston, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.353846153846154,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40071",
+      "title": "Kay, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4358974358974361,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40073",
+      "title": "Kingfisher, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.2256410256410257,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40075",
+      "title": "Kiowa, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.158974358974359,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40077",
+      "title": "Latimer, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.764102564102564,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40079",
+      "title": "Le Flore, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.7794871794871796,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40081",
+      "title": "Lincoln, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.0,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40083",
+      "title": "Logan, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.605128205128205,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40085",
+      "title": "Love, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.8307692307692311,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40087",
+      "title": "McClain, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.7743589743589747,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40089",
+      "title": "McCurtain, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.0974358974358975,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40091",
+      "title": "McIntosh, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.9794871794871796,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40093",
+      "title": "Major, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.35384615384615375,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40095",
+      "title": "Marshall, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.7743589743589747,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40097",
+      "title": "Mayes, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.394871794871795,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40099",
+      "title": "Murray, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.2,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40101",
+      "title": "Muskogee, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.5230769230769234,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40103",
+      "title": "Noble, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.8512820512820514,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40105",
+      "title": "Nowata, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.3794871794871795,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40107",
+      "title": "Okfuskee, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.235897435897436,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40109",
+      "title": "Oklahoma, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.3333333333333335,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40111",
+      "title": "Okmulgee, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.0974358974358975,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40113",
+      "title": "Osage, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.6256410256410259,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40115",
+      "title": "Ottawa, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4461538461538463,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40117",
+      "title": "Pawnee, OK",
+      "scores": {
+        "Pre-primary enrollment": 2.0923076923076924,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40119",
+      "title": "Payne, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.2461538461538462,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40121",
+      "title": "Pittsburg, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.6102564102564103,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40123",
+      "title": "Pontotoc, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.9897435897435898,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40125",
+      "title": "Pottawatomie, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4461538461538463,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40127",
+      "title": "Pushmataha, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4461538461538463,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40129",
+      "title": "Roger Mills, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.9025641025641027,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40131",
+      "title": "Rogers, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.6256410256410259,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40133",
+      "title": "Seminole, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4102564102564104,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40135",
+      "title": "Sequoyah, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.5025641025641023,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40137",
+      "title": "Stephens, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.7128205128205127,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40139",
+      "title": "Texas, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.5384615384615385,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40141",
+      "title": "Tillman, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.682051282051282,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40143",
+      "title": "Tulsa, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.6871794871794874,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40145",
+      "title": "Wagoner, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4666666666666668,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40147",
+      "title": "Washington, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.0153846153846153,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40149",
+      "title": "Washita, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.2820512820512821,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40151",
+      "title": "Woods, OK",
+      "scores": {
+        "Pre-primary enrollment": 0.9179487179487178,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "40153",
+      "title": "Woodward, OK",
+      "scores": {
+        "Pre-primary enrollment": 1.4769230769230768,
+        "Statewide state pre-K quality": 1.5
+      }
+    },
+    {
+      "id": "48001",
+      "title": "Anderson, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.9025641025641028,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48003",
+      "title": "Andrews, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2666666666666668,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48005",
+      "title": "Angelina, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3076923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48007",
+      "title": "Aransas, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.2974358974358973,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48009",
+      "title": "Archer, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.5692307692307692,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48011",
+      "title": "Armstrong, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8307692307692311,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48013",
+      "title": "Atascosa, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.035897435897436,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48015",
+      "title": "Austin, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.4871794871794872,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48017",
+      "title": "Bailey, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48019",
+      "title": "Bandera, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.38974358974358986,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48021",
+      "title": "Bastrop, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.9333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48023",
+      "title": "Baylor, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.2923076923076926,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48025",
+      "title": "Bee, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.702564102564103,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48027",
+      "title": "Bell, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.18974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48029",
+      "title": "Bexar, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48031",
+      "title": "Blanco, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.153846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48033",
+      "title": "Borden, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48035",
+      "title": "Bosque, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.9692307692307691,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48037",
+      "title": "Bowie, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.517948717948718,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48039",
+      "title": "Brazoria, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.482051282051282,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48041",
+      "title": "Brazos, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3282051282051281,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48043",
+      "title": "Brewster, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.41025641025641,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48045",
+      "title": "Briscoe, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.6512820512820516,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48047",
+      "title": "Brooks, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.58974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48049",
+      "title": "Brown, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8564102564102565,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48051",
+      "title": "Burleson, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6153846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48053",
+      "title": "Burnet, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7230769230769232,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48055",
+      "title": "Caldwell, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.23589743589743598,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48057",
+      "title": "Calhoun, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48059",
+      "title": "Callahan, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.764102564102564,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48061",
+      "title": "Cameron, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48063",
+      "title": "Camp, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.7230769230769232,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48065",
+      "title": "Carson, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.5333333333333333,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48067",
+      "title": "Cass, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0564102564102564,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48069",
+      "title": "Castro, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7384615384615384,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48071",
+      "title": "Chambers, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.876923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48073",
+      "title": "Cherokee, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2717948717948717,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48075",
+      "title": "Childress, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4974358974358977,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48077",
+      "title": "Clay, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3384615384615386,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48079",
+      "title": "Cochran, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6358974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48081",
+      "title": "Coke, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48083",
+      "title": "Coleman, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.671794871794872,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48085",
+      "title": "Collin, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.112820512820513,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48087",
+      "title": "Collingsworth, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3282051282051281,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48089",
+      "title": "Colorado, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.528205128205128,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48091",
+      "title": "Comal, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8820512820512821,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48093",
+      "title": "Comanche, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6461538461538462,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48095",
+      "title": "Concho, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48097",
+      "title": "Cooke, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8358974358974356,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48099",
+      "title": "Coryell, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.81025641025641,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48101",
+      "title": "Cottle, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.6307692307692307,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48103",
+      "title": "Crane, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0461538461538462,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48105",
+      "title": "Crockett, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48107",
+      "title": "Crosby, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.2974358974358975,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48109",
+      "title": "Culberson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.5692307692307692,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48111",
+      "title": "Dallam, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.21025641025641034,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48113",
+      "title": "Dallas, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48115",
+      "title": "Dawson, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.158974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48117",
+      "title": "Deaf Smith, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.9794871794871798,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48119",
+      "title": "Delta, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.8102564102564105,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48121",
+      "title": "Denton, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8615384615384616,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48123",
+      "title": "De Witt, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8871794871794871,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48125",
+      "title": "Dickens, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.6974358974358976,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48127",
+      "title": "Dimmit, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.9794871794871798,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48129",
+      "title": "Donley, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.08717948717948715,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48131",
+      "title": "Duval, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.158974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48133",
+      "title": "Eastland, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0512820512820513,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48135",
+      "title": "Ector, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4666666666666668,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48137",
+      "title": "Edwards, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2410256410256413,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48139",
+      "title": "Ellis, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.005128205128205,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48141",
+      "title": "El Paso, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2820512820512822,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48143",
+      "title": "Erath, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7846153846153846,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48145",
+      "title": "Falls, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.4512820512820514,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48147",
+      "title": "Fannin, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6666666666666667,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48149",
+      "title": "Fayette, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0923076923076922,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48151",
+      "title": "Fisher, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.7230769230769232,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48153",
+      "title": "Floyd, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.1897435897435897,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48155",
+      "title": "Foard, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48157",
+      "title": "Fort Bend, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48159",
+      "title": "Franklin, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.6,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48161",
+      "title": "Freestone, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.3076923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48163",
+      "title": "Frio, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8564102564102565,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48165",
+      "title": "Gaines, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.3692307692307692,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48167",
+      "title": "Galveston, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8205128205128205,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48169",
+      "title": "Garza, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.917948717948718,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48171",
+      "title": "Gillespie, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.123076923076923,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48173",
+      "title": "Glasscock, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48175",
+      "title": "Goliad, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7282051282051282,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48177",
+      "title": "Gonzales, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4205128205128208,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48179",
+      "title": "Gray, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.276923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48181",
+      "title": "Grayson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0717948717948718,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48183",
+      "title": "Gregg, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.169230769230769,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48185",
+      "title": "Grimes, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.5025641025641023,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48187",
+      "title": "Guadalupe, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3487179487179488,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48189",
+      "title": "Hale, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.076923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48191",
+      "title": "Hall, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.317948717948718,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48193",
+      "title": "Hamilton, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3743589743589744,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48195",
+      "title": "Hansford, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.38974358974358986,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48197",
+      "title": "Hardeman, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.0871794871794873,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48199",
+      "title": "Hardin, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7487179487179488,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48201",
+      "title": "Harris, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4102564102564104,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48203",
+      "title": "Harrison, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1641025641025644,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48205",
+      "title": "Hartley, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8358974358974356,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48207",
+      "title": "Haskell, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.0615384615384618,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48209",
+      "title": "Hays, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.123076923076923,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48211",
+      "title": "Hemphill, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48213",
+      "title": "Henderson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2974358974358975,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48215",
+      "title": "Hidalgo, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1384615384615386,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48217",
+      "title": "Hill, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6205128205128205,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48219",
+      "title": "Hockley, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1025641025641026,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48221",
+      "title": "Hood, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.9333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48223",
+      "title": "Hopkins, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3025641025641026,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48225",
+      "title": "Houston, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48227",
+      "title": "Howard, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8615384615384616,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48229",
+      "title": "Hudspeth, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48231",
+      "title": "Hunt, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2923076923076924,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48233",
+      "title": "Hutchinson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.005128205128205,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48235",
+      "title": "Irion, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48237",
+      "title": "Jack, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6307692307692307,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48239",
+      "title": "Jackson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8666666666666665,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48241",
+      "title": "Jasper, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1025641025641026,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48243",
+      "title": "Jeff Davis, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48245",
+      "title": "Jefferson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.517948717948718,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48247",
+      "title": "Jim Hogg, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4666666666666668,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48249",
+      "title": "Jim Wells, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.528205128205128,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48251",
+      "title": "Johnson, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8615384615384616,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48253",
+      "title": "Jones, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.42564102564102574,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48255",
+      "title": "Karnes, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.153846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48257",
+      "title": "Kaufman, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0615384615384618,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48259",
+      "title": "Kendall, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48261",
+      "title": "Kenedy, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48263",
+      "title": "Kent, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48265",
+      "title": "Kerr, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.3282051282051284,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48267",
+      "title": "Kimble, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1025641025641026,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48269",
+      "title": "King, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48271",
+      "title": "Kinney, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.794871794871795,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48273",
+      "title": "Kleberg, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8923076923076925,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48275",
+      "title": "Knox, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4871794871794872,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48277",
+      "title": "Lamar, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6051282051282052,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48279",
+      "title": "Lamb, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6153846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48281",
+      "title": "Lampasas, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4102564102564104,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48283",
+      "title": "La Salle, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.8102564102564105,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48285",
+      "title": "Lavaca, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.317948717948718,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48287",
+      "title": "Lee, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.3487179487179484,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48289",
+      "title": "Leon, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.676923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48291",
+      "title": "Liberty, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.528205128205128,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48293",
+      "title": "Limestone, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6051282051282052,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48295",
+      "title": "Lipscomb, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.3435897435897436,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48297",
+      "title": "Live Oak, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.46666666666666673,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48299",
+      "title": "Llano, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6666666666666667,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48301",
+      "title": "Loving, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48303",
+      "title": "Lubbock, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.5538461538461537,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48305",
+      "title": "Lynn, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.81025641025641,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48307",
+      "title": "McCulloch, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.353846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48309",
+      "title": "McLennan, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2410256410256413,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48311",
+      "title": "McMullen, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4102564102564104,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48313",
+      "title": "Madison, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2871794871794873,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48315",
+      "title": "Marion, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48317",
+      "title": "Martin, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7897435897435897,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48319",
+      "title": "Mason, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48321",
+      "title": "Matagorda, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48323",
+      "title": "Maverick, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.9743589743589745,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48325",
+      "title": "Medina, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.358974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48327",
+      "title": "Menard, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48329",
+      "title": "Midland, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0205128205128204,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48331",
+      "title": "Milam, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.31282051282051293,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48333",
+      "title": "Mills, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.246153846153846,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48335",
+      "title": "Mitchell, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.4974358974358974,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48337",
+      "title": "Montague, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8153846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48339",
+      "title": "Montgomery, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.517948717948718,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48341",
+      "title": "Moore, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48343",
+      "title": "Morris, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.764102564102564,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48345",
+      "title": "Motley, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48347",
+      "title": "Nacogdoches, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2102564102564104,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48349",
+      "title": "Navarro, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.31794871794871793,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48351",
+      "title": "Newton, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.1384615384615384,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48353",
+      "title": "Nolan, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.476923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48355",
+      "title": "Nueces, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2153846153846157,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48357",
+      "title": "Ochiltree, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4205128205128208,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48359",
+      "title": "Oldham, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48361",
+      "title": "Orange, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6871794871794874,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48363",
+      "title": "Palo Pinto, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.964102564102564,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48365",
+      "title": "Panola, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.953846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48367",
+      "title": "Parker, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3025641025641026,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48369",
+      "title": "Parmer, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.076923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48371",
+      "title": "Pecos, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8615384615384616,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48373",
+      "title": "Polk, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0256410256410258,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48375",
+      "title": "Potter, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4923076923076926,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48377",
+      "title": "Presidio, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.09230769230769235,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48379",
+      "title": "Rains, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6307692307692307,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48381",
+      "title": "Randall, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2461538461538462,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48383",
+      "title": "Reagan, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.5846153846153845,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48385",
+      "title": "Real, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.158974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48387",
+      "title": "Red River, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48389",
+      "title": "Reeves, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.16410256410256407,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48391",
+      "title": "Refugio, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8307692307692308,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48393",
+      "title": "Roberts, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.02051282051282053,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48395",
+      "title": "Robertson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.841025641025641,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48397",
+      "title": "Rockwall, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4461538461538463,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48399",
+      "title": "Runnels, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7487179487179488,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48401",
+      "title": "Rusk, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3384615384615386,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48403",
+      "title": "Sabine, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.4205128205128205,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48405",
+      "title": "San Augustine, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.5025641025641023,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48407",
+      "title": "San Jacinto, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7384615384615384,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48409",
+      "title": "San Patricio, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1179487179487178,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48411",
+      "title": "San Saba, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.394871794871795,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48413",
+      "title": "Schleicher, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.2205128205128206,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48415",
+      "title": "Scurry, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8974358974358974,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48417",
+      "title": "Shackelford, TX",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48419",
+      "title": "Shelby, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8871794871794871,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48421",
+      "title": "Sherman, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8871794871794871,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48423",
+      "title": "Smith, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2923076923076924,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48425",
+      "title": "Somervell, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.6717948717948716,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48427",
+      "title": "Starr, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4256410256410255,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48429",
+      "title": "Stephens, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8512820512820515,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48431",
+      "title": "Sterling, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48433",
+      "title": "Stonewall, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6666666666666667,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48435",
+      "title": "Sutton, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.5282051282051282,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48437",
+      "title": "Swisher, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3076923076923077,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48439",
+      "title": "Tarrant, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3641025641025641,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48441",
+      "title": "Taylor, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4769230769230768,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48443",
+      "title": "Terrell, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48445",
+      "title": "Terry, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.08717948717948715,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48447",
+      "title": "Throckmorton, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.2769230769230768,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48449",
+      "title": "Titus, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8153846153846154,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48451",
+      "title": "Tom Green, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.235897435897436,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48453",
+      "title": "Travis, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8820512820512822,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48455",
+      "title": "Trinity, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.5897435897435898,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48457",
+      "title": "Tyler, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.1435897435897435,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48459",
+      "title": "Upshur, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6615384615384616,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48461",
+      "title": "Upton, TX",
+      "scores": {
+        "Pre-primary enrollment": 2.9230769230769234,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48463",
+      "title": "Uvalde, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.9743589743589745,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48465",
+      "title": "Val Verde, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.7897435897435897,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48467",
+      "title": "Van Zandt, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8102564102564103,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48469",
+      "title": "Victoria, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0923076923076922,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48471",
+      "title": "Walker, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0153846153846153,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48473",
+      "title": "Waller, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.8615384615384616,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48475",
+      "title": "Ward, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0307692307692309,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48477",
+      "title": "Washington, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.3692307692307695,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48479",
+      "title": "Webb, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.6358974358974359,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48481",
+      "title": "Wharton, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.4205128205128205,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48483",
+      "title": "Wheeler, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.2564102564102564,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48485",
+      "title": "Wichita, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.7230769230769232,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48487",
+      "title": "Wilbarger, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.7384615384615385,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48489",
+      "title": "Willacy, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.123076923076923,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48491",
+      "title": "Williamson, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.9435897435897436,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48493",
+      "title": "Wilson, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.9589743589743592,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48495",
+      "title": "Winkler, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.5897435897435898,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48497",
+      "title": "Wise, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.0461538461538462,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48499",
+      "title": "Wood, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.6461538461538462,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48501",
+      "title": "Yoakum, TX",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48503",
+      "title": "Young, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.4717948717948721,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48505",
+      "title": "Zapata, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.9538461538461538,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "48507",
+      "title": "Zavala, TX",
+      "scores": {
+        "Pre-primary enrollment": 1.8205128205128205,
+        "Statewide state pre-K quality": 0.6666666666666667
+      }
+    },
+    {
+      "id": "6001",
+      "title": "Alameda, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.123076923076923,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6003",
+      "title": "Alpine, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.907692307692308,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6005",
+      "title": "Amador, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.6153846153846154,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6007",
+      "title": "Butte, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.8153846153846154,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6009",
+      "title": "Calaveras, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.2153846153846157,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6011",
+      "title": "Colusa, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.6307692307692307,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6013",
+      "title": "Contra Costa, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.0051282051282056,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6015",
+      "title": "Del Norte, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.2307692307692308,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6017",
+      "title": "El Dorado, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.8512820512820514,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6019",
+      "title": "Fresno, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.2820512820512822,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6021",
+      "title": "Glenn, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.43589743589743596,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6023",
+      "title": "Humboldt, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.174358974358974,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6025",
+      "title": "Imperial, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.8205128205128205,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6027",
+      "title": "Inyo, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.5641025641025643,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6029",
+      "title": "Kern, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.9128205128205127,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6031",
+      "title": "Kings, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.0564102564102564,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6033",
+      "title": "Lake, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.4717948717948721,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6035",
+      "title": "Lassen, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.671794871794872,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6037",
+      "title": "Los Angeles, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.0256410256410255,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6039",
+      "title": "Madera, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.123076923076923,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6041",
+      "title": "Marin, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.77948717948718,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6043",
+      "title": "Mariposa, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.7948717948717949,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6045",
+      "title": "Mendocino, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.548717948717949,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6047",
+      "title": "Merced, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.5435897435897437,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6049",
+      "title": "Modoc, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.4615384615384617,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6051",
+      "title": "Mono, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.0564102564102567,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6053",
+      "title": "Monterey, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.0923076923076922,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6055",
+      "title": "Napa, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.6205128205128205,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6057",
+      "title": "Nevada, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.076923076923077,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6059",
+      "title": "Orange, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.9384615384615382,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6061",
+      "title": "Placer, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.0512820512820515,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6063",
+      "title": "Plumas, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.4871794871794872,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6065",
+      "title": "Riverside, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.0923076923076922,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6067",
+      "title": "Sacramento, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.5128205128205128,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6069",
+      "title": "San Benito, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.123076923076923,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6071",
+      "title": "San Bernardino, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.1948717948717948,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6073",
+      "title": "San Diego, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.8666666666666665,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6075",
+      "title": "San Francisco, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.964102564102564,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6077",
+      "title": "San Joaquin, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.394871794871795,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6079",
+      "title": "San Luis Obispo, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.605128205128205,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6081",
+      "title": "San Mateo, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.594871794871795,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6083",
+      "title": "Santa Barbara, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.5128205128205128,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6085",
+      "title": "Santa Clara, CA",
+      "scores": {
+        "Pre-primary enrollment": 2.2205128205128206,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6087",
+      "title": "Santa Cruz, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.3333333333333335,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6089",
+      "title": "Shasta, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.7794871794871796,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6091",
+      "title": "Sierra, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.29230769230769227,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6093",
+      "title": "Siskiyou, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.9948717948717949,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6095",
+      "title": "Solano, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.5538461538461537,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6097",
+      "title": "Sonoma, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.7076923076923076,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6099",
+      "title": "Stanislaus, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.3128205128205128,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6101",
+      "title": "Sutter, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.5743589743589745,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6103",
+      "title": "Tehama, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.8153846153846154,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6105",
+      "title": "Trinity, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.1384615384615386,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6107",
+      "title": "Tulare, CA",
+      "scores": {
+        "Pre-primary enrollment": 0.8615384615384616,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6109",
+      "title": "Tuolumne, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.5538461538461537,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6111",
+      "title": "Ventura, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.8923076923076925,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6113",
+      "title": "Yolo, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.8666666666666665,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "6115",
+      "title": "Yuba, CA",
+      "scores": {
+        "Pre-primary enrollment": 1.3846153846153848,
+        "Statewide state pre-K quality": 0.7166666666666667
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Adams, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.4205128205128208,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Alamosa, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.0820512820512822,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Arapahoe, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.923076923076923,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Archuleta, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.9897435897435897,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Baca, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.2820512820512822,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Bent, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.2205128205128206,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Boulder, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.851282051282051,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Broomfield, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.712820512820513,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Chaffee, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.9743589743589745,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Cheyenne, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.0205128205128204,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Clear Creek, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.358974358974359,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Conejos, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.9794871794871796,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Costilla, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.1333333333333335,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Crowley, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Custer, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.153846153846154,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Delta, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.3128205128205128,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Denver, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.1076923076923078,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Dolores, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.02051282051282053,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Douglas, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.317948717948718,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Eagle, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.9692307692307691,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Elbert, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.4974358974358977,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8041",
+      "title": "El Paso, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.5230769230769234,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Fremont, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.076923076923077,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Garfield, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.702564102564103,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Gilpin, CO",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Grand, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.6871794871794872,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Gunnison, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.117948717948718,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Hinsdale, CO",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Huerfano, CO",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Jackson, CO",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Jefferson, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.3692307692307697,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Kiowa, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.3794871794871795,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Kit Carson, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.1794871794871795,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Lake, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8067",
+      "title": "La Plata, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.38974358974359,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Larimer, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.0051282051282056,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Las Animas, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.112820512820513,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Lincoln, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.4615384615384617,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Logan, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.6256410256410256,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Mesa, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.041025641025641,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Mineral, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.0,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Moffat, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.666666666666667,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Montezuma, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.841025641025641,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Montrose, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.7487179487179487,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Morgan, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.2923076923076924,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Otero, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.2153846153846157,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Ouray, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.5743589743589745,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Park, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.8820512820512821,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Phillips, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.0923076923076924,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Pitkin, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.6512820512820514,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Prowers, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.7846153846153845,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Pueblo, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.4615384615384617,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Rio Blanco, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.4051282051282052,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Rio Grande, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.594871794871795,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Routt, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.764102564102564,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Saguache, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.2717948717948717,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8111",
+      "title": "San Juan, CO",
+      "scores": {
+        "Pre-primary enrollment": 3.3333333333333335,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8113",
+      "title": "San Miguel, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.77948717948718,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Sedgwick, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.4461538461538463,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Summit, CO",
+      "scores": {
+        "Pre-primary enrollment": 2.6,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Teller, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.6871794871794872,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Washington, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.18974358974359,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Weld, CO",
+      "scores": {
+        "Pre-primary enrollment": 1.528205128205128,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    },
+    {
+      "id": "8125",
+      "title": "Yuma, CO",
+      "scores": {
+        "Pre-primary enrollment": 0.6205128205128206,
+        "Statewide state pre-K quality": 0.8333333333333334
+      }
+    }
+  ],
+  "derivatives": {
+    "Pre-Primary Education": [
+      "Pre-primary enrollment",
+      "Statewide state pre-K quality"
+    ]
+  },
+  "weightingOptions": {
+    "Pre-primary enrollment": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    },
+    "Statewide state pre-K quality": {
+      "default": 2,
+      "options": [
+        {
+          "label": "0x",
+          "multiplier": 0
+        },
+        {
+          "label": "0.5x",
+          "multiplier": 0.5
+        },
+        {
+          "label": "USPI",
+          "multiplier": 1
+        },
+        {
+          "label": "1.5x",
+          "multiplier": 1.5
+        },
+        {
+          "label": "2x",
+          "multiplier": 2
+        }
+      ]
+    }
+  }
+}
