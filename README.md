@@ -1,1 +1,1 @@
-🗃️ Archive of www.usprosperity.net
+🗃️ Archive of https://www.usprosperity.net
